@@ -1408,3 +1408,6 @@
 {"t": "2026-11-01 21:17:06 WIB", "mint": "6SsWu1LfJtHq7XikR3o1qWobHMxkAWEupXp7qCqKpump", "sym": "BOUNCER", "reason": "vol1h 27361<40k"}
 {"t": "2026-11-01 21:17:08 WIB", "mint": "sJvKD7E7LaYVjKyT7HQQ2ZZGXTsnnZLKUUGAwjopump", "sym": "TRUMP", "reason": "vol1h 11789<40k"}
 {"t": "2026-11-01 21:17:55 WIB", "mint": "64fpkSXSL289f139vzxWFArG2sjVNMLT79wDh8Udpump", "sym": "LORE", "reason": "liq 0<20k"}
+{"t": "2026-11-01 21:18:41 WIB", "mint": "8eG55WcQc231JshYDqf2dvFBXtUD1YARJcqnvPB6pump", "sym": "SAFU", "reason": "liq 5236<20k"}
+{"t": "2026-11-01 21:19:28 WIB", "mint": "GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump", "sym": "AAPLCAT", "reason": "score 0.519<0.6"}
+{"t": "2026-11-01 21:21:02 WIB", "mint": "AJ6eC6ZY1DMkeYoM7iGXJBGr3EVJm4YZWxWHk74Vpump", "sym": "PR", "reason": "liq 0<20k"}
