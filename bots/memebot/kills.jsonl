@@ -1853,3 +1853,7 @@
 {"t": "2026-11-02 02:23:39 WIB", "mint": "BsNSoVpTwKMpY7qh4mYg1eQfsZ6staLjn9WP3yREY68N", "sym": "COVENA", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 02:24:25 WIB", "mint": "Dh99h2wi8U6RiP56b7762djuXrT84Mm7znrFPNvapump", "sym": "JEPA", "reason": "vol1h 37<40k"}
 {"t": "2026-11-02 02:24:27 WIB", "mint": "2T9WZjVC6L3BvusUtjKDT6HcZeEYgU9T5xhfJQxFpump", "sym": "AIC", "reason": "vol1h 856<40k"}
+{"t": "2026-11-02 02:25:14 WIB", "mint": "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump", "sym": "Peekhole", "reason": "vol1h 8041<40k"}
+{"t": "2026-11-02 02:25:15 WIB", "mint": "6U1XtoyBMyBDygzYHDFQ3xBBSTfrwRtbfPEWH7CFLong", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-02 02:25:17 WIB", "mint": "HNxyGpz8AkLqmfBBKMzmugkPE5Bahj2bGPPTNgWGpump", "sym": "AI", "reason": "liq 16172<20k"}
+{"t": "2026-11-02 02:27:34 WIB", "mint": "A5dNsPtfybYeUgKxw4pgKEHZSLLi1Fn9Td58oY8Wpump", "sym": "MOVEMBER", "reason": "vol1h 67<40k"}
