@@ -1473,3 +1473,7 @@
 {"t": "2026-11-01 22:01:51 WIB", "mint": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win", "sym": "1WIN", "reason": "vol1h 31256<40k"}
 {"t": "2026-11-01 22:02:38 WIB", "mint": "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump", "sym": "DogBoy", "reason": "vol1h 212<40k"}
 {"t": "2026-11-01 22:03:25 WIB", "mint": "JCPAaUXNnHjFWFG69HcdVh4QNWS1Ec5B1DYwZgsqpump", "sym": "GTA1s", "reason": "liq 5368<20k"}
+{"t": "2026-11-01 22:04:12 WIB", "mint": "9SZnPDqxCjdgPKRosc1qzxTfrR9n7ZVE39SsbCRmpump", "sym": "bob", "reason": "liq 0<20k"}
+{"t": "2026-11-01 22:04:13 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 6887<40k"}
+{"t": "2026-11-01 22:04:15 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 4424<40k"}
+{"t": "2026-11-01 22:05:47 WIB", "mint": "Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump", "sym": "REGRET", "reason": "vol1h 27<40k"}
