@@ -1,0 +1,15 @@
+name: paper-bots
+on:
+  schedule: [{cron: '0 */6 * * *'}]
+  workflow_dispatch:
+concurrency: {group: paper-bots, cancel-in-progress: false}
+permissions: {contents: write, actions: write, pages: write}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - name: run bots (paper only, no keys)
+        env: {GH_TOKEN: '${{ github.token }}'}
+        run: bash bots/ci.sh
