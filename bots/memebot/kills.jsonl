@@ -1289,3 +1289,6 @@
 {"t": "2026-11-01 19:59:31 WIB", "mint": "GVDEq3pVqtYDanikTUmeVsee48KChRnLxSNukHVipump", "sym": "Fappy", "reason": "vol1h 0<40k"}
 {"t": "2026-11-01 19:59:33 WIB", "mint": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win", "sym": "1WIN", "reason": "top10 88.6%>25"}
 {"t": "2026-11-01 20:00:20 WIB", "mint": "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump", "sym": "DogBoy", "reason": "vol1h 4492<40k"}
+{"t": "2026-11-01 20:01:51 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 7938<40k"}
+{"t": "2026-11-01 20:01:53 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 1853<40k"}
+{"t": "2026-11-01 20:02:40 WIB", "mint": "6v3MRV3EZjSVDrwKAVrqvLafFmpzAf9vSoVb1dTfpump", "sym": "MARS", "reason": "liq 0<20k"}
