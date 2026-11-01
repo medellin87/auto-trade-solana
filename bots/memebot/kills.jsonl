@@ -363,3 +363,5 @@
 {"t": "2026-11-01 09:33:21 WIB", "mint": "JBPnPC4WZ4tUrGrmtXXtwAyPgR5kqLbN6mXCbHdcpump", "sym": "BONKO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-01 09:33:22 WIB", "mint": "6Y9TFE8ygQBe3dZZicd4RCSCyY6a6nKFhe2zwogrpump", "sym": "BONKO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-01 09:35:40 WIB", "mint": "8s11PkgQt4ZzdZ7oo84hK5t9HG1EvdgAjcg4W7Lpump", "sym": "BLOB", "reason": "score 0.481<0.6"}
+{"t": "2026-11-01 09:37:57 WIB", "mint": "EJtBCwYqNX7kQEPU38T7bxcfwjVFaXuPBYZY7Gwtpump", "sym": "IF", "reason": "liq 11016<20k"}
+{"t": "2026-11-01 09:40:14 WIB", "mint": "DNxivTUF4ycZUzUxK6J3w7u5Fq3pSYvrXCTV5Vwwpump", "sym": "SS", "reason": "LP locked 87%<90"}
