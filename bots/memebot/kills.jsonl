@@ -456,3 +456,5 @@
 {"t": "2026-11-01 10:38:43 WIB", "mint": "FSdaAXk12mqAR15fbfGxRE2v6SW3oeobb7LdaRf4DSYA", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-01 10:38:45 WIB", "mint": "EJtBCwYqNX7kQEPU38T7bxcfwjVFaXuPBYZY7Gwtpump", "sym": "IF", "reason": "vol1h 22893<40k"}
 {"t": "2026-11-01 10:40:19 WIB", "mint": "DNxivTUF4ycZUzUxK6J3w7u5Fq3pSYvrXCTV5Vwwpump", "sym": "SS", "reason": "liq 2650<20k"}
+{"t": "2026-11-01 10:42:38 WIB", "mint": "5U7cD5cXVMVFFhYVRhcm1Ruerg6RzVnUQkGcraZepump", "sym": "NUT", "reason": "liq 13189<20k"}
+{"t": "2026-11-01 10:42:40 WIB", "mint": "GBrgLVkjZ2hx32pGkZ4so31gks97cAKQiFR7fuyBpump", "sym": "Reaper", "reason": "vol1h 337<40k"}
