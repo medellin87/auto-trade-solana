@@ -1992,3 +1992,5 @@
 {"t": "2026-11-02 03:52:38 WIB", "mint": "HCftE2X71Aoqqo9sxGU3tFeZj8ywZn43LG2d9Yk7pump", "sym": "MOLE", "reason": "vol1h 20098<40k"}
 {"t": "2026-11-02 03:53:24 WIB", "mint": "7esyx6mVLo4VY1detFLPPowBV5oYxyV3TY2sJEXqpump", "sym": "NNN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 03:53:26 WIB", "mint": "9ULQLuhMkBwhUejwvuNtyCnAtwEjFt1o6ubjbEqLpump", "sym": "OP", "reason": "liq 0<20k"}
+{"t": "2026-11-02 03:57:14 WIB", "mint": "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump", "sym": "Peekhole", "reason": "vol1h 7101<40k"}
+{"t": "2026-11-02 03:57:15 WIB", "mint": "6pGyajBJsvKWLvgDZPNebH5uZcHXc7hVQAJ3y1uuVXNd", "sym": "uni", "reason": "liq 16356<20k"}
