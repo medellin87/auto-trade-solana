@@ -1451,3 +1451,7 @@
 {"t": "2026-11-01 21:47:43 WIB", "mint": "6SsWu1LfJtHq7XikR3o1qWobHMxkAWEupXp7qCqKpump", "sym": "BOUNCER", "reason": "liq 0<20k"}
 {"t": "2026-11-01 21:47:44 WIB", "mint": "sJvKD7E7LaYVjKyT7HQQ2ZZGXTsnnZLKUUGAwjopump", "sym": "TRUMP", "reason": "vol1h 12926<40k"}
 {"t": "2026-11-01 21:48:31 WIB", "mint": "64fpkSXSL289f139vzxWFArG2sjVNMLT79wDh8Udpump", "sym": "LORE", "reason": "vol1h 36144<40k"}
+{"t": "2026-11-01 21:49:18 WIB", "mint": "8eG55WcQc231JshYDqf2dvFBXtUD1YARJcqnvPB6pump", "sym": "SAFU", "reason": "vol1h 20754<40k"}
+{"t": "2026-11-01 21:50:05 WIB", "mint": "GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump", "sym": "AAPLCAT", "reason": "score 0.503<0.6"}
+{"t": "2026-11-01 21:51:37 WIB", "mint": "F4rbj1erkDbUp7ifK8gqJfs9ixDyqDTNACqAkHqQpump", "sym": "Ghost", "reason": "liq 1905<20k"}
+{"t": "2026-11-01 21:51:39 WIB", "mint": "AJ6eC6ZY1DMkeYoM7iGXJBGr3EVJm4YZWxWHk74Vpump", "sym": "PR", "reason": "liq 0<20k"}
