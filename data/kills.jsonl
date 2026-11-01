@@ -1,8 +1,3 @@
-{"t": "2026-11-01 23:45:20 WIB", "mint": "3NARhEetjJjvXKBiCDmhsiAaUJH9mKQFGgf971Rgpump", "sym": "REGRETAMINE", "reason": "vol1h 3374<40k"}
-{"t": "2026-11-01 23:46:06 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 4195<40k"}
-{"t": "2026-11-01 23:46:53 WIB", "mint": "H6YyhyjYC8RDF3QsS8gbGgbWkpHHHhrvFJEamvP9pump", "sym": "$VOTE", "reason": "vol1h 0<40k"}
-{"t": "2026-11-01 23:47:40 WIB", "mint": "3jAHcV6ZwmA3pnrR9MrWwNSbN5gDiM7rSM1RJradQ8xK", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-01 23:49:11 WIB", "mint": "EQWzDRdFt6BTnKm3KEQ7ax16mEjpuoaoy4FEhWgmpump", "sym": "Wen", "reason": "liq 7135<20k"}
 {"t": "2026-11-01 23:49:13 WIB", "mint": "7esyx6mVLo4VY1detFLPPowBV5oYxyV3TY2sJEXqpump", "sym": "NNN", "reason": "vol1h 18<40k"}
 {"t": "2026-11-01 23:51:30 WIB", "mint": "3qZ4Abv6WJRPdqSh2i7NgtafjpzcXoEb37Z2zwwwpump", "sym": "BULLIEVE", "reason": "vol1h 562<40k"}
 {"t": "2026-11-01 23:52:17 WIB", "mint": "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump", "sym": "Peekhole", "reason": "vol1h 22894<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 00:06:22 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 7346<40k"}
 {"t": "2026-11-02 00:07:09 WIB", "mint": "6qhnbvdJuWVUQ7EQpgz5GNraV7pty7cqc8MmfQTEpump", "sym": "Capri", "reason": "vol1h 24540<40k"}
 {"t": "2026-11-02 00:09:26 WIB", "mint": "HSN4fgRP1yFXMzUjHbeXLQDEeU2m1aLyFjKgncvPLwdk", "sym": "PUMPATAR", "reason": "vol1h 5347<40k"}
+{"t": "2026-11-02 00:11:43 WIB", "mint": "5cKX3tn119ayha94BD6xEZQekQUG8stwHHNTuNBppump", "sym": "Bitsan", "reason": "vol1h 92<40k"}
+{"t": "2026-11-02 00:12:29 WIB", "mint": "7k4h6e913NxWNcshaTzSm5pT2EskWK3hyRzCSDzdbonk", "sym": "Useful", "reason": "liq 10861<20k"}
+{"t": "2026-11-02 00:12:31 WIB", "mint": "DQvRuXiZWiVzKxsEtZYCVvvYoztz22WvkXtpHpeRpump", "sym": "BOUNCER", "reason": "vol1h 31713<40k"}
+{"t": "2026-11-02 00:12:33 WIB", "mint": "Cui4AwxX8Kd5EbefT1V14bxRFBYHEMfxXgtPvAgVpump", "sym": "PUMP", "reason": "vol1h 12321<40k"}
+{"t": "2026-11-02 00:12:34 WIB", "mint": "D3YBbpwUAENRYkKW7H4crp67icXazkZFb2UajoW31yoi", "sym": "MONEYBIZ", "reason": "vol1h 0<40k"}
