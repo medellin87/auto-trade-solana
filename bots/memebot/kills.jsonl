@@ -738,3 +738,10 @@
 {"t": "2026-11-01 13:45:49 WIB", "mint": "635MGwH377EQyGGwNuEEB7VAC1mGyAbXec6BTQRxpump", "sym": "Rudy", "reason": "vol1h 5300<40k"}
 {"t": "2026-11-01 13:46:36 WIB", "mint": "2dAqU3L3BhbuFQPfD2ap8xUWULxRdcuxvu8AiHrjSGNL", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-01 13:46:37 WIB", "mint": "5F5KVWSZrh9KH8UVxrbhphC47hN1kzxVKcT7S7nqvxyz", "sym": "XYZ", "reason": "vol1h 16950<40k"}
+{"t": "2026-11-01 13:49:41 WIB", "mint": "CnMPESvPAmdgZzXuYzydyXtyE1QsyN97jnjDKFtqpump", "sym": "Rudy", "reason": "vol1h 1852<40k"}
+{"t": "2026-11-01 13:50:28 WIB", "mint": "6nSM2HxvaetyDrUYjjAUKwgWGi8CGjmboLee7wcHeKN4", "sym": "ZSHIB ", "reason": "vol1h 124<40k"}
+{"t": "2026-11-01 13:51:15 WIB", "mint": "6Kk8M1wGrWxCZ2qJiSr2W52wXKW3spBUwg5yx6r9pump", "sym": "BTC", "reason": "liq 2027<20k"}
+{"t": "2026-11-01 13:51:16 WIB", "mint": "5u8mRy6L3pAxjWL9wG61fsXpTgzMDMSNKYySgKBypump", "sym": "Movember", "reason": "vol1h 59<40k"}
+{"t": "2026-11-01 13:52:03 WIB", "mint": "AQMrHQPh8wwhAYmmomm7VFHnkVhZqbLMKLmxEyBepump", "sym": "SANTA", "reason": "liq 0<20k"}
+{"t": "2026-11-01 13:52:04 WIB", "mint": "64tbhe6oprWwoaSMzNAHtZanzWGyaZhV8JLvuVQ6pump", "sym": "PACS", "reason": "vol1h 222<40k"}
+{"t": "2026-11-01 13:52:06 WIB", "mint": "CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump", "sym": "BLUE", "reason": "score 0.436<0.6"}
