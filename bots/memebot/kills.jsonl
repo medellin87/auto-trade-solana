@@ -638,3 +638,7 @@
 {"t": "2026-11-01 12:40:30 WIB", "mint": "J73efZvH6rkrJbFJdP2rqe473YJW7tyWmrNARUSzpump", "sym": "onlypump", "reason": "vol1h 12<40k"}
 {"t": "2026-11-01 12:41:17 WIB", "mint": "DNxivTUF4ycZUzUxK6J3w7u5Fq3pSYvrXCTV5Vwwpump", "sym": "SS", "reason": "vol1h 6<40k"}
 {"t": "2026-11-01 12:42:04 WIB", "mint": "A5dNsPtfybYeUgKxw4pgKEHZSLLi1Fn9Td58oY8Wpump", "sym": "MOVEMBER", "reason": "liq 0<20k"}
+{"t": "2026-11-01 12:42:50 WIB", "mint": "3FpRw4KzQFNkfN5yxdFEHWXxVmKGRtwQTQmeYBRFpump", "sym": "Putin", "reason": "vol1h 36090<40k"}
+{"t": "2026-11-01 12:42:52 WIB", "mint": "BRBxbQjafbMc1p24AUxLQpMmmuekKiQKi8PyNquLnbrb", "sym": "BRB", "reason": "liq 19705<20k"}
+{"t": "2026-11-01 12:44:24 WIB", "mint": "635MGwH377EQyGGwNuEEB7VAC1mGyAbXec6BTQRxpump", "sym": "Rudy", "reason": "liq 0<20k"}
+{"t": "2026-11-01 12:45:11 WIB", "mint": "2dAqU3L3BhbuFQPfD2ap8xUWULxRdcuxvu8AiHrjSGNL", "sym": "?", "reason": "no solana pair"}
