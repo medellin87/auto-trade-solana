@@ -2109,3 +2109,8 @@
 {"t": "2026-11-02 05:03:31 WIB", "mint": "DzgRj1oJZSbdgQJsoaFfQTaV2YhiiWkgnpfhwr2Ppump", "sym": "SI", "reason": "liq 0<20k"}
 {"t": "2026-11-02 05:03:32 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 3773<40k"}
 {"t": "2026-11-02 05:05:51 WIB", "mint": "jM9r9PJFyPaMEbhGZPbDeZJiysn2pfyz5TzdDs5pump", "sym": "uni", "reason": "top10 99.0%>25"}
+{"t": "2026-11-02 05:08:08 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 5090<40k"}
+{"t": "2026-11-02 05:08:55 WIB", "mint": "AVAKjSj9Tod8ztCN8GQ5w9toWejPsxa5QikxCubGGxqD", "sym": "zeb", "reason": "liq 0<20k"}
+{"t": "2026-11-02 05:09:42 WIB", "mint": "6MZ5FU36NKP9CZ1JWR4FzUbmB9FgekpvJDSxvADJpump", "sym": "REFORM", "reason": "vol1h 16015<40k"}
+{"t": "2026-11-02 05:10:29 WIB", "mint": "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump", "sym": "DogBoy", "reason": "vol1h 2<40k"}
+{"t": "2026-11-02 05:10:30 WIB", "mint": "HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip", "sym": "HYPEFAUCET", "reason": "vol1h 9699<40k"}

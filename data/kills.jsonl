@@ -1,8 +1,3 @@
-{"t": "2026-11-02 04:48:28 WIB", "mint": "9rj8gESodSHTT6hS65RsBNqrKcCyL8m1ehSNxY2spump", "sym": "ZEN", "reason": "vol1h 3893<40k"}
-{"t": "2026-11-02 04:49:15 WIB", "mint": "9PuQhJDw4QneoK3bogJTftvpKHyAQQdLKTkv519pump", "sym": "BabyUni", "reason": "vol1h 7<40k"}
-{"t": "2026-11-02 04:49:17 WIB", "mint": "9d4vccabSECYYYpaz5fFGEPBzMBS1mzmoQbnAMKqpump", "sym": "Stone", "reason": "vol1h 402<40k"}
-{"t": "2026-11-02 04:49:18 WIB", "mint": "BTChZcPZNtNQbXCJqhcsWr4sWz2k2T3v5fKBbtrpCarE", "sym": "BTC", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 04:50:05 WIB", "mint": "Dm7uQVngPSs82eWfVnx3rb7hbqoDb6f2E455R783pump", "sym": "SCARECROW", "reason": "vol1h 608<40k"}
 {"t": "2026-11-02 04:50:07 WIB", "mint": "3NARhEetjJjvXKBiCDmhsiAaUJH9mKQFGgf971Rgpump", "sym": "REGRETAMINE", "reason": "vol1h 3938<40k"}
 {"t": "2026-11-02 04:50:08 WIB", "mint": "9fz2KtfCLDiPUNoeroJMNKkfjWi7Y47bNFVcuWmtpump", "sym": "MARVIN", "reason": "vol1h 373<40k"}
 {"t": "2026-11-02 04:51:40 WIB", "mint": "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump", "sym": "CHOO", "reason": "score 0.527<0.6"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 05:03:31 WIB", "mint": "DzgRj1oJZSbdgQJsoaFfQTaV2YhiiWkgnpfhwr2Ppump", "sym": "SI", "reason": "liq 0<20k"}
 {"t": "2026-11-02 05:03:32 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 3773<40k"}
 {"t": "2026-11-02 05:05:51 WIB", "mint": "jM9r9PJFyPaMEbhGZPbDeZJiysn2pfyz5TzdDs5pump", "sym": "uni", "reason": "top10 99.0%>25"}
+{"t": "2026-11-02 05:08:08 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 5090<40k"}
+{"t": "2026-11-02 05:08:55 WIB", "mint": "AVAKjSj9Tod8ztCN8GQ5w9toWejPsxa5QikxCubGGxqD", "sym": "zeb", "reason": "liq 0<20k"}
+{"t": "2026-11-02 05:09:42 WIB", "mint": "6MZ5FU36NKP9CZ1JWR4FzUbmB9FgekpvJDSxvADJpump", "sym": "REFORM", "reason": "vol1h 16015<40k"}
+{"t": "2026-11-02 05:10:29 WIB", "mint": "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump", "sym": "DogBoy", "reason": "vol1h 2<40k"}
+{"t": "2026-11-02 05:10:30 WIB", "mint": "HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip", "sym": "HYPEFAUCET", "reason": "vol1h 9699<40k"}
