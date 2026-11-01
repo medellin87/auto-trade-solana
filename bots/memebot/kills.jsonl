@@ -680,3 +680,8 @@
 {"t": "2026-11-01 13:03:33 WIB", "mint": "J84L4fxm3WwKvxWYzcRwV1fgLyTTUGHZomX7VurSpump", "sym": "ELON", "reason": "liq 2220<20k"}
 {"t": "2026-11-01 13:04:20 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 179<40k"}
 {"t": "2026-11-01 13:05:52 WIB", "mint": "GfrPYpkdkEPzMMYKUdJcZtMsKQnqmPBN39uewoJppump", "sym": "PURPLE", "reason": "liq 0<20k"}
+{"t": "2026-11-01 13:10:25 WIB", "mint": "FSdaAXk12mqAR15fbfGxRE2v6SW3oeobb7LdaRf4DSYA", "sym": "HODL", "reason": "vol1h 125<40k"}
+{"t": "2026-11-01 13:11:12 WIB", "mint": "J73efZvH6rkrJbFJdP2rqe473YJW7tyWmrNARUSzpump", "sym": "onlypump", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 13:11:14 WIB", "mint": "2cnLP7qGqdiwZJreswab2mzfdaNs6WWGFoG8Fv3FMBTC", "sym": "PAPER", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 13:11:15 WIB", "mint": "ELKXSq9wSdVickfiHChDJEU2WTERJfNbMmVi1tdRpump", "sym": "XMR", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 13:12:47 WIB", "mint": "A5dNsPtfybYeUgKxw4pgKEHZSLLi1Fn9Td58oY8Wpump", "sym": "MOVEMBER", "reason": "liq 0<20k"}
