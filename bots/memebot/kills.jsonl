@@ -642,3 +642,5 @@
 {"t": "2026-11-01 12:42:52 WIB", "mint": "BRBxbQjafbMc1p24AUxLQpMmmuekKiQKi8PyNquLnbrb", "sym": "BRB", "reason": "liq 19705<20k"}
 {"t": "2026-11-01 12:44:24 WIB", "mint": "635MGwH377EQyGGwNuEEB7VAC1mGyAbXec6BTQRxpump", "sym": "Rudy", "reason": "liq 0<20k"}
 {"t": "2026-11-01 12:45:11 WIB", "mint": "2dAqU3L3BhbuFQPfD2ap8xUWULxRdcuxvu8AiHrjSGNL", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-01 12:45:58 WIB", "mint": "57Q9eXvUBgsUVrrj28xJRDQX3azd1mpaRVsj6xycpump", "sym": "Odyssey ", "reason": "vol1h 13246<40k"}
+{"t": "2026-11-01 12:46:00 WIB", "mint": "x94ouReAXGWHfNnGokusmmfNttSNEXyfY4ZCQq9pump", "sym": "iTech", "reason": "score 0.408<0.6"}
