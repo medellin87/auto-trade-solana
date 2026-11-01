@@ -1616,3 +1616,10 @@
 {"t": "2026-11-01 23:42:05 WIB", "mint": "DQvRuXiZWiVzKxsEtZYCVvvYoztz22WvkXtpHpeRpump", "sym": "BOUNCER", "reason": "liq 1970<20k"}
 {"t": "2026-11-01 23:42:07 WIB", "mint": "Cui4AwxX8Kd5EbefT1V14bxRFBYHEMfxXgtPvAgVpump", "sym": "PUMP", "reason": "vol1h 34997<40k"}
 {"t": "2026-11-01 23:42:08 WIB", "mint": "D3YBbpwUAENRYkKW7H4crp67icXazkZFb2UajoW31yoi", "sym": "MONEYBIZ", "reason": "vol1h 1<40k"}
+{"t": "2026-11-01 23:42:55 WIB", "mint": "DvFiCjUe7kQsj8okUfu6qSegVAa4BvKnbX2jTgMSpump", "sym": "pairless", "reason": "liq 1990<20k"}
+{"t": "2026-11-01 23:43:41 WIB", "mint": "BTChZcPZNtNQbXCJqhcsWr4sWz2k2T3v5fKBbtrpCarE", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 23:43:43 WIB", "mint": "9d4vccabSECYYYpaz5fFGEPBzMBS1mzmoQbnAMKqpump", "sym": "Stone", "reason": "vol1h 268<40k"}
+{"t": "2026-11-01 23:44:30 WIB", "mint": "6B2aHxPUgmCSo3KuTU5Eakn6eUb3JuecpHqFWQagpump", "sym": "BOND", "reason": "vol1h 5321<40k"}
+{"t": "2026-11-01 23:45:16 WIB", "mint": "Dm7uQVngPSs82eWfVnx3rb7hbqoDb6f2E455R783pump", "sym": "SCARECROW", "reason": "vol1h 9330<40k"}
+{"t": "2026-11-01 23:45:18 WIB", "mint": "9fz2KtfCLDiPUNoeroJMNKkfjWi7Y47bNFVcuWmtpump", "sym": "MARVIN", "reason": "vol1h 5407<40k"}
+{"t": "2026-11-01 23:45:20 WIB", "mint": "3NARhEetjJjvXKBiCDmhsiAaUJH9mKQFGgf971Rgpump", "sym": "REGRETAMINE", "reason": "vol1h 3374<40k"}
