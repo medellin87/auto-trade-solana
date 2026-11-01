@@ -1,8 +1,3 @@
-{"t": "2026-11-01 10:53:46 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.45<0.6"}
-{"t": "2026-11-01 10:53:47 WIB", "mint": "8hGiaimufCDdawftFsH6woLGKXxFJuaZGWYZ3fp3pump", "sym": "Pika", "reason": "vol1h 1<40k"}
-{"t": "2026-11-01 10:53:49 WIB", "mint": "HytpiyuR3sVXGB5UqoqrnThCPH2X1tWVm5neep3Dpump", "sym": "Bitcoin", "reason": "vol1h 9904<40k"}
-{"t": "2026-11-01 10:53:51 WIB", "mint": "Aov3BtQvrGXM5V9oiHu8PKJWeV8a2rFnr24fwWcNpump", "sym": "HNET", "reason": "vol1h 160<40k"}
-{"t": "2026-11-01 10:53:52 WIB", "mint": "8WoUVrirZ4acoYVhBhCys2wyucGyQcc6DTDiuae1pump", "sym": "edith.fun", "reason": "vol1h 26<40k"}
 {"t": "2026-11-01 10:53:54 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 9856<40k"}
 {"t": "2026-11-01 10:53:55 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 14048<40k"}
 {"t": "2026-11-01 10:53:57 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 5962<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-01 11:15:46 WIB", "mint": "57Q9eXvUBgsUVrrj28xJRDQX3azd1mpaRVsj6xycpump", "sym": "Odyssey ", "reason": "liq 0<20k"}
 {"t": "2026-11-01 11:15:48 WIB", "mint": "x94ouReAXGWHfNnGokusmmfNttSNEXyfY4ZCQq9pump", "sym": "iTech", "reason": "score 0.505<0.6"}
 {"t": "2026-11-01 11:18:51 WIB", "mint": "BKHvD2DLXD1BmjhEZHehq4tbG3bW9mFPiWtDGfatpump", "sym": "TRUMP", "reason": "vol1h 6708<40k"}
+{"t": "2026-11-01 11:19:40 WIB", "mint": "5u8mRy6L3pAxjWL9wG61fsXpTgzMDMSNKYySgKBypump", "sym": "Movember", "reason": "liq 0<20k"}
+{"t": "2026-11-01 11:20:27 WIB", "mint": "64tbhe6oprWwoaSMzNAHtZanzWGyaZhV8JLvuVQ6pump", "sym": "PACS", "reason": "vol1h 405<40k"}
+{"t": "2026-11-01 11:21:14 WIB", "mint": "69ddGhPEsRZcCcKZ2FCETSxpvbPFgL32senxeSnWpump", "sym": "nut", "reason": "liq 0<20k"}
+{"t": "2026-11-01 11:22:01 WIB", "mint": "DVKS7yJQ7zh4dFfHp9TE7E5VwF5pAi56NYVDehcBW2ix", "sym": "worm", "reason": "liq 0<20k"}
+{"t": "2026-11-01 11:22:03 WIB", "mint": "Cy3tMYihpgaNX6Nc39hC81KFWC9thTSFSrHoUpUfpump", "sym": "CLARITY", "reason": "liq 3852<20k"}
