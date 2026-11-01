@@ -1,5 +1,3 @@
-{"t": "2026-11-01 20:32:22 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 5868<40k"}
-{"t": "2026-11-01 20:33:08 WIB", "mint": "6v3MRV3EZjSVDrwKAVrqvLafFmpzAf9vSoVb1dTfpump", "sym": "MARS", "reason": "vol1h 29815<40k"}
 {"t": "2026-11-01 20:33:55 WIB", "mint": "Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump", "sym": "REGRET", "reason": "liq 2167<20k"}
 {"t": "2026-11-01 20:35:27 WIB", "mint": "KVjKrtzwFKmocPVoYVswKUbxTkNuuCKeJ4r8688pump", "sym": "SBC", "reason": "vol1h 199<40k"}
 {"t": "2026-11-01 20:35:28 WIB", "mint": "8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump", "sym": "P2P", "reason": "liq 9003<20k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-01 20:54:11 WIB", "mint": "6StLoZfceCvxoBcrkxNeUcMr5pQqgvRWpFbakgaspump", "sym": "MARVIN", "reason": "vol1h 149<40k"}
 {"t": "2026-11-01 20:54:58 WIB", "mint": "8tDU5HKKajCkwL6qWPQA1bbiFTmZvkN1VWEJ73c6pump", "sym": "GROKTYSON", "reason": "vol1h 19<40k"}
 {"t": "2026-11-01 20:54:59 WIB", "mint": "5L1efZj4ymwKfE4dUQf5rYVLBSL6eJL2xe9EGnHGpump", "sym": "MARVIN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 20:57:16 WIB", "mint": "3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump", "sym": "tipr", "reason": "vol1h 9497<40k"}
+{"t": "2026-11-01 20:58:03 WIB", "mint": "6nSM2HxvaetyDrUYjjAUKwgWGi8CGjmboLee7wcHeKN4", "sym": "ZSHIB ", "reason": "vol1h 45<40k"}
