@@ -1769,3 +1769,6 @@
 {"t": "2026-11-02 01:24:44 WIB", "mint": "3HdQuK6iNGLkEes5KcXj7oQTqRtVT9uua7Gv4jd2RRPP", "sym": "mutate", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 01:25:30 WIB", "mint": "EM6awuXD9bFZfbchFFioeNpHyKur9bmD5kj3svHpump", "sym": "VETO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 01:26:17 WIB", "mint": "A5dNsPtfybYeUgKxw4pgKEHZSLLi1Fn9Td58oY8Wpump", "sym": "MOVEMBER", "reason": "vol1h 107<40k"}
+{"t": "2026-11-02 01:27:04 WIB", "mint": "1f3soMcKyii7AFPNDCq9XWcgB8oEzCp4XMuZBzs7evo", "sym": "EVOLVE", "reason": "vol1h 36695<40k"}
+{"t": "2026-11-02 01:28:36 WIB", "mint": "Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT", "sym": "REGRETAMINE", "reason": "score 0.315<0.6"}
+{"t": "2026-11-02 01:28:38 WIB", "mint": "ENWjQMVLuNxq4ya5Z29fjJNjB6RNYcnVpYVeTN5opump", "sym": "FB", "reason": "vol1h 3088<40k"}
