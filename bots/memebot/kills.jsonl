@@ -1336,3 +1336,7 @@
 {"t": "2026-11-01 20:30:00 WIB", "mint": "GVDEq3pVqtYDanikTUmeVsee48KChRnLxSNukHVipump", "sym": "Fappy", "reason": "vol1h 0<40k"}
 {"t": "2026-11-01 20:30:02 WIB", "mint": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win", "sym": "1WIN", "reason": "top10 88.5%>25"}
 {"t": "2026-11-01 20:30:49 WIB", "mint": "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump", "sym": "DogBoy", "reason": "vol1h 5241<40k"}
+{"t": "2026-11-01 20:32:20 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 8334<40k"}
+{"t": "2026-11-01 20:32:22 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 5868<40k"}
+{"t": "2026-11-01 20:33:08 WIB", "mint": "6v3MRV3EZjSVDrwKAVrqvLafFmpzAf9vSoVb1dTfpump", "sym": "MARS", "reason": "vol1h 29815<40k"}
+{"t": "2026-11-01 20:33:55 WIB", "mint": "Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump", "sym": "REGRET", "reason": "liq 2167<20k"}
