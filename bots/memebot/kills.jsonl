@@ -1699,3 +1699,12 @@
 {"t": "2026-11-02 00:42:13 WIB", "mint": "ChCi2x2bpevrNyeRoPHLXHzmaCdGQPuU15CNqxY1pump", "sym": "ZECRET", "reason": "liq 0<20k"}
 {"t": "2026-11-02 00:43:00 WIB", "mint": "7k4h6e913NxWNcshaTzSm5pT2EskWK3hyRzCSDzdbonk", "sym": "Useful", "reason": "vol1h 34628<40k"}
 {"t": "2026-11-02 00:43:01 WIB", "mint": "D3YBbpwUAENRYkKW7H4crp67icXazkZFb2UajoW31yoi", "sym": "MONEYBIZ", "reason": "vol1h 1<40k"}
+{"t": "2026-11-02 00:43:48 WIB", "mint": "DvFiCjUe7kQsj8okUfu6qSegVAa4BvKnbX2jTgMSpump", "sym": "pairless", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 00:44:35 WIB", "mint": "BTChZcPZNtNQbXCJqhcsWr4sWz2k2T3v5fKBbtrpCarE", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 00:44:36 WIB", "mint": "9d4vccabSECYYYpaz5fFGEPBzMBS1mzmoQbnAMKqpump", "sym": "Stone", "reason": "vol1h 5<40k"}
+{"t": "2026-11-02 00:44:38 WIB", "mint": "VtzzQCDppEzyZzZAiPjPfGi3mM3kJganthrty9Yymos", "sym": "YMOS", "reason": "vol1h 18353<40k"}
+{"t": "2026-11-02 00:44:39 WIB", "mint": "JBuEiMHw7NJjns8epvNBGyyViWbo8oTAAh8r7QGepump", "sym": "POPU", "reason": "liq 2879<20k"}
+{"t": "2026-11-02 00:45:26 WIB", "mint": "6B2aHxPUgmCSo3KuTU5Eakn6eUb3JuecpHqFWQagpump", "sym": "BOND", "reason": "vol1h 1857<40k"}
+{"t": "2026-11-02 00:46:12 WIB", "mint": "Dm7uQVngPSs82eWfVnx3rb7hbqoDb6f2E455R783pump", "sym": "SCARECROW", "reason": "vol1h 4851<40k"}
+{"t": "2026-11-02 00:46:14 WIB", "mint": "9fz2KtfCLDiPUNoeroJMNKkfjWi7Y47bNFVcuWmtpump", "sym": "MARVIN", "reason": "vol1h 1193<40k"}
+{"t": "2026-11-02 00:46:16 WIB", "mint": "3NARhEetjJjvXKBiCDmhsiAaUJH9mKQFGgf971Rgpump", "sym": "REGRETAMINE", "reason": "vol1h 1090<40k"}
