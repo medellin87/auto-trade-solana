@@ -1131,3 +1131,7 @@
 {"t": "2026-11-01 18:08:16 WIB", "mint": "AMtnnzizALqZQJnfRRaG9mVfPBYqZuiKEUt8pQGTpump", "sym": "BTW", "reason": "vol1h 0<40k"}
 {"t": "2026-11-01 18:09:48 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1148<40k"}
 {"t": "2026-11-01 18:09:50 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.452<0.6"}
+{"t": "2026-11-01 18:10:37 WIB", "mint": "H6YyhyjYC8RDF3QsS8gbGgbWkpHHHhrvFJEamvP9pump", "sym": "$VOTE", "reason": "vol1h 2749<40k"}
+{"t": "2026-11-01 18:10:38 WIB", "mint": "9yEKBwczdqoox7Red6GGPTrJ2dUbMvFUagdjxFqHpump", "sym": "MINTED", "reason": "liq 2678<20k"}
+{"t": "2026-11-01 18:12:59 WIB", "mint": "34AB35ETkYqSq4TkyC3b2eiYh6arXkhT3RdtnXaDCAUj", "sym": "Sperm", "reason": "liq 0<20k"}
+{"t": "2026-11-01 18:13:01 WIB", "mint": "GuvRLfGP4CMJfF9VyHv85vih9yqxhNB5R8zgRcD9pump", "sym": "BLACKED", "reason": "liq 19369<20k"}
