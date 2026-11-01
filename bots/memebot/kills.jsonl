@@ -1765,3 +1765,7 @@
 {"t": "2026-11-02 01:22:22 WIB", "mint": "7Y6QNhQ2FxL6JEqZHooqgkXQubeQNC6N9emJxytdWp65", "sym": "RAYDOG", "reason": "vol1h 24167<40k"}
 {"t": "2026-11-02 01:23:09 WIB", "mint": "Dh99h2wi8U6RiP56b7762djuXrT84Mm7znrFPNvapump", "sym": "JEPA", "reason": "liq 0<20k"}
 {"t": "2026-11-02 01:23:10 WIB", "mint": "2T9WZjVC6L3BvusUtjKDT6HcZeEYgU9T5xhfJQxFpump", "sym": "AIC", "reason": "liq 2797<20k"}
+{"t": "2026-11-02 01:23:57 WIB", "mint": "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump", "sym": "Peekhole", "reason": "vol1h 28369<40k"}
+{"t": "2026-11-02 01:24:44 WIB", "mint": "3HdQuK6iNGLkEes5KcXj7oQTqRtVT9uua7Gv4jd2RRPP", "sym": "mutate", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 01:25:30 WIB", "mint": "EM6awuXD9bFZfbchFFioeNpHyKur9bmD5kj3svHpump", "sym": "VETO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 01:26:17 WIB", "mint": "A5dNsPtfybYeUgKxw4pgKEHZSLLi1Fn9Td58oY8Wpump", "sym": "MOVEMBER", "reason": "vol1h 107<40k"}
