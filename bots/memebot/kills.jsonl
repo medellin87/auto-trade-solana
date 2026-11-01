@@ -1159,3 +1159,6 @@
 {"t": "2026-11-01 18:30:09 WIB", "mint": "2pDkdMYChGZQQMfbRhfDgorZkKwmPF6sjN4bPfxoABTC", "sym": "NEKO", "reason": "vol1h 948<40k"}
 {"t": "2026-11-01 18:30:11 WIB", "mint": "7ZHjQAQWEMkMps6YM4J95x1Xnh9FjySP1dxteWyMpump", "sym": "NNN", "reason": "vol1h 12<40k"}
 {"t": "2026-11-01 18:30:12 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 1331<40k"}
+{"t": "2026-11-01 18:33:15 WIB", "mint": "KVjKrtzwFKmocPVoYVswKUbxTkNuuCKeJ4r8688pump", "sym": "SBC", "reason": "vol1h 119<40k"}
+{"t": "2026-11-01 18:33:16 WIB", "mint": "AcWSqLLhRxgXJTZBh1MAvJ1Yj9uhnWsR5h4ZZyWmpump", "sym": "bullcat", "reason": "vol1h 96<40k"}
+{"t": "2026-11-01 18:33:18 WIB", "mint": "8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump", "sym": "P2P", "reason": "liq 0<20k"}
