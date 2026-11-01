@@ -1256,3 +1256,7 @@
 {"t": "2026-11-01 19:37:33 WIB", "mint": "7sgu7H7zP2xt1AXqRzjcWMrZYvip3ML1fH7vhixDpump", "sym": "TIND", "reason": "vol1h 1685<40k"}
 {"t": "2026-11-01 19:37:35 WIB", "mint": "GEHj3yYtnnS2Fv3GSkjb3FEQzSZuehHqyEbKc45vpump", "sym": "KO", "reason": "liq 10223<20k"}
 {"t": "2026-11-01 19:38:22 WIB", "mint": "EfB1tdCYLcseZBywfojYyo3sJwuUGxa26LGzCLvFpump", "sym": "SOLSTARS", "reason": "vol1h 26540<40k"}
+{"t": "2026-11-01 19:39:53 WIB", "mint": "DzkyM94MUHTYTVs6z8LK6UGKqbcEDm4VdPjKyLH8pump", "sym": "BURROW", "reason": "liq 0<20k"}
+{"t": "2026-11-01 19:41:25 WIB", "mint": "gzQXRwGRzfKLHfaV1f84QT7e5mt4vevu7MgacEfpump", "sym": "PIRATE", "reason": "liq 0<20k"}
+{"t": "2026-11-01 19:41:27 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1430<40k"}
+{"t": "2026-11-01 19:41:29 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.513<0.6"}
