@@ -1,10 +1,3 @@
-{"t": "2026-11-01 21:37:26 WIB", "mint": "57piTgZ3PUbrf3C59qJXrCwAms5VEa5ys1KPZNYSpump", "sym": "REGRETAMINE", "reason": "liq 1956<20k"}
-{"t": "2026-11-01 21:38:58 WIB", "mint": "5cKX3tn119ayha94BD6xEZQekQUG8stwHHNTuNBppump", "sym": "Bitsan", "reason": "vol1h 773<40k"}
-{"t": "2026-11-01 21:39:44 WIB", "mint": "7sgu7H7zP2xt1AXqRzjcWMrZYvip3ML1fH7vhixDpump", "sym": "TIND", "reason": "vol1h 821<40k"}
-{"t": "2026-11-01 21:40:31 WIB", "mint": "FcgiwW6FoJ9VsfwbBRvX97MH53tsePkR84mBxeqgpump", "sym": "Alexander", "reason": "liq 0<20k"}
-{"t": "2026-11-01 21:40:32 WIB", "mint": "EfB1tdCYLcseZBywfojYyo3sJwuUGxa26LGzCLvFpump", "sym": "SOLSTARS", "reason": "vol1h 29<40k"}
-{"t": "2026-11-01 21:40:34 WIB", "mint": "ETHgDzFEG9gqBrjpPyiLvi12LSN9m7aPSdvWWjyZpump", "sym": "PARITY", "reason": "liq 0<20k"}
-{"t": "2026-11-01 21:41:23 WIB", "mint": "9d4vccabSECYYYpaz5fFGEPBzMBS1mzmoQbnAMKqpump", "sym": "Stone", "reason": "vol1h 2842<40k"}
 {"t": "2026-11-01 21:42:09 WIB", "mint": "DzkyM94MUHTYTVs6z8LK6UGKqbcEDm4VdPjKyLH8pump", "sym": "BURROW", "reason": "vol1h 15887<40k"}
 {"t": "2026-11-01 21:42:11 WIB", "mint": "6kr6mVn4tCWJDv5mJAfaQiuBoaAgCBjJndvBeA6Upump", "sym": "BB", "reason": "liq 0<20k"}
 {"t": "2026-11-01 21:42:58 WIB", "mint": "3NARhEetjJjvXKBiCDmhsiAaUJH9mKQFGgf971Rgpump", "sym": "REGRETAMINE", "reason": "vol1h 18939<40k"}
@@ -28,3 +21,10 @@
 {"t": "2026-11-01 21:55:29 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 4620<40k"}
 {"t": "2026-11-01 21:55:31 WIB", "mint": "Bft1VnbbdKPuGpN2mCTKvPmszvW1RLV9tR5mHSAvpump", "sym": "Numbat", "reason": "vol1h 0<40k"}
 {"t": "2026-11-01 21:56:18 WIB", "mint": "8tDU5HKKajCkwL6qWPQA1bbiFTmZvkN1VWEJ73c6pump", "sym": "GROKTYSON", "reason": "vol1h 1<40k"}
+{"t": "2026-11-01 21:58:35 WIB", "mint": "3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump", "sym": "tipr", "reason": "vol1h 17702<40k"}
+{"t": "2026-11-01 21:58:36 WIB", "mint": "5AWBTmZzYZ3twtKQLe1eziWw9yMcUyUiR6iRnCpXPv7f", "sym": "GOAT", "reason": "vol1h 1751<40k"}
+{"t": "2026-11-01 21:58:38 WIB", "mint": "6eJVydkBQEj7ixuVAckfMiBGCy4ZTot16uvLbu1Ppump", "sym": "Solana500", "reason": "vol1h 17680<40k"}
+{"t": "2026-11-01 21:59:24 WIB", "mint": "AFnrRx4p1XPQTLxVkCDfkE8bDwiCyVvthbauiaLxAfZg", "sym": "BILLY", "reason": "vol1h 9455<40k"}
+{"t": "2026-11-01 21:59:26 WIB", "mint": "6nSM2HxvaetyDrUYjjAUKwgWGi8CGjmboLee7wcHeKN4", "sym": "ZSHIB ", "reason": "vol1h 8<40k"}
+{"t": "2026-11-01 21:59:28 WIB", "mint": "EwofMNzRodVxmSHSACFKcNUbcz8ithzU7xfiXRg2pump", "sym": "TESTES", "reason": "liq 0<20k"}
+{"t": "2026-11-01 22:00:14 WIB", "mint": "DoPuTpyJnKEvZeQpDTr5cbZ1vRsTuQuJNCM4S4gPyPZA", "sym": "pairless", "reason": "liq 0<20k"}
