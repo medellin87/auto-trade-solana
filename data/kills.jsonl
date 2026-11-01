@@ -1,8 +1,3 @@
-{"t": "2026-11-01 19:59:31 WIB", "mint": "GVDEq3pVqtYDanikTUmeVsee48KChRnLxSNukHVipump", "sym": "Fappy", "reason": "vol1h 0<40k"}
-{"t": "2026-11-01 19:59:33 WIB", "mint": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win", "sym": "1WIN", "reason": "top10 88.6%>25"}
-{"t": "2026-11-01 20:00:20 WIB", "mint": "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump", "sym": "DogBoy", "reason": "vol1h 4492<40k"}
-{"t": "2026-11-01 20:01:51 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 7938<40k"}
-{"t": "2026-11-01 20:01:53 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 1853<40k"}
 {"t": "2026-11-01 20:02:40 WIB", "mint": "6v3MRV3EZjSVDrwKAVrqvLafFmpzAf9vSoVb1dTfpump", "sym": "MARS", "reason": "liq 0<20k"}
 {"t": "2026-11-01 20:04:59 WIB", "mint": "KVjKrtzwFKmocPVoYVswKUbxTkNuuCKeJ4r8688pump", "sym": "SBC", "reason": "vol1h 161<40k"}
 {"t": "2026-11-01 20:05:00 WIB", "mint": "8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump", "sym": "P2P", "reason": "liq 12987<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-01 20:15:10 WIB", "mint": "5Tt6muu1DFmVr6V8kEA3CW6qAXdvv7uvj6enzV7fpump", "sym": "$DONK", "reason": "vol1h 9757<40k"}
 {"t": "2026-11-01 20:15:12 WIB", "mint": "GuvRLfGP4CMJfF9VyHv85vih9yqxhNB5R8zgRcD9pump", "sym": "BLACKED", "reason": "vol1h 31373<40k"}
 {"t": "2026-11-01 20:17:29 WIB", "mint": "8eG55WcQc231JshYDqf2dvFBXtUD1YARJcqnvPB6pump", "sym": "SAFU", "reason": "liq 0<20k"}
+{"t": "2026-11-01 20:19:46 WIB", "mint": "GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump", "sym": "AAPLCAT", "reason": "score 0.528<0.6"}
+{"t": "2026-11-01 20:19:48 WIB", "mint": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump", "sym": "Dacity", "reason": "vol1h 36987<40k"}
+{"t": "2026-11-01 20:20:34 WIB", "mint": "A5dNsPtfybYeUgKxw4pgKEHZSLLi1Fn9Td58oY8Wpump", "sym": "MOVEMBER", "reason": "vol1h 2626<40k"}
+{"t": "2026-11-01 20:20:36 WIB", "mint": "3DEcz7AnmJiGSnDHYvUeX5uPMMHVcDwqrWRSGdHEpump", "sym": "TIPPER", "reason": "vol1h 17<40k"}
+{"t": "2026-11-01 20:20:37 WIB", "mint": "FzTxvp2UkrjCmx2dNM8wDMkBPjTcxTE8RYUyX9rhpump", "sym": "vibedog", "reason": "vol1h 1<40k"}
