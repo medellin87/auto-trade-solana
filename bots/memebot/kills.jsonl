@@ -1677,3 +1677,6 @@
 {"t": "2026-11-02 00:23:36 WIB", "mint": "3HdQuK6iNGLkEes5KcXj7oQTqRtVT9uua7Gv4jd2RRPP", "sym": "mutate", "reason": "vol1h 232<40k"}
 {"t": "2026-11-02 00:24:22 WIB", "mint": "EM6awuXD9bFZfbchFFioeNpHyKur9bmD5kj3svHpump", "sym": "VETO", "reason": "liq 2018<20k"}
 {"t": "2026-11-02 00:25:09 WIB", "mint": "A5dNsPtfybYeUgKxw4pgKEHZSLLi1Fn9Td58oY8Wpump", "sym": "MOVEMBER", "reason": "vol1h 282<40k"}
+{"t": "2026-11-02 00:26:41 WIB", "mint": "9ojL5N11J6tXZpnGcbmMWCFrGugqbLSWhyVk7RMLpump", "sym": "memestock", "reason": "vol1h 3<40k"}
+{"t": "2026-11-02 00:27:28 WIB", "mint": "Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT", "sym": "REGRETAMINE", "reason": "score 0.388<0.6"}
+{"t": "2026-11-02 00:27:30 WIB", "mint": "ENWjQMVLuNxq4ya5Z29fjJNjB6RNYcnVpYVeTN5opump", "sym": "FB", "reason": "vol1h 9769<40k"}
