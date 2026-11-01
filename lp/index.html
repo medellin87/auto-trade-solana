@@ -1,0 +1,18 @@
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>LP Simulasi</title>
+<style>body{font-family:sans-serif;margin:10px;font-size:14px}h3{margin:12px 0 4px}.b{background:#fd0;padding:6px;font-weight:bold}div.r{border-bottom:1px solid #ddd;padding:3px 0;word-break:break-all}td{padding:2px 6px;border-bottom:1px solid #eee}</style></head><body>
+<div class=b>PAPER / SIMULASI LP - data pool asli</div><p><a href="../">&larr; Auto Trade Solana</a></p><div id=o>Memuat...</div>
+<p style="font-size:12px;color:#555">Fee = estimasi: (kenaikan feeGrowthGlobal on-chain pool per unit likuiditas) x likuiditas virtual kita, hanya saat harga di dalam range. Rebalance jika di luar range &gt;30 menit (biaya: fee pool + 0,1% slippage + $0,01). Halt jika USDC menyimpang &gt;0,5% dari $1. Tanpa wallet, tanpa uang nyata.</p>
+<script>
+const g=async f=>{try{let r=await fetch('data/'+f+'?'+Date.now());return r.ok?await r.text():''}catch(e){return ''}};
+const L=t=>t.trim().split('\n').filter(x=>x).map(x=>{try{return JSON.parse(x)}catch(e){return null}}).filter(x=>x);
+const f=x=>(x>=0?'+':'')+'$'+(+x).toFixed(2);
+async function u(){let j={};try{j=JSON.parse(await g('latest.json'))}catch(e){}let s=j.state||{},r=j.row||{};
+let h=`<p>Pool: <b>Orca Whirlpool SOL/USDC (fee ${(r.fee_rate*100).toFixed(2)}%)</b><br><a href="https://www.orca.so/pools/${s.pool}">${s.pool}</a> · <a href="https://solscan.io/account/${s.pool}">Solscan</a><br>Mulai: ${s.start} @ $${(+s.P0).toFixed(2)}<br>Update: <b>${r.t}</b> · Harga SOL: <b>$${r.price}</b> · USDC $${(+r.usdc).toFixed(4)} ${r.halted?'<b style=color:red>HALT</b>':''}<br>TVL $${(+r.tvl).toLocaleString()} · Vol 24j $${(+r.vol24h).toLocaleString()}</p><table><tr><td></td><td><b>Sempit ±10%</b></td><td><b>Lebar ±25%</b></td></tr>`;
+const k=['narrow','wide'],row=(n,fn)=>h+=`<tr><td>${n}</td>${k.map(x=>`<td>${r[x]?fn(r[x]):'-'}</td>`).join('')}</tr>`;
+row('Range',p=>'$'+p.range[0]+'–$'+p.range[1]);row('Di range?',p=>p.in_range?'YA':'<b style=color:red>TIDAK</b>');
+row('Fee didapat',p=>'$'+p.fees.toFixed(4));row('Nilai posisi',p=>'$'+p.value.toFixed(2));row('HODL 50/50',p=>'$'+p.hodl.toFixed(2));
+row('IL (vs HODL)',p=>f(p.il));row('Rebalance',p=>p.rebal+'x, biaya $'+p.rebal_cost.toFixed(2));row('<b>PnL bersih</b>',p=>'<b>'+f(p.net_pnl)+'</b>');row('LP vs HODL',p=>f(p.vs_hodl));
+h+='</table><h3>Event</h3>'+L(await g('events.jsonl')).slice(-15).reverse().map(e=>`<div class=r>${JSON.stringify(e)}</div>`).join('');
+document.getElementById('o').innerHTML=h}
+u();setInterval(u,60000);
+</script></body></html>

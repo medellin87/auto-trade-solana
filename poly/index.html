@@ -1,0 +1,10 @@
+<!doctype html><meta name=viewport content="width=device-width,initial-scale=1"><title>Polymarket Backtest</title><body style="font-family:sans-serif;padding:10px"><a href="../">&larr; Auto Trade Solana</a><h3>Backtest Polymarket (data asli, tanpa uang)</h3><pre style="white-space:pre-wrap;font-size:12px">
+# Polymarket Edge Validation — Report (2026-10-31, WIB)
+Data: 2,100 resolved binary Polymarket markets (Gamma API, end 2025-05..2026-10, volume>$10k), hourly CLOB price history 8d before close (cached raw/). Live CLOB orderbooks snapshot 18:4x WIB. No wallet/keys/orders. Cost: +1c entry slippage, fee 0. Full table: results.csv / summary.xlsx.
+
+H1 favorites 0.90-0.99 (hold to resolution): NO PASS. Favorites are slightly underpriced (win rate > price, e.g. .90-.95 @7d: n=136, win 96.3% vs price 92.7%, EV +2.8%/$), but only 1 of 9 buckets reaches n>=200 (.97-.99 @72h: n=279, win 99.3%, EV +0.10%/$ ≈ noise; same bucket at 24h/7d is negative). The 0.97-0.99 bucket — the only one with volume — is eaten by the 1c spread. Each loss = -100%. Hint of edge at .90-.95 but n&lt;200; not proven.
+H2 complement arbitrage: NO. Historical: 0 of 391,468 hourly pairs had YES+NO outside 0.99-1.01 (history is mid-derived, so uninformative). Live: 0 of 94 two-sided books had best_ask_yes+best_ask_no&lt;1 (min 1.001, median 1.004).
+H3 longshots 0.01-0.10: NO, strongly negative (EV -28% to -69%/$, n up to 399). Confirms longshot bias: buyers of cheap tickets lose.
+Caveats: horizon measured from actual close time (look-ahead for early-resolving markets; favors H1); hourly mid/last prices, not executable asks; Gamma pagination returned 2,100 not 3,000; annualized figures unreliable at these n; single live snapshot.
+Overall: no proven retail edge. Arb and longshots dead. Only "maybe" = 0.90-0.95 favorites, thin sample — paper forward test optional, low priority.
+</pre>
