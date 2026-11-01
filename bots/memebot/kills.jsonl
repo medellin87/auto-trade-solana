@@ -1415,3 +1415,7 @@
 {"t": "2026-11-01 21:23:21 WIB", "mint": "4s8PpvyFsg1EnZxSpogVdsVwMU2R8gg46rKABG3Bs6Tt", "sym": "Dante", "reason": "liq 0<20k"}
 {"t": "2026-11-01 21:25:38 WIB", "mint": "8tDU5HKKajCkwL6qWPQA1bbiFTmZvkN1VWEJ73c6pump", "sym": "GROKTYSON", "reason": "vol1h 20<40k"}
 {"t": "2026-11-01 21:25:40 WIB", "mint": "5L1efZj4ymwKfE4dUQf5rYVLBSL6eJL2xe9EGnHGpump", "sym": "MARVIN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 21:27:57 WIB", "mint": "3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump", "sym": "tipr", "reason": "vol1h 7473<40k"}
+{"t": "2026-11-01 21:28:43 WIB", "mint": "6nSM2HxvaetyDrUYjjAUKwgWGi8CGjmboLee7wcHeKN4", "sym": "ZSHIB ", "reason": "vol1h 47<40k"}
+{"t": "2026-11-01 21:30:16 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.389<0.6"}
+{"t": "2026-11-01 21:30:17 WIB", "mint": "HoySSFq73UQJpT7SHWtBa6LzzofmKSYMWT5g3BGfpump", "sym": "TITTYRARI", "reason": "vol1h 399<40k"}
