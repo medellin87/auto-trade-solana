@@ -365,3 +365,6 @@
 {"t": "2026-11-01 09:35:40 WIB", "mint": "8s11PkgQt4ZzdZ7oo84hK5t9HG1EvdgAjcg4W7Lpump", "sym": "BLOB", "reason": "score 0.481<0.6"}
 {"t": "2026-11-01 09:37:57 WIB", "mint": "EJtBCwYqNX7kQEPU38T7bxcfwjVFaXuPBYZY7Gwtpump", "sym": "IF", "reason": "liq 11016<20k"}
 {"t": "2026-11-01 09:40:14 WIB", "mint": "DNxivTUF4ycZUzUxK6J3w7u5Fq3pSYvrXCTV5Vwwpump", "sym": "SS", "reason": "LP locked 87%<90"}
+{"t": "2026-11-01 09:41:46 WIB", "mint": "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump", "sym": "ANTS", "reason": "score 0.591<0.6"}
+{"t": "2026-11-01 09:42:33 WIB", "mint": "5U7cD5cXVMVFFhYVRhcm1Ruerg6RzVnUQkGcraZepump", "sym": "NUT", "reason": "liq 17499<20k"}
+{"t": "2026-11-01 09:42:35 WIB", "mint": "GBrgLVkjZ2hx32pGkZ4so31gks97cAKQiFR7fuyBpump", "sym": "Reaper", "reason": "vol1h 21344<40k"}
