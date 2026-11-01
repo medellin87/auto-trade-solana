@@ -1994,3 +1994,12 @@
 {"t": "2026-11-02 03:53:26 WIB", "mint": "9ULQLuhMkBwhUejwvuNtyCnAtwEjFt1o6ubjbEqLpump", "sym": "OP", "reason": "liq 0<20k"}
 {"t": "2026-11-02 03:57:14 WIB", "mint": "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump", "sym": "Peekhole", "reason": "vol1h 7101<40k"}
 {"t": "2026-11-02 03:57:15 WIB", "mint": "6pGyajBJsvKWLvgDZPNebH5uZcHXc7hVQAJ3y1uuVXNd", "sym": "uni", "reason": "liq 16356<20k"}
+{"t": "2026-11-02 03:57:17 WIB", "mint": "HNxyGpz8AkLqmfBBKMzmugkPE5Bahj2bGPPTNgWGpump", "sym": "AI", "reason": "score 0.569<0.6"}
+{"t": "2026-11-02 03:58:04 WIB", "mint": "27gDEGhYz5eSkc9FwEj4be4Q6DM766SjtUiqNS1Epump", "sym": "INCOME", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 03:58:05 WIB", "mint": "8Wi25nQhEay9KwAsoguEs3y1uxaJmCRQxRYnSY9dpump", "sym": "Learjet", "reason": "liq 15769<20k"}
+{"t": "2026-11-02 03:58:07 WIB", "mint": "A7bhLACmqNc2Lgb7Bxt77sTTBBDm1tyxVbpHB58Epump", "sym": "MOBROS", "reason": "vol1h 10653<40k"}
+{"t": "2026-11-02 03:58:08 WIB", "mint": "7k2dv39SZRdRS22ducmFRYEfExXkxbEKhm3ttmsxpump", "sym": "PHISHING", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 03:58:10 WIB", "mint": "B1aBkk76gihamPjuKyHz7c7cgjdNxwBxc2NoJZCbpump", "sym": "HEN", "reason": "vol1h 20951<40k"}
+{"t": "2026-11-02 03:58:57 WIB", "mint": "7CBU7Yx76qSeE9f4JAWSdyHMmHvghFea8PErqZ35auZV", "sym": "REMIXD", "reason": "vol1h 4686<40k"}
+{"t": "2026-11-02 03:58:58 WIB", "mint": "3Y6MtLKM7NeaBCAffACi8a94f7vvdrrawd4wkRt4pump", "sym": "WaterMark", "reason": "vol1h 35800<40k"}
+{"t": "2026-11-02 04:00:30 WIB", "mint": "FHraUsxJRWeRBTgbLHsV3Wxbhu7UFKcBCdbqxB1ipump", "sym": "BABYANSEM", "reason": "vol1h 0<40k"}
