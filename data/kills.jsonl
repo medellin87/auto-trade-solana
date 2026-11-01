@@ -1,8 +1,3 @@
-{"t": "2026-11-02 00:27:28 WIB", "mint": "Dbyy9LSMVHjxw2ZnPPRrCheSLVeuHq2GMkpxUs3t5xeT", "sym": "REGRETAMINE", "reason": "score 0.388<0.6"}
-{"t": "2026-11-02 00:27:30 WIB", "mint": "ENWjQMVLuNxq4ya5Z29fjJNjB6RNYcnVpYVeTN5opump", "sym": "FB", "reason": "vol1h 9769<40k"}
-{"t": "2026-11-02 00:29:01 WIB", "mint": "2EQxezWgXPRU6V3UD7DKr5m12mxqeFGPWNRx9wbqy9fC", "sym": "PEAKY", "reason": "vol1h 10367<40k"}
-{"t": "2026-11-02 00:29:03 WIB", "mint": "8tDU5HKKajCkwL6qWPQA1bbiFTmZvkN1VWEJ73c6pump", "sym": "GROKTYSON", "reason": "vol1h 1<40k"}
-{"t": "2026-11-02 00:29:04 WIB", "mint": "4UgDYkoXoeo9Uez9hL7QjchzXYbYR3SXeTiFbQY6oBQ3", "sym": "wif", "reason": "vol1h 106<40k"}
 {"t": "2026-11-02 00:29:51 WIB", "mint": "2kcek9XLEGoCcYpVsSaoJGanegcFW81Ti1kyYEQzGDXi", "sym": "Sperm", "reason": "liq 2645<20k"}
 {"t": "2026-11-02 00:31:23 WIB", "mint": "3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump", "sym": "tipr", "reason": "vol1h 4110<40k"}
 {"t": "2026-11-02 00:31:24 WIB", "mint": "iQZwy1HfARYjqw3Proboeam5er1dwwumk1nPLK2pump", "sym": "BTC", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 00:46:12 WIB", "mint": "Dm7uQVngPSs82eWfVnx3rb7hbqoDb6f2E455R783pump", "sym": "SCARECROW", "reason": "vol1h 4851<40k"}
 {"t": "2026-11-02 00:46:14 WIB", "mint": "9fz2KtfCLDiPUNoeroJMNKkfjWi7Y47bNFVcuWmtpump", "sym": "MARVIN", "reason": "vol1h 1193<40k"}
 {"t": "2026-11-02 00:46:16 WIB", "mint": "3NARhEetjJjvXKBiCDmhsiAaUJH9mKQFGgf971Rgpump", "sym": "REGRETAMINE", "reason": "vol1h 1090<40k"}
+{"t": "2026-11-02 00:47:02 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 27686<40k"}
+{"t": "2026-11-02 00:47:49 WIB", "mint": "H6YyhyjYC8RDF3QsS8gbGgbWkpHHHhrvFJEamvP9pump", "sym": "$VOTE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 00:48:36 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.405<0.6"}
+{"t": "2026-11-02 00:48:38 WIB", "mint": "3jAHcV6ZwmA3pnrR9MrWwNSbN5gDiM7rSM1RJradQ8xK", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-02 00:48:39 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 3875<40k"}
