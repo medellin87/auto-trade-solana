@@ -1568,3 +1568,6 @@
 {"t": "2026-11-01 23:05:24 WIB", "mint": "9SZnPDqxCjdgPKRosc1qzxTfrR9n7ZVE39SsbCRmpump", "sym": "bob", "reason": "vol1h 27240<40k"}
 {"t": "2026-11-01 23:05:25 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 6224<40k"}
 {"t": "2026-11-01 23:06:12 WIB", "mint": "6qhnbvdJuWVUQ7EQpgz5GNraV7pty7cqc8MmfQTEpump", "sym": "Capri", "reason": "liq 0<20k"}
+{"t": "2026-11-01 23:08:29 WIB", "mint": "HSN4fgRP1yFXMzUjHbeXLQDEeU2m1aLyFjKgncvPLwdk", "sym": "PUMPATAR", "reason": "vol1h 11450<40k"}
+{"t": "2026-11-01 23:09:16 WIB", "mint": "Ccm5ZnTrKY7YNskkiQJ4nrL4GHSGoXniik9pyV4Jpump", "sym": "SOL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 23:10:47 WIB", "mint": "5cKX3tn119ayha94BD6xEZQekQUG8stwHHNTuNBppump", "sym": "Bitsan", "reason": "vol1h 262<40k"}
