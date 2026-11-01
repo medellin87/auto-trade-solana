@@ -498,3 +498,6 @@
 {"t": "2026-11-01 11:04:13 WIB", "mint": "6Y9TFE8ygQBe3dZZicd4RCSCyY6a6nKFhe2zwogrpump", "sym": "BONKO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-01 11:08:46 WIB", "mint": "FSdaAXk12mqAR15fbfGxRE2v6SW3oeobb7LdaRf4DSYA", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-01 11:08:48 WIB", "mint": "EJtBCwYqNX7kQEPU38T7bxcfwjVFaXuPBYZY7Gwtpump", "sym": "IF", "reason": "vol1h 5306<40k"}
+{"t": "2026-11-01 11:10:24 WIB", "mint": "DNxivTUF4ycZUzUxK6J3w7u5Fq3pSYvrXCTV5Vwwpump", "sym": "SS", "reason": "vol1h 139<40k"}
+{"t": "2026-11-01 11:12:42 WIB", "mint": "5U7cD5cXVMVFFhYVRhcm1Ruerg6RzVnUQkGcraZepump", "sym": "NUT", "reason": "vol1h 26525<40k"}
+{"t": "2026-11-01 11:12:43 WIB", "mint": "GBrgLVkjZ2hx32pGkZ4so31gks97cAKQiFR7fuyBpump", "sym": "Reaper", "reason": "vol1h 11<40k"}
