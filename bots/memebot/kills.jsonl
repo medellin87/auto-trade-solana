@@ -1657,3 +1657,11 @@
 {"t": "2026-11-02 00:12:31 WIB", "mint": "DQvRuXiZWiVzKxsEtZYCVvvYoztz22WvkXtpHpeRpump", "sym": "BOUNCER", "reason": "vol1h 31713<40k"}
 {"t": "2026-11-02 00:12:33 WIB", "mint": "Cui4AwxX8Kd5EbefT1V14bxRFBYHEMfxXgtPvAgVpump", "sym": "PUMP", "reason": "vol1h 12321<40k"}
 {"t": "2026-11-02 00:12:34 WIB", "mint": "D3YBbpwUAENRYkKW7H4crp67icXazkZFb2UajoW31yoi", "sym": "MONEYBIZ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 00:13:21 WIB", "mint": "DvFiCjUe7kQsj8okUfu6qSegVAa4BvKnbX2jTgMSpump", "sym": "pairless", "reason": "liq 1991<20k"}
+{"t": "2026-11-02 00:14:07 WIB", "mint": "BTChZcPZNtNQbXCJqhcsWr4sWz2k2T3v5fKBbtrpCarE", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 00:14:09 WIB", "mint": "9d4vccabSECYYYpaz5fFGEPBzMBS1mzmoQbnAMKqpump", "sym": "Stone", "reason": "vol1h 121<40k"}
+{"t": "2026-11-02 00:14:10 WIB", "mint": "VtzzQCDppEzyZzZAiPjPfGi3mM3kJganthrty9Yymos", "sym": "YMOS", "reason": "vol1h 8293<40k"}
+{"t": "2026-11-02 00:14:59 WIB", "mint": "6B2aHxPUgmCSo3KuTU5Eakn6eUb3JuecpHqFWQagpump", "sym": "BOND", "reason": "vol1h 4766<40k"}
+{"t": "2026-11-02 00:15:46 WIB", "mint": "Dm7uQVngPSs82eWfVnx3rb7hbqoDb6f2E455R783pump", "sym": "SCARECROW", "reason": "vol1h 5836<40k"}
+{"t": "2026-11-02 00:15:47 WIB", "mint": "9fz2KtfCLDiPUNoeroJMNKkfjWi7Y47bNFVcuWmtpump", "sym": "MARVIN", "reason": "vol1h 5105<40k"}
+{"t": "2026-11-02 00:15:49 WIB", "mint": "3NARhEetjJjvXKBiCDmhsiAaUJH9mKQFGgf971Rgpump", "sym": "REGRETAMINE", "reason": "vol1h 3889<40k"}
