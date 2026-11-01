@@ -1741,3 +1741,7 @@
 {"t": "2026-11-02 01:07:25 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 8316<40k"}
 {"t": "2026-11-02 01:08:12 WIB", "mint": "GtmGbPyWVgUGG1yvWEny6aedJ4bwtLqjGj7PfGjSpump", "sym": "REA", "reason": "liq 2510<20k"}
 {"t": "2026-11-02 01:10:28 WIB", "mint": "MAXXib7SQAQn4ymrwhhR9qMRUcYv8BNhbQxizJn5CCk", "sym": "Maxxmas", "reason": "vol1h 7935<40k"}
+{"t": "2026-11-02 01:12:45 WIB", "mint": "5cKX3tn119ayha94BD6xEZQekQUG8stwHHNTuNBppump", "sym": "Bitsan", "reason": "vol1h 158<40k"}
+{"t": "2026-11-02 01:12:47 WIB", "mint": "ChCi2x2bpevrNyeRoPHLXHzmaCdGQPuU15CNqxY1pump", "sym": "ZECRET", "reason": "liq 0<20k"}
+{"t": "2026-11-02 01:13:34 WIB", "mint": "7k4h6e913NxWNcshaTzSm5pT2EskWK3hyRzCSDzdbonk", "sym": "Useful", "reason": "vol1h 30387<40k"}
+{"t": "2026-11-02 01:13:35 WIB", "mint": "D3YBbpwUAENRYkKW7H4crp67icXazkZFb2UajoW31yoi", "sym": "MONEYBIZ", "reason": "vol1h 1<40k"}
