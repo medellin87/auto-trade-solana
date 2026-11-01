@@ -721,3 +721,7 @@
 {"t": "2026-11-01 13:31:05 WIB", "mint": "HtJaNqCek98PcMpzcZer6k7LoDBXa5n4MWoZrzzhpump", "sym": "Jose", "reason": "liq 0<20k"}
 {"t": "2026-11-01 13:31:07 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.412<0.6"}
 {"t": "2026-11-01 13:31:09 WIB", "mint": "7sgu7H7zP2xt1AXqRzjcWMrZYvip3ML1fH7vhixDpump", "sym": "TIND", "reason": "vol1h 1593<40k"}
+{"t": "2026-11-01 13:31:10 WIB", "mint": "Hv41WiWmEu2jqXGJrYwNe3VmQ6VP1UGtzq6MT6Kfpump", "sym": "INCOGNITO", "reason": "vol1h 12505<40k"}
+{"t": "2026-11-01 13:31:57 WIB", "mint": "EddrjeVVAor8uvMbwRKyB9N4Kx8WVVeFJxLTcUVDpump", "sym": "Mamesuke", "reason": "vol1h 5140<40k"}
+{"t": "2026-11-01 13:32:44 WIB", "mint": "wFETxRNpWCcLXGiLoY9LJnuax8WkXGTfPwGN2xFSGNL", "sym": "SGNL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 13:32:45 WIB", "mint": "BnkbF7fcJtrbWRqw3Rec8CBnkj2aRLR3Bs9WEfvVpump", "sym": "Jcat", "reason": "vol1h 8260<40k"}
