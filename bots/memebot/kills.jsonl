@@ -1340,3 +1340,7 @@
 {"t": "2026-11-01 20:32:22 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 5868<40k"}
 {"t": "2026-11-01 20:33:08 WIB", "mint": "6v3MRV3EZjSVDrwKAVrqvLafFmpzAf9vSoVb1dTfpump", "sym": "MARS", "reason": "vol1h 29815<40k"}
 {"t": "2026-11-01 20:33:55 WIB", "mint": "Ae6TX54cU8EgcG6kVX4i5j1oz3FoZf2zRG7xvzmtpump", "sym": "REGRET", "reason": "liq 2167<20k"}
+{"t": "2026-11-01 20:35:27 WIB", "mint": "KVjKrtzwFKmocPVoYVswKUbxTkNuuCKeJ4r8688pump", "sym": "SBC", "reason": "vol1h 199<40k"}
+{"t": "2026-11-01 20:35:28 WIB", "mint": "8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump", "sym": "P2P", "reason": "liq 9003<20k"}
+{"t": "2026-11-01 20:37:47 WIB", "mint": "7Ddu9WpFk2UdookN7hEwFUaMngymsi1vMKKjFovzpump", "sym": "nut", "reason": "vol1h 2<40k"}
+{"t": "2026-11-01 20:37:49 WIB", "mint": "5cKX3tn119ayha94BD6xEZQekQUG8stwHHNTuNBppump", "sym": "Bitsan", "reason": "vol1h 63<40k"}
