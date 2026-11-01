@@ -1292,3 +1292,5 @@
 {"t": "2026-11-01 20:01:51 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 7938<40k"}
 {"t": "2026-11-01 20:01:53 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 1853<40k"}
 {"t": "2026-11-01 20:02:40 WIB", "mint": "6v3MRV3EZjSVDrwKAVrqvLafFmpzAf9vSoVb1dTfpump", "sym": "MARS", "reason": "liq 0<20k"}
+{"t": "2026-11-01 20:04:59 WIB", "mint": "KVjKrtzwFKmocPVoYVswKUbxTkNuuCKeJ4r8688pump", "sym": "SBC", "reason": "vol1h 161<40k"}
+{"t": "2026-11-01 20:05:00 WIB", "mint": "8ANLUXihz9FrSy6Jbg85CGsuPCpPjf5S9ZUXNRG5pump", "sym": "P2P", "reason": "liq 12987<20k"}
