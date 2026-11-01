@@ -544,3 +544,5 @@
 {"t": "2026-11-01 11:39:41 WIB", "mint": "J73efZvH6rkrJbFJdP2rqe473YJW7tyWmrNARUSzpump", "sym": "onlypump", "reason": "liq 2062<20k"}
 {"t": "2026-11-01 11:40:28 WIB", "mint": "DNxivTUF4ycZUzUxK6J3w7u5Fq3pSYvrXCTV5Vwwpump", "sym": "SS", "reason": "vol1h 65<40k"}
 {"t": "2026-11-01 11:42:00 WIB", "mint": "BRBxbQjafbMc1p24AUxLQpMmmuekKiQKi8PyNquLnbrb", "sym": "BRB", "reason": "top10 40.3%>25"}
+{"t": "2026-11-01 11:45:49 WIB", "mint": "57Q9eXvUBgsUVrrj28xJRDQX3azd1mpaRVsj6xycpump", "sym": "Odyssey ", "reason": "liq 0<20k"}
+{"t": "2026-11-01 11:45:51 WIB", "mint": "x94ouReAXGWHfNnGokusmmfNttSNEXyfY4ZCQq9pump", "sym": "iTech", "reason": "score 0.528<0.6"}
