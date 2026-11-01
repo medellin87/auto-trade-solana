@@ -586,3 +586,7 @@
 {"t": "2026-11-01 12:01:19 WIB", "mint": "BnkbF7fcJtrbWRqw3Rec8CBnkj2aRLR3Bs9WEfvVpump", "sym": "Jcat", "reason": "liq 0<20k"}
 {"t": "2026-11-01 12:02:06 WIB", "mint": "4RGFCEspCXydaXwH4siYcyeNduY2MABG1nWsTUAjpump", "sym": "NNN", "reason": "vol1h 50<40k"}
 {"t": "2026-11-01 12:02:08 WIB", "mint": "J84L4fxm3WwKvxWYzcRwV1fgLyTTUGHZomX7VurSpump", "sym": "ELON", "reason": "vol1h 1119<40k"}
+{"t": "2026-11-01 12:08:59 WIB", "mint": "FSdaAXk12mqAR15fbfGxRE2v6SW3oeobb7LdaRf4DSYA", "sym": "HODL", "reason": "vol1h 31965<40k"}
+{"t": "2026-11-01 12:09:00 WIB", "mint": "EJtBCwYqNX7kQEPU38T7bxcfwjVFaXuPBYZY7Gwtpump", "sym": "IF", "reason": "vol1h 79<40k"}
+{"t": "2026-11-01 12:09:47 WIB", "mint": "J73efZvH6rkrJbFJdP2rqe473YJW7tyWmrNARUSzpump", "sym": "onlypump", "reason": "liq 2008<20k"}
+{"t": "2026-11-01 12:10:34 WIB", "mint": "DNxivTUF4ycZUzUxK6J3w7u5Fq3pSYvrXCTV5Vwwpump", "sym": "SS", "reason": "vol1h 26<40k"}
