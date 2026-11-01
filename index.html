@@ -1,13 +1,13 @@
 <!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Auto Trade Solana</title>
 <style>body{font-family:sans-serif;margin:10px;font-size:14px}h3{margin:12px 0 4px}.b{background:#fd0;padding:6px;font-weight:bold}div.r{border-bottom:1px solid #ddd;padding:3px 0;word-break:break-all}pre{white-space:pre-wrap;background:#f4f4f4;padding:6px}</style></head><body>
-<div class=b>PAPER / SIMULASI - data DexScreener asli</div><p><a href="lp/">Simulasi LP (Liquidity Provider) &rarr;</a> &middot; <a href="poly/">Backtest Polymarket &rarr;</a></p><div id=o>Memuat...</div>
+<div class=b>PAPER / SIMULASI - data DexScreener asli</div><p><a href="lp/">Simulasi LP (Liquidity Provider) &rarr;</a> &middot; <a href="poly/">Backtest Polymarket &rarr;</a></p><p style="font-size:12px">Catatan jujur: data kosong 31 Okt 20:32 - 1 Nov 08:22 WIB (server tidur, tidak diisi ulang). Sejak 1 Nov jalan di GitHub Actions; jeda 1-2 menit tiap ~6 jam.</p><div id=o>Memuat...</div>
 <script>
 const g=async f=>{try{let r=await fetch('data/'+f+'?'+Date.now());return r.ok?await r.text():''}catch(e){return ''}};
 const L=t=>t.trim().split('\n').filter(x=>x).map(x=>{try{return JSON.parse(x)}catch(e){return null}}).filter(x=>x);
 const ln=m=>`<a href="https://dexscreener.com/solana/${m}">${m}</a>`;
 async function u(){let s=await g('summary.txt'),st={};try{st=JSON.parse(await g('state.json'))}catch(e){}
 let tr=L(await g('trades.jsonl')).slice(-20).reverse(),k=L(await g('kills.jsonl')).slice(-10).reverse(),c=L(await g('cycles.jsonl')).pop()||{};
-let p=st.pos||{},h=`<h3>Ringkasan</h3><pre>${s}</pre><p>Scan terakhir: <b>${c.t||'-'}</b> (kandidat ${c.candidates??'-'})</p><h3>Posisi terbuka (${Object.keys(p).length})</h3>`;
+let p=st.pos||{},h=`<h3>Ringkasan</h3><pre>${s}</pre><p>Update terakhir: <b>${(await g('updated.txt'))||'-'}</b><br>Scan terakhir: <b>${c.t||'-'}</b> (kandidat ${c.candidates??'-'})</p><h3>Posisi terbuka (${Object.keys(p).length})</h3>`;
 for(let m in p)h+=`<div class=r>${ln(m)}<br>${JSON.stringify(p[m])}</div>`;
 h+=`<h3>Trade terakhir</h3>`+(tr.length?tr.map(t=>`<div class=r>${t.t||''} ${t.sym||''} ${t.side||t.type||''} ${t.pnl!=null?'PnL $'+(+t.pnl).toFixed(2):''} ${t.reason||''}<br>${ln(t.mint||'')}</div>`).join(''):'<p>Belum ada trade</p>');
 h+=`<h3>Token ditolak terakhir</h3>`+k.map(t=>`<div class=r>${t.t} <b>${t.sym}</b>: ${t.reason}<br>${ln(t.mint)}</div>`).join('');

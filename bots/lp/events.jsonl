@@ -1,0 +1,2 @@
+{"t": "2026-10-31 18:27:12 WIB", "ev": "start", "price": 95.68133555332054, "ranges": {"narrow": [86.11, 105.25], "wide": [71.76, 119.6]}}
+{"t":"2026-11-01 08:40:00 WIB","type":"gap","note":"Box sleep freeze 2026-10-31 20:32 to 2026-11-01 08:22 WIB: no data recorded, nothing backfilled. Moved to GitHub Actions."}
