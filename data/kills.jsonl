@@ -1,8 +1,3 @@
-{"t": "2026-11-02 04:21:01 WIB", "mint": "B2S4VXdYVGNMZ5L7m5vZzKrovbEERhstB35wyv1FVfns", "sym": "RAM", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 04:21:02 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 10872<40k"}
-{"t": "2026-11-02 04:21:49 WIB", "mint": "H6YyhyjYC8RDF3QsS8gbGgbWkpHHHhrvFJEamvP9pump", "sym": "$VOTE", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 04:21:51 WIB", "mint": "nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump", "sym": "ARNOLD", "reason": "vol1h 34452<40k"}
-{"t": "2026-11-02 04:22:37 WIB", "mint": "7gC3MqnSe7N8y7zr2QritQGKMspPc8fWNhDvoRD7pump", "sym": "$SPGR", "reason": "vol1h 1694<40k"}
 {"t": "2026-11-02 04:22:39 WIB", "mint": "Ch8jwaNjLDGPfx9q1dogZGjrkeCYyAUvzCNBj88Xpump", "sym": "BILLY", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 04:23:25 WIB", "mint": "7esyx6mVLo4VY1detFLPPowBV5oYxyV3TY2sJEXqpump", "sym": "NNN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 04:23:27 WIB", "mint": "9ULQLuhMkBwhUejwvuNtyCnAtwEjFt1o6ubjbEqLpump", "sym": "OP", "reason": "liq 0<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 04:39:03 WIB", "mint": "6MZ5FU36NKP9CZ1JWR4FzUbmB9FgekpvJDSxvADJpump", "sym": "REFORM", "reason": "vol1h 29685<40k"}
 {"t": "2026-11-02 04:39:50 WIB", "mint": "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump", "sym": "DogBoy", "reason": "vol1h 186<40k"}
 {"t": "2026-11-02 04:39:51 WIB", "mint": "HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip", "sym": "HYPEFAUCET", "reason": "vol1h 11448<40k"}
+{"t": "2026-11-02 04:41:23 WIB", "mint": "93VGqXL76voGxc43apJTDJoKkqnxTht1BKWoEmUypump", "sym": "PI", "reason": "liq 13952<20k"}
+{"t": "2026-11-02 04:41:25 WIB", "mint": "8gZMwbCgQu1RHXdSkW2M8AnZmXfXMvKbXPngG8D9pump", "sym": "Donald", "reason": "LP locked 61%<90"}
+{"t": "2026-11-02 04:41:26 WIB", "mint": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump", "sym": "WORTHLESS", "reason": "vol1h 128<40k"}
+{"t": "2026-11-02 04:42:13 WIB", "mint": "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump", "sym": "GTA 6 Coin", "reason": "vol1h 4014<40k"}
+{"t": "2026-11-02 04:43:00 WIB", "mint": "EH1xZpqyXevoMRGxqEH6UjtP5XbZu6Mr3QbdfM3tpump", "sym": "UpDown", "reason": "vol1h 17926<40k"}
