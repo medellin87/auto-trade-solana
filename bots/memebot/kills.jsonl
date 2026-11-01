@@ -952,3 +952,6 @@
 {"t": "2026-11-01 16:06:02 WIB", "mint": "4UK1TNpMDkijYzs2EycrbRN5nBcBSB2FbzWBTcNRpump", "sym": "SEI", "reason": "liq 0<20k"}
 {"t": "2026-11-01 16:06:05 WIB", "mint": "AMtnnzizALqZQJnfRRaG9mVfPBYqZuiKEUt8pQGTpump", "sym": "BTW", "reason": "vol1h 0<40k"}
 {"t": "2026-11-01 16:07:37 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1938<40k"}
+{"t": "2026-11-01 16:09:54 WIB", "mint": "6328FBEXHDbCKyHGvHrw8dVu7h1d9HUboSMB5DjEpump", "sym": "glorp", "reason": "vol1h 46<40k"}
+{"t": "2026-11-01 16:09:56 WIB", "mint": "HFQt5KezPQJudFi1YeJTmzdQQ64TtMrYpEcHTRbJpump", "sym": "Hypernut", "reason": "vol1h 0<40k"}
+{"t": "2026-11-01 16:09:57 WIB", "mint": "3sWJj7keJ9572cwTAEMyF1ssuLMp3W21qMiyiDS8pump", "sym": "inut", "reason": "vol1h 91<40k"}
