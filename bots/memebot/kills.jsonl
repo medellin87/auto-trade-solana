@@ -1413,3 +1413,5 @@
 {"t": "2026-11-01 21:21:02 WIB", "mint": "AJ6eC6ZY1DMkeYoM7iGXJBGr3EVJm4YZWxWHk74Vpump", "sym": "PR", "reason": "liq 0<20k"}
 {"t": "2026-11-01 21:21:49 WIB", "mint": "A5dNsPtfybYeUgKxw4pgKEHZSLLi1Fn9Td58oY8Wpump", "sym": "MOVEMBER", "reason": "vol1h 2245<40k"}
 {"t": "2026-11-01 21:23:21 WIB", "mint": "4s8PpvyFsg1EnZxSpogVdsVwMU2R8gg46rKABG3Bs6Tt", "sym": "Dante", "reason": "liq 0<20k"}
+{"t": "2026-11-01 21:25:38 WIB", "mint": "8tDU5HKKajCkwL6qWPQA1bbiFTmZvkN1VWEJ73c6pump", "sym": "GROKTYSON", "reason": "vol1h 20<40k"}
+{"t": "2026-11-01 21:25:40 WIB", "mint": "5L1efZj4ymwKfE4dUQf5rYVLBSL6eJL2xe9EGnHGpump", "sym": "MARVIN", "reason": "vol1h 0<40k"}
