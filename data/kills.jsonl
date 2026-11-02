@@ -1,14 +1,3 @@
-{"t": "2026-11-02 11:45:22 WIB", "mint": "afYcnoGhuKomcLRERYnXHuxNw4bkSWArS8Xy9Smpump", "sym": "ACC", "reason": "liq 0<20k"}
-{"t": "2026-11-02 11:46:08 WIB", "mint": "6eJVydkBQEj7ixuVAckfMiBGCy4ZTot16uvLbu1Ppump", "sym": "Solana500", "reason": "vol1h 318<40k"}
-{"t": "2026-11-02 11:46:55 WIB", "mint": "6G5cZQ84kwSV8wa8W2p1Hoasteumjk1bknysHDM1pump", "sym": "Kabosu", "reason": "vol1h 39716<40k"}
-{"t": "2026-11-02 11:46:56 WIB", "mint": "HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip", "sym": "HYPEFAUCET", "reason": "vol1h 1443<40k"}
-{"t": "2026-11-02 11:47:43 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 2252<40k"}
-{"t": "2026-11-02 11:48:30 WIB", "mint": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump", "sym": "WORTHLESS", "reason": "vol1h 32<40k"}
-{"t": "2026-11-02 11:49:16 WIB", "mint": "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump", "sym": "GTA 6 Coin", "reason": "vol1h 3842<40k"}
-{"t": "2026-11-02 11:49:18 WIB", "mint": "66Zp3XP87jzp7b5ezcwwct9fX9wgvgAu8rYJAkDFpump", "sym": "LEMMA", "reason": "vol1h 11<40k"}
-{"t": "2026-11-02 11:51:34 WIB", "mint": "7FWvCJrwYqL2M33edtaevpwRLQ4YZhW3jfdferYvpump", "sym": "Ragi", "reason": "liq 0<20k"}
-{"t": "2026-11-02 11:51:36 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 2330<40k"}
-{"t": "2026-11-02 11:53:53 WIB", "mint": "2wjjne2Z4VYX4AV7oWvK1gL83FLMHKtUpLN2FexEpump", "sym": "PIKA", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 11:55:24 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 5828<40k"}
 {"t": "2026-11-02 11:55:26 WIB", "mint": "2VsMRCfPZJgnGAtRQ7HGzLPpmz67EmRcUXmXYqtJpump", "sym": "hugpad", "reason": "vol1h 162<40k"}
 {"t": "2026-11-02 11:55:27 WIB", "mint": "BeD6z2v5n9SuwXtuaVX6WZPiKorvYTb7SbhAvVo2pump", "sym": "Creator", "reason": "vol1h 0<40k"}
@@ -28,3 +17,14 @@
 {"t": "2026-11-02 12:03:21 WIB", "mint": "6ZZbDXkeH8aDg1hp8tGgUo3AZZmftK6i5xWvy69gpump", "sym": "DOVE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 12:04:10 WIB", "mint": "5PdYyJcT7q6AWw4hY98R7vzntNnjXNidCcdUKgZ7pump", "sym": "MEME", "reason": "vol1h 8276<40k"}
 {"t": "2026-11-02 12:04:12 WIB", "mint": "Hb1dtD8bkU2M2fYQ552UYzcbLUn1NgE8kvvtc1j1pump", "sym": "Peace", "reason": "liq 7386<20k"}
+{"t": "2026-11-02 12:05:43 WIB", "mint": "5sQyLNyzJSHAsEBXKdxTdBtneXkvQQaDZX5JjtDdpump", "sym": "MEIMEI", "reason": "vol1h 542<40k"}
+{"t": "2026-11-02 12:05:45 WIB", "mint": "7Ypg1rKLu8q32E1AQEDjaPCg8dfGeCSsMkFnK98zcash", "sym": "1993", "reason": "vol1h 7037<40k"}
+{"t": "2026-11-02 12:05:46 WIB", "mint": "4wmT5vPBJ3iiFRmNhciCZ67yasiXSjzz3g9VukXrpump", "sym": "HOPE", "reason": "liq 14491<20k"}
+{"t": "2026-11-02 12:05:48 WIB", "mint": "CcFhiQsoVcsC4qEAtytSrVXP7gS3ZRecgv7K3bKFpump", "sym": "USAGEBOT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 12:05:49 WIB", "mint": "HyXUTnyNp4noQRddxSUb6FjFsjv6jJtiEYBgAwanpump", "sym": "Heidou", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 12:06:36 WIB", "mint": "F3q2mwxMz4bieoDgZDKbKdHJVVEUTBM2a1yGeQiHpump", "sym": "INU", "reason": "liq 1896<20k"}
+{"t": "2026-11-02 12:06:37 WIB", "mint": "H86pLyqzZMim3pxrC29YWsMKoxL6xGFM1nQyVtyRpump", "sym": "Warcoin", "reason": "liq 0<20k"}
+{"t": "2026-11-02 12:06:39 WIB", "mint": "2yZyDmMj6PD1LFh8TpeeezHhDcfS4uWsPvNddKh6pump", "sym": "WARDOG", "reason": "vol1h 33502<40k"}
+{"t": "2026-11-02 12:07:26 WIB", "mint": "9f34Wu8zTYo8P8i7pz1NWxNhQBfHZjzfwu4p9htkpump", "sym": "SCAM", "reason": "vol1h 164<40k"}
+{"t": "2026-11-02 12:08:12 WIB", "mint": "4hdA5F5TJiEeH59XrYjESYrqMuR4aBrwPxuNwijLpump", "sym": "NNH", "reason": "vol1h 37792<40k"}
+{"t": "2026-11-02 12:08:14 WIB", "mint": "J1D3X8znX4AzUPMHVWyBLNHqBBqWDPNSjX4KwK3Qpump", "sym": "CUMFACE", "reason": "vol1h 2<40k"}
