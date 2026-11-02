@@ -1,8 +1,3 @@
-{"t": "2026-11-03 01:45:33 WIB", "mint": "GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump", "sym": "WWIII", "reason": "vol1h 4648<40k"}
-{"t": "2026-11-03 01:46:20 WIB", "mint": "5q3qz1ajtbS8aBvcCMU63sK3YKWs7c5kqtrkeZLBpump", "sym": "YELU", "reason": "vol1h 18666<40k"}
-{"t": "2026-11-03 01:48:37 WIB", "mint": "7ha4HFgdvkXaDcR2biCsuBpoCZzoLSRjb5we34Gbpump", "sym": "KOROSUKE", "reason": "vol1h 262<40k"}
-{"t": "2026-11-03 01:48:38 WIB", "mint": "ALTRgkReDWGmhisjTXwqHvbZRUcVoJicj54bQzVCpump", "sym": "PizzaGate", "reason": "liq 0<20k"}
-{"t": "2026-11-03 01:49:26 WIB", "mint": "5LoukJze454D696R3nGUiUQDGvsTaaakbmC3kQTcpump", "sym": "NULL", "reason": "liq 2646<20k"}
 {"t": "2026-11-03 01:49:27 WIB", "mint": "wLjTQSsKmoy9pjE7ZcdtU1Vf5HKhKPU2piR3vXGpump", "sym": "HACKCAT", "reason": "vol1h 10898<40k"}
 {"t": "2026-11-03 01:50:14 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 9641<40k"}
 {"t": "2026-11-03 01:51:01 WIB", "mint": "9QXux7boKcnA5eoHvXTUhGCEQQRr6F1AKrmBd3gRpump", "sym": "Mutant", "reason": "liq 0<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-03 02:07:21 WIB", "mint": "72CX8WvQGjaskciUUJCmhbvnxyakH6XyEGQo2of4K8Bn", "sym": "ANTI", "reason": "vol1h 2766<40k"}
 {"t": "2026-11-03 02:07:22 WIB", "mint": "7LzPdsBxMoR9FrjgizvxNRvDtjGSP423quJ4M7Jqpump", "sym": "Slingoor", "reason": "liq 1785<20k"}
 {"t": "2026-11-03 02:07:24 WIB", "mint": "4MnM6aAuayLRhejDSuiaEm2QGyR4ye4Sxhdywt37pump", "sym": "SLINGOOR", "reason": "liq 1887<20k"}
+{"t": "2026-11-03 02:08:10 WIB", "mint": "9nutvj678qvbouYKqHkSJu3n5cQUEZw42wtPdjekpump", "sym": "horse", "reason": "liq 9825<20k"}
+{"t": "2026-11-03 02:08:12 WIB", "mint": "iMgKSjuSjqJ8HHfHA4V9E1YvkDbf8Rjdeju8iKUpump", "sym": "SCRIMM", "reason": "vol1h 2104<40k"}
+{"t": "2026-11-03 02:08:58 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 02:09:00 WIB", "mint": "8nDq2s5pmGn7jGRkawHe2d4eYcr7G1DetbYTWovspump", "sym": "SCROOGE", "reason": "vol1h 12267<40k"}
+{"t": "2026-11-03 02:10:32 WIB", "mint": "FMmmuDrCwe9ZzsVz7enjGqgrjBFp8a283nZ7jbTrpump", "sym": "Boba", "reason": "liq 0<20k"}
