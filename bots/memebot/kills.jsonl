@@ -3758,3 +3758,6 @@
 {"t": "2026-11-02 22:52:07 WIB", "mint": "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump", "sym": "FEAR", "reason": "liq 18636<20k"}
 {"t": "2026-11-02 22:52:09 WIB", "mint": "93VGqXL76voGxc43apJTDJoKkqnxTht1BKWoEmUypump", "sym": "PI", "reason": "vol1h 30778<40k"}
 {"t": "2026-11-02 22:52:56 WIB", "mint": "DpFTvLaHfQgBaHQ8Sd8kGECpGM8tuNf4YrHxhrycpump", "sym": "FEE", "reason": "vol1h 2865<40k"}
+{"t": "2026-11-02 22:54:27 WIB", "mint": "BfDMBWeDDRiM6nw7QvNnuwTnRcrkJWef6axKRUHmpump", "sym": "BabySling", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 22:54:29 WIB", "mint": "6KNuB69cuN2UyYxNeRS7NnVYzSaAxFF6gL3UrPuUpump", "sym": "Stirner", "reason": "vol1h 21454<40k"}
+{"t": "2026-11-02 22:55:16 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 709<40k"}
