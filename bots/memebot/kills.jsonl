@@ -2444,3 +2444,7 @@
 {"t": "2026-11-02 08:34:06 WIB", "mint": "3fMeC3iQZqAc7pMGBcJGk1vNBxVwYzumo22mqiGTHzpZ", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-02 08:34:07 WIB", "mint": "HyXUTnyNp4noQRddxSUb6FjFsjv6jJtiEYBgAwanpump", "sym": "Heidou", "reason": "liq 2406<20k"}
 {"t": "2026-11-02 08:36:26 WIB", "mint": "J1D3X8znX4AzUPMHVWyBLNHqBBqWDPNSjX4KwK3Qpump", "sym": "CUMFACE", "reason": "vol1h 1955<40k"}
+{"t": "2026-11-02 08:37:13 WIB", "mint": "DVDni8iUAkYwdeDtWTBDuZK43nKakSB3z5MQ6q5Kpump", "sym": "shegoin", "reason": "vol1h 5587<40k"}
+{"t": "2026-11-02 08:38:00 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.406<0.6"}
+{"t": "2026-11-02 08:38:01 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 647<40k"}
+{"t": "2026-11-02 08:39:33 WIB", "mint": "7yhyJaE5AcNyUGVcfmATy5AxcgFfq1Jtvw71BjGcpump", "sym": "megatron", "reason": "liq 0<20k"}
