@@ -3494,3 +3494,8 @@
 {"t": "2026-11-02 19:29:28 WIB", "mint": "GvaRQbKqsjkcgTmZbaYfuSaJRin5A27JV298MdQbpump", "sym": "NOTHING", "reason": "vol1h 7340<40k"}
 {"t": "2026-11-02 19:30:14 WIB", "mint": "7FWvCJrwYqL2M33edtaevpwRLQ4YZhW3jfdferYvpump", "sym": "Ragi", "reason": "vol1h 889<40k"}
 {"t": "2026-11-02 19:32:31 WIB", "mint": "6d6J2kWJiimgqmxjLVTu31hxDyBFt2zBguYdjSripump", "sym": "thisman", "reason": "vol1h 13357<40k"}
+{"t": "2026-11-02 19:33:18 WIB", "mint": "DvckCkEGw9m2dYuomkrQkfrkXzdXiuwrCXvbvStHpump", "sym": "Artifact", "reason": "liq 0<20k"}
+{"t": "2026-11-02 19:34:04 WIB", "mint": "8mmr1QPRHewNtaK97qht9uXAgHWA2AGh9T4RCYc5pump", "sym": "FAF", "reason": "vol1h 8556<40k"}
+{"t": "2026-11-02 19:34:51 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 19:34:52 WIB", "mint": "9XHBZsbuhNTjrLVGvyv2hDHaE3GgVj2XoTBjpSc6pump", "sym": "VADER", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 19:35:39 WIB", "mint": "HRsh7U2bnjwDCaGMqBXExiaQvQRjDmebLUzheieYiBCC", "sym": "?", "reason": "no solana pair"}
