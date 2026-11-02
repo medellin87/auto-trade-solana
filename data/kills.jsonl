@@ -1,8 +1,3 @@
-{"t": "2026-11-02 12:05:46 WIB", "mint": "4wmT5vPBJ3iiFRmNhciCZ67yasiXSjzz3g9VukXrpump", "sym": "HOPE", "reason": "liq 14491<20k"}
-{"t": "2026-11-02 12:05:48 WIB", "mint": "CcFhiQsoVcsC4qEAtytSrVXP7gS3ZRecgv7K3bKFpump", "sym": "USAGEBOT", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 12:05:49 WIB", "mint": "HyXUTnyNp4noQRddxSUb6FjFsjv6jJtiEYBgAwanpump", "sym": "Heidou", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 12:06:36 WIB", "mint": "F3q2mwxMz4bieoDgZDKbKdHJVVEUTBM2a1yGeQiHpump", "sym": "INU", "reason": "liq 1896<20k"}
-{"t": "2026-11-02 12:06:37 WIB", "mint": "H86pLyqzZMim3pxrC29YWsMKoxL6xGFM1nQyVtyRpump", "sym": "Warcoin", "reason": "liq 0<20k"}
 {"t": "2026-11-02 12:06:39 WIB", "mint": "2yZyDmMj6PD1LFh8TpeeezHhDcfS4uWsPvNddKh6pump", "sym": "WARDOG", "reason": "vol1h 33502<40k"}
 {"t": "2026-11-02 12:07:26 WIB", "mint": "9f34Wu8zTYo8P8i7pz1NWxNhQBfHZjzfwu4p9htkpump", "sym": "SCAM", "reason": "vol1h 164<40k"}
 {"t": "2026-11-02 12:08:12 WIB", "mint": "4hdA5F5TJiEeH59XrYjESYrqMuR4aBrwPxuNwijLpump", "sym": "NNH", "reason": "vol1h 37792<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 12:24:32 WIB", "mint": "2wjjne2Z4VYX4AV7oWvK1gL83FLMHKtUpLN2FexEpump", "sym": "PIKA", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 12:26:03 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 6470<40k"}
 {"t": "2026-11-02 12:26:50 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 12:28:22 WIB", "mint": "64aLKvdq6RVDR19wynfF65VSnhiPQJyEC9hwBWi8grow", "sym": "GROWER", "reason": "vol1h 20336<40k"}
+{"t": "2026-11-02 12:28:23 WIB", "mint": "7sgu7H7zP2xt1AXqRzjcWMrZYvip3ML1fH7vhixDpump", "sym": "TIND", "reason": "vol1h 298<40k"}
+{"t": "2026-11-02 12:28:25 WIB", "mint": "FwP9DwoHvCBhRdrvF2pN6iTDRNnUcz2251rEAAFZpump", "sym": "APC", "reason": "vol1h 5063<40k"}
+{"t": "2026-11-02 12:29:11 WIB", "mint": "DKSBXMtJaJQYsi8rFegxzZJZDXvK3JDai56YZ7CRpump", "sym": "Unseen", "reason": "liq 12866<20k"}
+{"t": "2026-11-02 12:29:58 WIB", "mint": "mb9PoUuicZgj2tgZ9Ze95XiaKUZgmQegCewitj5pump", "sym": "XAR", "reason": "liq 0<20k"}
