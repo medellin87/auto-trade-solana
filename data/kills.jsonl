@@ -1,8 +1,3 @@
-{"t": "2026-11-02 12:26:50 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 12:28:22 WIB", "mint": "64aLKvdq6RVDR19wynfF65VSnhiPQJyEC9hwBWi8grow", "sym": "GROWER", "reason": "vol1h 20336<40k"}
-{"t": "2026-11-02 12:28:23 WIB", "mint": "7sgu7H7zP2xt1AXqRzjcWMrZYvip3ML1fH7vhixDpump", "sym": "TIND", "reason": "vol1h 298<40k"}
-{"t": "2026-11-02 12:28:25 WIB", "mint": "FwP9DwoHvCBhRdrvF2pN6iTDRNnUcz2251rEAAFZpump", "sym": "APC", "reason": "vol1h 5063<40k"}
-{"t": "2026-11-02 12:29:11 WIB", "mint": "DKSBXMtJaJQYsi8rFegxzZJZDXvK3JDai56YZ7CRpump", "sym": "Unseen", "reason": "liq 12866<20k"}
 {"t": "2026-11-02 12:29:58 WIB", "mint": "mb9PoUuicZgj2tgZ9Ze95XiaKUZgmQegCewitj5pump", "sym": "XAR", "reason": "liq 0<20k"}
 {"t": "2026-11-02 12:30:44 WIB", "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump", "sym": "Anakin", "reason": "vol1h 29382<40k"}
 {"t": "2026-11-02 12:30:46 WIB", "mint": "aCTVSzP5ab9hSewSc8M9Ltfq9uT2YJcjSq4Feuopump", "sym": "Cybercoin", "reason": "liq 0<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 12:40:20 WIB", "mint": "DVDni8iUAkYwdeDtWTBDuZK43nKakSB3z5MQ6q5Kpump", "sym": "shegoin", "reason": "vol1h 711<40k"}
 {"t": "2026-11-02 12:41:07 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.367<0.6"}
 {"t": "2026-11-02 12:41:08 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 540<40k"}
+{"t": "2026-11-02 12:42:40 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 6515<40k"}
+{"t": "2026-11-02 12:43:27 WIB", "mint": "DUUxG3Qa23MNfHjnKVdzjrtFvzMUcB9AuNNvRvpdpump", "sym": "PEPE2", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 12:44:13 WIB", "mint": "7G36iB8rmCjtik3X68siSPxXXnsypXqzxdbJoajQpump", "sym": "WARCAT", "reason": "vol1h 30200<40k"}
+{"t": "2026-11-02 12:44:15 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 12:45:01 WIB", "mint": "7EVy23dRxtL4xGKXWZbpfs7WtH2TKTnHNNBr7D86pump", "sym": "DOGE", "reason": "vol1h 97<40k"}
