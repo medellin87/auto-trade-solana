@@ -2385,3 +2385,12 @@
 {"t": "2026-11-02 08:00:56 WIB", "mint": "G6xkhEG11goAnfGeEu8gxpy7RvNhhbCswScEmJWqkuip", "sym": "KUIP", "reason": "vol1h 12384<40k"}
 {"t": "2026-11-02 08:00:57 WIB", "mint": "3xiMEfyFAWZCVzWQi6j7DXnXL6MAaUkoLoAETBW8VPVE", "sym": "PVE", "reason": "liq 1813<20k"}
 {"t": "2026-11-02 08:01:44 WIB", "mint": "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump", "sym": "Peekhole", "reason": "vol1h 6604<40k"}
+{"t": "2026-11-02 08:03:16 WIB", "mint": "BkpjfE6myLuNJcYo6kmHqVrTS7B6t86Hf4fScYMEpump", "sym": "TREMP", "reason": "liq 0<20k"}
+{"t": "2026-11-02 08:03:17 WIB", "mint": "7Ypg1rKLu8q32E1AQEDjaPCg8dfGeCSsMkFnK98zcash", "sym": "1993", "reason": "vol1h 2068<40k"}
+{"t": "2026-11-02 08:03:19 WIB", "mint": "Hjo8danmhLmHRzjLN8tJ2vYne4ZDJSoVefTjGLUApump", "sym": "pain", "reason": "vol1h 30149<40k"}
+{"t": "2026-11-02 08:03:20 WIB", "mint": "EAu7C4RUPtFWG1G2vUBQPJufEiXX4Z5mmuadjEsKpump", "sym": "DOGE", "reason": "vol1h 19145<40k"}
+{"t": "2026-11-02 08:03:22 WIB", "mint": "Dtxe7UqnE83MqaJjrVGcdm67pv74qi523XUXRSCBpump", "sym": "LAZARUS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 08:03:23 WIB", "mint": "3fMeC3iQZqAc7pMGBcJGk1vNBxVwYzumo22mqiGTHzpZ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-02 08:03:25 WIB", "mint": "HyXUTnyNp4noQRddxSUb6FjFsjv6jJtiEYBgAwanpump", "sym": "Heidou", "reason": "vol1h 30600<40k"}
+{"t": "2026-11-02 08:05:42 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 08:05:43 WIB", "mint": "J1D3X8znX4AzUPMHVWyBLNHqBBqWDPNSjX4KwK3Qpump", "sym": "CUMFACE", "reason": "vol1h 2655<40k"}
