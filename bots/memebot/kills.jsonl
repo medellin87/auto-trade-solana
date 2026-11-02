@@ -4410,3 +4410,7 @@
 {"t": "2026-11-03 05:54:42 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 4778<40k"}
 {"t": "2026-11-03 05:55:28 WIB", "mint": "7DCPaKdsfdKxPLq9ahZyzQExrLJoKRZeQbWRnoh9pump", "sym": "N1N", "reason": "vol1h 0<40k"}
 {"t": "2026-11-03 05:55:30 WIB", "mint": "57oBeZa8VsB7sK9v4iiVM8uRLgpeKAbpSbfTjH2npump", "sym": "NUMB", "reason": "vol1h 12<40k"}
+{"t": "2026-11-03 05:57:03 WIB", "mint": "7o2nQFpxhrH2qsw19waKGoMe1ANC9eFomeTYe4JUpump", "sym": "CAN", "reason": "liq 0<20k"}
+{"t": "2026-11-03 05:57:05 WIB", "mint": "7zpiz6sXWste3jV1LXjogbR263J9XSBaA16HLGHbpump", "sym": "DIED", "reason": "vol1h 19638<40k"}
+{"t": "2026-11-03 05:57:53 WIB", "mint": "nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump", "sym": "ARNOLD", "reason": "vol1h 8084<40k"}
+{"t": "2026-11-03 05:58:40 WIB", "mint": "93KYmXmMCLHEmGMKH6x1qX2LDZh42JH2nkoJgEZxpump", "sym": "BMax", "reason": "vol1h 423<40k"}
