@@ -1,8 +1,3 @@
-{"t": "2026-11-02 17:32:40 WIB", "mint": "9XHBZsbuhNTjrLVGvyv2hDHaE3GgVj2XoTBjpSc6pump", "sym": "VADER", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 17:33:27 WIB", "mint": "HRsh7U2bnjwDCaGMqBXExiaQvQRjDmebLUzheieYiBCC", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-02 17:34:14 WIB", "mint": "7sgu7H7zP2xt1AXqRzjcWMrZYvip3ML1fH7vhixDpump", "sym": "TIND", "reason": "vol1h 136<40k"}
-{"t": "2026-11-02 17:34:15 WIB", "mint": "F17yBcN7vhxNdWmSmoLf3FZc7Y4UdyvW2i7NdMFeSQqw", "sym": "BUNK", "reason": "liq 0<20k"}
-{"t": "2026-11-02 17:35:02 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1912<40k"}
 {"t": "2026-11-02 17:35:48 WIB", "mint": "gg1zQUgUoXd8hVmkTmLooyzC1QBT1cvJDnCXHLPpump", "sym": "CI", "reason": "vol1h 1<40k"}
 {"t": "2026-11-02 17:36:35 WIB", "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump", "sym": "Anakin", "reason": "vol1h 7667<40k"}
 {"t": "2026-11-02 17:36:36 WIB", "mint": "7NwMcsud7zxu1L4XkHkyjHQFMq8Zazk5dGQqBuUppump", "sym": "OILCOIN", "reason": "vol1h 33393<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 17:46:54 WIB", "mint": "7hjmNRSPGoawymsMnrzSwECJu9bxbkPwpmf85P8Upump", "sym": "DogBoy", "reason": "vol1h 1736<40k"}
 {"t": "2026-11-02 17:46:55 WIB", "mint": "7F3N3U5Dpg1dVrtes5SxxTp3VXcvBcXrbKtuwuGbqE8f", "sym": "BOOSTX", "reason": "liq 0<20k"}
 {"t": "2026-11-02 17:46:58 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.504<0.6"}
+{"t": "2026-11-02 17:48:29 WIB", "mint": "zttJSZyD67hzNrJ1RKKUsZ1Hya4vfxYRjdQABvppump", "sym": "ww3", "reason": "liq 1991<20k"}
+{"t": "2026-11-02 17:48:31 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 3075<40k"}
+{"t": "2026-11-02 17:49:17 WIB", "mint": "5LzxH9n4Nb6r3crThMwdjWuC7PFtQL3sXjwkb2Fcpump", "sym": "OFFICE", "reason": "vol1h 20<40k"}
+{"t": "2026-11-02 17:50:04 WIB", "mint": "HBUVp1swazz2WyVgtHFWV8jfErXFpm8Nn5GSiG7VqHzW", "sym": "OKCAT", "reason": "vol1h 6478<40k"}
+{"t": "2026-11-02 17:50:05 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 49<40k"}
