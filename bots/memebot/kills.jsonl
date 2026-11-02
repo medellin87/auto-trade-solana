@@ -2766,3 +2766,7 @@
 {"t": "2026-11-02 11:36:48 WIB", "mint": "9f34Wu8zTYo8P8i7pz1NWxNhQBfHZjzfwu4p9htkpump", "sym": "SCAM", "reason": "vol1h 3685<40k"}
 {"t": "2026-11-02 11:37:35 WIB", "mint": "4hdA5F5TJiEeH59XrYjESYrqMuR4aBrwPxuNwijLpump", "sym": "NNH", "reason": "liq 1999<20k"}
 {"t": "2026-11-02 11:37:36 WIB", "mint": "J1D3X8znX4AzUPMHVWyBLNHqBBqWDPNSjX4KwK3Qpump", "sym": "CUMFACE", "reason": "vol1h 1<40k"}
+{"t": "2026-11-02 11:39:08 WIB", "mint": "DVDni8iUAkYwdeDtWTBDuZK43nKakSB3z5MQ6q5Kpump", "sym": "shegoin", "reason": "vol1h 4037<40k"}
+{"t": "2026-11-02 11:39:55 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.421<0.6"}
+{"t": "2026-11-02 11:39:57 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 1283<40k"}
+{"t": "2026-11-02 11:40:43 WIB", "mint": "6Bd8ggDGEes7P14zdCP6pityFvxi1gURmqjWqwtupump", "sym": "$PURE", "reason": "vol1h 1516<40k"}
