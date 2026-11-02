@@ -3972,3 +3972,8 @@
 {"t": "2026-11-03 01:07:53 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 53<40k"}
 {"t": "2026-11-03 01:07:55 WIB", "mint": "BycqRx7ztaUJ8eZrZ84GSRX4h7jfnTjpcHAQ2KLkpump", "sym": "UPLINK", "reason": "liq 0<20k"}
 {"t": "2026-11-03 01:07:56 WIB", "mint": "8nDq2s5pmGn7jGRkawHe2d4eYcr7G1DetbYTWovspump", "sym": "SCROOGE", "reason": "vol1h 34464<40k"}
+{"t": "2026-11-03 01:10:59 WIB", "mint": "DtspS4D5sX9rZqi5oeWnd8YFQsCsqkrwmuR4NvAYpump", "sym": "SELFBET", "reason": "top10 32.2%>25"}
+{"t": "2026-11-03 01:11:01 WIB", "mint": "9rj8gESodSHTT6hS65RsBNqrKcCyL8m1ehSNxY2spump", "sym": "ZEN", "reason": "vol1h 3904<40k"}
+{"t": "2026-11-03 01:11:47 WIB", "mint": "paprbywJSpuiCTq7v8CYrSvtas7JFSYe7SiEMVdJj3t", "sym": "Papr", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 01:11:49 WIB", "mint": "EPLZAaWz7tDWeSD9bWnZRHtNDtiTB23nc3uHcYa5pump", "sym": "Karl", "reason": "liq 0<20k"}
+{"t": "2026-11-03 01:11:50 WIB", "mint": "J34sjwqUYsicH2A6aNoMn91MAPYkUUdXsyfFBLBNDoLL", "sym": "DOLLARSE", "reason": "vol1h 882<40k"}
