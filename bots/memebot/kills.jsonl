@@ -4305,3 +4305,8 @@
 {"t": "2026-11-03 04:53:03 WIB", "mint": "FqmuGbw5jtX5D8vsNvEG5M83py2s3RcWyxbWczw3pump", "sym": "BingBingBing", "reason": "vol1h 1896<40k"}
 {"t": "2026-11-03 04:53:50 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 3865<40k"}
 {"t": "2026-11-03 04:53:51 WIB", "mint": "zD3jimD97YkcjMucBEmwZ6fUV7N4wjzz8Revkwmpump", "sym": "ANSEMKIN", "reason": "vol1h 24752<40k"}
+{"t": "2026-11-03 04:54:38 WIB", "mint": "7DCPaKdsfdKxPLq9ahZyzQExrLJoKRZeQbWRnoh9pump", "sym": "N1N", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 04:54:39 WIB", "mint": "57oBeZa8VsB7sK9v4iiVM8uRLgpeKAbpSbfTjH2npump", "sym": "NUMB", "reason": "vol1h 309<40k"}
+{"t": "2026-11-03 04:55:26 WIB", "mint": "ExoA74hEH7Bjby9X5VPsj3xtUgVzZCLXr1AvJMMRKVj1", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-03 04:56:58 WIB", "mint": "ohDvYwXKGneAyUGDpjB7NgGPbL27Zf9NPAZtftAepig", "sym": "PIGGY", "reason": "liq 0<20k"}
+{"t": "2026-11-03 04:56:59 WIB", "mint": "nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump", "sym": "ARNOLD", "reason": "score 0.234<0.6"}
