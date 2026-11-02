@@ -4439,3 +4439,7 @@
 {"t": "2026-11-03 06:12:07 WIB", "mint": "FmFqGGrst9vmzbiRq7sW1iNkdz4QccUCjfpm3trjpump", "sym": "tok", "reason": "liq 1936<20k"}
 {"t": "2026-11-03 06:12:08 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 39380<40k"}
 {"t": "2026-11-03 06:13:40 WIB", "mint": "DGABeuEpJUMNaeiUJPCLEb4VWjUPTVMj14wUtnMapump", "sym": "IRL", "reason": "vol1h 20515<40k"}
+{"t": "2026-11-03 06:15:12 WIB", "mint": "BQ9fzb12MB6XuQdAYLSgZBG1myMY1xmoWW4Z2DFDpump", "sym": "CAMPUS", "reason": "liq 2175<20k"}
+{"t": "2026-11-03 06:15:13 WIB", "mint": "AZns8wN87TixAgamEPLZQnee34c5beidv41X1SQDpump", "sym": "FINDER", "reason": "vol1h 27084<40k"}
+{"t": "2026-11-03 06:16:45 WIB", "mint": "E389Ue3299uQTTSZB7E5Kz6Gn11K34KLMzaFQwGJpump", "sym": "POF", "reason": "vol1h 25205<40k"}
+{"t": "2026-11-03 06:17:32 WIB", "mint": "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump", "sym": "FEAR", "reason": "vol1h 27993<40k"}
