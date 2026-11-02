@@ -1,8 +1,3 @@
-{"t": "2026-11-02 08:32:27 WIB", "mint": "2Nyb2GXVoXM42hVQxJg5RppTbiN5SCZFL4LtZVVDpump", "sym": "Peekhole", "reason": "vol1h 9132<40k"}
-{"t": "2026-11-02 08:33:58 WIB", "mint": "BkpjfE6myLuNJcYo6kmHqVrTS7B6t86Hf4fScYMEpump", "sym": "TREMP", "reason": "liq 0<20k"}
-{"t": "2026-11-02 08:34:00 WIB", "mint": "7Ypg1rKLu8q32E1AQEDjaPCg8dfGeCSsMkFnK98zcash", "sym": "1993", "reason": "vol1h 29361<40k"}
-{"t": "2026-11-02 08:34:01 WIB", "mint": "Hjo8danmhLmHRzjLN8tJ2vYne4ZDJSoVefTjGLUApump", "sym": "pain", "reason": "liq 0<20k"}
-{"t": "2026-11-02 08:34:03 WIB", "mint": "EAu7C4RUPtFWG1G2vUBQPJufEiXX4Z5mmuadjEsKpump", "sym": "DOGE", "reason": "vol1h 12452<40k"}
 {"t": "2026-11-02 08:34:04 WIB", "mint": "Dtxe7UqnE83MqaJjrVGcdm67pv74qi523XUXRSCBpump", "sym": "LAZARUS", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 08:34:06 WIB", "mint": "3fMeC3iQZqAc7pMGBcJGk1vNBxVwYzumo22mqiGTHzpZ", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-02 08:34:07 WIB", "mint": "HyXUTnyNp4noQRddxSUb6FjFsjv6jJtiEYBgAwanpump", "sym": "Heidou", "reason": "liq 2406<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 08:49:44 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 9273<40k"}
 {"t": "2026-11-02 08:52:01 WIB", "mint": "2qLzLhq7E3qA9emGLD9CbDkKqWTDQJknPAChLcXMpump", "sym": "ni", "reason": "vol1h 34830<40k"}
 {"t": "2026-11-02 08:52:02 WIB", "mint": "2wjjne2Z4VYX4AV7oWvK1gL83FLMHKtUpLN2FexEpump", "sym": "PIKA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 08:52:49 WIB", "mint": "hGnq61eaqzbevXivCkriSexcKC6en7WazSrLoJUpump", "sym": "THAWN", "reason": "liq 0<20k"}
+{"t": "2026-11-02 08:52:50 WIB", "mint": "E2Y6k3e6LauUoMS11vVz3k2toXmh77n8HGicZygRpump", "sym": "BLOBBO", "reason": "liq 0<20k"}
+{"t": "2026-11-02 08:53:37 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 4548<40k"}
+{"t": "2026-11-02 08:54:24 WIB", "mint": "BTChZcPZNtNQbXCJqhcsWr4sWz2k2T3v5fKBbtrpCarE", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 08:54:25 WIB", "mint": "9d4vccabSECYYYpaz5fFGEPBzMBS1mzmoQbnAMKqpump", "sym": "Stone", "reason": "vol1h 111<40k"}
