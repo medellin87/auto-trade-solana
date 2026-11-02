@@ -2361,3 +2361,6 @@
 {"t": "2026-11-02 07:46:00 WIB", "mint": "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump", "sym": "GTA 6 Coin", "reason": "vol1h 4823<40k"}
 {"t": "2026-11-02 07:46:47 WIB", "mint": "CkjuA25BfjLeHA3nfovFnJu1aNkZaMFiMctMuVrLGpy1", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-02 07:47:34 WIB", "mint": "9QzXpQV946rbVs3yADNqdQ1JWz2LgWdNGmxHG5Eppump", "sym": "Camry", "reason": "liq 0<20k"}
+{"t": "2026-11-02 07:48:20 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 9869<40k"}
+{"t": "2026-11-02 07:48:22 WIB", "mint": "74Np8Ga5DomwZVx5bZBGFcHgFavPhgkvkJ2LPdWdpump", "sym": "MIDTERMS", "reason": "liq 9229<20k"}
+{"t": "2026-11-02 07:50:39 WIB", "mint": "2wjjne2Z4VYX4AV7oWvK1gL83FLMHKtUpLN2FexEpump", "sym": "PIKA", "reason": "vol1h 0<40k"}
