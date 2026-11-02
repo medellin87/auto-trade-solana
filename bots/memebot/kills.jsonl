@@ -3367,3 +3367,7 @@
 {"t": "2026-11-02 18:07:59 WIB", "mint": "BnX42wN82J4NHqz2dCY9YUaNzJHLYqrS3gRC72Z1AesP", "sym": "\u30de\u30a4\u30ed", "reason": "liq 0<20k"}
 {"t": "2026-11-02 18:08:45 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 2583<40k"}
 {"t": "2026-11-02 18:08:47 WIB", "mint": "9eSADsbK3VM6tE1J2hkQtXnxuVRWqq25uiQZdm2spump", "sym": "Wassup", "reason": "vol1h 281<40k"}
+{"t": "2026-11-02 18:09:34 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.475<0.6"}
+{"t": "2026-11-02 18:11:06 WIB", "mint": "GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump", "sym": "WWIII", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-02 18:11:53 WIB", "mint": "EPcHDXD3P23KcQsHyZYZLAx8odhgh1ELNnGL5szgpump", "sym": "Bert", "reason": "liq 1966<20k"}
+{"t": "2026-11-02 18:11:54 WIB", "mint": "99V36NFUcueC2tHjd1JV5bfhFux73NKWRiSBnxJ8pump", "sym": "faucet", "reason": "vol1h 3346<40k"}
