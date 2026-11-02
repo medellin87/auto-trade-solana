@@ -2774,3 +2774,7 @@
 {"t": "2026-11-02 11:43:02 WIB", "mint": "7G36iB8rmCjtik3X68siSPxXXnsypXqzxdbJoajQpump", "sym": "WARCAT", "reason": "vol1h 16935<40k"}
 {"t": "2026-11-02 11:43:03 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 33<40k"}
 {"t": "2026-11-02 11:43:50 WIB", "mint": "7EVy23dRxtL4xGKXWZbpfs7WtH2TKTnHNNBr7D86pump", "sym": "DOGE", "reason": "vol1h 6529<40k"}
+{"t": "2026-11-02 11:45:22 WIB", "mint": "afYcnoGhuKomcLRERYnXHuxNw4bkSWArS8Xy9Smpump", "sym": "ACC", "reason": "liq 0<20k"}
+{"t": "2026-11-02 11:46:08 WIB", "mint": "6eJVydkBQEj7ixuVAckfMiBGCy4ZTot16uvLbu1Ppump", "sym": "Solana500", "reason": "vol1h 318<40k"}
+{"t": "2026-11-02 11:46:55 WIB", "mint": "6G5cZQ84kwSV8wa8W2p1Hoasteumjk1bknysHDM1pump", "sym": "Kabosu", "reason": "vol1h 39716<40k"}
+{"t": "2026-11-02 11:46:56 WIB", "mint": "HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip", "sym": "HYPEFAUCET", "reason": "vol1h 1443<40k"}
