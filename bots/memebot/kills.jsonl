@@ -4393,3 +4393,7 @@
 {"t": "2026-11-03 05:39:54 WIB", "mint": "72CX8WvQGjaskciUUJCmhbvnxyakH6XyEGQo2of4K8Bn", "sym": "ANTI", "reason": "vol1h 714<40k"}
 {"t": "2026-11-03 05:41:28 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 37631<40k"}
 {"t": "2026-11-03 05:42:14 WIB", "mint": "7BLLC5BgBjAKNDd3h3ktYrfMoFC4nTXhNA3hdB39LUxT", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-03 05:44:31 WIB", "mint": "BQ9fzb12MB6XuQdAYLSgZBG1myMY1xmoWW4Z2DFDpump", "sym": "CAMPUS", "reason": "vol1h 37984<40k"}
+{"t": "2026-11-03 05:44:33 WIB", "mint": "AZns8wN87TixAgamEPLZQnee34c5beidv41X1SQDpump", "sym": "FINDER", "reason": "vol1h 19820<40k"}
+{"t": "2026-11-03 05:46:05 WIB", "mint": "E389Ue3299uQTTSZB7E5Kz6Gn11K34KLMzaFQwGJpump", "sym": "POF", "reason": "vol1h 9325<40k"}
+{"t": "2026-11-03 05:46:51 WIB", "mint": "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump", "sym": "FEAR", "reason": "liq 9068<20k"}
