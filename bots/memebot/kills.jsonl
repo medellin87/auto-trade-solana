@@ -4289,3 +4289,7 @@
 {"t": "2026-11-03 04:42:05 WIB", "mint": "7BLLC5BgBjAKNDd3h3ktYrfMoFC4nTXhNA3hdB39LUxT", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-03 04:42:51 WIB", "mint": "Ao8qckG1RvGZ9mFgjYQ9bz8bQnLx2a7xUYr2gqJzpump", "sym": "STARFALL", "reason": "vol1h 11105<40k"}
 {"t": "2026-11-03 04:45:08 WIB", "mint": "9rj8gESodSHTT6hS65RsBNqrKcCyL8m1ehSNxY2spump", "sym": "ZEN", "reason": "vol1h 3018<40k"}
+{"t": "2026-11-03 04:45:55 WIB", "mint": "paprbywJSpuiCTq7v8CYrSvtas7JFSYe7SiEMVdJj3t", "sym": "Papr", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 04:46:41 WIB", "mint": "6rh7sWho7bsxjDET4iB6eZvUdof57Zp3BybtN9Zipump", "sym": "ROBOT", "reason": "liq 0<20k"}
+{"t": "2026-11-03 04:47:30 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 12089<40k"}
+{"t": "2026-11-03 04:47:31 WIB", "mint": "DxJUCBK3XP4VQiPkQhqb1dWdbSSSAgn1au98KHznLiFT", "sym": "LIFT", "reason": "vol1h 28662<40k"}
