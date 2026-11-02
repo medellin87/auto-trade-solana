@@ -2289,3 +2289,7 @@
 {"t": "2026-11-02 07:02:57 WIB", "mint": "93k3Awd9QGhSvxFAsDVeDqJLJeCJ6cXAzJXSYtP6pump", "sym": "TAILED", "reason": "vol1h 1942<40k"}
 {"t": "2026-11-02 07:04:29 WIB", "mint": "J1D3X8znX4AzUPMHVWyBLNHqBBqWDPNSjX4KwK3Qpump", "sym": "CUMFACE", "reason": "vol1h 22541<40k"}
 {"t": "2026-11-02 07:04:30 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 07:05:17 WIB", "mint": "BKPnak3A5KKSKnDdYQBHn2zt1BgfkPDgX8ze8og2pump", "sym": "MIP", "reason": "liq 0<20k"}
+{"t": "2026-11-02 07:05:18 WIB", "mint": "DVDni8iUAkYwdeDtWTBDuZK43nKakSB3z5MQ6q5Kpump", "sym": "shegoin", "reason": "vol1h 6500<40k"}
+{"t": "2026-11-02 07:06:06 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.45<0.6"}
+{"t": "2026-11-02 07:06:07 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 101<40k"}
