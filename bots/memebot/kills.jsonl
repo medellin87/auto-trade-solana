@@ -3445,3 +3445,6 @@
 {"t": "2026-11-02 18:53:34 WIB", "mint": "FAqiaGmrSdx2Z5qZmSRUkbyYCF2dFCUTfYVwP4Mypump", "sym": "MANDO", "reason": "vol1h 8129<40k"}
 {"t": "2026-11-02 18:54:21 WIB", "mint": "6eJVydkBQEj7ixuVAckfMiBGCy4ZTot16uvLbu1Ppump", "sym": "Solana500", "reason": "vol1h 442<40k"}
 {"t": "2026-11-02 18:55:07 WIB", "mint": "Fj7xiaMe8fLGa1gMVTX8JJr54WsMyzbBJnm3Vx6fpump", "sym": "flow", "reason": "vol1h 31765<40k"}
+{"t": "2026-11-02 18:55:54 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 4998<40k"}
+{"t": "2026-11-02 18:56:41 WIB", "mint": "7RFwj19rdegZdJjCgZQXFLzSsyS3541DvryABgVKpump", "sym": "BC", "reason": "liq 0<20k"}
+{"t": "2026-11-02 18:58:12 WIB", "mint": "8kWtbyxJZYwCQkQvSHfqHkR9kmdnJHsETpT4zTbCEpL7", "sym": "KABOSU", "reason": "vol1h 38576<40k"}
