@@ -3708,3 +3708,6 @@
 {"t": "2026-11-02 22:12:50 WIB", "mint": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK", "sym": "MAMESUKE", "reason": "risk:Large Amount of LP Unlocked"}
 {"t": "2026-11-02 22:12:52 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 14510<40k"}
 {"t": "2026-11-02 22:12:53 WIB", "mint": "E81aPVEzbchnxgJwYqxu4ehXZZredAyS1vAvAmq6pump", "sym": "Slingoor", "reason": "liq 0<20k"}
+{"t": "2026-11-02 22:13:42 WIB", "mint": "7VqVRKVHfGkKT9uhwdjCQPdP65VrvQHB4oMaiUkopump", "sym": "Trench Cafe", "reason": "liq 0<20k"}
+{"t": "2026-11-02 22:15:59 WIB", "mint": "Csvus3qiCmjVEdBgVqTgkhSi4U2ogJnh9M6XBm8kpump", "sym": "cyber", "reason": "vol1h 16084<40k"}
+{"t": "2026-11-02 22:16:00 WIB", "mint": "99V36NFUcueC2tHjd1JV5bfhFux73NKWRiSBnxJ8pump", "sym": "faucet", "reason": "vol1h 285<40k"}
