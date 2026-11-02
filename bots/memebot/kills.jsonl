@@ -3017,3 +3017,6 @@
 {"t": "2026-11-02 14:16:11 WIB", "mint": "FxFaz4oaoE8tnLKozVoPVXR4vCSEeJnp6PxKAWUmpump", "sym": "inevitable", "reason": "liq 0<20k"}
 {"t": "2026-11-02 14:16:13 WIB", "mint": "7G36iB8rmCjtik3X68siSPxXXnsypXqzxdbJoajQpump", "sym": "WARCAT", "reason": "vol1h 8953<40k"}
 {"t": "2026-11-02 14:16:14 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 41<40k"}
+{"t": "2026-11-02 14:18:31 WIB", "mint": "CqUZVHGz5f25NPVmKBP2EsieSaAyhwuYEj5jthtqpump", "sym": "WAR", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 14:19:18 WIB", "mint": "6eJVydkBQEj7ixuVAckfMiBGCy4ZTot16uvLbu1Ppump", "sym": "Solana500", "reason": "vol1h 3749<40k"}
+{"t": "2026-11-02 14:20:04 WIB", "mint": "HyPESTUwRbb21wH4Qyw9ayKhb9AC7bWciqGbnGp7dRip", "sym": "HYPEFAUCET", "reason": "vol1h 2612<40k"}
