@@ -4364,3 +4364,9 @@
 {"t": "2026-11-03 05:27:42 WIB", "mint": "7gCND4jhgJ8Mq1XxNhRdercinXh7fcCDPjA9uEQLk3f2", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-03 05:27:44 WIB", "mint": "ohDvYwXKGneAyUGDpjB7NgGPbL27Zf9NPAZtftAepig", "sym": "PIGGY", "reason": "liq 0<20k"}
 {"t": "2026-11-03 05:27:45 WIB", "mint": "nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump", "sym": "ARNOLD", "reason": "vol1h 32361<40k"}
+{"t": "2026-11-03 05:28:32 WIB", "mint": "93KYmXmMCLHEmGMKH6x1qX2LDZh42JH2nkoJgEZxpump", "sym": "BMax", "reason": "vol1h 1945<40k"}
+{"t": "2026-11-03 05:29:19 WIB", "mint": "5pQPh2EBz3tSUcqig9jGY73u4hNrhiiiLtYQSHaqFLow", "sym": "FLOWFI", "reason": "vol1h 21409<40k"}
+{"t": "2026-11-03 05:30:05 WIB", "mint": "Df7S2KWpt7RroAFEZWvkwqBohEquG9DzJfpdHy9Zpump", "sym": "MINUSIQ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 05:30:52 WIB", "mint": "6rWHEr3uMeB7DUu1eJ9oXXEBEDvcDNZU6NgNsRPXpump", "sym": "fear", "reason": "vol1h 34<40k"}
+{"t": "2026-11-03 05:30:53 WIB", "mint": "G6xkhEG11goAnfGeEu8gxpy7RvNhhbCswScEmJWqkuip", "sym": "KUIP", "reason": "vol1h 1387<40k"}
+{"t": "2026-11-03 05:30:55 WIB", "mint": "BXJe9frFVcGz7puwvwwJxpDF7hDvYC6wk4mqsJn9pump", "sym": "SONIC", "reason": "vol1h 15275<40k"}
