@@ -3397,3 +3397,7 @@
 {"t": "2026-11-02 18:23:47 WIB", "mint": "6eJVydkBQEj7ixuVAckfMiBGCy4ZTot16uvLbu1Ppump", "sym": "Solana500", "reason": "vol1h 386<40k"}
 {"t": "2026-11-02 18:24:34 WIB", "mint": "Fj7xiaMe8fLGa1gMVTX8JJr54WsMyzbBJnm3Vx6fpump", "sym": "flow", "reason": "liq 0<20k"}
 {"t": "2026-11-02 18:25:21 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 6432<40k"}
+{"t": "2026-11-02 18:28:22 WIB", "mint": "GvaRQbKqsjkcgTmZbaYfuSaJRin5A27JV298MdQbpump", "sym": "NOTHING", "reason": "liq 0<20k"}
+{"t": "2026-11-02 18:28:24 WIB", "mint": "9uDwsnYVsWohsckzqnR1hERvf19ibutRMMgtj5dUpump", "sym": "Soyldier", "reason": "vol1h 17693<40k"}
+{"t": "2026-11-02 18:29:10 WIB", "mint": "7FWvCJrwYqL2M33edtaevpwRLQ4YZhW3jfdferYvpump", "sym": "Ragi", "reason": "vol1h 2127<40k"}
+{"t": "2026-11-02 18:29:57 WIB", "mint": "66XuiGDsQQmkJB7iXtT2QqSZz6dyiXumGgxJFCtdpump", "sym": "DOVE", "reason": "vol1h 0<40k"}
