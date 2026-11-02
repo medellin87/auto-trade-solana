@@ -3638,3 +3638,7 @@
 {"t": "2026-11-02 21:16:33 WIB", "mint": "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump", "sym": "CLIPPED", "reason": "liq 8072<20k"}
 {"t": "2026-11-02 21:17:19 WIB", "mint": "HckPgvvNVNnFRZsYRNGMbeSs362dLLhZGjzNmqpgf9gk", "sym": "CI", "reason": "liq 18774<20k"}
 {"t": "2026-11-02 21:17:21 WIB", "mint": "7yi43ZRByqKPBZRPoRhEX2Y1221dYB9Ax7fFxXSKpump", "sym": "RELAY", "reason": "liq 3717<20k"}
+{"t": "2026-11-02 21:18:52 WIB", "mint": "3QgL2kiujKBb1GYvbqYDbu6s1YzDDGfacJQgHiWLpump", "sym": "TOLLS", "reason": "vol1h 10990<40k"}
+{"t": "2026-11-02 21:18:54 WIB", "mint": "GP6U7e2FEmGQWfS1GjHdio9akESSuG5S634Ewt5Rpump", "sym": "TLDR", "reason": "vol1h 28886<40k"}
+{"t": "2026-11-02 21:18:56 WIB", "mint": "5iU3QwYwYNQVC8gY4GNc9EEYJFS69t5yXJgvJLAVpump", "sym": "WUI", "reason": "vol1h 36082<40k"}
+{"t": "2026-11-02 21:19:42 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 1163<40k"}
