@@ -3563,3 +3563,6 @@
 {"t": "2026-11-02 20:14:54 WIB", "mint": "FmNsbgQAqzoraf4BPgMq39RV5C8PkNUW2qm4d7QPpump", "sym": "TIBO", "reason": "vol1h 19898<40k"}
 {"t": "2026-11-02 20:15:41 WIB", "mint": "B7Cj19ke2F8S6fazbBvGMxHYNNMYuDaAn3Sn2Zikpump", "sym": "YES", "reason": "liq 19495<20k"}
 {"t": "2026-11-02 20:15:42 WIB", "mint": "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump", "sym": "CLIPPED", "reason": "liq 0<20k"}
+{"t": "2026-11-02 20:16:29 WIB", "mint": "7yi43ZRByqKPBZRPoRhEX2Y1221dYB9Ax7fFxXSKpump", "sym": "RELAY", "reason": "vol1h 18208<40k"}
+{"t": "2026-11-02 20:18:46 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 446<40k"}
+{"t": "2026-11-02 20:18:48 WIB", "mint": "8mCBqQsvLtyaW93PGWFGZrj7ZjWn395TBZ9TCsvipump", "sym": "SPERM", "reason": "vol1h 2823<40k"}
