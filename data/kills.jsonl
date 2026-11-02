@@ -1,8 +1,3 @@
-{"t": "2026-11-03 00:22:34 WIB", "mint": "B4agpSqcwPUP9fxrw82dYXxctGeR97yBYW5SR1Hppump", "sym": "PMUP", "reason": "vol1h 1<40k"}
-{"t": "2026-11-03 00:23:20 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 18<40k"}
-{"t": "2026-11-03 00:23:22 WIB", "mint": "4DV2FsyBjowCbFtbhFdv9u3EuUFDZK2ZEMFVodE3pump", "sym": "XMOON", "reason": "vol1h 579<40k"}
-{"t": "2026-11-03 00:24:08 WIB", "mint": "93VGqXL76voGxc43apJTDJoKkqnxTht1BKWoEmUypump", "sym": "PI", "reason": "vol1h 8729<40k"}
-{"t": "2026-11-03 00:24:55 WIB", "mint": "6rWHEr3uMeB7DUu1eJ9oXXEBEDvcDNZU6NgNsRPXpump", "sym": "fear", "reason": "vol1h 3099<40k"}
 {"t": "2026-11-03 00:24:57 WIB", "mint": "HkQeu1qNSFYmpidYBQeSzDVx5Lzpz58UEEwbNe4DNET1", "sym": "AFRICA", "reason": "vol1h 3741<40k"}
 {"t": "2026-11-03 00:24:58 WIB", "mint": "9ueEeBuYUc9X1GrNCyWHbKGnHJq1kaD2nvDapDsMpump", "sym": "DMOTH", "reason": "vol1h 25265<40k"}
 {"t": "2026-11-03 00:25:00 WIB", "mint": "3q4QK2LamNkMXULquJzHLqitMHyBHJ2ga52WSQ1nhpos", "sym": "ETHEREUM", "reason": "vol1h 10<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-03 00:33:03 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 27820<40k"}
 {"t": "2026-11-03 00:34:35 WIB", "mint": "C1BMENnYn2PUNJqxyRGB6BZ994sVwyLp2YNgkmCppump", "sym": "ANSEM", "reason": "vol1h 0<40k"}
 {"t": "2026-11-03 00:34:38 WIB", "mint": "2x1DaQuT12D46Fogj6xwVzwRiG9suoXk9T8fR3gVmova", "sym": "MOVA", "reason": "vol1h 22191<40k"}
+{"t": "2026-11-03 00:35:45 WIB", "mint": "22dUu6seBkrJufXyfvSEC2sy3fspFqB4ouJhGKSXpump", "sym": "ASATS", "reason": "liq 0<20k"}
+{"t": "2026-11-03 00:35:46 WIB", "mint": "72CX8WvQGjaskciUUJCmhbvnxyakH6XyEGQo2of4K8Bn", "sym": "ANTI", "reason": "vol1h 20087<40k"}
+{"t": "2026-11-03 00:36:33 WIB", "mint": "iMgKSjuSjqJ8HHfHA4V9E1YvkDbf8Rjdeju8iKUpump", "sym": "SCRIMM", "reason": "vol1h 1543<40k"}
+{"t": "2026-11-03 00:37:19 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 289<40k"}
+{"t": "2026-11-03 00:37:21 WIB", "mint": "BycqRx7ztaUJ8eZrZ84GSRX4h7jfnTjpcHAQ2KLkpump", "sym": "UPLINK", "reason": "vol1h 15856<40k"}
