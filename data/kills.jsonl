@@ -1,8 +1,3 @@
-{"t": "2026-11-02 20:28:06 WIB", "mint": "7RFwj19rdegZdJjCgZQXFLzSsyS3541DvryABgVKpump", "sym": "BC", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 20:28:53 WIB", "mint": "ETn7wL5VdAKqhgvjR5B7G8DdcYZkW39QQZ3xuaKgpump", "sym": "ber", "reason": "liq 0<20k"}
-{"t": "2026-11-02 20:31:10 WIB", "mint": "7FWvCJrwYqL2M33edtaevpwRLQ4YZhW3jfdferYvpump", "sym": "Ragi", "reason": "vol1h 268<40k"}
-{"t": "2026-11-02 20:34:14 WIB", "mint": "8JYp1NkAfReWHjW3UGnGuGhib7ZAUpnMHoEZ1kkEpump", "sym": "BABEL", "reason": "liq 4956<20k"}
-{"t": "2026-11-02 20:34:16 WIB", "mint": "DvckCkEGw9m2dYuomkrQkfrkXzdXiuwrCXvbvStHpump", "sym": "Artifact", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 20:35:03 WIB", "mint": "8mmr1QPRHewNtaK97qht9uXAgHWA2AGh9T4RCYc5pump", "sym": "FAF", "reason": "vol1h 53<40k"}
 {"t": "2026-11-02 20:35:49 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 20:35:51 WIB", "mint": "9XHBZsbuhNTjrLVGvyv2hDHaE3GgVj2XoTBjpSc6pump", "sym": "VADER", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 20:48:25 WIB", "mint": "5iU3QwYwYNQVC8gY4GNc9EEYJFS69t5yXJgvJLAVpump", "sym": "WUI", "reason": "vol1h 29726<40k"}
 {"t": "2026-11-02 20:49:12 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 1311<40k"}
 {"t": "2026-11-02 20:51:29 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 2718<40k"}
+{"t": "2026-11-02 20:53:01 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 736<40k"}
+{"t": "2026-11-02 20:53:02 WIB", "mint": "GGLZzgVssSaW7zKrtNveFYyp2zrkfVTce1TjgPfNpump", "sym": "wen", "reason": "vol1h 1<40k"}
+{"t": "2026-11-02 20:53:49 WIB", "mint": "EoKy6ph37JTWz7dJkYTqxTwH16kYtbrJXRGP8ffQpump", "sym": "BunkerNet", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 20:54:38 WIB", "mint": "2WVN5SpEPCc43msHG9j9bpBTxcQHx3A81NyAEaXfpump", "sym": "BC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 20:55:24 WIB", "mint": "FAqiaGmrSdx2Z5qZmSRUkbyYCF2dFCUTfYVwP4Mypump", "sym": "MANDO", "reason": "vol1h 13362<40k"}
