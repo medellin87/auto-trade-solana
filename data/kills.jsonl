@@ -1,5 +1,3 @@
-{"t": "2026-11-03 02:18:23 WIB", "mint": "DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-03 02:19:10 WIB", "mint": "7ha4HFgdvkXaDcR2biCsuBpoCZzoLSRjb5we34Gbpump", "sym": "KOROSUKE", "reason": "vol1h 554<40k"}
 {"t": "2026-11-03 02:19:11 WIB", "mint": "ALTRgkReDWGmhisjTXwqHvbZRUcVoJicj54bQzVCpump", "sym": "PizzaGate", "reason": "liq 13583<20k"}
 {"t": "2026-11-03 02:19:58 WIB", "mint": "wLjTQSsKmoy9pjE7ZcdtU1Vf5HKhKPU2piR3vXGpump", "sym": "HACKCAT", "reason": "vol1h 63<40k"}
 {"t": "2026-11-03 02:20:44 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 15170<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-03 02:34:54 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 8862<40k"}
 {"t": "2026-11-03 02:34:56 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.237<0.6"}
 {"t": "2026-11-03 02:34:57 WIB", "mint": "FxdUdmAUgDSYk75n66iDkS5fxr5xhZHt4w84WwPZmnjT", "sym": "JEJE", "reason": "vol1h 288<40k"}
+{"t": "2026-11-03 02:37:16 WIB", "mint": "3svjF5QE5UcYSuajZr4MD9voX5WCDmPB7WbxniBTpump", "sym": "Grindset", "reason": "liq 0<20k"}
+{"t": "2026-11-03 02:38:03 WIB", "mint": "72CX8WvQGjaskciUUJCmhbvnxyakH6XyEGQo2of4K8Bn", "sym": "ANTI", "reason": "vol1h 1695<40k"}
