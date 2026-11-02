@@ -3073,3 +3073,7 @@
 {"t": "2026-11-02 23:59:05 WIB", "candidates": 44, "cash": 83.3, "open": 0}
 {"t": "2026-11-02 23:59:55 WIB", "candidates": 45, "cash": 74.97, "open": 1}
 {"t": "2026-11-03 00:00:45 WIB", "candidates": 45, "cash": 74.97, "open": 1}
+{"t": "2026-11-03 00:01:35 WIB", "candidates": 45, "cash": 74.97, "open": 1}
+{"t": "2026-11-03 00:02:27 WIB", "candidates": 46, "cash": 74.97, "open": 1}
+{"t": "2026-11-03 00:03:12 WIB", "candidates": 46, "cash": 84.98, "open": 0}
+{"t": "2026-11-03 00:04:02 WIB", "candidates": 47, "cash": 84.98, "open": 0}
