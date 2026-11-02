@@ -3674,3 +3674,7 @@
 {"t": "2026-11-02 21:45:24 WIB", "mint": "2kDXxxz471x7vWDrS4jjMviEzRFzjKHQJMinj6xdpump", "sym": "Cybercoin", "reason": "vol1h 4746<40k"}
 {"t": "2026-11-02 21:46:58 WIB", "mint": "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump", "sym": "CLIPPED", "reason": "liq 6621<20k"}
 {"t": "2026-11-02 21:47:45 WIB", "mint": "HckPgvvNVNnFRZsYRNGMbeSs362dLLhZGjzNmqpgf9gk", "sym": "CI", "reason": "liq 14928<20k"}
+{"t": "2026-11-02 21:49:17 WIB", "mint": "3QgL2kiujKBb1GYvbqYDbu6s1YzDDGfacJQgHiWLpump", "sym": "TOLLS", "reason": "vol1h 13090<40k"}
+{"t": "2026-11-02 21:49:18 WIB", "mint": "GP6U7e2FEmGQWfS1GjHdio9akESSuG5S634Ewt5Rpump", "sym": "TLDR", "reason": "liq 0<20k"}
+{"t": "2026-11-02 21:49:20 WIB", "mint": "5iU3QwYwYNQVC8gY4GNc9EEYJFS69t5yXJgvJLAVpump", "sym": "WUI", "reason": "vol1h 6021<40k"}
+{"t": "2026-11-02 21:50:06 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 65<40k"}
