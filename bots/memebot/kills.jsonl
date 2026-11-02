@@ -3578,3 +3578,5 @@
 {"t": "2026-11-02 20:28:06 WIB", "mint": "7RFwj19rdegZdJjCgZQXFLzSsyS3541DvryABgVKpump", "sym": "BC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 20:28:53 WIB", "mint": "ETn7wL5VdAKqhgvjR5B7G8DdcYZkW39QQZ3xuaKgpump", "sym": "ber", "reason": "liq 0<20k"}
 {"t": "2026-11-02 20:31:10 WIB", "mint": "7FWvCJrwYqL2M33edtaevpwRLQ4YZhW3jfdferYvpump", "sym": "Ragi", "reason": "vol1h 268<40k"}
+{"t": "2026-11-02 20:34:14 WIB", "mint": "8JYp1NkAfReWHjW3UGnGuGhib7ZAUpnMHoEZ1kkEpump", "sym": "BABEL", "reason": "liq 4956<20k"}
+{"t": "2026-11-02 20:34:16 WIB", "mint": "DvckCkEGw9m2dYuomkrQkfrkXzdXiuwrCXvbvStHpump", "sym": "Artifact", "reason": "vol1h 0<40k"}
