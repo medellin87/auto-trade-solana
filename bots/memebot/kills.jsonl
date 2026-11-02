@@ -3306,3 +3306,9 @@
 {"t": "2026-11-02 17:30:17 WIB", "mint": "2wjjne2Z4VYX4AV7oWvK1gL83FLMHKtUpLN2FexEpump", "sym": "PIKA", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 17:30:19 WIB", "mint": "6d6J2kWJiimgqmxjLVTu31hxDyBFt2zBguYdjSripump", "sym": "thisman", "reason": "liq 0<20k"}
 {"t": "2026-11-02 17:31:52 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 9305<40k"}
+{"t": "2026-11-02 17:32:39 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 17:32:40 WIB", "mint": "9XHBZsbuhNTjrLVGvyv2hDHaE3GgVj2XoTBjpSc6pump", "sym": "VADER", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 17:33:27 WIB", "mint": "HRsh7U2bnjwDCaGMqBXExiaQvQRjDmebLUzheieYiBCC", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-02 17:34:14 WIB", "mint": "7sgu7H7zP2xt1AXqRzjcWMrZYvip3ML1fH7vhixDpump", "sym": "TIND", "reason": "vol1h 136<40k"}
+{"t": "2026-11-02 17:34:15 WIB", "mint": "F17yBcN7vhxNdWmSmoLf3FZc7Y4UdyvW2i7NdMFeSQqw", "sym": "BUNK", "reason": "liq 0<20k"}
+{"t": "2026-11-02 17:35:02 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1912<40k"}
