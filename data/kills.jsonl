@@ -1,8 +1,3 @@
-{"t": "2026-11-02 20:42:09 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.448<0.6"}
-{"t": "2026-11-02 20:42:55 WIB", "mint": "2rNEjyNAMhVnyqHtvpdz7h7Cxs7eDA6YSSzMjNrZHBTC", "sym": "vBTC", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 20:43:42 WIB", "mint": "EDEv9G8ZpFKd73JEmwgiPeBTnkMZRn4bR9jQh91Zpump", "sym": "WWIII", "reason": "vol1h 11<40k"}
-{"t": "2026-11-02 20:44:29 WIB", "mint": "99V36NFUcueC2tHjd1JV5bfhFux73NKWRiSBnxJ8pump", "sym": "faucet", "reason": "vol1h 536<40k"}
-{"t": "2026-11-02 20:44:30 WIB", "mint": "2kDXxxz471x7vWDrS4jjMviEzRFzjKHQJMinj6xdpump", "sym": "Cybercoin", "reason": "liq 3266<20k"}
 {"t": "2026-11-02 20:45:17 WIB", "mint": "539mKjC5Mwt7Q1ov72djoyYkQpiUTshbxFNDAbZ5pump", "sym": "NATIONS", "reason": "vol1h 1447<40k"}
 {"t": "2026-11-02 20:45:18 WIB", "mint": "FmNsbgQAqzoraf4BPgMq39RV5C8PkNUW2qm4d7QPpump", "sym": "TIBO", "reason": "vol1h 16623<40k"}
 {"t": "2026-11-02 20:46:05 WIB", "mint": "B7Cj19ke2F8S6fazbBvGMxHYNNMYuDaAn3Sn2Zikpump", "sym": "YES", "reason": "liq 15562<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 21:06:16 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 21:06:18 WIB", "mint": "9XHBZsbuhNTjrLVGvyv2hDHaE3GgVj2XoTBjpSc6pump", "sym": "VADER", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 21:07:50 WIB", "mint": "FuJa3rYD1u3LsbkLBwmwsXPjvybKQDKvxH5Y4zr1UaKx", "sym": "CYBER", "reason": "liq 0<20k"}
+{"t": "2026-11-02 21:08:36 WIB", "mint": "4MEyv1jss9PUWnwY4QCGVMjmQpzD6Sx41J9gH2s9K1ku", "sym": "ZEROTERM", "reason": "vol1h 11850<40k"}
+{"t": "2026-11-02 21:08:38 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 8342<40k"}
+{"t": "2026-11-02 21:09:25 WIB", "mint": "FQxLdLEfH8gHTdE3wXXF5uEU7vr2qoJVvb37VmLzpump", "sym": "DOGEDAY", "reason": "vol1h 14452<40k"}
+{"t": "2026-11-02 21:10:13 WIB", "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump", "sym": "Anakin", "reason": "vol1h 23365<40k"}
+{"t": "2026-11-02 21:11:00 WIB", "mint": "GD52VfoPZdad4hiNPg4UnjtDGsS4WiM3mqS8j1czpump", "sym": "WWIII", "reason": "liq 18140<20k"}
