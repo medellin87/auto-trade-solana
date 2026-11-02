@@ -2683,3 +2683,9 @@
 {"t": "2026-11-02 10:50:56 WIB", "mint": "2d55zYkdAgqujBkc6BX9Wks2vELiUnq8hXLisXT6STNK", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-02 10:51:42 WIB", "mint": "4eUnpVfNDzJB1vxMKgzj5CSi39MD79Q7zNtXzY1ypump", "sym": "Ribon", "reason": "vol1h 22228<40k"}
 {"t": "2026-11-02 10:51:44 WIB", "mint": "EtQKxo34KtYGdfoR4hgxe9aJgCcYPgUmSgyBM9zXpump", "sym": "Bump", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 10:52:30 WIB", "mint": "2wjjne2Z4VYX4AV7oWvK1gL83FLMHKtUpLN2FexEpump", "sym": "PIKA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 10:54:02 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 4778<40k"}
+{"t": "2026-11-02 10:54:04 WIB", "mint": "2VsMRCfPZJgnGAtRQ7HGzLPpmz67EmRcUXmXYqtJpump", "sym": "hugpad", "reason": "liq 2472<20k"}
+{"t": "2026-11-02 10:54:05 WIB", "mint": "BeD6z2v5n9SuwXtuaVX6WZPiKorvYTb7SbhAvVo2pump", "sym": "Creator", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 10:54:07 WIB", "mint": "27TfaXZ2LwzxVVbcJqzV89Hof7UystgJ5Yuh8evGpump", "sym": "uni", "reason": "liq 0<20k"}
+{"t": "2026-11-02 10:54:53 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
