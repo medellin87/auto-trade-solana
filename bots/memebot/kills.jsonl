@@ -3631,3 +3631,10 @@
 {"t": "2026-11-02 21:12:36 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.572<0.6"}
 {"t": "2026-11-02 21:13:23 WIB", "mint": "2rNEjyNAMhVnyqHtvpdz7h7Cxs7eDA6YSSzMjNrZHBTC", "sym": "vBTC", "reason": "vol1h 14176<40k"}
 {"t": "2026-11-02 21:14:10 WIB", "mint": "EDEv9G8ZpFKd73JEmwgiPeBTnkMZRn4bR9jQh91Zpump", "sym": "WWIII", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 21:14:56 WIB", "mint": "99V36NFUcueC2tHjd1JV5bfhFux73NKWRiSBnxJ8pump", "sym": "faucet", "reason": "vol1h 419<40k"}
+{"t": "2026-11-02 21:14:58 WIB", "mint": "2kDXxxz471x7vWDrS4jjMviEzRFzjKHQJMinj6xdpump", "sym": "Cybercoin", "reason": "liq 3811<20k"}
+{"t": "2026-11-02 21:15:45 WIB", "mint": "FmNsbgQAqzoraf4BPgMq39RV5C8PkNUW2qm4d7QPpump", "sym": "TIBO", "reason": "vol1h 2099<40k"}
+{"t": "2026-11-02 21:16:31 WIB", "mint": "B7Cj19ke2F8S6fazbBvGMxHYNNMYuDaAn3Sn2Zikpump", "sym": "YES", "reason": "liq 13970<20k"}
+{"t": "2026-11-02 21:16:33 WIB", "mint": "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump", "sym": "CLIPPED", "reason": "liq 8072<20k"}
+{"t": "2026-11-02 21:17:19 WIB", "mint": "HckPgvvNVNnFRZsYRNGMbeSs362dLLhZGjzNmqpgf9gk", "sym": "CI", "reason": "liq 18774<20k"}
+{"t": "2026-11-02 21:17:21 WIB", "mint": "7yi43ZRByqKPBZRPoRhEX2Y1221dYB9Ax7fFxXSKpump", "sym": "RELAY", "reason": "liq 3717<20k"}

@@ -1,10 +1,3 @@
-{"t": "2026-11-02 20:46:53 WIB", "mint": "7yi43ZRByqKPBZRPoRhEX2Y1221dYB9Ax7fFxXSKpump", "sym": "RELAY", "reason": "liq 4627<20k"}
-{"t": "2026-11-02 20:48:25 WIB", "mint": "5iU3QwYwYNQVC8gY4GNc9EEYJFS69t5yXJgvJLAVpump", "sym": "WUI", "reason": "vol1h 29726<40k"}
-{"t": "2026-11-02 20:49:12 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 1311<40k"}
-{"t": "2026-11-02 20:51:29 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 2718<40k"}
-{"t": "2026-11-02 20:53:01 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 736<40k"}
-{"t": "2026-11-02 20:53:02 WIB", "mint": "GGLZzgVssSaW7zKrtNveFYyp2zrkfVTce1TjgPfNpump", "sym": "wen", "reason": "vol1h 1<40k"}
-{"t": "2026-11-02 20:53:49 WIB", "mint": "EoKy6ph37JTWz7dJkYTqxTwH16kYtbrJXRGP8ffQpump", "sym": "BunkerNet", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 20:54:38 WIB", "mint": "2WVN5SpEPCc43msHG9j9bpBTxcQHx3A81NyAEaXfpump", "sym": "BC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 20:55:24 WIB", "mint": "FAqiaGmrSdx2Z5qZmSRUkbyYCF2dFCUTfYVwP4Mypump", "sym": "MANDO", "reason": "vol1h 13362<40k"}
 {"t": "2026-11-02 20:56:11 WIB", "mint": "6eJVydkBQEj7ixuVAckfMiBGCy4ZTot16uvLbu1Ppump", "sym": "Solana500", "reason": "vol1h 101<40k"}
@@ -28,3 +21,10 @@
 {"t": "2026-11-02 21:12:36 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.572<0.6"}
 {"t": "2026-11-02 21:13:23 WIB", "mint": "2rNEjyNAMhVnyqHtvpdz7h7Cxs7eDA6YSSzMjNrZHBTC", "sym": "vBTC", "reason": "vol1h 14176<40k"}
 {"t": "2026-11-02 21:14:10 WIB", "mint": "EDEv9G8ZpFKd73JEmwgiPeBTnkMZRn4bR9jQh91Zpump", "sym": "WWIII", "reason": "vol1h 0<40k"}
+{"t": "2026-11-02 21:14:56 WIB", "mint": "99V36NFUcueC2tHjd1JV5bfhFux73NKWRiSBnxJ8pump", "sym": "faucet", "reason": "vol1h 419<40k"}
+{"t": "2026-11-02 21:14:58 WIB", "mint": "2kDXxxz471x7vWDrS4jjMviEzRFzjKHQJMinj6xdpump", "sym": "Cybercoin", "reason": "liq 3811<20k"}
+{"t": "2026-11-02 21:15:45 WIB", "mint": "FmNsbgQAqzoraf4BPgMq39RV5C8PkNUW2qm4d7QPpump", "sym": "TIBO", "reason": "vol1h 2099<40k"}
+{"t": "2026-11-02 21:16:31 WIB", "mint": "B7Cj19ke2F8S6fazbBvGMxHYNNMYuDaAn3Sn2Zikpump", "sym": "YES", "reason": "liq 13970<20k"}
+{"t": "2026-11-02 21:16:33 WIB", "mint": "Bxyp4L6EbDys4fo51qxMEQTx41sj6McnsbPZTdvipump", "sym": "CLIPPED", "reason": "liq 8072<20k"}
+{"t": "2026-11-02 21:17:19 WIB", "mint": "HckPgvvNVNnFRZsYRNGMbeSs362dLLhZGjzNmqpgf9gk", "sym": "CI", "reason": "liq 18774<20k"}
+{"t": "2026-11-02 21:17:21 WIB", "mint": "7yi43ZRByqKPBZRPoRhEX2Y1221dYB9Ax7fFxXSKpump", "sym": "RELAY", "reason": "liq 3717<20k"}
