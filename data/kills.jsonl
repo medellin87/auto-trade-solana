@@ -1,9 +1,3 @@
-{"t": "2026-11-03 00:02:25 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 27718<40k"}
-{"t": "2026-11-03 00:03:57 WIB", "mint": "C1BMENnYn2PUNJqxyRGB6BZ994sVwyLp2YNgkmCppump", "sym": "ANSEM", "reason": "vol1h 0<40k"}
-{"t": "2026-11-03 00:03:59 WIB", "mint": "8KwLDzEDYdp9hP8YNsx29Kjzp3pNHTacQHdYgjibpump", "sym": "pumpcat", "reason": "score 0.463<0.6"}
-{"t": "2026-11-03 00:04:00 WIB", "mint": "2x1DaQuT12D46Fogj6xwVzwRiG9suoXk9T8fR3gVmova", "sym": "MOVA", "reason": "vol1h 20904<40k"}
-{"t": "2026-11-03 00:05:32 WIB", "mint": "72CX8WvQGjaskciUUJCmhbvnxyakH6XyEGQo2of4K8Bn", "sym": "ANTI", "reason": "vol1h 13771<40k"}
-{"t": "2026-11-03 00:05:34 WIB", "mint": "22dUu6seBkrJufXyfvSEC2sy3fspFqB4ouJhGKSXpump", "sym": "ASATS", "reason": "liq 0<20k"}
 {"t": "2026-11-03 00:06:20 WIB", "mint": "iMgKSjuSjqJ8HHfHA4V9E1YvkDbf8Rjdeju8iKUpump", "sym": "SCRIMM", "reason": "vol1h 1430<40k"}
 {"t": "2026-11-03 00:07:07 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 240<40k"}
 {"t": "2026-11-03 00:08:39 WIB", "mint": "9XHBZsbuhNTjrLVGvyv2hDHaE3GgVj2XoTBjpSc6pump", "sym": "VADER", "reason": "vol1h 2<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-03 00:24:57 WIB", "mint": "HkQeu1qNSFYmpidYBQeSzDVx5Lzpz58UEEwbNe4DNET1", "sym": "AFRICA", "reason": "vol1h 3741<40k"}
 {"t": "2026-11-03 00:24:58 WIB", "mint": "9ueEeBuYUc9X1GrNCyWHbKGnHJq1kaD2nvDapDsMpump", "sym": "DMOTH", "reason": "vol1h 25265<40k"}
 {"t": "2026-11-03 00:25:00 WIB", "mint": "3q4QK2LamNkMXULquJzHLqitMHyBHJ2ga52WSQ1nhpos", "sym": "ETHEREUM", "reason": "vol1h 10<40k"}
+{"t": "2026-11-03 00:26:31 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 294<40k"}
+{"t": "2026-11-03 00:26:33 WIB", "mint": "Gj3UV1TGkKmMTose9nDmPNDdycvedvxS3rKVtXzXpump", "sym": "VC", "reason": "vol1h 116<40k"}
+{"t": "2026-11-03 00:27:20 WIB", "mint": "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump", "sym": "Slingoor", "reason": "top10 73.1%>25"}
+{"t": "2026-11-03 00:27:21 WIB", "mint": "bUtfzUw6ekkw2aLSpmhP3ZwodSaQSZ4YfYXJo7rpump", "sym": "ORION", "reason": "vol1h 26692<40k"}
+{"t": "2026-11-03 00:27:23 WIB", "mint": "Ar8RMsbMQsmFRbDr7MYwqjCXeZ9cbwdwcVsamGySpump", "sym": "Zitcoin", "reason": "vol1h 39312<40k"}
+{"t": "2026-11-03 00:27:25 WIB", "mint": "3Z8mK9QRy3ZphSTqoi1Duzok8an4WCND9XrHWfgKpump", "sym": "FEAR", "reason": "liq 2280<20k"}
