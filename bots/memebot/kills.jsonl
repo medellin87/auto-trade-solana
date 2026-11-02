@@ -4035,3 +4035,5 @@
 {"t": "2026-11-03 01:48:38 WIB", "mint": "ALTRgkReDWGmhisjTXwqHvbZRUcVoJicj54bQzVCpump", "sym": "PizzaGate", "reason": "liq 0<20k"}
 {"t": "2026-11-03 01:49:26 WIB", "mint": "5LoukJze454D696R3nGUiUQDGvsTaaakbmC3kQTcpump", "sym": "NULL", "reason": "liq 2646<20k"}
 {"t": "2026-11-03 01:49:27 WIB", "mint": "wLjTQSsKmoy9pjE7ZcdtU1Vf5HKhKPU2piR3vXGpump", "sym": "HACKCAT", "reason": "vol1h 10898<40k"}
+{"t": "2026-11-03 01:50:14 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 9641<40k"}
+{"t": "2026-11-03 01:51:01 WIB", "mint": "9QXux7boKcnA5eoHvXTUhGCEQQRr6F1AKrmBd3gRpump", "sym": "Mutant", "reason": "liq 0<20k"}
