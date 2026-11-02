@@ -1,8 +1,3 @@
-{"t": "2026-11-02 19:13:48 WIB", "mint": "p1UeRax45z4x8GYjFojAgFKz8hkoZitKLTiCjdeib5F", "sym": "Scam", "reason": "liq 6143<20k"}
-{"t": "2026-11-02 19:13:50 WIB", "mint": "HyXUTnyNp4noQRddxSUb6FjFsjv6jJtiEYBgAwanpump", "sym": "Heidou", "reason": "vol1h 0<40k"}
-{"t": "2026-11-02 19:13:51 WIB", "mint": "539mKjC5Mwt7Q1ov72djoyYkQpiUTshbxFNDAbZ5pump", "sym": "NATIONS", "reason": "liq 5163<20k"}
-{"t": "2026-11-02 19:13:53 WIB", "mint": "FmNsbgQAqzoraf4BPgMq39RV5C8PkNUW2qm4d7QPpump", "sym": "TIBO", "reason": "vol1h 19122<40k"}
-{"t": "2026-11-02 19:14:39 WIB", "mint": "B7Cj19ke2F8S6fazbBvGMxHYNNMYuDaAn3Sn2Zikpump", "sym": "YES", "reason": "liq 0<20k"}
 {"t": "2026-11-02 19:15:26 WIB", "mint": "CYATc1NNgio6cBqrWwmmqoomA7hz7CuD8HFeM4d5pump", "sym": "Judah", "reason": "vol1h 708<40k"}
 {"t": "2026-11-02 19:16:58 WIB", "mint": "iMgKSjuSjqJ8HHfHA4V9E1YvkDbf8Rjdeju8iKUpump", "sym": "SCRIMM", "reason": "vol1h 8069<40k"}
 {"t": "2026-11-02 19:17:44 WIB", "mint": "8mCBqQsvLtyaW93PGWFGZrj7ZjWn395TBZ9TCsvipump", "sym": "SPERM", "reason": "liq 5505<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-02 19:34:51 WIB", "mint": "3trYbwSRSLgPM5tWZ8zxJDiAQoHF3oWz4YaXmMvspump", "sym": "BTC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 19:34:52 WIB", "mint": "9XHBZsbuhNTjrLVGvyv2hDHaE3GgVj2XoTBjpSc6pump", "sym": "VADER", "reason": "vol1h 0<40k"}
 {"t": "2026-11-02 19:35:39 WIB", "mint": "HRsh7U2bnjwDCaGMqBXExiaQvQRjDmebLUzheieYiBCC", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-02 19:36:26 WIB", "mint": "F17yBcN7vhxNdWmSmoLf3FZc7Y4UdyvW2i7NdMFeSQqw", "sym": "BUNK", "reason": "vol1h 13909<40k"}
+{"t": "2026-11-02 19:37:12 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 2783<40k"}
+{"t": "2026-11-02 19:37:59 WIB", "mint": "2n5XJhJXaiGf4bwLiBH8bqyu6AUTS6J3vSws7Xbbrick", "sym": "bricky", "reason": "vol1h 7693<40k"}
+{"t": "2026-11-02 19:38:00 WIB", "mint": "7RXKjE3aZZKFtkQuNmDav14rQZtcpD7cXydRHGrXpump", "sym": "GTAI", "reason": "vol1h 13<40k"}
+{"t": "2026-11-02 19:38:47 WIB", "mint": "8GjrY2KiZ1dFCAtBj6utKbtzf9s3wiwcZZdvUfXHpump", "sym": "HONOR", "reason": "vol1h 0<40k"}
