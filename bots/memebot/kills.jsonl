@@ -3989,3 +3989,6 @@
 {"t": "2026-11-03 01:18:52 WIB", "mint": "wLjTQSsKmoy9pjE7ZcdtU1Vf5HKhKPU2piR3vXGpump", "sym": "HACKCAT", "reason": "liq 0<20k"}
 {"t": "2026-11-03 01:19:39 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 3978<40k"}
 {"t": "2026-11-03 01:20:26 WIB", "mint": "9QXux7boKcnA5eoHvXTUhGCEQQRr6F1AKrmBd3gRpump", "sym": "Mutant", "reason": "vol1h 36863<40k"}
+{"t": "2026-11-03 01:23:28 WIB", "mint": "HzwxT5ETJnPLNpCJTUWxEzR533uokh7ErJwSxqnZpump", "sym": "UI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 01:24:14 WIB", "mint": "HcUWHmM5QgpPMDekGTKYWTGEFzAndG4t9ZUrYBm6pump", "sym": "OPTIC", "reason": "vol1h 19645<40k"}
+{"t": "2026-11-03 01:24:16 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 53<40k"}
