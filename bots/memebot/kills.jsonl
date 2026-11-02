@@ -4188,3 +4188,7 @@
 {"t": "2026-11-03 03:36:49 WIB", "mint": "HoqBJ3PcCFozRUfkfUj5Uu3MgpsR5BjV3ySS8p7opump", "sym": "Supercat", "reason": "liq 0<20k"}
 {"t": "2026-11-03 03:36:50 WIB", "mint": "AroY3MN2wUfUqbQ1Q3GtgTpgiUYc3ScK4fAixjC5pump", "sym": "Decoy", "reason": "liq 0<20k"}
 {"t": "2026-11-03 03:36:52 WIB", "mint": "2VgKmiiM8G827rWMYaxjKJuW8prWjM8rTk8Qf3a8pump", "sym": "GTACAT", "reason": "vol1h 12816<40k"}
+{"t": "2026-11-03 03:38:25 WIB", "mint": "3svjF5QE5UcYSuajZr4MD9voX5WCDmPB7WbxniBTpump", "sym": "Grindset", "reason": "vol1h 27028<40k"}
+{"t": "2026-11-03 03:39:12 WIB", "mint": "72CX8WvQGjaskciUUJCmhbvnxyakH6XyEGQo2of4K8Bn", "sym": "ANTI", "reason": "vol1h 1002<40k"}
+{"t": "2026-11-03 03:39:13 WIB", "mint": "B1FxS86N8hEBTgKMpt29yPB9VzPxXUgNY7AzdjGZpump", "sym": "SLM", "reason": "liq 19509<20k"}
+{"t": "2026-11-03 03:40:01 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "top10 25.1%>25"}
