@@ -5187,3 +5187,5 @@
 {"t": "2026-11-03 13:45:09 WIB", "mint": "9DwPa8v7DTCgPWEgXbCLeg7F5FpruHHTHCsNnjR9pump", "sym": "WORKER", "reason": "liq 9790<20k"}
 {"t": "2026-11-03 13:45:56 WIB", "mint": "7728iEBJwFNx4Z2YR3y5Bw8xeSFS755NKZ2g9VDTkJiQ", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-03 13:45:57 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 12653<40k"}
+{"t": "2026-11-03 13:46:44 WIB", "mint": "5Zn8AUV1QSVYYSzfQ5sY7i7AaxQRvsZK4JEb5p8Tpump", "sym": "perpetual", "reason": "liq 0<20k"}
+{"t": "2026-11-03 13:49:01 WIB", "mint": "B5VFttFTXibUHukJMEK2xugfxMrydSKCWtA6C9iNpump", "sym": "SC", "reason": "liq 0<20k"}
