@@ -5648,3 +5648,11 @@
 {"t": "2026-11-03 18:32:14 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1152<40k"}
 {"t": "2026-11-03 18:32:16 WIB", "mint": "81UzTcmvEuWFMRC7zLGcznHk1Qam3ee2Exj1Rdcrpump", "sym": "zkSNARK", "reason": "liq 2224<20k"}
 {"t": "2026-11-03 18:33:02 WIB", "mint": "GRKbh1ncSAQC4A3aGRsFsctG7KyTy9ebWNcDGGaupump", "sym": "PUPER", "reason": "vol1h 29468<40k"}
+{"t": "2026-11-03 18:33:49 WIB", "mint": "8VdrHbx444YZJZp1vNb9pXAv5aW4Kv7E7bk7Zwaapump", "sym": "TURKEY", "reason": "vol1h 421<40k"}
+{"t": "2026-11-03 18:33:50 WIB", "mint": "AbJSsC2Q1MKD1SZXm3pogKgkaVKezsJKf51QiMBKpump", "sym": "suncat", "reason": "vol1h 26619<40k"}
+{"t": "2026-11-03 18:34:37 WIB", "mint": "8DB8Fw5UiC1AzugQAfRyw3qL8omw772LJbdehNWhpump", "sym": "OMBRO", "reason": "score 0.534<0.6"}
+{"t": "2026-11-03 18:34:39 WIB", "mint": "D1DPJq6g1oXqPkyujxMHsPEW24zaRUmUAjy6b3Vxpump", "sym": "zkSNARK", "reason": "liq 2842<20k"}
+{"t": "2026-11-03 18:35:26 WIB", "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq", "sym": "moin", "reason": "vol1h 252<40k"}
+{"t": "2026-11-03 18:36:12 WIB", "mint": "31SYoqWFhx3i9UsfnoXTjFp4ZwJA8F8UPrMxymfDpump", "sym": "SPHERE", "reason": "score 0.486<0.6"}
+{"t": "2026-11-03 18:36:14 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 15337<40k"}
+{"t": "2026-11-03 18:36:16 WIB", "mint": "GzLjMxWoBRKoJSABUPX3A695QCmczDBmskQbciLsWTVb", "sym": "inucrypted", "reason": "liq 0<20k"}
