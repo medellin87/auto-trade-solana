@@ -1,5 +1,3 @@
-{"t": "2026-11-03 14:36:53 WIB", "mint": "DV6hTfn4pEJkB9K16TX8mvqZzNbjfBxEZt4Q4vBypump", "sym": "hash", "reason": "liq 0<20k"}
-{"t": "2026-11-03 14:36:55 WIB", "mint": "3JdeP1VBHgRPunmjTj1D6w6ZZePwGAwjUr2tCufwpump", "sym": "RATIO", "reason": "top10 28.0%>25"}
 {"t": "2026-11-03 14:36:57 WIB", "mint": "WxsiQzWGsGCgar3vDog6v3uoWLngK8KREYzm8qepump", "sym": "QLIM", "reason": "vol1h 0<40k"}
 {"t": "2026-11-03 14:37:43 WIB", "mint": "G1k56C6DGNfCWb3bQMBWCr1eh2Uzc5oP4RPaEXTYpump", "sym": "HORSE", "reason": "vol1h 10105<40k"}
 {"t": "2026-11-03 14:37:45 WIB", "mint": "6Fda64MNsd6KsUkjCADFbScF4m9LhE8xj6AcVKRQJgif", "sym": "giftok", "reason": "vol1h 2<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-03 14:47:30 WIB", "mint": "5Zn8AUV1QSVYYSzfQ5sY7i7AaxQRvsZK4JEb5p8Tpump", "sym": "perpetual", "reason": "vol1h 38<40k"}
 {"t": "2026-11-03 14:49:03 WIB", "mint": "5komJVYEdqxn8teLnKRwKXnvYBgzW8jNJoZcPg2vpump", "sym": "tractor", "reason": "liq 0<20k"}
 {"t": "2026-11-03 14:49:49 WIB", "mint": "B5VFttFTXibUHukJMEK2xugfxMrydSKCWtA6C9iNpump", "sym": "SC", "reason": "vol1h 6472<40k"}
+{"t": "2026-11-03 14:50:36 WIB", "mint": "8gMWXHfSwBRSLc2wKtLv24JYboCAsKaEqfC5cXLeZJXL", "sym": "ZILLIONS", "reason": "vol1h 192<40k"}
+{"t": "2026-11-03 14:51:23 WIB", "mint": "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump", "sym": "FEAR", "reason": "vol1h 2587<40k"}
