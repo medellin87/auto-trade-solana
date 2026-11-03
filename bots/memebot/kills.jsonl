@@ -4735,3 +4735,5 @@
 {"t": "2026-11-03 09:20:30 WIB", "mint": "GFay6ncgKkKmkxCdQbLc2V68z6WLoffRofvEQDNgpump", "sym": "OnlyCats", "reason": "liq 1894<20k"}
 {"t": "2026-11-03 09:20:32 WIB", "mint": "Ei19qkvBM3amMyrveNLqKSPB1ESMEUQ6MrqDYwZVpump", "sym": "\u8c46\u52a9", "reason": "vol1h 8<40k"}
 {"t": "2026-11-03 09:21:18 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 4284<40k"}
+{"t": "2026-11-03 09:24:21 WIB", "mint": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win", "sym": "1WIN", "reason": "rugcheck data unavailable"}
+{"t": "2026-11-03 09:24:22 WIB", "mint": "CwYHf2VMMgdRUwSJdaA4ocrLq6zcjDNzbkHuGQ62pump", "sym": "NOMADS", "reason": "vol1h 17002<40k"}

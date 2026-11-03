@@ -1,5 +1,3 @@
-{"t": "2026-11-03 09:03:52 WIB", "mint": "3zRn4CSCv5yVxwGxub1qTZFA2PQJNrEX9SJKKSH8pump", "sym": "SOULD", "reason": "vol1h 0<40k"}
-{"t": "2026-11-03 09:03:54 WIB", "mint": "6Fda64MNsd6KsUkjCADFbScF4m9LhE8xj6AcVKRQJgif", "sym": "giftok", "reason": "vol1h 11<40k"}
 {"t": "2026-11-03 09:03:55 WIB", "mint": "9YjjmTq6vgUfuur2hQai9DazVEVA5t8gUyNfNebYpump", "sym": "AGI", "reason": "vol1h 10<40k"}
 {"t": "2026-11-03 09:03:57 WIB", "mint": "CcDxdWZknjKxucq6SgQtHSc5w1amottoBkheaaePpump", "sym": "ANON", "reason": "LP locked 0%<90"}
 {"t": "2026-11-03 09:03:59 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 9438<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-03 09:20:30 WIB", "mint": "GFay6ncgKkKmkxCdQbLc2V68z6WLoffRofvEQDNgpump", "sym": "OnlyCats", "reason": "liq 1894<20k"}
 {"t": "2026-11-03 09:20:32 WIB", "mint": "Ei19qkvBM3amMyrveNLqKSPB1ESMEUQ6MrqDYwZVpump", "sym": "\u8c46\u52a9", "reason": "vol1h 8<40k"}
 {"t": "2026-11-03 09:21:18 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 4284<40k"}
+{"t": "2026-11-03 09:24:21 WIB", "mint": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win", "sym": "1WIN", "reason": "rugcheck data unavailable"}
+{"t": "2026-11-03 09:24:22 WIB", "mint": "CwYHf2VMMgdRUwSJdaA4ocrLq6zcjDNzbkHuGQ62pump", "sym": "NOMADS", "reason": "vol1h 17002<40k"}
