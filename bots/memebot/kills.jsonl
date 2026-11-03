@@ -4534,3 +4534,6 @@
 {"t": "2026-11-03 07:08:46 WIB", "mint": "CAoAQvqA8qQXrBFgVXwcasueKRdHJ8Cim7ixMTZSpump", "sym": "SHORT", "reason": "vol1h 1909<40k"}
 {"t": "2026-11-03 07:11:03 WIB", "mint": "72CX8WvQGjaskciUUJCmhbvnxyakH6XyEGQo2of4K8Bn", "sym": "ANTI", "reason": "vol1h 155<40k"}
 {"t": "2026-11-03 07:12:35 WIB", "mint": "FmFqGGrst9vmzbiRq7sW1iNkdz4QccUCjfpm3trjpump", "sym": "tok", "reason": "vol1h 6<40k"}
+{"t": "2026-11-03 07:14:09 WIB", "mint": "DGABeuEpJUMNaeiUJPCLEb4VWjUPTVMj14wUtnMapump", "sym": "IRL", "reason": "vol1h 27041<40k"}
+{"t": "2026-11-03 07:15:41 WIB", "mint": "BQ9fzb12MB6XuQdAYLSgZBG1myMY1xmoWW4Z2DFDpump", "sym": "CAMPUS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 07:15:43 WIB", "mint": "AZns8wN87TixAgamEPLZQnee34c5beidv41X1SQDpump", "sym": "FINDER", "reason": "vol1h 163<40k"}
