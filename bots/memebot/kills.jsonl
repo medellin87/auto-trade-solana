@@ -5944,3 +5944,7 @@
 {"t": "2026-11-03 21:37:04 WIB", "mint": "AuEbs745YumLfebV8pxaMGRAS9zkiRquWaE9hSvRSTNK", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-03 21:37:05 WIB", "mint": "ESqXTLxmuYeU2MeUzZfdxFP81EXpTPR5sgWkzmAVpump", "sym": "zkSnark", "reason": "vol1h 1<40k"}
 {"t": "2026-11-03 21:37:52 WIB", "mint": "CJtMhVNByRBDmtP5zEwY6JBS98w3K3LFMtzcLnuKpump", "sym": "MOMOTA", "reason": "liq 1917<20k"}
+{"t": "2026-11-03 21:39:24 WIB", "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq", "sym": "moin", "reason": "vol1h 994<40k"}
+{"t": "2026-11-03 21:40:13 WIB", "mint": "31SYoqWFhx3i9UsfnoXTjFp4ZwJA8F8UPrMxymfDpump", "sym": "SPHERE", "reason": "score 0.48<0.6"}
+{"t": "2026-11-03 21:40:15 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "score 0.541<0.6"}
+{"t": "2026-11-03 21:41:01 WIB", "mint": "8sx9DT49qpBHZ8TuWmR69jGd1TuyP9kxSYxdawdfpump", "sym": "DOTC", "reason": "vol1h 2651<40k"}
