@@ -4585,3 +4585,8 @@
 {"t": "2026-11-03 07:47:52 WIB", "mint": "6ZDv69eHHa2tNbPm141FXYg2QmyNZD1y8KZjnF4spump", "sym": "MINTLINGS", "reason": "liq 0<20k"}
 {"t": "2026-11-03 07:48:39 WIB", "mint": "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump", "sym": "FEAR", "reason": "vol1h 7280<40k"}
 {"t": "2026-11-03 07:48:40 WIB", "mint": "7MttuP3TxvstDQMxqTtsZ4gZuL9MmqYNXtSKxBQ4pump", "sym": "HYPER", "reason": "vol1h 11786<40k"}
+{"t": "2026-11-03 07:50:12 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "top10 28.1%>25"}
+{"t": "2026-11-03 07:50:14 WIB", "mint": "Ei19qkvBM3amMyrveNLqKSPB1ESMEUQ6MrqDYwZVpump", "sym": "\u8c46\u52a9", "reason": "vol1h 10<40k"}
+{"t": "2026-11-03 07:51:01 WIB", "mint": "AVMQJVVZJ7pJFjWq97BRgrXAREDjWtXuFNRxo7CZmwg9", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-03 07:51:02 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 4724<40k"}
+{"t": "2026-11-03 07:51:04 WIB", "mint": "FxW4wJBcZJ3ohMVyKvJ7xBWk7a87N6UQtL5AffyzRcmP", "sym": "?", "reason": "no solana pair"}
