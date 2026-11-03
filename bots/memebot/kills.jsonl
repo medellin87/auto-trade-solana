@@ -5847,3 +5847,7 @@
 {"t": "2026-11-03 20:34:48 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1000<40k"}
 {"t": "2026-11-03 20:35:34 WIB", "mint": "AuEbs745YumLfebV8pxaMGRAS9zkiRquWaE9hSvRSTNK", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-03 20:35:36 WIB", "mint": "ESqXTLxmuYeU2MeUzZfdxFP81EXpTPR5sgWkzmAVpump", "sym": "zkSnark", "reason": "liq 1911<20k"}
+{"t": "2026-11-03 20:37:56 WIB", "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq", "sym": "moin", "reason": "vol1h 1116<40k"}
+{"t": "2026-11-03 20:38:43 WIB", "mint": "31SYoqWFhx3i9UsfnoXTjFp4ZwJA8F8UPrMxymfDpump", "sym": "SPHERE", "reason": "score 0.578<0.6"}
+{"t": "2026-11-03 20:38:44 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "score 0.492<0.6"}
+{"t": "2026-11-03 20:38:46 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 5049<40k"}
