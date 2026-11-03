@@ -6302,3 +6302,7 @@
 {"t": "2026-11-04 01:24:19 WIB", "mint": "2umoaMqSn1o4UmpNtSozHycfrdUkoMVBRuZNbhKfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-04 01:25:51 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 20619<40k"}
 {"t": "2026-11-04 01:26:38 WIB", "mint": "9BYVxhYF4tWSRVyJUBSVC8PaAhuuiCiAbmfy4hUApump", "sym": "XMAS", "reason": "vol1h 4310<40k"}
+{"t": "2026-11-04 01:28:55 WIB", "mint": "FqBVbBeoxJfLi5corNFsrDG54SFfBfFwjqtjgZK8pump", "sym": "ENTRY", "reason": "liq 0<20k"}
+{"t": "2026-11-04 01:28:57 WIB", "mint": "6Mf55c5qvmf4xFwCUqWRNPp2T3J3J973hhJZckWxpump", "sym": "LUCIA", "reason": "liq 1880<20k"}
+{"t": "2026-11-04 01:28:58 WIB", "mint": "CQXSMUZL2inTt6Wm3aHpYbks8SQjuEajezmTYtpcoVRc", "sym": "RECR", "reason": "vol1h 14500<40k"}
+{"t": "2026-11-04 01:30:30 WIB", "mint": "HntwpMMRZiDzyHGwbmTUhoGJZd4oxM4GyJy1AZfSpump", "sym": "pcat", "reason": "vol1h 13265<40k"}
