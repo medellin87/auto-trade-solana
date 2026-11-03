@@ -6771,3 +6771,9 @@
 {"t": "2026-11-04 06:02:38 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.468<0.6"}
 {"t": "2026-11-04 06:03:25 WIB", "mint": "697qJWKHWoAmPWioDEQvJ4P4C9UjuWYLvYK5nA5Mpump", "sym": "VALOR", "reason": "liq 0<20k"}
 {"t": "2026-11-04 06:03:27 WIB", "mint": "5HsVcH8KmoUTH79HqbDtgR8eZs2KgJiEejWQELJnpump", "sym": "AMD", "reason": "top10 32.1%>25"}
+{"t": "2026-11-04 06:04:15 WIB", "mint": "HHVm7A6MaPXxARrLZUADZf1RLJtC4hMasCwzvKX9pump", "sym": "AMD", "reason": "liq 0<20k"}
+{"t": "2026-11-04 06:04:16 WIB", "mint": "DWGiRCcRKi89YBYGfwZ9vR3j5R6C5x1BasDoX5khpump", "sym": "AMD", "reason": "vol1h 5165<40k"}
+{"t": "2026-11-04 06:05:03 WIB", "mint": "hWgWqL4uzBSdji8EAvw3Kg33jShUS6UjxEZB9YBpump", "sym": "WoW", "reason": "vol1h 4213<40k"}
+{"t": "2026-11-04 06:05:07 WIB", "mint": "zA4R38Ubfi1AkAqZBb9nMRhfXjZrNCuBZeqBRRxpump", "sym": "Ruby", "reason": "liq 8549<20k"}
+{"t": "2026-11-04 06:06:39 WIB", "mint": "6gnB2H2hbTVvKUWCzNuqjWY8Rod6EVBmfHi7YxZpTWa7", "sym": "MEOWNERO", "reason": "vol1h 28456<40k"}
+{"t": "2026-11-04 06:06:41 WIB", "mint": "24meLGwDMXRgaYXcrWxfqqoRZ7gATXXFdaDS37muSdk2", "sym": "CHAR", "reason": "vol1h 4<40k"}
