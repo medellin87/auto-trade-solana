@@ -5490,3 +5490,7 @@
 {"t": "2026-11-03 17:02:09 WIB", "mint": "8VdrHbx444YZJZp1vNb9pXAv5aW4Kv7E7bk7Zwaapump", "sym": "TURKEY", "reason": "vol1h 872<40k"}
 {"t": "2026-11-03 17:02:11 WIB", "mint": "31SYoqWFhx3i9UsfnoXTjFp4ZwJA8F8UPrMxymfDpump", "sym": "SPHERE", "reason": "score 0.542<0.6"}
 {"t": "2026-11-03 17:05:15 WIB", "mint": "34Ct2KXMxwMf57nRWwMftZHStdQAALFEFk4HH7k2pump", "sym": "ascend", "reason": "vol1h 1037<40k"}
+{"t": "2026-11-03 17:06:02 WIB", "mint": "BJUFxaSPF5S1K9rPayANzWQNjqkCjq3yWheKrMxdpump", "sym": "MENTIONS", "reason": "liq 0<20k"}
+{"t": "2026-11-03 17:07:37 WIB", "mint": "3imKAhTuUakBCGK1aXxihc13Qe5prGzQb7eWMn1gpump", "sym": "\uae40\uc5ec\uc815", "reason": "score 0.592<0.6"}
+{"t": "2026-11-03 17:07:39 WIB", "mint": "FxQ5GbqCBxNHDpFTpiL9RDVHiP58ar5nMkR3eMwepump", "sym": "UNPOOLED", "reason": "vol1h 33589<40k"}
+{"t": "2026-11-03 17:08:25 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 140<40k"}
