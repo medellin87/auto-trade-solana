@@ -5081,3 +5081,6 @@
 {"t": "2026-11-03 12:41:02 WIB", "mint": "J1D3X8znX4AzUPMHVWyBLNHqBBqWDPNSjX4KwK3Qpump", "sym": "CUMFACE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-03 12:42:34 WIB", "mint": "7ZpKoVqzcP3i3kKJzRTiXFPKnnodkAYfAhXBywXDpump", "sym": "BEES", "reason": "vol1h 37337<40k"}
 {"t": "2026-11-03 12:43:21 WIB", "mint": "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump", "sym": "Slingoor", "reason": "vol1h 2830<40k"}
+{"t": "2026-11-03 12:44:53 WIB", "mint": "9DwPa8v7DTCgPWEgXbCLeg7F5FpruHHTHCsNnjR9pump", "sym": "WORKER", "reason": "liq 13887<20k"}
+{"t": "2026-11-03 12:45:40 WIB", "mint": "7728iEBJwFNx4Z2YR3y5Bw8xeSFS755NKZ2g9VDTkJiQ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-03 12:45:41 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 7759<40k"}

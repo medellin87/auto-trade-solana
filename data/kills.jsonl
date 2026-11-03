@@ -1,6 +1,3 @@
-{"t": "2026-11-03 12:28:15 WIB", "mint": "8VdrHbx444YZJZp1vNb9pXAv5aW4Kv7E7bk7Zwaapump", "sym": "TURKEY", "reason": "vol1h 4090<40k"}
-{"t": "2026-11-03 12:28:17 WIB", "mint": "31SYoqWFhx3i9UsfnoXTjFp4ZwJA8F8UPrMxymfDpump", "sym": "SPHERE", "reason": "score 0.57<0.6"}
-{"t": "2026-11-03 12:28:19 WIB", "mint": "GtRH3cGYWPLLjjvcgMV1Fb3Jd25rhGRQmXgwu79Npump", "sym": "LeTwerk", "reason": "risk:Low Liquidity"}
 {"t": "2026-11-03 12:29:06 WIB", "mint": "5i2HMJ7ntKLccYj11RmnaCnGWWdtzTk8YEopn3Rpump", "sym": "$KJU", "reason": "vol1h 1181<40k"}
 {"t": "2026-11-03 12:31:23 WIB", "mint": "DhXAELNFyJP74Qv6CGZsGgvcdDQbTVeNPnK3P2yhpump", "sym": "Memestock", "reason": "vol1h 516<40k"}
 {"t": "2026-11-03 12:32:10 WIB", "mint": "nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump", "sym": "ARNOLD", "reason": "vol1h 5616<40k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-03 12:41:02 WIB", "mint": "J1D3X8znX4AzUPMHVWyBLNHqBBqWDPNSjX4KwK3Qpump", "sym": "CUMFACE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-03 12:42:34 WIB", "mint": "7ZpKoVqzcP3i3kKJzRTiXFPKnnodkAYfAhXBywXDpump", "sym": "BEES", "reason": "vol1h 37337<40k"}
 {"t": "2026-11-03 12:43:21 WIB", "mint": "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump", "sym": "Slingoor", "reason": "vol1h 2830<40k"}
+{"t": "2026-11-03 12:44:53 WIB", "mint": "9DwPa8v7DTCgPWEgXbCLeg7F5FpruHHTHCsNnjR9pump", "sym": "WORKER", "reason": "liq 13887<20k"}
+{"t": "2026-11-03 12:45:40 WIB", "mint": "7728iEBJwFNx4Z2YR3y5Bw8xeSFS755NKZ2g9VDTkJiQ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-03 12:45:41 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 7759<40k"}
