@@ -6056,3 +6056,7 @@
 {"t": "2026-11-03 22:45:59 WIB", "mint": "5xD4rmd4Vsw3j35qnC8yQmPbxJ9HSbeiF9VTqoqride", "sym": "FOMC", "reason": "vol1h 1992<40k"}
 {"t": "2026-11-03 22:46:00 WIB", "mint": "Cbtnpg6SL9jvZxtZTYYFPtVQXkuuqSUxCU5aXeTkpump", "sym": "LUCIA", "reason": "liq 2415<20k"}
 {"t": "2026-11-03 22:46:47 WIB", "mint": "HuNvBLyLx2CTyGpYcm7f1xSNnzWQVsy6hU9N7NY4pump", "sym": "NEXQ", "reason": "vol1h 26798<40k"}
+{"t": "2026-11-03 22:49:04 WIB", "mint": "89ZLaW7uR8vf6nZjmfZ63cWWtXzt4J7uqkmLYrRFpump", "sym": "KITTY", "reason": "vol1h 33072<40k"}
+{"t": "2026-11-03 22:49:05 WIB", "mint": "2G1uc6R97HYiuMFpbwSDitToYEPRdmQ1qk2opbtDpair", "sym": "ANY", "reason": "liq 15276<20k"}
+{"t": "2026-11-03 22:50:38 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "score 0.47<0.6"}
+{"t": "2026-11-03 22:51:24 WIB", "mint": "4LT4uDp694w7soJerjRjSEVr2884J33EjLNG1WGzcash", "sym": "SARAH", "reason": "liq 17750<20k"}
