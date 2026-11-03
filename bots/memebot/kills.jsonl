@@ -5818,3 +5818,6 @@
 {"t": "2026-11-03 20:13:43 WIB", "mint": "FSfyGqKCMWi3UjQarU5QycGnBfNphX144zoeHdzWM9ZM", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-03 20:13:45 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.412<0.6"}
 {"t": "2026-11-03 20:13:46 WIB", "mint": "2aEFMMGa6emADiboQB8PidxRCstKjYHGUUNoqcdLpump", "sym": "PerpScape", "reason": "vol1h 1310<40k"}
+{"t": "2026-11-03 20:14:33 WIB", "mint": "8oUGdPdyxVaCSJSZpcVZuxqoyiZAmc2Z22FsDRZ3pump", "sym": "Wanted", "reason": "vol1h 4<40k"}
+{"t": "2026-11-03 20:14:35 WIB", "mint": "5xD4rmd4Vsw3j35qnC8yQmPbxJ9HSbeiF9VTqoqride", "sym": "FOMC", "reason": "vol1h 3718<40k"}
+{"t": "2026-11-03 20:14:36 WIB", "mint": "FBACZF1nWvsGubj2sJZsaAjgmKnxkUfYGYXZ1Zyjpump", "sym": "PEPEYE", "reason": "vol1h 27<40k"}
