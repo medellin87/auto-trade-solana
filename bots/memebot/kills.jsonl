@@ -6767,3 +6767,7 @@
 {"t": "2026-11-04 06:00:15 WIB", "mint": "ADvbwD9pgBeHHQBmBaiUir4zjC946FW2mDJbSejmpump", "sym": "POLITICATS", "reason": "vol1h 12768<40k"}
 {"t": "2026-11-04 06:00:16 WIB", "mint": "GjMtxWny6SWNcetcGxugw2QyhYhke33J6i7R2r3Epump", "sym": "VANS", "reason": "vol1h 6012<40k"}
 {"t": "2026-11-04 06:01:04 WIB", "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump", "sym": "SU", "reason": "vol1h 24735<40k"}
+{"t": "2026-11-04 06:01:51 WIB", "mint": "BbryBHhg1iSorUwwRXqqhdVpRMFJfPCRifzkWssUpump", "sym": "Ryzen", "reason": "liq 0<20k"}
+{"t": "2026-11-04 06:02:38 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.468<0.6"}
+{"t": "2026-11-04 06:03:25 WIB", "mint": "697qJWKHWoAmPWioDEQvJ4P4C9UjuWYLvYK5nA5Mpump", "sym": "VALOR", "reason": "liq 0<20k"}
+{"t": "2026-11-04 06:03:27 WIB", "mint": "5HsVcH8KmoUTH79HqbDtgR8eZs2KgJiEejWQELJnpump", "sym": "AMD", "reason": "top10 32.1%>25"}
