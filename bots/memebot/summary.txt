@@ -1,4 +1,4 @@
-Updated 2026-11-03 11:51:40 WIB | PAPER ONLY
-Cash $55.92 | open 1 (cost $6.21) | start $200.0
+Updated 2026-11-03 11:54:46 WIB | PAPER ONLY
+Cash $49.71 | open 2 (cost $12.43) | start $200.0
 Closed trades 263 W71/L192
 Biggest win 12.98 | Worst -15.15
