@@ -1,7 +1,3 @@
-{"t": "2026-11-03 09:04:47 WIB", "mint": "4KvgozjDf8zWcdkhz8YKB5dW8XW2GzL1uH1vkNG9pump", "sym": "\u3164", "reason": "liq 0<20k"}
-{"t": "2026-11-03 09:05:34 WIB", "mint": "2aEFMMGa6emADiboQB8PidxRCstKjYHGUUNoqcdLpump", "sym": "PerpScape", "reason": "LP locked 0%<90"}
-{"t": "2026-11-03 09:06:21 WIB", "mint": "J2rzrouHAL6mBaQddXhzV4jHmSZQLBnJivFG39Yypump", "sym": "RUGLESSMD", "reason": "vol1h 85<40k"}
-{"t": "2026-11-03 09:06:23 WIB", "mint": "6YBtjnNbmHVMsu7CB3ugvCadmbPXjDY6hf14YP2apump", "sym": "ANON", "reason": "vol1h 19620<40k"}
 {"t": "2026-11-03 09:07:57 WIB", "mint": "CqUzBPsCAnhm7hFNzz4PeTZamp9yyvxLey2J15Axpump", "sym": "GIVING", "reason": "vol1h 3924<40k"}
 {"t": "2026-11-03 09:08:44 WIB", "mint": "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1", "sym": "Pok\u00e9mon", "reason": "vol1h 158<40k"}
 {"t": "2026-11-03 09:08:45 WIB", "mint": "5cKX3tn119ayha94BD6xEZQekQUG8stwHHNTuNBppump", "sym": "Bitsan", "reason": "vol1h 92<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-03 09:26:42 WIB", "mint": "31SYoqWFhx3i9UsfnoXTjFp4ZwJA8F8UPrMxymfDpump", "sym": "SPHERE", "reason": "rugcheck data unavailable"}
 {"t": "2026-11-03 09:26:43 WIB", "mint": "8VdrHbx444YZJZp1vNb9pXAv5aW4Kv7E7bk7Zwaapump", "sym": "TURKEY", "reason": "vol1h 8758<40k"}
 {"t": "2026-11-03 09:27:30 WIB", "mint": "HAZCmiEEKcRL9pQpLDxJhjLAqZzViXQiQSEWntHVpump", "sym": "RUGSEM", "reason": "liq 1985<20k"}
+{"t": "2026-11-03 09:28:17 WIB", "mint": "57oBeZa8VsB7sK9v4iiVM8uRLgpeKAbpSbfTjH2npump", "sym": "NUMB", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 09:29:48 WIB", "mint": "ycWdSeSpN6jm4fmAzxkXKE8NzJQr7uegWSRh5Uzpump", "sym": "Gato", "reason": "vol1h 12430<40k"}
+{"t": "2026-11-03 09:30:35 WIB", "mint": "nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump", "sym": "ARNOLD", "reason": "vol1h 348<40k"}
+{"t": "2026-11-03 09:30:37 WIB", "mint": "4uaLgPQmoEdfCm9xe4HF7h6vKib3xnLLdioaAYX3hubD", "sym": "?", "reason": "no solana pair"}
