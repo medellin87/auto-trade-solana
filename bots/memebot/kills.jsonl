@@ -5368,3 +5368,6 @@
 {"t": "2026-11-03 15:45:41 WIB", "mint": "Bj4UUitguoioQ2MQHHAb36maVANu9L38Bcwh29hzpump", "sym": "SOLAKIT", "reason": "liq 2148<20k"}
 {"t": "2026-11-03 15:45:43 WIB", "mint": "9X5UwHT7gWSPtAH5yeEzrLHqv3Nedmhy3HyZN3Yspump", "sym": "PumpFun", "reason": "liq 14379<20k"}
 {"t": "2026-11-03 15:45:44 WIB", "mint": "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump", "sym": "Slingoor", "reason": "vol1h 17025<40k"}
+{"t": "2026-11-03 15:48:02 WIB", "mint": "A41P2SStgJJhCTv5bAWpVGsQ2kzgZ5mUHd93vH2upump", "sym": "fog", "reason": "vol1h 21<40k"}
+{"t": "2026-11-03 15:48:03 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 7379<40k"}
+{"t": "2026-11-03 15:48:50 WIB", "mint": "5Zn8AUV1QSVYYSzfQ5sY7i7AaxQRvsZK4JEb5p8Tpump", "sym": "perpetual", "reason": "vol1h 0<40k"}
