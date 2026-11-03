@@ -6257,3 +6257,8 @@
 {"t": "2026-11-04 00:56:32 WIB", "mint": "9BYVxhYF4tWSRVyJUBSVC8PaAhuuiCiAbmfy4hUApump", "sym": "XMAS", "reason": "vol1h 5276<40k"}
 {"t": "2026-11-04 00:58:49 WIB", "mint": "FqBVbBeoxJfLi5corNFsrDG54SFfBfFwjqtjgZK8pump", "sym": "ENTRY", "reason": "liq 0<20k"}
 {"t": "2026-11-04 00:58:53 WIB", "mint": "CQXSMUZL2inTt6Wm3aHpYbks8SQjuEajezmTYtpcoVRc", "sym": "RECR", "reason": "vol1h 21437<40k"}
+{"t": "2026-11-04 01:00:25 WIB", "mint": "HntwpMMRZiDzyHGwbmTUhoGJZd4oxM4GyJy1AZfSpump", "sym": "pcat", "reason": "vol1h 32121<40k"}
+{"t": "2026-11-04 01:01:12 WIB", "mint": "4KxtNWc5XTL3cuyc8PJMchqB6RYggvEFeMub727GBAGS", "sym": "SALVOR", "reason": "vol1h 4531<40k"}
+{"t": "2026-11-04 01:03:29 WIB", "mint": "EXr5b9ZReg4Rs3Y7wnUGEEvNWbj3gJrqBzKK2enEpump", "sym": "STOMPY", "reason": "vol1h 1<40k"}
+{"t": "2026-11-04 01:03:31 WIB", "mint": "6gnB2H2hbTVvKUWCzNuqjWY8Rod6EVBmfHi7YxZpTWa7", "sym": "MEOWNERO", "reason": "top10 25.9%>25"}
+{"t": "2026-11-04 01:03:33 WIB", "mint": "24meLGwDMXRgaYXcrWxfqqoRZ7gATXXFdaDS37muSdk2", "sym": "CHAR", "reason": "vol1h 135<40k"}
