@@ -5326,3 +5326,6 @@
 {"t": "2026-11-03 15:17:22 WIB", "mint": "A41P2SStgJJhCTv5bAWpVGsQ2kzgZ5mUHd93vH2upump", "sym": "fog", "reason": "vol1h 979<40k"}
 {"t": "2026-11-03 15:17:24 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 9804<40k"}
 {"t": "2026-11-03 15:18:11 WIB", "mint": "5Zn8AUV1QSVYYSzfQ5sY7i7AaxQRvsZK4JEb5p8Tpump", "sym": "perpetual", "reason": "vol1h 28<40k"}
+{"t": "2026-11-03 15:19:43 WIB", "mint": "5komJVYEdqxn8teLnKRwKXnvYBgzW8jNJoZcPg2vpump", "sym": "tractor", "reason": "liq 0<20k"}
+{"t": "2026-11-03 15:20:29 WIB", "mint": "7gQTgzd8BakkYhEKACiDGQrzERnvsQNFN1Vkj3w5pump", "sym": "PRESSURE", "reason": "liq 0<20k"}
+{"t": "2026-11-03 15:20:31 WIB", "mint": "B5VFttFTXibUHukJMEK2xugfxMrydSKCWtA6C9iNpump", "sym": "SC", "reason": "vol1h 18<40k"}
