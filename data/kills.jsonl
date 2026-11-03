@@ -1,9 +1,3 @@
-{"t": "2026-11-03 07:56:40 WIB", "mint": "CHjgAurRkfkcoJpiFCVhpU7uxbm1jKkDcNcnG64xpump", "sym": "walter", "reason": "liq 8281<20k"}
-{"t": "2026-11-03 07:56:41 WIB", "mint": "8zBDaLhC8oL6wcDZgEx44GAxmmnM1m3upZjoV53upump", "sym": "KILROY", "reason": "vol1h 3<40k"}
-{"t": "2026-11-03 07:56:43 WIB", "mint": "8vFdgGFWkKS1euogVW4qmMurdnso8CPrfQNpB4qqpump", "sym": "ascend", "reason": "vol1h 24416<40k"}
-{"t": "2026-11-03 07:57:30 WIB", "mint": "57oBeZa8VsB7sK9v4iiVM8uRLgpeKAbpSbfTjH2npump", "sym": "NUMB", "reason": "vol1h 1<40k"}
-{"t": "2026-11-03 07:58:16 WIB", "mint": "7zpiz6sXWste3jV1LXjogbR263J9XSBaA16HLGHbpump", "sym": "DIED", "reason": "vol1h 0<40k"}
-{"t": "2026-11-03 07:58:18 WIB", "mint": "7o2nQFpxhrH2qsw19waKGoMe1ANC9eFomeTYe4JUpump", "sym": "CAN", "reason": "vol1h 116<40k"}
 {"t": "2026-11-03 07:59:05 WIB", "mint": "nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump", "sym": "ARNOLD", "reason": "vol1h 859<40k"}
 {"t": "2026-11-03 07:59:51 WIB", "mint": "GvLSMX419xDFPzRdPhngPGJwyaqGcuuCsaAsCQdZpump", "sym": "Dexter", "reason": "vol1h 104<40k"}
 {"t": "2026-11-03 07:59:53 WIB", "mint": "93KYmXmMCLHEmGMKH6x1qX2LDZh42JH2nkoJgEZxpump", "sym": "BMax", "reason": "vol1h 13<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-03 08:10:12 WIB", "mint": "CAoAQvqA8qQXrBFgVXwcasueKRdHJ8Cim7ixMTZSpump", "sym": "SHORT", "reason": "vol1h 15<40k"}
 {"t": "2026-11-03 08:12:29 WIB", "mint": "72CX8WvQGjaskciUUJCmhbvnxyakH6XyEGQo2of4K8Bn", "sym": "ANTI", "reason": "vol1h 14<40k"}
 {"t": "2026-11-03 08:15:33 WIB", "mint": "DGABeuEpJUMNaeiUJPCLEb4VWjUPTVMj14wUtnMapump", "sym": "IRL", "reason": "vol1h 6694<40k"}
+{"t": "2026-11-03 08:17:52 WIB", "mint": "6ZDv69eHHa2tNbPm141FXYg2QmyNZD1y8KZjnF4spump", "sym": "MINTLINGS", "reason": "vol1h 15262<40k"}
+{"t": "2026-11-03 08:18:39 WIB", "mint": "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump", "sym": "FEAR", "reason": "vol1h 7991<40k"}
+{"t": "2026-11-03 08:18:40 WIB", "mint": "7MttuP3TxvstDQMxqTtsZ4gZuL9MmqYNXtSKxBQ4pump", "sym": "HYPER", "reason": "vol1h 16729<40k"}
+{"t": "2026-11-03 08:18:42 WIB", "mint": "Ec649U4WKBZcwfjWAhCCnL3WzZSAG7TfXVyjF1Y2pump", "sym": "COAL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 08:20:14 WIB", "mint": "BY1faCb6kgur3z6XAJpoJzPtuni4nsGgoFc7JMVzRV8u", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-03 08:20:17 WIB", "mint": "Ei19qkvBM3amMyrveNLqKSPB1ESMEUQ6MrqDYwZVpump", "sym": "\u8c46\u52a9", "reason": "vol1h 0<40k"}
