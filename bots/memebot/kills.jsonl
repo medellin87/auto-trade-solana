@@ -6651,3 +6651,10 @@
 {"t": "2026-11-04 04:56:06 WIB", "mint": "GvXVifsHqKunRtg6pqaDQujgfj8aht1udH2a8aJhmRgC", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-04 04:56:52 WIB", "mint": "H4PfRntmvem1jeZiSFGZThmzXoakHXCiSCCdV8ybpump", "sym": "MEMECOIN", "reason": "vol1h 37270<40k"}
 {"t": "2026-11-04 04:57:39 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 6616<40k"}
+{"t": "2026-11-04 04:59:15 WIB", "mint": "GjMtxWny6SWNcetcGxugw2QyhYhke33J6i7R2r3Epump", "sym": "VANS", "reason": "vol1h 28283<40k"}
+{"t": "2026-11-04 04:59:17 WIB", "mint": "28DkHyu9cmrHXa57dhkR7nayKEwpJRKEn5FSxtbFpump", "sym": "MONA", "reason": "vol1h 31594<40k"}
+{"t": "2026-11-04 04:59:18 WIB", "mint": "ADvbwD9pgBeHHQBmBaiUir4zjC946FW2mDJbSejmpump", "sym": "POLITICATS", "reason": "liq 0<20k"}
+{"t": "2026-11-04 05:00:05 WIB", "mint": "7B85zY7xFXypiEZ2W4YsPQ8AP9V5TYV8Na9aoB16pump", "sym": "SEXYANSEM", "reason": "liq 1895<20k"}
+{"t": "2026-11-04 05:00:07 WIB", "mint": "592MyuZiyHCEg8YJBnGJXCpcgfaK81vKiV83M3XMpump", "sym": "MEMECOIN", "reason": "top10 29.2%>25"}
+{"t": "2026-11-04 05:00:08 WIB", "mint": "3rgFUpCG4Vs2twJordBqLgUtuzdr7yckJNP33fQypump", "sym": "SA", "reason": "vol1h 27500<40k"}
+{"t": "2026-11-04 05:00:10 WIB", "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump", "sym": "SU", "reason": "vol1h 16019<40k"}
