@@ -4625,3 +4625,7 @@
 {"t": "2026-11-03 08:05:31 WIB", "mint": "J2rzrouHAL6mBaQddXhzV4jHmSZQLBnJivFG39Yypump", "sym": "RUGLESSMD", "reason": "vol1h 4<40k"}
 {"t": "2026-11-03 08:07:03 WIB", "mint": "DBE65M3SYZoQRyFPgVqUkcxnaHbr6JX34PmBwqopcYRF", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-03 08:07:50 WIB", "mint": "CqUzBPsCAnhm7hFNzz4PeTZamp9yyvxLey2J15Axpump", "sym": "GIVING", "reason": "vol1h 3371<40k"}
+{"t": "2026-11-03 08:08:36 WIB", "mint": "5cKX3tn119ayha94BD6xEZQekQUG8stwHHNTuNBppump", "sym": "Bitsan", "reason": "vol1h 605<40k"}
+{"t": "2026-11-03 08:09:23 WIB", "mint": "BasL6j1MNkjFyuvRRFsmbm3bKqFPr6Yg3UhShii6pump", "sym": "KYBER", "reason": "liq 0<20k"}
+{"t": "2026-11-03 08:10:10 WIB", "mint": "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump", "sym": "Slingoor", "reason": "top10 73.6%>25"}
+{"t": "2026-11-03 08:10:12 WIB", "mint": "CAoAQvqA8qQXrBFgVXwcasueKRdHJ8Cim7ixMTZSpump", "sym": "SHORT", "reason": "vol1h 15<40k"}
