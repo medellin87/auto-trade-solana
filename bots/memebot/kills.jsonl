@@ -6443,3 +6443,6 @@
 {"t": "2026-11-04 02:53:36 WIB", "mint": "1o7Z1sGcw6sdXXgqZFkCKwCxb9xLxGimBoUVG9Yzero", "sym": "ZERO", "reason": "liq 8879<20k"}
 {"t": "2026-11-04 02:54:23 WIB", "mint": "JcPLcB4WN61b2i6cZctiXW2R9AYCAKCQo6tqFVNpump", "sym": "Pog", "reason": "liq 0<20k"}
 {"t": "2026-11-04 02:54:24 WIB", "mint": "t2TGpqDS81fNNXCST8hxNrRsfVPxJdw41Cct4yLpump", "sym": "Suica", "reason": "liq 0<20k"}
+{"t": "2026-11-04 02:56:42 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 4496<40k"}
+{"t": "2026-11-04 02:56:43 WIB", "mint": "GeuSL76R5FgWPuHZpJJc9MUP78wMyf6crwTPHSzXpump", "sym": "PEPECOIN", "reason": "liq 2431<20k"}
+{"t": "2026-11-04 02:58:15 WIB", "mint": "FfH6zeDiDYjySz4npwSzT2iwkezyJpopfS8JFvEVpump", "sym": "Relic", "reason": "vol1h 30040<40k"}
