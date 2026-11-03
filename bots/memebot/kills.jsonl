@@ -5675,3 +5675,6 @@
 {"t": "2026-11-03 18:41:58 WIB", "mint": "94exwLui2KfAzYnbATkX8iKh4tcjMDW6YwckkSJVpump", "sym": "ABDUL", "reason": "score 0.561<0.6"}
 {"t": "2026-11-03 18:42:00 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.433<0.6"}
 {"t": "2026-11-03 18:42:01 WIB", "mint": "2aEFMMGa6emADiboQB8PidxRCstKjYHGUUNoqcdLpump", "sym": "PerpScape", "reason": "vol1h 2174<40k"}
+{"t": "2026-11-03 18:42:48 WIB", "mint": "8oUGdPdyxVaCSJSZpcVZuxqoyiZAmc2Z22FsDRZ3pump", "sym": "Wanted", "reason": "vol1h 91<40k"}
+{"t": "2026-11-03 18:42:49 WIB", "mint": "5xD4rmd4Vsw3j35qnC8yQmPbxJ9HSbeiF9VTqoqride", "sym": "FOMC", "reason": "vol1h 15520<40k"}
+{"t": "2026-11-03 18:42:51 WIB", "mint": "FBACZF1nWvsGubj2sJZsaAjgmKnxkUfYGYXZ1Zyjpump", "sym": "PEPEYE", "reason": "vol1h 23<40k"}
