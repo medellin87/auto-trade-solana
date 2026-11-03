@@ -1,9 +1,3 @@
-{"t": "2026-11-04 02:56:42 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 4496<40k"}
-{"t": "2026-11-04 02:56:43 WIB", "mint": "GeuSL76R5FgWPuHZpJJc9MUP78wMyf6crwTPHSzXpump", "sym": "PEPECOIN", "reason": "liq 2431<20k"}
-{"t": "2026-11-04 02:58:15 WIB", "mint": "FfH6zeDiDYjySz4npwSzT2iwkezyJpopfS8JFvEVpump", "sym": "Relic", "reason": "vol1h 30040<40k"}
-{"t": "2026-11-04 02:59:47 WIB", "mint": "9K2jXyrtTxxZRagv3FPs1xmJkZyCCQzoAYSzDPispump", "sym": "MRGN", "reason": "vol1h 33785<40k"}
-{"t": "2026-11-04 03:00:34 WIB", "mint": "J9298rzfgWxxTGSTmqsTiPQ1ZfdfADgV6UuFYKMFpump", "sym": "GTA$", "reason": "liq 16929<20k"}
-{"t": "2026-11-04 03:01:21 WIB", "mint": "BHzH8z58Vx2WiKBR2AGCNfYm54s1YnqHr8Z1YxS3pump", "sym": "MAIN", "reason": "vol1h 37920<40k"}
 {"t": "2026-11-04 03:01:23 WIB", "mint": "HuWrWRfatNZYcwh1jau2c8aDgHti3VLNJJoKKURopump", "sym": "GIVE", "reason": "liq 0<20k"}
 {"t": "2026-11-04 03:02:10 WIB", "mint": "4KxtNWc5XTL3cuyc8PJMchqB6RYggvEFeMub727GBAGS", "sym": "SALVOR", "reason": "vol1h 1089<40k"}
 {"t": "2026-11-04 03:04:27 WIB", "mint": "GKfxbrZJNzVgVEoJurJjV8C3qvfuWMHhKsz8AqnQXUBY", "sym": "MAYA", "reason": "vol1h 0<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-04 03:14:04 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 0<40k"}
 {"t": "2026-11-04 03:14:06 WIB", "mint": "5gMmofmv9vU9Ya7pMLMRDYsPhoP2d5bHHHh3qeSd4CM1", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-04 03:15:38 WIB", "mint": "JVtVUduUFx3HL3fA87YA77YDGn5iQoYDeDaLFNopump", "sym": "Shitcoin", "reason": "vol1h 467<40k"}
+{"t": "2026-11-04 03:16:25 WIB", "mint": "3aJzmQq2TPX5xd9Dx1A4HhYNXDLAcWVwegdq5T47pump", "sym": "King", "reason": "liq 0<20k"}
+{"t": "2026-11-04 03:17:59 WIB", "mint": "FK5tP4Zw7ujWzaz3TgeJ5NcqGe5LFufo7m6zH6YQpump", "sym": "5STAR", "reason": "vol1h 11853<40k"}
+{"t": "2026-11-04 03:18:01 WIB", "mint": "GrGCEeQU7FGA9Xky9ogpinxoMfexUbMTL27zhJ82pump", "sym": "River", "reason": "liq 14541<20k"}
+{"t": "2026-11-04 03:18:48 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 755<40k"}
+{"t": "2026-11-04 03:19:35 WIB", "mint": "5xD4rmd4Vsw3j35qnC8yQmPbxJ9HSbeiF9VTqoqride", "sym": "FOMC", "reason": "vol1h 177<40k"}
+{"t": "2026-11-04 03:19:36 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 2440<40k"}
