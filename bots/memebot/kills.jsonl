@@ -6740,3 +6740,8 @@
 {"t": "2026-11-04 05:46:37 WIB", "mint": "BQ3yawMJwU7RCoFagJ3Go7AYMBDxzeNAKiRC2qTbpump", "sym": "Pekka", "reason": "liq 0<20k"}
 {"t": "2026-11-04 05:46:39 WIB", "mint": "7sTfS2jxuBRCcfGF45XabsxUv3gFXN83JCRpDciqpump", "sym": "MU", "reason": "liq 0<20k"}
 {"t": "2026-11-04 05:47:26 WIB", "mint": "3p1XAKNnkTZ1iXcW5xy4xMSq6nb4Y3gsGZpjUqMCpump", "sym": "AMC", "reason": "liq 14341<20k"}
+{"t": "2026-11-04 05:48:58 WIB", "mint": "xCLUDNX5B7Kr6BMDtpgUXJNNzjfyuFZYq7qyoYupump", "sym": " LONGHORN", "reason": "vol1h 23373<40k"}
+{"t": "2026-11-04 05:49:45 WIB", "mint": "36CNzFyiMSMGM7ZG97YgBedZHF99Kcf5b5PKZq8fLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-04 05:49:46 WIB", "mint": "FK5tP4Zw7ujWzaz3TgeJ5NcqGe5LFufo7m6zH6YQpump", "sym": "5STAR", "reason": "vol1h 12769<40k"}
+{"t": "2026-11-04 05:51:18 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 1275<40k"}
+{"t": "2026-11-04 05:51:20 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 635<40k"}
