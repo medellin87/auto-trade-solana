@@ -5724,3 +5724,7 @@
 {"t": "2026-11-03 19:12:34 WIB", "mint": "9gKArqT6qp3goHfuwAnfG7LioqwUtJ8TFu7P1Bhbpump", "sym": "404", "reason": "liq 0<20k"}
 {"t": "2026-11-03 19:12:35 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.427<0.6"}
 {"t": "2026-11-03 19:12:37 WIB", "mint": "2aEFMMGa6emADiboQB8PidxRCstKjYHGUUNoqcdLpump", "sym": "PerpScape", "reason": "vol1h 2580<40k"}
+{"t": "2026-11-03 19:13:24 WIB", "mint": "8oUGdPdyxVaCSJSZpcVZuxqoyiZAmc2Z22FsDRZ3pump", "sym": "Wanted", "reason": "vol1h 400<40k"}
+{"t": "2026-11-03 19:13:25 WIB", "mint": "5xD4rmd4Vsw3j35qnC8yQmPbxJ9HSbeiF9VTqoqride", "sym": "FOMC", "reason": "vol1h 14097<40k"}
+{"t": "2026-11-03 19:13:27 WIB", "mint": "FBACZF1nWvsGubj2sJZsaAjgmKnxkUfYGYXZ1Zyjpump", "sym": "PEPEYE", "reason": "vol1h 19<40k"}
+{"t": "2026-11-03 19:14:58 WIB", "mint": "4yxnt3xAdyBFFbzMWJy9sjGEoiBNkjwdSQZ8ZyULpump", "sym": "MOGMAS", "reason": "liq 0<20k"}
