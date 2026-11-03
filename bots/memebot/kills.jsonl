@@ -6597,3 +6597,7 @@
 {"t": "2026-11-04 04:25:31 WIB", "mint": "GvXVifsHqKunRtg6pqaDQujgfj8aht1udH2a8aJhmRgC", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-04 04:26:18 WIB", "mint": "H4PfRntmvem1jeZiSFGZThmzXoakHXCiSCCdV8ybpump", "sym": "MEMECOIN", "reason": "vol1h 10600<40k"}
 {"t": "2026-11-04 04:27:05 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 8171<40k"}
+{"t": "2026-11-04 04:29:26 WIB", "mint": "3rgFUpCG4Vs2twJordBqLgUtuzdr7yckJNP33fQypump", "sym": "SA", "reason": "vol1h 25961<40k"}
+{"t": "2026-11-04 04:30:13 WIB", "mint": "9K2jXyrtTxxZRagv3FPs1xmJkZyCCQzoAYSzDPispump", "sym": "MRGN", "reason": "vol1h 65<40k"}
+{"t": "2026-11-04 04:31:00 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.568<0.6"}
+{"t": "2026-11-04 04:31:47 WIB", "mint": "2yUz9MAAEdtdEoGdiyaAT5dEQ1CRVoFX4UvPHthypump", "sym": "Endorse", "reason": "liq 3503<20k"}
