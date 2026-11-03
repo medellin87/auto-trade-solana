@@ -5851,3 +5851,7 @@
 {"t": "2026-11-03 20:38:43 WIB", "mint": "31SYoqWFhx3i9UsfnoXTjFp4ZwJA8F8UPrMxymfDpump", "sym": "SPHERE", "reason": "score 0.578<0.6"}
 {"t": "2026-11-03 20:38:44 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "score 0.492<0.6"}
 {"t": "2026-11-03 20:38:46 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 5049<40k"}
+{"t": "2026-11-03 20:39:33 WIB", "mint": "Chqxfg9SP4eudEXLvLZv8YqnjkMxV64ifobR4pk3pump", "sym": "2SLIMEY", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 20:40:19 WIB", "mint": "JVtVUduUFx3HL3fA87YA77YDGn5iQoYDeDaLFNopump", "sym": "Shitcoin", "reason": "vol1h 880<40k"}
+{"t": "2026-11-03 20:40:21 WIB", "mint": "9Xxsoab47VknN15izoj2wE2x4BoYUfpnxQAUmroGpump", "sym": "PWESIDENT", "reason": "liq 0<20k"}
+{"t": "2026-11-03 20:40:23 WIB", "mint": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win", "sym": "1WIN", "reason": "top10 83.8%>25"}
