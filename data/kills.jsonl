@@ -1,9 +1,3 @@
-{"t": "2026-11-03 08:50:26 WIB", "mint": "BY1faCb6kgur3z6XAJpoJzPtuni4nsGgoFc7JMVzRV8u", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-03 08:50:28 WIB", "mint": "GFay6ncgKkKmkxCdQbLc2V68z6WLoffRofvEQDNgpump", "sym": "OnlyCats", "reason": "liq 1906<20k"}
-{"t": "2026-11-03 08:50:29 WIB", "mint": "Ei19qkvBM3amMyrveNLqKSPB1ESMEUQ6MrqDYwZVpump", "sym": "\u8c46\u52a9", "reason": "vol1h 0<40k"}
-{"t": "2026-11-03 08:51:16 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 3003<40k"}
-{"t": "2026-11-03 08:53:33 WIB", "mint": "CUPgpMvnW8BReB4P2EBn4rXZ2JnpfdHn92rL97BPpump", "sym": "Shopifi", "reason": "vol1h 11030<40k"}
-{"t": "2026-11-03 08:54:21 WIB", "mint": "FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win", "sym": "1WIN", "reason": "top10 84.1%>25"}
 {"t": "2026-11-03 08:54:22 WIB", "mint": "6KCWfcpUDFKutmVGbV9DvBZbHRasXG8Rwa1RHoa4pump", "sym": "Normie", "reason": "vol1h 6<40k"}
 {"t": "2026-11-03 08:54:24 WIB", "mint": "CwYHf2VMMgdRUwSJdaA4ocrLq6zcjDNzbkHuGQ62pump", "sym": "NOMADS", "reason": "vol1h 8901<40k"}
 {"t": "2026-11-03 08:55:11 WIB", "mint": "FydUK4ArdkSNNnvUv1hsJ8PfE4x3Pw3YQjLUK4Vpump", "sym": "Slingoor", "reason": "vol1h 27549<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-03 09:05:34 WIB", "mint": "2aEFMMGa6emADiboQB8PidxRCstKjYHGUUNoqcdLpump", "sym": "PerpScape", "reason": "LP locked 0%<90"}
 {"t": "2026-11-03 09:06:21 WIB", "mint": "J2rzrouHAL6mBaQddXhzV4jHmSZQLBnJivFG39Yypump", "sym": "RUGLESSMD", "reason": "vol1h 85<40k"}
 {"t": "2026-11-03 09:06:23 WIB", "mint": "6YBtjnNbmHVMsu7CB3ugvCadmbPXjDY6hf14YP2apump", "sym": "ANON", "reason": "vol1h 19620<40k"}
+{"t": "2026-11-03 09:07:57 WIB", "mint": "CqUzBPsCAnhm7hFNzz4PeTZamp9yyvxLey2J15Axpump", "sym": "GIVING", "reason": "vol1h 3924<40k"}
+{"t": "2026-11-03 09:08:44 WIB", "mint": "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1", "sym": "Pok\u00e9mon", "reason": "vol1h 158<40k"}
+{"t": "2026-11-03 09:08:45 WIB", "mint": "5cKX3tn119ayha94BD6xEZQekQUG8stwHHNTuNBppump", "sym": "Bitsan", "reason": "vol1h 92<40k"}
+{"t": "2026-11-03 09:09:32 WIB", "mint": "4gMXHewBS7B4qbUuNw9LLeq1DjBCuuZy3B76VJq6pump", "sym": "FOBET", "reason": "vol1h 527<40k"}
+{"t": "2026-11-03 09:09:34 WIB", "mint": "Hhcck7SDvK3aQri5FAZpBCU9vQe2xWQxZx32FLfgpump", "sym": "DOPPLER", "reason": "liq 3890<20k"}
+{"t": "2026-11-03 09:09:35 WIB", "mint": "BasL6j1MNkjFyuvRRFsmbm3bKqFPr6Yg3UhShii6pump", "sym": "KYBER", "reason": "vol1h 33538<40k"}
