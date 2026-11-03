@@ -6052,3 +6052,7 @@
 {"t": "2026-11-03 22:44:22 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.591<0.6"}
 {"t": "2026-11-03 22:44:24 WIB", "mint": "864LDRm68LQPQo1H4xMcVGozSxm5iSmFZVyW8TCgpump", "sym": "Pascal", "reason": "vol1h 19269<40k"}
 {"t": "2026-11-03 22:45:11 WIB", "mint": "6hBcDKNhsgvctr4SEKTYgDUZXesvwchkU7FWrZ9mRSYr", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-03 22:45:57 WIB", "mint": "8oUGdPdyxVaCSJSZpcVZuxqoyiZAmc2Z22FsDRZ3pump", "sym": "Wanted", "reason": "vol1h 10<40k"}
+{"t": "2026-11-03 22:45:59 WIB", "mint": "5xD4rmd4Vsw3j35qnC8yQmPbxJ9HSbeiF9VTqoqride", "sym": "FOMC", "reason": "vol1h 1992<40k"}
+{"t": "2026-11-03 22:46:00 WIB", "mint": "Cbtnpg6SL9jvZxtZTYYFPtVQXkuuqSUxCU5aXeTkpump", "sym": "LUCIA", "reason": "liq 2415<20k"}
+{"t": "2026-11-03 22:46:47 WIB", "mint": "HuNvBLyLx2CTyGpYcm7f1xSNnzWQVsy6hU9N7NY4pump", "sym": "NEXQ", "reason": "vol1h 26798<40k"}
