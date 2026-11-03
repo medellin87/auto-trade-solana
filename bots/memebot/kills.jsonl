@@ -4698,3 +4698,10 @@
 {"t": "2026-11-03 08:57:34 WIB", "mint": "57oBeZa8VsB7sK9v4iiVM8uRLgpeKAbpSbfTjH2npump", "sym": "NUMB", "reason": "vol1h 0<40k"}
 {"t": "2026-11-03 08:59:51 WIB", "mint": "nG3jfPQHU2ZQhPERkTZD8YPSAsrrWiePPDcm9jxpump", "sym": "ARNOLD", "reason": "vol1h 592<40k"}
 {"t": "2026-11-03 08:59:53 WIB", "mint": "4uaLgPQmoEdfCm9xe4HF7h6vKib3xnLLdioaAYX3hubD", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-03 09:00:40 WIB", "mint": "AzxvvYXhKBz3oXhDzrfZqSDiDevuGBQgsJjD2DkS3UgH", "sym": "DINU", "reason": "liq 0<20k"}
+{"t": "2026-11-03 09:00:41 WIB", "mint": "93KYmXmMCLHEmGMKH6x1qX2LDZh42JH2nkoJgEZxpump", "sym": "BMax", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 09:02:14 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 2696<40k"}
+{"t": "2026-11-03 09:02:15 WIB", "mint": "Df7S2KWpt7RroAFEZWvkwqBohEquG9DzJfpdHy9Zpump", "sym": "MINUSIQ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-03 09:02:17 WIB", "mint": "3EGAF9NLGcdMjhnnPzosViLKrfpGN7rCwLT2AMhKpump", "sym": "Pando", "reason": "vol1h 1<40k"}
+{"t": "2026-11-03 09:02:18 WIB", "mint": "5MVP56Cys6D2SmC7iXXWj9U3sxMWU9Sqquz2XY8JLosL", "sym": "LosL", "reason": "vol1h 482<40k"}
+{"t": "2026-11-03 09:03:05 WIB", "mint": "G6xkhEG11goAnfGeEu8gxpy7RvNhhbCswScEmJWqkuip", "sym": "KUIP", "reason": "vol1h 7382<40k"}
