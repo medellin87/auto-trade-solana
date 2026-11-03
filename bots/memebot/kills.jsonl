@@ -5400,3 +5400,12 @@
 {"t": "2026-11-03 16:09:11 WIB", "mint": "G1k56C6DGNfCWb3bQMBWCr1eh2Uzc5oP4RPaEXTYpump", "sym": "HORSE", "reason": "vol1h 22<40k"}
 {"t": "2026-11-03 16:09:58 WIB", "mint": "EAqmgSTREypN7rgsPinZzzzG8NwtqwZAvbgMhnxmpump", "sym": "FBI", "reason": "liq 1902<20k"}
 {"t": "2026-11-03 16:09:59 WIB", "mint": "G6F6SYSUAUxsnKLyeRW29hE5A4BGCbw91x7HMPySpump", "sym": "GTA", "reason": "vol1h 1700<40k"}
+{"t": "2026-11-03 16:10:47 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.426<0.6"}
+{"t": "2026-11-03 16:10:48 WIB", "mint": "2aEFMMGa6emADiboQB8PidxRCstKjYHGUUNoqcdLpump", "sym": "PerpScape", "reason": "vol1h 213<40k"}
+{"t": "2026-11-03 16:11:35 WIB", "mint": "FBACZF1nWvsGubj2sJZsaAjgmKnxkUfYGYXZ1Zyjpump", "sym": "PEPEYE", "reason": "vol1h 24<40k"}
+{"t": "2026-11-03 16:11:36 WIB", "mint": "8oUGdPdyxVaCSJSZpcVZuxqoyiZAmc2Z22FsDRZ3pump", "sym": "Wanted", "reason": "vol1h 89<40k"}
+{"t": "2026-11-03 16:11:38 WIB", "mint": "8u4sjD7E5yg6MMC3XnoqjrMDbmoXPfiqW7cnkhqZpump", "sym": "ASH", "reason": "vol1h 4198<40k"}
+{"t": "2026-11-03 16:11:40 WIB", "mint": "Ebih1KdijjpQBaM83gUfGhRtTCpHzDkBZhCZedZwpump", "sym": "Firecube", "reason": "vol1h 38<40k"}
+{"t": "2026-11-03 16:11:41 WIB", "mint": "4aiNcRdjy37YRK6zKae2iiSispdDatJqwcyJJVGcpump", "sym": "Dollar", "reason": "vol1h 4<40k"}
+{"t": "2026-11-03 16:11:43 WIB", "mint": "E3rUtbq3mcuxidcDPEshaTQcyUfYK8apjGFzZep5pump", "sym": "hedge", "reason": "vol1h 5330<40k"}
+{"t": "2026-11-03 16:13:17 WIB", "mint": "CqUzBPsCAnhm7hFNzz4PeTZamp9yyvxLey2J15Axpump", "sym": "GIVING", "reason": "vol1h 263<40k"}
