@@ -6124,3 +6124,7 @@
 {"t": "2026-11-03 23:34:05 WIB", "mint": "EcCpMnjc3wJQrCKSsyrzyJiXRwY6AZPLzSaWR2bPpump", "sym": "GTAFY", "reason": "vol1h 1699<40k"}
 {"t": "2026-11-03 23:34:52 WIB", "mint": "2sexp5M1t12kqn9whtaP6GcxLekvMRHa7Fi9nmzaCdeg", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-03 23:35:38 WIB", "mint": "HBFxk72r4xVqhT8yK8ZFXEEGvpfkoeeSTQXiewZP7SZM", "sym": "WTAIL", "reason": "vol1h 2819<40k"}
+{"t": "2026-11-03 23:37:10 WIB", "mint": "FZs4YUPyD5sMzUv5fwiWBQx3s9Nzgvw62g8ytohwpump", "sym": "LILY", "reason": "vol1h 1129<40k"}
+{"t": "2026-11-03 23:37:12 WIB", "mint": "GaEdpUJSaCqTsLgEhZcRza8E4G5TLQEKFe8bHKVfpump", "sym": "Mehoff", "reason": "liq 0<20k"}
+{"t": "2026-11-03 23:37:59 WIB", "mint": "Bj3zX42qBrgae5XD1Vb5eVkYghF6G9MKuQXx53XXZwUV", "sym": "FUN", "reason": "LP locked 68%<90"}
+{"t": "2026-11-03 23:38:01 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 2717<40k"}
