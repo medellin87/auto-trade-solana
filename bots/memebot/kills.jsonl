@@ -6349,3 +6349,6 @@
 {"t": "2026-11-04 01:52:49 WIB", "mint": "3zRn4CSCv5yVxwGxub1qTZFA2PQJNrEX9SJKKSH8pump", "sym": "SOULD", "reason": "vol1h 1208<40k"}
 {"t": "2026-11-04 01:52:51 WIB", "mint": "1o7Z1sGcw6sdXXgqZFkCKwCxb9xLxGimBoUVG9Yzero", "sym": "ZERO", "reason": "vol1h 18296<40k"}
 {"t": "2026-11-04 01:54:23 WIB", "mint": "2umoaMqSn1o4UmpNtSozHycfrdUkoMVBRuZNbhKfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-04 01:55:55 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 18838<40k"}
+{"t": "2026-11-04 01:55:57 WIB", "mint": "GeuSL76R5FgWPuHZpJJc9MUP78wMyf6crwTPHSzXpump", "sym": "PEPECOIN", "reason": "vol1h 32880<40k"}
+{"t": "2026-11-04 01:56:43 WIB", "mint": "9BYVxhYF4tWSRVyJUBSVC8PaAhuuiCiAbmfy4hUApump", "sym": "XMAS", "reason": "vol1h 1016<40k"}
