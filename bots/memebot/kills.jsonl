@@ -6352,3 +6352,7 @@
 {"t": "2026-11-04 01:55:55 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 18838<40k"}
 {"t": "2026-11-04 01:55:57 WIB", "mint": "GeuSL76R5FgWPuHZpJJc9MUP78wMyf6crwTPHSzXpump", "sym": "PEPECOIN", "reason": "vol1h 32880<40k"}
 {"t": "2026-11-04 01:56:43 WIB", "mint": "9BYVxhYF4tWSRVyJUBSVC8PaAhuuiCiAbmfy4hUApump", "sym": "XMAS", "reason": "vol1h 1016<40k"}
+{"t": "2026-11-04 01:59:01 WIB", "mint": "FqBVbBeoxJfLi5corNFsrDG54SFfBfFwjqtjgZK8pump", "sym": "ENTRY", "reason": "liq 0<20k"}
+{"t": "2026-11-04 01:59:02 WIB", "mint": "6Mf55c5qvmf4xFwCUqWRNPp2T3J3J973hhJZckWxpump", "sym": "LUCIA", "reason": "liq 1868<20k"}
+{"t": "2026-11-04 01:59:04 WIB", "mint": "CQXSMUZL2inTt6Wm3aHpYbks8SQjuEajezmTYtpcoVRc", "sym": "RECR", "reason": "vol1h 13299<40k"}
+{"t": "2026-11-04 01:59:51 WIB", "mint": "J9298rzfgWxxTGSTmqsTiPQ1ZfdfADgV6UuFYKMFpump", "sym": "GTA$", "reason": "liq 0<20k"}
