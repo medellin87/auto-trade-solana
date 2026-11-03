@@ -6819,3 +6819,8 @@
 {"t": "2026-11-04 06:30:26 WIB", "mint": "CbPVBfEETx2VufiKkCpHG1VVdTf46Xwh5SU7syvnpump", "sym": "Alona", "reason": "liq 0<20k"}
 {"t": "2026-11-04 06:31:13 WIB", "mint": "3DYBAnkeAXQWv68nEjwxZXJGobkXZchEGi4mwW6Tu7ci", "sym": "TWUMP", "reason": "liq 0<20k"}
 {"t": "2026-11-04 06:31:15 WIB", "mint": "EfRnwABuWZKxri55se639twy4jy3FRgYfri7wLJ5pump", "sym": "E ", "reason": "top10 26.9%>25"}
+{"t": "2026-11-04 06:32:01 WIB", "mint": "BbryBHhg1iSorUwwRXqqhdVpRMFJfPCRifzkWssUpump", "sym": "Ryzen", "reason": "vol1h 11602<40k"}
+{"t": "2026-11-04 06:33:36 WIB", "mint": "697qJWKHWoAmPWioDEQvJ4P4C9UjuWYLvYK5nA5Mpump", "sym": "VALOR", "reason": "liq 11404<20k"}
+{"t": "2026-11-04 06:33:38 WIB", "mint": "5HsVcH8KmoUTH79HqbDtgR8eZs2KgJiEejWQELJnpump", "sym": "AMD", "reason": "liq 1774<20k"}
+{"t": "2026-11-04 06:34:25 WIB", "mint": "HHVm7A6MaPXxARrLZUADZf1RLJtC4hMasCwzvKX9pump", "sym": "AMD", "reason": "vol1h 25300<40k"}
+{"t": "2026-11-04 06:34:26 WIB", "mint": "FUNtwYkmTzxeHtTJu8hVJZ9nEXXdFh18e32eLZCEyaEM", "sym": "FUN", "reason": "liq 0<20k"}
