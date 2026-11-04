@@ -8953,3 +8953,6 @@
 {"t": "2026-11-05 03:51:56 WIB", "mint": "Dcht3Y7BBykVGzcACrBTRriYmGMKisgEMTXJxUY3pump", "sym": "OUR", "reason": "liq 0<20k"}
 {"t": "2026-11-05 03:51:58 WIB", "mint": "5yLUeverEkoA9UxS538qiA7RovBmzjBJKSjWjkAZpump", "sym": "Bunker", "reason": "vol1h 32173<40k"}
 {"t": "2026-11-05 03:52:00 WIB", "mint": "t2TGpqDS81fNNXCST8hxNrRsfVPxJdw41Cct4yLpump", "sym": "Suica", "reason": "vol1h 14433<40k"}
+{"t": "2026-11-05 03:53:13 WIB", "mint": "BA9k5KmTkPC2VMxSUEkBcuzKdHbekXNCZgouTr9etDR9", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-05 03:53:15 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 15351<40k"}
+{"t": "2026-11-05 03:54:02 WIB", "mint": "BT3fJYBgfKbsWrrvCQtgnSw37pxtZcAv7AK6jkSepump", "sym": "TAKE1", "reason": "vol1h 8434<40k"}
