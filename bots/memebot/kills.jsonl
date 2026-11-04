@@ -7865,3 +7865,12 @@
 {"t": "2026-11-04 16:36:35 WIB", "mint": "9m8kNFcVwtSqHdGDHjK6yCMLxYBjdCECCZ7zEThcpump", "sym": "BOTTOM", "reason": "vol1h 3498<40k"}
 {"t": "2026-11-04 16:38:06 WIB", "mint": "5HbD9q6c3oCfdRSbEzgt8vh4VAmp8ohN1ykBmwJipump", "sym": "H1T", "reason": "vol1h 8464<40k"}
 {"t": "2026-11-04 16:38:08 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 6320<40k"}
+{"t": "2026-11-04 16:39:40 WIB", "mint": "Fu9n4TS5QkEKzMW66djz6T6fUspAbTuYsb7gcHSApump", "sym": "POOLS", "reason": "liq 10459<20k"}
+{"t": "2026-11-04 16:40:26 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "vol1h 2744<40k"}
+{"t": "2026-11-04 16:40:28 WIB", "mint": "5XsGvzqH1V5o7G6eTtQkb442AHisDjTuVULt5oHCpump", "sym": "Spacecoin", "reason": "vol1h 30<40k"}
+{"t": "2026-11-04 16:40:30 WIB", "mint": "7gZ9ep1ufbfxruCfT348exuWYSyv5GU9L6QzZ2gBYvid", "sym": "APU", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 16:40:31 WIB", "mint": "57NTXnoGkFzhCvJGjXhCxp4WmVEhhLa9273fLNngpump", "sym": "enu", "reason": "vol1h 10221<40k"}
+{"t": "2026-11-04 16:42:03 WIB", "mint": "8gtpQba3s4b8KhzVqhKDqZkwvfNSeZ2QX3jDfmpbpump", "sym": "SI", "reason": "vol1h 21716<40k"}
+{"t": "2026-11-04 16:42:04 WIB", "mint": "8wzq9hZD5LZ969Q5mttHkJh4ZFNrVb1tmowdp7Yspump", "sym": "APU", "reason": "liq 0<20k"}
+{"t": "2026-11-04 16:42:06 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 2048<40k"}
+{"t": "2026-11-04 16:42:08 WIB", "mint": "BZKtBwofTPbuVVhwikmWW9woXnLhU9csLYHZ4pqpump", "sym": "HUNT", "reason": "vol1h 1568<40k"}
