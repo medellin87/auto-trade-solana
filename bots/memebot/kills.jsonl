@@ -7874,3 +7874,11 @@
 {"t": "2026-11-04 16:42:04 WIB", "mint": "8wzq9hZD5LZ969Q5mttHkJh4ZFNrVb1tmowdp7Yspump", "sym": "APU", "reason": "liq 0<20k"}
 {"t": "2026-11-04 16:42:06 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 2048<40k"}
 {"t": "2026-11-04 16:42:08 WIB", "mint": "BZKtBwofTPbuVVhwikmWW9woXnLhU9csLYHZ4pqpump", "sym": "HUNT", "reason": "vol1h 1568<40k"}
+{"t": "2026-11-04 16:42:54 WIB", "mint": "D7YBgVbEtq55QZdubR8cVvN1H2TFQis8s8fKhQqhrLgs", "sym": "EXIT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 16:42:56 WIB", "mint": "ELG2WX7c67AFEbPRUqz6AP8m9xA1eaSXxNGtVA2qpump", "sym": "SI", "reason": "vol1h 50<40k"}
+{"t": "2026-11-04 16:42:57 WIB", "mint": "FWTurdziu8qVHLc61kvRc4UzMgG5c76DdzowYhL1pump", "sym": "PerpScape", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 16:43:44 WIB", "mint": "5ZXxQLRmDe1Ya33AwXcBbcY1neLttXnHKR4uHrqFpump", "sym": "AMP", "reason": "vol1h 21916<40k"}
+{"t": "2026-11-04 16:44:31 WIB", "mint": "5ZndeMaC36YapnG4UpXsFg2DXDquHw6xEpBXGfmfpump", "sym": "Transinu", "reason": "vol1h 62<40k"}
+{"t": "2026-11-04 16:45:18 WIB", "mint": "DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump", "sym": "AMD", "reason": "score 0.541<0.6"}
+{"t": "2026-11-04 16:45:19 WIB", "mint": "8E8BZk5oWbYnzSQ3Xs66b1g36JckbJ4dzMuwyarFpump", "sym": "Fred", "reason": "vol1h 2533<40k"}
+{"t": "2026-11-04 16:45:21 WIB", "mint": "HAjc6B1MfdjnYPiB2xcETPb25kb85Pxg9nq9i4D5pump", "sym": "HUND ", "reason": "vol1h 184<40k"}
