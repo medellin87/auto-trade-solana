@@ -8790,3 +8790,6 @@
 {"t": "2026-11-05 02:10:04 WIB", "mint": "4yjvoVxMhzqasrNDi2jpskNSvNQn1uddNzp38reGMdqR", "sym": "BACKED", "reason": "vol1h 18696<40k"}
 {"t": "2026-11-05 02:11:36 WIB", "mint": "8gMWXHfSwBRSLc2wKtLv24JYboCAsKaEqfC5cXLeZJXL", "sym": "ZILLIONS", "reason": "vol1h 1259<40k"}
 {"t": "2026-11-05 02:12:23 WIB", "mint": "8htXY4VqMgwSkzpJ9UiMLPaGo7z4QLGEDhXseQS3pump", "sym": "TEARDOWN", "reason": "liq 0<20k"}
+{"t": "2026-11-05 02:13:58 WIB", "mint": "42qKoGmEPTRJsa5jWrYwpydL8RkBwMvg2ykYVoerpump", "sym": "GHOST", "reason": "score 0.507<0.6"}
+{"t": "2026-11-05 02:14:02 WIB", "mint": "AGjymDuuNxzL2hrbhwVAbpFjZTiY5X4bn9jqziWdpump", "sym": "SPCX", "reason": "vol1h 4226<40k"}
+{"t": "2026-11-05 02:16:19 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 9390<40k"}
