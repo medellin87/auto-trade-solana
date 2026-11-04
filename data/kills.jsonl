@@ -1,10 +1,3 @@
-{"t": "2026-11-04 20:14:25 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "vol1h 37<40k"}
-{"t": "2026-11-04 20:14:26 WIB", "mint": "27XNz1SJVFURVDnhXmNyxN78rPLpmiKyDo9GvjBBpump", "sym": "ram", "reason": "vol1h 7625<40k"}
-{"t": "2026-11-04 20:15:13 WIB", "mint": "3Y2TGH3AvFFEL48rZfCgtiNJZJ84Eu75akYWmhyXpump", "sym": "Dumocrat", "reason": "liq 1957<20k"}
-{"t": "2026-11-04 20:15:14 WIB", "mint": "C3j6YhjnUBRzokqfGeH6x2pPnBYNP4zSvKiXFRumCyQy", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-04 20:16:01 WIB", "mint": "5gqiRdCWHX8gtijXBqNX9Y8262U7iSAGdj9rgJN3stay", "sym": "STAY", "reason": "vol1h 13053<40k"}
-{"t": "2026-11-04 20:16:03 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 3769<40k"}
-{"t": "2026-11-04 20:16:04 WIB", "mint": "BZKtBwofTPbuVVhwikmWW9woXnLhU9csLYHZ4pqpump", "sym": "HUNT", "reason": "vol1h 197<40k"}
 {"t": "2026-11-04 20:16:06 WIB", "mint": "5swCxtB6Y1kC5EWzrmACxw6qsnJSk3vWdJuWr7qHpump", "sym": "P10", "reason": "liq 0<20k"}
 {"t": "2026-11-04 20:16:53 WIB", "mint": "6YE7uswfP8bp7ZUCmWSEMh5UBDNr2xiRavsm41rnpump", "sym": "RI", "reason": "vol1h 21964<40k"}
 {"t": "2026-11-04 20:16:54 WIB", "mint": "5iuqZtGthqTYnFVZTBHxMkXNXX31mjLsKJYy5Y8TAR9V", "sym": "Creed", "reason": "vol1h 2163<40k"}
@@ -28,3 +21,10 @@
 {"t": "2026-11-04 20:30:09 WIB", "mint": "4eEDTyors4YReX5fBoRFBYNkKs6w66oyQ5CvPcckpump", "sym": "Dumocrats", "reason": "vol1h 14663<40k"}
 {"t": "2026-11-04 20:32:26 WIB", "mint": "2Nq1d6rz6Pjyehpej182Vj22kSfUN3pzuJAJtUmVpump", "sym": "NOT", "reason": "vol1h 12699<40k"}
 {"t": "2026-11-04 20:33:13 WIB", "mint": "FpWWSqLNrjTTMDM41EXkvBmHBDkNdWrf9RwHL57xpump", "sym": "VI", "reason": "score 0.296<0.6"}
+{"t": "2026-11-04 20:34:00 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 2349<40k"}
+{"t": "2026-11-04 20:34:02 WIB", "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump", "sym": "$1", "reason": "vol1h 108<40k"}
+{"t": "2026-11-04 20:34:48 WIB", "mint": "CttHJahfpRU3V1cAMKDCPcN3L8sNikgLWREWYg6Cpump", "sym": "TOLY", "reason": "vol1h 36736<40k"}
+{"t": "2026-11-04 20:34:50 WIB", "mint": "4P2L7q89WYK8tMKdtEuBEAKzvkzykEocsiEiUhHgqGEV", "sym": "VI", "reason": "vol1h 3764<40k"}
+{"t": "2026-11-04 20:35:39 WIB", "mint": "EaxAUcXxNnVwcqm2BBocbows7D1XVY2Q63V38NEypump", "sym": "GTA 6 Coin", "reason": "vol1h 2227<40k"}
+{"t": "2026-11-04 20:35:41 WIB", "mint": "B93V9uyYRaQDKSG8iCQyyP61j3NCqCRRXPCgU3gpump", "sym": "VETO", "reason": "score 0.394<0.6"}
+{"t": "2026-11-04 20:36:28 WIB", "mint": "3ttAXdqca9Fz6PCDQAZWeXh5YQ8wicLMFvQvEEXLPwZr", "sym": "PKONG", "reason": "vol1h 935<40k"}
