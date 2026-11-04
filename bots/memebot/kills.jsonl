@@ -8853,3 +8853,9 @@
 {"t": "2026-11-05 02:51:54 WIB", "mint": "EgCvUhKUTt9ZnUdJEGNzfXx1eLVp5LLXoxESRhs3pFAr", "sym": "BUBU", "reason": "liq 0<20k"}
 {"t": "2026-11-05 02:51:56 WIB", "mint": "Fj9L2q96jcjigboqQWamLk26QyxBTzzAfuR8PCWTpump", "sym": "TONY", "reason": "vol1h 11299<40k"}
 {"t": "2026-11-05 02:52:42 WIB", "mint": "BA9k5KmTkPC2VMxSUEkBcuzKdHbekXNCZgouTr9etDR9", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-05 02:54:17 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.388<0.6"}
+{"t": "2026-11-05 02:55:04 WIB", "mint": "DuQM2aqMUfCYNHLmAAcfYH9US2F8iH2hZeWDEjjppump", "sym": "BUY", "reason": "liq 0<20k"}
+{"t": "2026-11-05 02:55:05 WIB", "mint": "HEb2dwDNbBhnrCusoNXXvba9MymYTTmMQcHKaptxmfun", "sym": "ORBIE", "reason": "vol1h 23918<40k"}
+{"t": "2026-11-05 02:55:07 WIB", "mint": "27XxRVAufpXrfacyVaNCvuT4P57ZUkm8ARqQ1tygpump", "sym": "OPPAI", "reason": "vol1h 11669<40k"}
+{"t": "2026-11-05 02:55:09 WIB", "mint": "4GYiMLa19HqY9tcw8PEXfxAkWNjbbyWhRX6FVuFXpump", "sym": "DUOL", "reason": "liq 0<20k"}
+{"t": "2026-11-05 02:55:55 WIB", "mint": "7cbYn6g9vNQvFJ1igrrFiRHDkzBJT3LSmzfP9JL6pump", "sym": "GOKU", "reason": "vol1h 297<40k"}
