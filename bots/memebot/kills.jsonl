@@ -8683,3 +8683,6 @@
 {"t": "2026-11-05 01:08:59 WIB", "mint": "9f2is2iDNEpwiCD7PcFqv3FZ3LtU9hUnmMpRxrFopump", "sym": "Jewnald", "reason": "liq 0<20k"}
 {"t": "2026-11-05 01:09:46 WIB", "mint": "4yjvoVxMhzqasrNDi2jpskNSvNQn1uddNzp38reGMdqR", "sym": "BACKED", "reason": "vol1h 10280<40k"}
 {"t": "2026-11-05 01:11:18 WIB", "mint": "8gMWXHfSwBRSLc2wKtLv24JYboCAsKaEqfC5cXLeZJXL", "sym": "ZILLIONS", "reason": "vol1h 208<40k"}
+{"t": "2026-11-05 01:12:04 WIB", "mint": "8htXY4VqMgwSkzpJ9UiMLPaGo7z4QLGEDhXseQS3pump", "sym": "TEARDOWN", "reason": "vol1h 23670<40k"}
+{"t": "2026-11-05 01:13:36 WIB", "mint": "5ja9qQuE5V9g5TVAFZVdtVQQqoThkAWxEKUaPcC5jN3F", "sym": "NEMO", "reason": "vol1h 922<40k"}
+{"t": "2026-11-05 01:13:38 WIB", "mint": "JDaram8Jt8qVVKuWTBN9dYk69xmpKFHj6RrzVGgXpump", "sym": "VOLITION", "reason": "liq 12558<20k"}
