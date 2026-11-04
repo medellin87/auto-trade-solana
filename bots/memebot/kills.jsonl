@@ -8425,3 +8425,7 @@
 {"t": "2026-11-04 22:32:28 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 99<40k"}
 {"t": "2026-11-04 22:33:14 WIB", "mint": "EwHV6XfuMmBirGSiDVSypVkHcw7jD7Mho1s5xGwjpump", "sym": "AIB", "reason": "liq 16806<20k"}
 {"t": "2026-11-04 22:34:01 WIB", "mint": "3HbtcdxLuTWL9cCUW11ukHzy6jKsqigLtrp1sRwfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-04 22:34:48 WIB", "mint": "46ZWzAWbMN1QZXbPdeNxnkrGAYsqh7mw3ELbq5s1pump", "sym": "madape", "reason": "vol1h 37118<40k"}
+{"t": "2026-11-04 22:36:19 WIB", "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump", "sym": "$1", "reason": "vol1h 100<40k"}
+{"t": "2026-11-04 22:37:06 WIB", "mint": "7byECV8Y22PoyVQuNnXm3HrnfNqycsGimDreaz2Jpump", "sym": "JEW", "reason": "liq 0<20k"}
+{"t": "2026-11-04 22:37:08 WIB", "mint": "4P2L7q89WYK8tMKdtEuBEAKzvkzykEocsiEiUhHgqGEV", "sym": "VI", "reason": "vol1h 998<40k"}
