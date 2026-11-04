@@ -8550,3 +8550,6 @@
 {"t": "2026-11-04 23:49:13 WIB", "mint": "82BH9WFmtsJGRCdW147cM24K6X8kAkUx2jSd2NyRLfv6", "sym": "tremp", "reason": "liq 18202<20k"}
 {"t": "2026-11-04 23:49:15 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 360<40k"}
 {"t": "2026-11-04 23:49:16 WIB", "mint": "BZKtBwofTPbuVVhwikmWW9woXnLhU9csLYHZ4pqpump", "sym": "HUNT", "reason": "vol1h 122<40k"}
+{"t": "2026-11-04 23:51:34 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.58<0.6"}
+{"t": "2026-11-04 23:52:21 WIB", "mint": "EB46QS4PVZcbv2RCuZSm82RHH33sWky6ThpBhXHn9jEu", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-04 23:53:55 WIB", "mint": "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1", "sym": "CATPAD", "reason": "vol1h 11077<40k"}
