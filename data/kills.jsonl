@@ -1,8 +1,3 @@
-{"t": "2026-11-05 06:03:40 WIB", "mint": "5ooMWLgkiCHR5tSgcU9b43ESwwY3qXXWoxLC4Q6gPmoT", "sym": "Sasha", "reason": "top10 26.9%>25"}
-{"t": "2026-11-05 06:04:26 WIB", "mint": "Enn6dABdpAt4sXv2QaCqRUdJuR5ihK3PP8zoReVVpump", "sym": "PIKACHINU", "reason": "liq 0<20k"}
-{"t": "2026-11-05 06:04:28 WIB", "mint": "jTQ5g1JdhwXAh3iZ6DVd1ZcnqEsQrxAbWV5pAJYpump", "sym": "ATTENTION", "reason": "liq 8864<20k"}
-{"t": "2026-11-05 06:06:45 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.367<0.6"}
-{"t": "2026-11-05 06:06:47 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 4455<40k"}
 {"t": "2026-11-05 06:08:19 WIB", "mint": "7Mzts4ygtDtkjSYpkqj3pLkys2Gy8HudteibFmeputer", "sym": "MEMEPUTER", "reason": "vol1h 26740<40k"}
 {"t": "2026-11-05 06:08:20 WIB", "mint": "EsGVwSYRp2ofqZJxg65C1wGVkRKKY3QXqp7ShsqNreps", "sym": "reps", "reason": "vol1h 20506<40k"}
 {"t": "2026-11-05 06:09:07 WIB", "mint": "H7N5zQwiBMDHxqn3r93VSSqUqHgFUQCU8yRiuGRcpump", "sym": "FISTJAK", "reason": "LP locked 48%<90"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-05 06:21:43 WIB", "mint": "HBFxk72r4xVqhT8yK8ZFXEEGvpfkoeeSTQXiewZP7SZM", "sym": "WTAIL", "reason": "vol1h 2760<40k"}
 {"t": "2026-11-05 06:22:30 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 5967<40k"}
 {"t": "2026-11-05 06:22:31 WIB", "mint": "27Y4WwxHiconrfhwQKGotJ5nVEbrcFiDnJnoRBbCpump", "sym": "tism", "reason": "vol1h 2333<40k"}
+{"t": "2026-11-05 06:23:18 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.415<0.6"}
+{"t": "2026-11-05 06:24:05 WIB", "mint": "dhHDwtNVBCumJjPabxDWRz1qAZgqe4FQd8kCA2Dpump", "sym": "KAIA", "reason": "liq 3003<20k"}
+{"t": "2026-11-05 06:24:54 WIB", "mint": "t2TGpqDS81fNNXCST8hxNrRsfVPxJdw41Cct4yLpump", "sym": "Suica", "reason": "vol1h 2838<40k"}
+{"t": "2026-11-05 06:25:41 WIB", "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump", "sym": "Democat", "reason": "score 0.413<0.6"}
+{"t": "2026-11-05 06:25:43 WIB", "mint": "CS415D6XWfS2NWivknyLVdm8nsbsBApcbj6NjZ6RVfUH", "sym": "JEET", "reason": "score 0.507<0.6"}
