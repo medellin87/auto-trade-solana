@@ -1,8 +1,3 @@
-{"t": "2026-11-05 02:02:58 WIB", "mint": "BpWuEs3xUjQJ7ft53Szpm31Xe535RLNAvnka9a2z4hD2", "sym": "COMPOUND", "reason": "liq 0<20k"}
-{"t": "2026-11-05 02:03:47 WIB", "mint": "Ex1PtBSyMcQcegFMwjkrDQi4ogsJKpVo2frxkjgvpump", "sym": "ASI", "reason": "liq 8024<20k"}
-{"t": "2026-11-05 02:04:33 WIB", "mint": "3vajh3wXe3EuLSXfSaCikyoCnzyhUJ3KPSoFhyAgpump", "sym": "PREFIRE", "reason": "vol1h 267<40k"}
-{"t": "2026-11-05 02:05:20 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 1241<40k"}
-{"t": "2026-11-05 02:06:07 WIB", "mint": "3HZ97ZA5QfdUfc3GkL261pYJLNJpsHG5EfQ11GFtDoP3", "sym": "PAPER", "reason": "vol1h 17173<40k"}
 {"t": "2026-11-05 02:06:54 WIB", "mint": "8vZFnsXzHZ9kNsGK7fKSrvccBh9B69qHpryKdczpump", "sym": "TRUMP", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 02:08:26 WIB", "mint": "LWSYx94hV8NaFujStsqRZNsd1V8PkasADLTfiWjbfix", "sym": "FIX", "reason": "top10 26.6%>25"}
 {"t": "2026-11-05 02:08:28 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 9252<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-05 02:21:09 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 1567<40k"}
 {"t": "2026-11-05 02:21:10 WIB", "mint": "EgCvUhKUTt9ZnUdJEGNzfXx1eLVp5LLXoxESRhs3pFAr", "sym": "BUBU", "reason": "liq 0<20k"}
 {"t": "2026-11-05 02:21:12 WIB", "mint": "Fj9L2q96jcjigboqQWamLk26QyxBTzzAfuR8PCWTpump", "sym": "TONY", "reason": "vol1h 10470<40k"}
+{"t": "2026-11-05 02:23:31 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 20729<40k"}
+{"t": "2026-11-05 02:25:03 WIB", "mint": "DuQM2aqMUfCYNHLmAAcfYH9US2F8iH2hZeWDEjjppump", "sym": "BUY", "reason": "liq 0<20k"}
+{"t": "2026-11-05 02:25:05 WIB", "mint": "HEb2dwDNbBhnrCusoNXXvba9MymYTTmMQcHKaptxmfun", "sym": "ORBIE", "reason": "top10 67.8%>25"}
+{"t": "2026-11-05 02:25:07 WIB", "mint": "27XxRVAufpXrfacyVaNCvuT4P57ZUkm8ARqQ1tygpump", "sym": "OPPAI", "reason": "vol1h 8531<40k"}
+{"t": "2026-11-05 02:25:08 WIB", "mint": "4GYiMLa19HqY9tcw8PEXfxAkWNjbbyWhRX6FVuFXpump", "sym": "DUOL", "reason": "vol1h 20573<40k"}
