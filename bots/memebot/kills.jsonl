@@ -9056,3 +9056,7 @@
 {"t": "2026-11-05 04:55:23 WIB", "mint": "BT3fJYBgfKbsWrrvCQtgnSw37pxtZcAv7AK6jkSepump", "sym": "TAKE1", "reason": "liq 0<20k"}
 {"t": "2026-11-05 04:56:10 WIB", "mint": "88JgZHVfWtdfhXqZbgb4ZniwSQ3UWnGh2Qv882mxmece", "sym": "FED", "reason": "liq 17633<20k"}
 {"t": "2026-11-05 04:56:11 WIB", "mint": "7gmxQoGqCNK9BJSaD5NNSPgCjpLV8eTSsStnhQuGArDM", "sym": "FOTF", "reason": "vol1h 4791<40k"}
+{"t": "2026-11-05 04:57:43 WIB", "mint": "G4bjr2e9BwqkPxfjUfpsk3B8ySvNYq4rBu2RrQMJpump", "sym": "PI", "reason": "vol1h 21057<40k"}
+{"t": "2026-11-05 04:58:29 WIB", "mint": "HxnEbpkm8TSDB1uEcHuC7u9SgCjLbSzhmxbYez8opump", "sym": "BOARD", "reason": "vol1h 18061<40k"}
+{"t": "2026-11-05 04:58:31 WIB", "mint": "7cbYn6g9vNQvFJ1igrrFiRHDkzBJT3LSmzfP9JL6pump", "sym": "GOKU", "reason": "vol1h 43<40k"}
+{"t": "2026-11-05 04:59:18 WIB", "mint": "J5HCtfNxMMqijXYsRqWnxp9VDR1gKzG1p3qEBZm3BAGS", "sym": "SAN", "reason": "vol1h 1492<40k"}
