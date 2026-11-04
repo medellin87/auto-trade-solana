@@ -7453,3 +7453,7 @@
 {"t": "2026-11-04 12:28:31 WIB", "mint": "9bz8ubx6D676wPJGeEwvgJHnB84mqR23KQ26zdsZpump", "sym": "AMC", "reason": "score 0.567<0.6"}
 {"t": "2026-11-04 12:28:32 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 1272<40k"}
 {"t": "2026-11-04 12:28:34 WIB", "mint": "JCdE6KcCEUcgmhiCQfXTL11524wSgqJCnGtYDA757q4a", "sym": "MIDTURDS", "reason": "vol1h 1654<40k"}
+{"t": "2026-11-04 12:29:21 WIB", "mint": "3zRn4CSCv5yVxwGxub1qTZFA2PQJNrEX9SJKKSH8pump", "sym": "SOULD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 12:30:07 WIB", "mint": "VdMsMdskj9JhEXzGJgPQ3ZXQtaSpEKrNyAfx2gHpump", "sym": "POLLPAD", "reason": "liq 0<20k"}
+{"t": "2026-11-04 12:30:09 WIB", "mint": "JcPLcB4WN61b2i6cZctiXW2R9AYCAKCQo6tqFVNpump", "sym": "Pog", "reason": "vol1h 325<40k"}
+{"t": "2026-11-04 12:30:10 WIB", "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump", "sym": "WILDCAT", "reason": "vol1h 914<40k"}
