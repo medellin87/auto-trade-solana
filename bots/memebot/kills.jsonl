@@ -8652,3 +8652,11 @@
 {"t": "2026-11-05 00:50:48 WIB", "mint": "GXS1XuYuZJX7NuQvXPJPbpe4YfTsm3UyK4AmqsMcpump", "sym": "PAI", "reason": "liq 16856<20k"}
 {"t": "2026-11-05 00:50:49 WIB", "mint": "2C1DprbjBapyadMaLE4EBbPJRYQDEyjGimdkLZghpump", "sym": "DEM", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 00:52:21 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 28025<40k"}
+{"t": "2026-11-05 00:53:53 WIB", "mint": "UkoRS9ZXcAv1KQSfx1xBvS2ytJC2qyadZx45j61nRkv", "sym": "UNKNOWN", "reason": "vol1h 76<40k"}
+{"t": "2026-11-05 00:54:39 WIB", "mint": "8JKSxDtJa9cpCo8NdpfDyBfBvb3pxR4gjXeTcg9Zpump", "sym": "One", "reason": "vol1h 29666<40k"}
+{"t": "2026-11-05 00:54:41 WIB", "mint": "wEgV5yQpVCUmKZYugqSzPR1uTyEWN1F6bFTQeiVpump", "sym": "EXCHANGE", "reason": "vol1h 5059<40k"}
+{"t": "2026-11-05 00:54:42 WIB", "mint": "2gTbp2gwH46rqExzabSyrdR3294SLwCp2rSqWDS6Sim1", "sym": "CATPAD", "reason": "vol1h 4953<40k"}
+{"t": "2026-11-05 00:55:29 WIB", "mint": "B2hrd6M7z4xaY4Cxe6eYBSedmYxDhyFDaEAaLyZhpump", "sym": "STARMIND", "reason": "vol1h 834<40k"}
+{"t": "2026-11-05 00:56:16 WIB", "mint": "hWgWqL4uzBSdji8EAvw3Kg33jShUS6UjxEZB9YBpump", "sym": "WoW", "reason": "vol1h 1783<40k"}
+{"t": "2026-11-05 00:56:17 WIB", "mint": "J5HCtfNxMMqijXYsRqWnxp9VDR1gKzG1p3qEBZm3BAGS", "sym": "SAN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 00:56:19 WIB", "mint": "4CPCffqN5uHJRxfaLDvE34huMwoMGzf4w5SW8DwApump", "sym": "DEMORACKS", "reason": "liq 0<20k"}
