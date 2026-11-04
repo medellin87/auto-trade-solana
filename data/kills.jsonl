@@ -1,4 +1,3 @@
-{"t": "2026-11-04 13:18:12 WIB", "mint": "HARSythhpSxhftR5wLaFCpzLxQS5aEJyfqPSGmeGDEoF", "sym": "MNEMOS", "reason": "liq 0<20k"}
 {"t": "2026-11-04 13:18:14 WIB", "mint": "7kqWni27vRVCKjcuBAmAbs8t7PxXgxdEjUSyRfeFpump", "sym": "Link", "reason": "score 0.556<0.6"}
 {"t": "2026-11-04 13:19:03 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 19239<40k"}
 {"t": "2026-11-04 13:19:50 WIB", "mint": "AJJjNsEfEKRtTfoGBVzwZh7j2PBYwtNpRWFFDjCwpump", "sym": "COIN", "reason": "vol1h 1573<40k"}
@@ -28,3 +27,4 @@
 {"t": "2026-11-04 13:32:33 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "top10 76.0%>25"}
 {"t": "2026-11-04 13:33:20 WIB", "mint": "F4Um7uHXRoXZ92DXVZ6FoDUstnubJgaSzwEZuBZcpump", "sym": "libtard", "reason": "liq 3156<20k"}
 {"t": "2026-11-04 13:33:21 WIB", "mint": "FPVTSyvs8tLQr39oEaxbw1gqaVHV9AxK2mhGdVWTpump", "sym": "Polycat", "reason": "vol1h 7<40k"}
+{"t": "2026-11-04 13:36:24 WIB", "mint": "4xWRsdRkre5ibf3ZyS2eje6sUY8wGnmtSHx7gkGtpump", "sym": "VETO", "reason": "top10 25.6%>25"}
