@@ -8753,3 +8753,5 @@
 {"t": "2026-11-05 01:50:04 WIB", "mint": "BxsNVvPuvCmHJRE6LyzqFAVoiTNhdHUVAgKNZhvApump", "sym": "HIGH/ER", "reason": "score 0.581<0.6"}
 {"t": "2026-11-05 01:50:51 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 622<40k"}
 {"t": "2026-11-05 01:51:40 WIB", "mint": "2C1DprbjBapyadMaLE4EBbPJRYQDEyjGimdkLZghpump", "sym": "DEM", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 01:53:12 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 19036<40k"}
+{"t": "2026-11-05 01:53:13 WIB", "mint": "CEboLWr2JN2E5UgsoQfZCXqPzcToNQMXFd3idw2qpump", "sym": "Juun", "reason": "liq 3417<20k"}
