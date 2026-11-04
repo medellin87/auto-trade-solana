@@ -1,9 +1,3 @@
-{"t": "2026-11-04 09:16:02 WIB", "mint": "9zEimWDFTohZQhmrergbLL7SFs5wWfcTg7qkRVaqSt2R", "sym": "AMDPAD", "reason": "vol1h 0<40k"}
-{"t": "2026-11-04 09:16:04 WIB", "mint": "HAjc6B1MfdjnYPiB2xcETPb25kb85Pxg9nq9i4D5pump", "sym": "HUND ", "reason": "vol1h 334<40k"}
-{"t": "2026-11-04 09:16:50 WIB", "mint": "DyUR3ZpJj5iu8WBG7zk1YbamJE5k9afZhoM7xYCbpump", "sym": "PUP", "reason": "vol1h 1949<40k"}
-{"t": "2026-11-04 09:17:38 WIB", "mint": "GRWVAfwa6PJtWZtfG6jdu5vAVe4AckQiKT8Jsga6pump", "sym": "Pooliticians", "reason": "score 0.599<0.6"}
-{"t": "2026-11-04 09:17:39 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 0<40k"}
-{"t": "2026-11-04 09:19:12 WIB", "mint": "FvFU2Pj32JtBhUY4NLQFg3Ru3Yk4CL3jeJHJij44pump", "sym": "TITO", "reason": "liq 0<20k"}
 {"t": "2026-11-04 09:20:44 WIB", "mint": "2Nhb9M58caMHufHzEa2DhNA1FEsVVL8axXu6iidvQfDe", "sym": "LUCKPAD", "reason": "vol1h 15906<40k"}
 {"t": "2026-11-04 09:20:46 WIB", "mint": "8W5rPypoX9bGvzUsziDEq2ZtjzPhGBVboPhUAXuZpump", "sym": "alpha", "reason": "vol1h 9<40k"}
 {"t": "2026-11-04 09:21:32 WIB", "mint": "CqtohE9UjVtVgt58PYHUTK3T2jtynKo23TUesSRupump", "sym": "slop", "reason": "liq 2595<20k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-04 09:30:26 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 23167<40k"}
 {"t": "2026-11-04 09:31:13 WIB", "mint": "69GXjuoQGxNb75BgQ54qUf6j2aDgXHVSkAcefuiqe58u", "sym": "PUP", "reason": "vol1h 12204<40k"}
 {"t": "2026-11-04 09:32:00 WIB", "mint": "37gLowuHZZ6tF44gXqsnS6VBw9kGdfnqffxdTjmfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-04 09:35:48 WIB", "mint": "DMgry6A9C6U6jopS7bAawukAvAcgpUvWfJULcbnfpump", "sym": "POLY", "reason": "liq 8929<20k"}
+{"t": "2026-11-04 09:35:50 WIB", "mint": "8VNh5MPTg5FJ5Fvo3KAH84vuXF1jozCN1mnZTX8Hpump", "sym": "HELIA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 09:35:52 WIB", "mint": "GT7kQdT3JvZ8vFBW4jjYGYBsrNrE9U4UFspJJAXapump", "sym": "PREDICTINU", "reason": "vol1h 1<40k"}
+{"t": "2026-11-04 09:35:53 WIB", "mint": "HZWx1WGSygHc4MUu1dsDpC91LKNwzFyrRu3D6FvKpump", "sym": "TCAT", "reason": "vol1h 280<40k"}
+{"t": "2026-11-04 09:35:55 WIB", "mint": "HjiBij1BcEwjcgPEb22K8y7imdgaf1kHGMHuEgcDpump", "sym": "AMD", "reason": "top10 48.7%>25"}
+{"t": "2026-11-04 09:35:57 WIB", "mint": "6i3oFRo48Xbnu7B9YH5DgypHRvsr47GagoJhSvs4pump", "sym": "Other", "reason": "liq 7084<20k"}
