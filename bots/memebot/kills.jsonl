@@ -9069,3 +9069,5 @@
 {"t": "2026-11-05 05:04:02 WIB", "mint": "F6mwSmKvUvBWZKtqqKNuYyyDVgDytCf7DjcGYq7anti", "sym": "ANTI", "reason": "liq 42<20k"}
 {"t": "2026-11-05 05:05:34 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.476<0.6"}
 {"t": "2026-11-05 05:05:36 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 6712<40k"}
+{"t": "2026-11-05 05:07:08 WIB", "mint": "7Mzts4ygtDtkjSYpkqj3pLkys2Gy8HudteibFmeputer", "sym": "MEMEPUTER", "reason": "top10 88.7%>25"}
+{"t": "2026-11-05 05:07:55 WIB", "mint": "3PE6PfxAtwda14FfmnJQwykbukeRwb7bu63gij2Rpump", "sym": "GG", "reason": "liq 0<20k"}
