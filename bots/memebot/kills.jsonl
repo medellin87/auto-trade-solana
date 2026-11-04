@@ -8497,3 +8497,6 @@
 {"t": "2026-11-04 23:19:06 WIB", "mint": "82BH9WFmtsJGRCdW147cM24K6X8kAkUx2jSd2NyRLfv6", "sym": "tremp", "reason": "top10 26.5%>25"}
 {"t": "2026-11-04 23:19:07 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 1316<40k"}
 {"t": "2026-11-04 23:19:09 WIB", "mint": "BZKtBwofTPbuVVhwikmWW9woXnLhU9csLYHZ4pqpump", "sym": "HUNT", "reason": "vol1h 191<40k"}
+{"t": "2026-11-04 23:21:26 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.524<0.6"}
+{"t": "2026-11-04 23:22:13 WIB", "mint": "4bhYVkScUMVYvNUDsECf9rJxGpSLCzm1GEFEnNRopump", "sym": "Democat", "reason": "vol1h 29391<40k"}
+{"t": "2026-11-04 23:22:14 WIB", "mint": "EB46QS4PVZcbv2RCuZSm82RHH33sWky6ThpBhXHn9jEu", "sym": "?", "reason": "no solana pair"}
