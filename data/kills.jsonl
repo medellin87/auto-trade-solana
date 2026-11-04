@@ -1,8 +1,3 @@
-{"t": "2026-11-04 06:47:09 WIB", "mint": "BQ3yawMJwU7RCoFagJ3Go7AYMBDxzeNAKiRC2qTbpump", "sym": "Pekka", "reason": "liq 10142<20k"}
-{"t": "2026-11-04 06:47:10 WIB", "mint": "7sTfS2jxuBRCcfGF45XabsxUv3gFXN83JCRpDciqpump", "sym": "MU", "reason": "vol1h 1<40k"}
-{"t": "2026-11-04 06:49:28 WIB", "mint": "6wount8EhfPVwa26vCEjBVou1TNixgG5ucw97HjSRBLX", "sym": "RBLX", "reason": "vol1h 35083<40k"}
-{"t": "2026-11-04 06:49:30 WIB", "mint": "xCLUDNX5B7Kr6BMDtpgUXJNNzjfyuFZYq7qyoYupump", "sym": " LONGHORN", "reason": "vol1h 15676<40k"}
-{"t": "2026-11-04 06:50:17 WIB", "mint": "FK5tP4Zw7ujWzaz3TgeJ5NcqGe5LFufo7m6zH6YQpump", "sym": "5STAR", "reason": "vol1h 22304<40k"}
 {"t": "2026-11-04 06:51:49 WIB", "mint": "28mMSX6AtAoDHGCHqut9EazEBqTnooqzDP21CdgDCALL", "sym": "CENTER", "reason": "vol1h 36299<40k"}
 {"t": "2026-11-04 06:51:51 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 3678<40k"}
 {"t": "2026-11-04 06:51:52 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 10715<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-04 06:59:57 WIB", "mint": "7JB2w8yD1dyjvUdu3LeTvKDWPYFb9qMpVBq8nWAzpump", "sym": "INA", "reason": "vol1h 26773<40k"}
 {"t": "2026-11-04 07:00:44 WIB", "mint": "CbPVBfEETx2VufiKkCpHG1VVdTf46Xwh5SU7syvnpump", "sym": "Alona", "reason": "vol1h 9620<40k"}
 {"t": "2026-11-04 07:01:31 WIB", "mint": "3DYBAnkeAXQWv68nEjwxZXJGobkXZchEGi4mwW6Tu7ci", "sym": "TWUMP", "reason": "liq 0<20k"}
+{"t": "2026-11-04 07:03:51 WIB", "mint": "697qJWKHWoAmPWioDEQvJ4P4C9UjuWYLvYK5nA5Mpump", "sym": "VALOR", "reason": "liq 5304<20k"}
+{"t": "2026-11-04 07:03:53 WIB", "mint": "5HsVcH8KmoUTH79HqbDtgR8eZs2KgJiEejWQELJnpump", "sym": "AMD", "reason": "liq 1733<20k"}
+{"t": "2026-11-04 07:04:40 WIB", "mint": "FUNtwYkmTzxeHtTJu8hVJZ9nEXXdFh18e32eLZCEyaEM", "sym": "FUN", "reason": "liq 0<20k"}
+{"t": "2026-11-04 07:05:27 WIB", "mint": "hWgWqL4uzBSdji8EAvw3Kg33jShUS6UjxEZB9YBpump", "sym": "WoW", "reason": "vol1h 8744<40k"}
+{"t": "2026-11-04 07:05:30 WIB", "mint": "3MfZ4URVxmB4mfPuy4AxUxpcC5U7aXe7TDA7XVoGpump", "sym": "AMD", "reason": "liq 2701<20k"}
