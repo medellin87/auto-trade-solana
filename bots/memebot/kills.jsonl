@@ -9173,3 +9173,13 @@
 {"t": "2026-11-05 06:17:42 WIB", "mint": "4NHomKfjdKknD19BVz7ebWMoKCQeZb1cx6DWkoxapump", "sym": "Root", "reason": "liq 2061<20k"}
 {"t": "2026-11-05 06:17:43 WIB", "mint": "gxX81jD9WvtXCYvYpL227w93FVAKL71ojCUm9oxpump", "sym": "Slop", "reason": "vol1h 738<40k"}
 {"t": "2026-11-05 06:19:15 WIB", "mint": "6X6E4frRadiUEcVqUKTyUVS2FhGmwN359TocEaHXtBX5", "sym": "PHIL", "reason": "vol1h 24141<40k"}
+{"t": "2026-11-05 06:20:02 WIB", "mint": "5tdWkbqhTqVyPmksqX8WVKrHbjjqmvQfrMGwZoZPpump", "sym": "AMD", "reason": "score 0.506<0.6"}
+{"t": "2026-11-05 06:20:04 WIB", "mint": "2GWMbqXLgKooMtiEAAwAFfhuGD986x8hZ24J8xiypump", "sym": "APE", "reason": "vol1h 12781<40k"}
+{"t": "2026-11-05 06:20:50 WIB", "mint": "GPfauf3w24Yui9RpL2L6g2PentkDtYCF6UutAHNLpump", "sym": "XOG", "reason": "vol1h 18<40k"}
+{"t": "2026-11-05 06:20:52 WIB", "mint": "HQUfo5uqRHQWVJd56SSC1ZsrGCJ3x2MwuJ7vRgQepump", "sym": "BabyBTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 06:20:53 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 3459<40k"}
+{"t": "2026-11-05 06:20:55 WIB", "mint": "3H9Qq3W9TLM5LmUU4wSUb9Ln7abcBE9AkeXGJpNDUSPR", "sym": "USPR", "reason": "vol1h 4923<40k"}
+{"t": "2026-11-05 06:20:57 WIB", "mint": "97pjFFSd9twJ5vzvPU4bBxkT5atsFVpmenSHvTZdpump", "sym": "si", "reason": "liq 0<20k"}
+{"t": "2026-11-05 06:21:43 WIB", "mint": "HBFxk72r4xVqhT8yK8ZFXEEGvpfkoeeSTQXiewZP7SZM", "sym": "WTAIL", "reason": "vol1h 2760<40k"}
+{"t": "2026-11-05 06:22:30 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 5967<40k"}
+{"t": "2026-11-05 06:22:31 WIB", "mint": "27Y4WwxHiconrfhwQKGotJ5nVEbrcFiDnJnoRBbCpump", "sym": "tism", "reason": "vol1h 2333<40k"}
