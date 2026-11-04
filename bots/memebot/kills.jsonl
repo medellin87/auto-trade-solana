@@ -8666,3 +8666,12 @@
 {"t": "2026-11-05 00:57:58 WIB", "mint": "FED4vFx3rAxmPNrf9i9cy53rrEEwCaX6UFkbsGL7pump", "sym": "SAGAS", "reason": "liq 15891<20k"}
 {"t": "2026-11-05 00:58:44 WIB", "mint": "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump", "sym": "Noiz ", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 00:58:46 WIB", "mint": "CSwW7z5to9mFVonsNtAp71hAdhEH5x1eH6fwKv13pump", "sym": "Rosie", "reason": "liq 2028<20k"}
+{"t": "2026-11-05 01:00:18 WIB", "mint": "FZs4YUPyD5sMzUv5fwiWBQx3s9Nzgvw62g8ytohwpump", "sym": "LILY", "reason": "vol1h 712<40k"}
+{"t": "2026-11-05 01:00:19 WIB", "mint": "Hq822sQy47Cbs39BuZ1iJMp3GRVw2tUVeyMLDBTXpump", "sym": "VANCE", "reason": "liq 0<20k"}
+{"t": "2026-11-05 01:00:22 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.43<0.6"}
+{"t": "2026-11-05 01:00:23 WIB", "mint": "J34sjwqUYsicH2A6aNoMn91MAPYkUUdXsyfFBLBNDoLL", "sym": "DOLLARSE", "reason": "vol1h 654<40k"}
+{"t": "2026-11-05 01:01:57 WIB", "mint": "Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump", "sym": "george", "reason": "liq 0<20k"}
+{"t": "2026-11-05 01:01:59 WIB", "mint": "7bLFjNUr5wtSeU9tBaLQeKGd7GUXMrXqgyg5qvizcash", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-05 01:02:00 WIB", "mint": "2qsriu8vGz8ZWCPcG1ht5wfhU54evM2R2bGfJ88jAnUc", "sym": "PSA", "reason": "vol1h 14062<40k"}
+{"t": "2026-11-05 01:02:02 WIB", "mint": "29jQSLyMDP3y1DRkVDVi4FxyeR66p5JCMqsaifMEpump", "sym": "BunThing", "reason": "vol1h 3282<40k"}
+{"t": "2026-11-05 01:02:03 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 9549<40k"}
