@@ -7809,3 +7809,12 @@
 {"t": "2026-11-04 16:05:13 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 4869<40k"}
 {"t": "2026-11-04 16:05:14 WIB", "mint": "FQE9h4fL65oDHMsR2MHcSe6d6DF4hFrFarsQQkVJpump", "sym": "X", "reason": "liq 12745<20k"}
 {"t": "2026-11-04 16:06:01 WIB", "mint": "9m8kNFcVwtSqHdGDHjK6yCMLxYBjdCECCZ7zEThcpump", "sym": "BOTTOM", "reason": "vol1h 9240<40k"}
+{"t": "2026-11-04 16:07:33 WIB", "mint": "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump", "sym": "ANONVOYAGE", "reason": "score 0.583<0.6"}
+{"t": "2026-11-04 16:07:34 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 4651<40k"}
+{"t": "2026-11-04 16:07:36 WIB", "mint": "6rzHri2DasNgx25sqmAvTN5N1kmxRXNwJC4sVTLWpump", "sym": "SOLKOV", "reason": "vol1h 6634<40k"}
+{"t": "2026-11-04 16:07:38 WIB", "mint": "5HbD9q6c3oCfdRSbEzgt8vh4VAmp8ohN1ykBmwJipump", "sym": "H1T", "reason": "liq 0<20k"}
+{"t": "2026-11-04 16:09:56 WIB", "mint": "3EYkadvMT7BmPZ6Tw36ctLpDYDHspD7oj9qnu3rfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-04 16:09:58 WIB", "mint": "57NTXnoGkFzhCvJGjXhCxp4WmVEhhLa9273fLNngpump", "sym": "enu", "reason": "vol1h 19331<40k"}
+{"t": "2026-11-04 16:09:59 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "liq 2762<20k"}
+{"t": "2026-11-04 16:10:01 WIB", "mint": "7gZ9ep1ufbfxruCfT348exuWYSyv5GU9L6QzZ2gBYvid", "sym": "APU", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 16:10:02 WIB", "mint": "5XsGvzqH1V5o7G6eTtQkb442AHisDjTuVULt5oHCpump", "sym": "Spacecoin", "reason": "vol1h 790<40k"}
