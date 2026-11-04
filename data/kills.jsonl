@@ -1,8 +1,3 @@
-{"t": "2026-11-04 20:40:19 WIB", "mint": "5ja9qQuE5V9g5TVAFZVdtVQQqoThkAWxEKUaPcC5jN3F", "sym": "NEMO", "reason": "liq 8773<20k"}
-{"t": "2026-11-04 20:41:53 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 30045<40k"}
-{"t": "2026-11-04 20:41:54 WIB", "mint": "AzAyQkzdVdH9jzLRpHQwhTPNMtAN8i6fRBRwXAUNpump", "sym": "CDNC", "reason": "liq 0<20k"}
-{"t": "2026-11-04 20:43:26 WIB", "mint": "AprAQ7yqYmKxydb3RffQwFeSWCzNC1qSaAFYSmU6pump", "sym": "Toad", "reason": "vol1h 1093<40k"}
-{"t": "2026-11-04 20:44:58 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "vol1h 75<40k"}
 {"t": "2026-11-04 20:45:45 WIB", "mint": "3Y2TGH3AvFFEL48rZfCgtiNJZJ84Eu75akYWmhyXpump", "sym": "Dumocrat", "reason": "vol1h 1<40k"}
 {"t": "2026-11-04 20:45:46 WIB", "mint": "C3j6YhjnUBRzokqfGeH6x2pPnBYNP4zSvKiXFRumCyQy", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-04 20:46:35 WIB", "mint": "5gqiRdCWHX8gtijXBqNX9Y8262U7iSAGdj9rgJN3stay", "sym": "STAY", "reason": "vol1h 12649<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-04 20:58:24 WIB", "mint": "29jQSLyMDP3y1DRkVDVi4FxyeR66p5JCMqsaifMEpump", "sym": "BunThing", "reason": "liq 15490<20k"}
 {"t": "2026-11-04 20:59:56 WIB", "mint": "3n14aLFHkMWHRZ3iYjb4ZwYXDKg4gpKXKbwqpVR6pump", "sym": "Jamie", "reason": "vol1h 24687<40k"}
 {"t": "2026-11-04 21:00:43 WIB", "mint": "4eEDTyors4YReX5fBoRFBYNkKs6w66oyQ5CvPcckpump", "sym": "Dumocrats", "reason": "liq 4944<20k"}
+{"t": "2026-11-04 21:03:00 WIB", "mint": "2Nq1d6rz6Pjyehpej182Vj22kSfUN3pzuJAJtUmVpump", "sym": "NOT", "reason": "vol1h 553<40k"}
+{"t": "2026-11-04 21:03:46 WIB", "mint": "Ve9wNNrj9Lpng2uWrsdHjVGAmccsW6ahPkfLAnvpump", "sym": "a/acc", "reason": "liq 0<20k"}
+{"t": "2026-11-04 21:03:48 WIB", "mint": "FpWWSqLNrjTTMDM41EXkvBmHBDkNdWrf9RwHL57xpump", "sym": "VI", "reason": "score 0.338<0.6"}
+{"t": "2026-11-04 21:04:35 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 4233<40k"}
+{"t": "2026-11-04 21:04:37 WIB", "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump", "sym": "$1", "reason": "vol1h 45<40k"}
