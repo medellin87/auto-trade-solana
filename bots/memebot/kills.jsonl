@@ -8397,3 +8397,8 @@
 {"t": "2026-11-04 22:12:10 WIB", "mint": "DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump", "sym": "AMD", "reason": "score 0.47<0.6"}
 {"t": "2026-11-04 22:12:58 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "score 0.467<0.6"}
 {"t": "2026-11-04 22:14:29 WIB", "mint": "HdfVpYDxAUH1Lo5YJep1tUdPJ3xaJEhSRnGfomcEe2HU", "sym": "KURT", "reason": "vol1h 3712<40k"}
+{"t": "2026-11-04 22:16:01 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "vol1h 24<40k"}
+{"t": "2026-11-04 22:17:33 WIB", "mint": "6stjnUP381DUiCGcdH4Da7sp5deDy21BJ2K8PZJKpump", "sym": "Titus ", "reason": "liq 0<20k"}
+{"t": "2026-11-04 22:18:19 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 1743<40k"}
+{"t": "2026-11-04 22:18:21 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 6331<40k"}
+{"t": "2026-11-04 22:18:23 WIB", "mint": "BZKtBwofTPbuVVhwikmWW9woXnLhU9csLYHZ4pqpump", "sym": "HUNT", "reason": "vol1h 102<40k"}
