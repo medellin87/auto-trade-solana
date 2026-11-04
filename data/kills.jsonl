@@ -1,5 +1,3 @@
-{"t": "2026-11-04 20:11:21 WIB", "mint": "AzAyQkzdVdH9jzLRpHQwhTPNMtAN8i6fRBRwXAUNpump", "sym": "CDNC", "reason": "liq 0<20k"}
-{"t": "2026-11-04 20:12:53 WIB", "mint": "AprAQ7yqYmKxydb3RffQwFeSWCzNC1qSaAFYSmU6pump", "sym": "Toad", "reason": "vol1h 4355<40k"}
 {"t": "2026-11-04 20:14:25 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "vol1h 37<40k"}
 {"t": "2026-11-04 20:14:26 WIB", "mint": "27XNz1SJVFURVDnhXmNyxN78rPLpmiKyDo9GvjBBpump", "sym": "ram", "reason": "vol1h 7625<40k"}
 {"t": "2026-11-04 20:15:13 WIB", "mint": "3Y2TGH3AvFFEL48rZfCgtiNJZJ84Eu75akYWmhyXpump", "sym": "Dumocrat", "reason": "liq 1957<20k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-04 20:27:51 WIB", "mint": "EfqRAhyc6kCRZ4SGaDD4QyUVkyXJ95RbuMQZf19Fpump", "sym": "META", "reason": "vol1h 953<40k"}
 {"t": "2026-11-04 20:30:08 WIB", "mint": "F92cYmoxRaobkAh5VJJstNEEFsEvtkqS86ftXRL7pump", "sym": "GTAPAD", "reason": "vol1h 17680<40k"}
 {"t": "2026-11-04 20:30:09 WIB", "mint": "4eEDTyors4YReX5fBoRFBYNkKs6w66oyQ5CvPcckpump", "sym": "Dumocrats", "reason": "vol1h 14663<40k"}
+{"t": "2026-11-04 20:32:26 WIB", "mint": "2Nq1d6rz6Pjyehpej182Vj22kSfUN3pzuJAJtUmVpump", "sym": "NOT", "reason": "vol1h 12699<40k"}
+{"t": "2026-11-04 20:33:13 WIB", "mint": "FpWWSqLNrjTTMDM41EXkvBmHBDkNdWrf9RwHL57xpump", "sym": "VI", "reason": "score 0.296<0.6"}
