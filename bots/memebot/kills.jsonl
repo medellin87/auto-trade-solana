@@ -8778,3 +8778,7 @@
 {"t": "2026-11-05 02:02:56 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 6873<40k"}
 {"t": "2026-11-05 02:02:58 WIB", "mint": "BpWuEs3xUjQJ7ft53Szpm31Xe535RLNAvnka9a2z4hD2", "sym": "COMPOUND", "reason": "liq 0<20k"}
 {"t": "2026-11-05 02:03:47 WIB", "mint": "Ex1PtBSyMcQcegFMwjkrDQi4ogsJKpVo2frxkjgvpump", "sym": "ASI", "reason": "liq 8024<20k"}
+{"t": "2026-11-05 02:04:33 WIB", "mint": "3vajh3wXe3EuLSXfSaCikyoCnzyhUJ3KPSoFhyAgpump", "sym": "PREFIRE", "reason": "vol1h 267<40k"}
+{"t": "2026-11-05 02:05:20 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 1241<40k"}
+{"t": "2026-11-05 02:06:07 WIB", "mint": "3HZ97ZA5QfdUfc3GkL261pYJLNJpsHG5EfQ11GFtDoP3", "sym": "PAPER", "reason": "vol1h 17173<40k"}
+{"t": "2026-11-05 02:06:54 WIB", "mint": "8vZFnsXzHZ9kNsGK7fKSrvccBh9B69qHpryKdczpump", "sym": "TRUMP", "reason": "vol1h 0<40k"}
