@@ -6923,3 +6923,8 @@
 {"t": "2026-11-04 07:30:10 WIB", "mint": "7JB2w8yD1dyjvUdu3LeTvKDWPYFb9qMpVBq8nWAzpump", "sym": "INA", "reason": "liq 0<20k"}
 {"t": "2026-11-04 07:31:43 WIB", "mint": "3DYBAnkeAXQWv68nEjwxZXJGobkXZchEGi4mwW6Tu7ci", "sym": "TWUMP", "reason": "liq 17713<20k"}
 {"t": "2026-11-04 07:33:17 WIB", "mint": "CbPVBfEETx2VufiKkCpHG1VVdTf46Xwh5SU7syvnpump", "sym": "Alona", "reason": "vol1h 50<40k"}
+{"t": "2026-11-04 07:34:04 WIB", "mint": "697qJWKHWoAmPWioDEQvJ4P4C9UjuWYLvYK5nA5Mpump", "sym": "VALOR", "reason": "vol1h 20001<40k"}
+{"t": "2026-11-04 07:34:06 WIB", "mint": "5HsVcH8KmoUTH79HqbDtgR8eZs2KgJiEejWQELJnpump", "sym": "AMD", "reason": "vol1h 7<40k"}
+{"t": "2026-11-04 07:34:53 WIB", "mint": "FUNtwYkmTzxeHtTJu8hVJZ9nEXXdFh18e32eLZCEyaEM", "sym": "FUN", "reason": "vol1h 33237<40k"}
+{"t": "2026-11-04 07:35:40 WIB", "mint": "hWgWqL4uzBSdji8EAvw3Kg33jShUS6UjxEZB9YBpump", "sym": "WoW", "reason": "vol1h 853<40k"}
+{"t": "2026-11-04 07:35:43 WIB", "mint": "3MfZ4URVxmB4mfPuy4AxUxpcC5U7aXe7TDA7XVoGpump", "sym": "AMD", "reason": "vol1h 28395<40k"}
