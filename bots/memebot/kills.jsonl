@@ -8639,3 +8639,9 @@
 {"t": "2026-11-05 00:40:38 WIB", "mint": "7xP2r4Vtjy5opBZjbPcCc4N7BkRhhQddqsFQDpDopump", "sym": "$TAPE", "reason": "liq 2388<20k"}
 {"t": "2026-11-05 00:42:55 WIB", "mint": "5ja9qQuE5V9g5TVAFZVdtVQQqoThkAWxEKUaPcC5jN3F", "sym": "NEMO", "reason": "vol1h 996<40k"}
 {"t": "2026-11-05 00:43:43 WIB", "mint": "6nn8MXuqsgmgQvMfUXGXgZsWhNWRW7sx8CNGTGsUDvRF", "sym": "PERPS", "reason": "vol1h 3764<40k"}
+{"t": "2026-11-05 00:45:15 WIB", "mint": "27XvLWXYUPn7eDa9BScTytntn4Z3EAw355Dk3MzFpump", "sym": "Genny", "reason": "liq 0<20k"}
+{"t": "2026-11-05 00:46:02 WIB", "mint": "54omqPgJuyZ8iVw6Uaw9QvSsJghiSJAJyTAMxnKopump", "sym": "MONTOOLS", "reason": "liq 0<20k"}
+{"t": "2026-11-05 00:46:49 WIB", "mint": "3rYWbYevtWPatfAGEmnNHTMnQ89Db5TtoWA8ZwjApump", "sym": "VETO", "reason": "vol1h 10163<40k"}
+{"t": "2026-11-05 00:46:50 WIB", "mint": "CaZHzxuya2z2TvwrDQKXgbH7xje9F4167exg5fs5wjgo", "sym": "UNKNOWN", "reason": "liq 14171<20k"}
+{"t": "2026-11-05 00:46:52 WIB", "mint": "HdfVpYDxAUH1Lo5YJep1tUdPJ3xaJEhSRnGfomcEe2HU", "sym": "KURT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 00:46:53 WIB", "mint": "HfmLdyZo51vfB1SB81pXCTCikSY1Nj2BRDLBkvMSpump", "sym": "Robotics", "reason": "vol1h 23029<40k"}
