@@ -7762,3 +7762,10 @@
 {"t": "2026-11-04 15:34:36 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 7649<40k"}
 {"t": "2026-11-04 15:34:37 WIB", "mint": "FQE9h4fL65oDHMsR2MHcSe6d6DF4hFrFarsQQkVJpump", "sym": "X", "reason": "liq 18358<20k"}
 {"t": "2026-11-04 15:35:24 WIB", "mint": "9m8kNFcVwtSqHdGDHjK6yCMLxYBjdCECCZ7zEThcpump", "sym": "BOTTOM", "reason": "vol1h 13493<40k"}
+{"t": "2026-11-04 15:36:56 WIB", "mint": "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump", "sym": "ANONVOYAGE", "reason": "score 0.545<0.6"}
+{"t": "2026-11-04 15:36:58 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 8440<40k"}
+{"t": "2026-11-04 15:36:59 WIB", "mint": "5HbD9q6c3oCfdRSbEzgt8vh4VAmp8ohN1ykBmwJipump", "sym": "H1T", "reason": "liq 0<20k"}
+{"t": "2026-11-04 15:38:31 WIB", "mint": "Fu9n4TS5QkEKzMW66djz6T6fUspAbTuYsb7gcHSApump", "sym": "POOLS", "reason": "liq 0<20k"}
+{"t": "2026-11-04 15:39:17 WIB", "mint": "3EYkadvMT7BmPZ6Tw36ctLpDYDHspD7oj9qnu3rfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-04 15:39:19 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "liq 3326<20k"}
+{"t": "2026-11-04 15:39:21 WIB", "mint": "5XsGvzqH1V5o7G6eTtQkb442AHisDjTuVULt5oHCpump", "sym": "Spacecoin", "reason": "vol1h 845<40k"}
