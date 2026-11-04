@@ -9065,3 +9065,7 @@
 {"t": "2026-11-05 05:00:53 WIB", "mint": "EpRC8Wj3WE8et2PA5aVrLB6WcUdoaWnTg4PHFYafpump", "sym": "Satoshi", "reason": "liq 0<20k"}
 {"t": "2026-11-05 05:02:25 WIB", "mint": "C1dNqHWwrLC6Hmtbr75BL3FmH4UCN3ztam7VDtwhpump", "sym": "Raul", "reason": "vol1h 2175<40k"}
 {"t": "2026-11-05 05:02:27 WIB", "mint": "A4U3vQSiF6cG7uEgKViYk2KVBsfJAHM4kqD9Us5fpump", "sym": "AMC", "reason": "vol1h 9<40k"}
+{"t": "2026-11-05 05:04:01 WIB", "mint": "E4brwTWpx8anGcsJ11REmwcP149UD1yfwyCRYEQppump", "sym": "Aren", "reason": "liq 11674<20k"}
+{"t": "2026-11-05 05:04:02 WIB", "mint": "F6mwSmKvUvBWZKtqqKNuYyyDVgDytCf7DjcGYq7anti", "sym": "ANTI", "reason": "liq 42<20k"}
+{"t": "2026-11-05 05:05:34 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.476<0.6"}
+{"t": "2026-11-05 05:05:36 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 6712<40k"}
