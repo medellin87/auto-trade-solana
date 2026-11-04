@@ -8829,3 +8829,6 @@
 {"t": "2026-11-05 02:33:08 WIB", "mint": "BpWuEs3xUjQJ7ft53Szpm31Xe535RLNAvnka9a2z4hD2", "sym": "COMPOUND", "reason": "liq 0<20k"}
 {"t": "2026-11-05 02:33:57 WIB", "mint": "Ex1PtBSyMcQcegFMwjkrDQi4ogsJKpVo2frxkjgvpump", "sym": "ASI", "reason": "liq 4301<20k"}
 {"t": "2026-11-05 02:34:44 WIB", "mint": "3vajh3wXe3EuLSXfSaCikyoCnzyhUJ3KPSoFhyAgpump", "sym": "PREFIRE", "reason": "vol1h 196<40k"}
+{"t": "2026-11-05 02:35:30 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 1360<40k"}
+{"t": "2026-11-05 02:37:02 WIB", "mint": "9RqyGpJ7xWuLwPbWNfQMvWvko6okUbz8UnMcUiKNpump", "sym": "Bit", "reason": "vol1h 39589<40k"}
+{"t": "2026-11-05 02:37:04 WIB", "mint": "8vZFnsXzHZ9kNsGK7fKSrvccBh9B69qHpryKdczpump", "sym": "TRUMP", "reason": "vol1h 0<40k"}
