@@ -8825,3 +8825,7 @@
 {"t": "2026-11-05 02:31:31 WIB", "mint": "FHTTrjdoCVsasL375MJzrcjvGKKbb2tYtN6LSmXupump", "sym": "zitlac", "reason": "liq 0<20k"}
 {"t": "2026-11-05 02:31:33 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 12771<40k"}
 {"t": "2026-11-05 02:31:34 WIB", "mint": "J34sjwqUYsicH2A6aNoMn91MAPYkUUdXsyfFBLBNDoLL", "sym": "DOLLARSE", "reason": "vol1h 319<40k"}
+{"t": "2026-11-05 02:33:06 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 5099<40k"}
+{"t": "2026-11-05 02:33:08 WIB", "mint": "BpWuEs3xUjQJ7ft53Szpm31Xe535RLNAvnka9a2z4hD2", "sym": "COMPOUND", "reason": "liq 0<20k"}
+{"t": "2026-11-05 02:33:57 WIB", "mint": "Ex1PtBSyMcQcegFMwjkrDQi4ogsJKpVo2frxkjgvpump", "sym": "ASI", "reason": "liq 4301<20k"}
+{"t": "2026-11-05 02:34:44 WIB", "mint": "3vajh3wXe3EuLSXfSaCikyoCnzyhUJ3KPSoFhyAgpump", "sym": "PREFIRE", "reason": "vol1h 196<40k"}
