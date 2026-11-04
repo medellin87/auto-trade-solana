@@ -9107,3 +9107,7 @@
 {"t": "2026-11-05 05:29:10 WIB", "mint": "HxnEbpkm8TSDB1uEcHuC7u9SgCjLbSzhmxbYez8opump", "sym": "BOARD", "reason": "vol1h 5407<40k"}
 {"t": "2026-11-05 05:29:11 WIB", "mint": "7cbYn6g9vNQvFJ1igrrFiRHDkzBJT3LSmzfP9JL6pump", "sym": "GOKU", "reason": "vol1h 43<40k"}
 {"t": "2026-11-05 05:29:58 WIB", "mint": "J5HCtfNxMMqijXYsRqWnxp9VDR1gKzG1p3qEBZm3BAGS", "sym": "SAN", "reason": "vol1h 202<40k"}
+{"t": "2026-11-05 05:31:30 WIB", "mint": "EpRC8Wj3WE8et2PA5aVrLB6WcUdoaWnTg4PHFYafpump", "sym": "Satoshi", "reason": "liq 0<20k"}
+{"t": "2026-11-05 05:33:02 WIB", "mint": "C1dNqHWwrLC6Hmtbr75BL3FmH4UCN3ztam7VDtwhpump", "sym": "Raul", "reason": "vol1h 1543<40k"}
+{"t": "2026-11-05 05:33:03 WIB", "mint": "A4U3vQSiF6cG7uEgKViYk2KVBsfJAHM4kqD9Us5fpump", "sym": "AMC", "reason": "liq 4805<20k"}
+{"t": "2026-11-05 05:33:05 WIB", "mint": "5ooMWLgkiCHR5tSgcU9b43ESwwY3qXXWoxLC4Q6gPmoT", "sym": "Sasha", "reason": "top10 25.6%>25"}
