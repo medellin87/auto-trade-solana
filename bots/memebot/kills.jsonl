@@ -7720,3 +7720,7 @@
 {"t": "2026-11-04 15:08:36 WIB", "mint": "3EYkadvMT7BmPZ6Tw36ctLpDYDHspD7oj9qnu3rfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-04 15:08:38 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "liq 0<20k"}
 {"t": "2026-11-04 15:08:39 WIB", "mint": "5XsGvzqH1V5o7G6eTtQkb442AHisDjTuVULt5oHCpump", "sym": "Spacecoin", "reason": "vol1h 19994<40k"}
+{"t": "2026-11-04 15:10:11 WIB", "mint": "hWgWqL4uzBSdji8EAvw3Kg33jShUS6UjxEZB9YBpump", "sym": "WoW", "reason": "vol1h 1072<40k"}
+{"t": "2026-11-04 15:10:13 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 1165<40k"}
+{"t": "2026-11-04 15:11:01 WIB", "mint": "D7YBgVbEtq55QZdubR8cVvN1H2TFQis8s8fKhQqhrLgs", "sym": "EXIT", "reason": "vol1h 794<40k"}
+{"t": "2026-11-04 15:11:03 WIB", "mint": "ELG2WX7c67AFEbPRUqz6AP8m9xA1eaSXxNGtVA2qpump", "sym": "SI", "reason": "vol1h 27894<40k"}
