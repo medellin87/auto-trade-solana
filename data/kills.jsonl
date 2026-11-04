@@ -1,8 +1,3 @@
-{"t": "2026-11-05 02:55:55 WIB", "mint": "7cbYn6g9vNQvFJ1igrrFiRHDkzBJT3LSmzfP9JL6pump", "sym": "GOKU", "reason": "vol1h 297<40k"}
-{"t": "2026-11-05 02:56:42 WIB", "mint": "B2hrd6M7z4xaY4Cxe6eYBSedmYxDhyFDaEAaLyZhpump", "sym": "STARMIND", "reason": "vol1h 345<40k"}
-{"t": "2026-11-05 02:57:29 WIB", "mint": "hWgWqL4uzBSdji8EAvw3Kg33jShUS6UjxEZB9YBpump", "sym": "WoW", "reason": "vol1h 2484<40k"}
-{"t": "2026-11-05 02:57:31 WIB", "mint": "J5HCtfNxMMqijXYsRqWnxp9VDR1gKzG1p3qEBZm3BAGS", "sym": "SAN", "reason": "vol1h 257<40k"}
-{"t": "2026-11-05 02:58:18 WIB", "mint": "5bnSschE8A5sHYQUxZdGZzSJFK4F9RN6RRsiaCuxpump", "sym": "AAPL", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 02:59:04 WIB", "mint": "4q7vWL4ucJd9vbKEM3drmhNQxXbKupXoMSUcKrvQpump", "sym": "thesis", "reason": "vol1h 14543<40k"}
 {"t": "2026-11-05 02:59:06 WIB", "mint": "9D1YgeHT5PheQHTzNnaDwF9K8qGE7geDvmexodNDpump", "sym": "PLUG", "reason": "vol1h 10119<40k"}
 {"t": "2026-11-05 02:59:53 WIB", "mint": "GSZmFKQmiLHwqQhSaCKCzvCSn84dG32iWHXCGHCvpump", "sym": "CYLO", "reason": "liq 0<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-05 03:12:30 WIB", "mint": "4W9nejfSpTPtLHKbx4GhWGZ1e7YBA1FsKBcgrQRkpump", "sym": "monke", "reason": "liq 9214<20k"}
 {"t": "2026-11-05 03:14:47 WIB", "mint": "42qKoGmEPTRJsa5jWrYwpydL8RkBwMvg2ykYVoerpump", "sym": "GHOST", "reason": "vol1h 38602<40k"}
 {"t": "2026-11-05 03:14:49 WIB", "mint": "AGjymDuuNxzL2hrbhwVAbpFjZTiY5X4bn9jqziWdpump", "sym": "SPCX", "reason": "vol1h 2070<40k"}
+{"t": "2026-11-05 03:16:21 WIB", "mint": "5tdWkbqhTqVyPmksqX8WVKrHbjjqmvQfrMGwZoZPpump", "sym": "AMD", "reason": "score 0.572<0.6"}
+{"t": "2026-11-05 03:17:08 WIB", "mint": "GPfauf3w24Yui9RpL2L6g2PentkDtYCF6UutAHNLpump", "sym": "XOG", "reason": "vol1h 1816<40k"}
+{"t": "2026-11-05 03:17:09 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 9818<40k"}
+{"t": "2026-11-05 03:17:11 WIB", "mint": "6Yz6FAj8K34feQtVtXMetvsnzt3pjwDi5kiQRZYGpump", "sym": "OBELIS", "reason": "vol1h 18727<40k"}
+{"t": "2026-11-05 03:17:13 WIB", "mint": "4tQzwzDS6sraijcovNbuMCxUuqcGWcJnBz25PUmTpump", "sym": "MALA", "reason": "liq 0<20k"}
