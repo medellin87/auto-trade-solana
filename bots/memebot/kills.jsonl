@@ -7154,3 +7154,6 @@
 {"t": "2026-11-04 09:39:08 WIB", "mint": "3ekWNf8QZuxbNnXPGUA4t8dcG7rqvRvDkyM6Mf9hpump", "sym": "DOC", "reason": "liq 0<20k"}
 {"t": "2026-11-04 09:39:09 WIB", "mint": "2724239D1JhWQGV5WZ7tdBTN5Jz4FZ3pdmvj3iD4LsVE", "sym": "WOOP", "reason": "vol1h 961<40k"}
 {"t": "2026-11-04 09:39:11 WIB", "mint": "8VdrHbx444YZJZp1vNb9pXAv5aW4Kv7E7bk7Zwaapump", "sym": "TURKEY", "reason": "vol1h 1073<40k"}
+{"t": "2026-11-04 09:39:58 WIB", "mint": "DJ7QLU6qvaacEUyuV7JPAd6227zZqBDoGzbzcfqPpump", "sym": "PFSCPI", "reason": "vol1h 2629<40k"}
+{"t": "2026-11-04 09:39:59 WIB", "mint": "FDGdzwKowt4hLkgMFtNik3dL5JeCrvFQqkgxJyGgSG6x", "sym": "YETI", "reason": "liq 14130<20k"}
+{"t": "2026-11-04 09:41:32 WIB", "mint": "HBFxk72r4xVqhT8yK8ZFXEEGvpfkoeeSTQXiewZP7SZM", "sym": "WTAIL", "reason": "vol1h 5200<40k"}
