@@ -9150,3 +9150,7 @@
 {"t": "2026-11-05 05:59:44 WIB", "mint": "F1FiJdqfUzEx8BtfdSCRwGwrKBAZHJs6JkNEfVYYpump", "sym": "GDA", "reason": "risk:Low Liquidity"}
 {"t": "2026-11-05 05:59:46 WIB", "mint": "7cbYn6g9vNQvFJ1igrrFiRHDkzBJT3LSmzfP9JL6pump", "sym": "GOKU", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 06:00:33 WIB", "mint": "J5HCtfNxMMqijXYsRqWnxp9VDR1gKzG1p3qEBZm3BAGS", "sym": "SAN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 06:02:04 WIB", "mint": "EpRC8Wj3WE8et2PA5aVrLB6WcUdoaWnTg4PHFYafpump", "sym": "Satoshi", "reason": "vol1h 8488<40k"}
+{"t": "2026-11-05 06:03:36 WIB", "mint": "C1dNqHWwrLC6Hmtbr75BL3FmH4UCN3ztam7VDtwhpump", "sym": "Raul", "reason": "vol1h 1197<40k"}
+{"t": "2026-11-05 06:03:38 WIB", "mint": "A4U3vQSiF6cG7uEgKViYk2KVBsfJAHM4kqD9Us5fpump", "sym": "AMC", "reason": "liq 4334<20k"}
+{"t": "2026-11-05 06:03:40 WIB", "mint": "5ooMWLgkiCHR5tSgcU9b43ESwwY3qXXWoxLC4Q6gPmoT", "sym": "Sasha", "reason": "top10 26.9%>25"}
