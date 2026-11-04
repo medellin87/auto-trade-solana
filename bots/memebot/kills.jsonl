@@ -7621,3 +7621,6 @@
 {"t": "2026-11-04 14:10:15 WIB", "mint": "D7YBgVbEtq55QZdubR8cVvN1H2TFQis8s8fKhQqhrLgs", "sym": "EXIT", "reason": "vol1h 1117<40k"}
 {"t": "2026-11-04 14:10:17 WIB", "mint": "ELG2WX7c67AFEbPRUqz6AP8m9xA1eaSXxNGtVA2qpump", "sym": "SI", "reason": "vol1h 2764<40k"}
 {"t": "2026-11-04 14:10:18 WIB", "mint": "Bz7kUDwG1KWZX9m9JrZyzhveUUcw6RTXVbjHseMjpump", "sym": "CPU", "reason": "vol1h 32726<40k"}
+{"t": "2026-11-04 14:14:05 WIB", "mint": "HAjc6B1MfdjnYPiB2xcETPb25kb85Pxg9nq9i4D5pump", "sym": "HUND ", "reason": "vol1h 221<40k"}
+{"t": "2026-11-04 14:14:06 WIB", "mint": "8djG15hUCgQ3x992CqDj5YKu79Xzinw83cpULvwwpump", "sym": "STARMIND", "reason": "liq 6182<20k"}
+{"t": "2026-11-04 14:15:38 WIB", "mint": "CFz85wmZrKngS1FcT5h4ypGftCvcqxJjs7K37U9Fpump", "sym": "jackass", "reason": "vol1h 26919<40k"}
