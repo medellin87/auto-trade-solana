@@ -9025,3 +9025,4 @@
 {"t": "2026-11-05 04:33:26 WIB", "mint": "F6mwSmKvUvBWZKtqqKNuYyyDVgDytCf7DjcGYq7anti", "sym": "ANTI", "reason": "liq 34<20k"}
 {"t": "2026-11-05 04:34:58 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.424<0.6"}
 {"t": "2026-11-05 04:34:59 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 6676<40k"}
+{"t": "2026-11-05 04:37:16 WIB", "mint": "3PE6PfxAtwda14FfmnJQwykbukeRwb7bu63gij2Rpump", "sym": "GG", "reason": "liq 0<20k"}
