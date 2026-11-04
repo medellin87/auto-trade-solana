@@ -8194,3 +8194,6 @@
 {"t": "2026-11-04 19:57:18 WIB", "mint": "29jQSLyMDP3y1DRkVDVi4FxyeR66p5JCMqsaifMEpump", "sym": "BunThing", "reason": "liq 14349<20k"}
 {"t": "2026-11-04 19:57:20 WIB", "mint": "EfqRAhyc6kCRZ4SGaDD4QyUVkyXJ95RbuMQZf19Fpump", "sym": "META", "reason": "vol1h 19897<40k"}
 {"t": "2026-11-04 19:59:37 WIB", "mint": "F92cYmoxRaobkAh5VJJstNEEFsEvtkqS86ftXRL7pump", "sym": "GTAPAD", "reason": "liq 4560<20k"}
+{"t": "2026-11-04 20:01:09 WIB", "mint": "8kfp8MzuFuj3vrnmG3KBcYVctYmu2JYerdFhPnX4pump", "sym": "SAN", "reason": "vol1h 20636<40k"}
+{"t": "2026-11-04 20:01:55 WIB", "mint": "2Nq1d6rz6Pjyehpej182Vj22kSfUN3pzuJAJtUmVpump", "sym": "NOT", "reason": "vol1h 19285<40k"}
+{"t": "2026-11-04 20:02:42 WIB", "mint": "FpWWSqLNrjTTMDM41EXkvBmHBDkNdWrf9RwHL57xpump", "sym": "VI", "reason": "score 0.384<0.6"}
