@@ -9145,3 +9145,8 @@
 {"t": "2026-11-05 05:55:50 WIB", "mint": "2Bn32nLNQjk6rW4yBooMWZucMQnHLFmbsicbidqUpump", "sym": "ALLSTARS", "reason": "vol1h 6923<40k"}
 {"t": "2026-11-05 05:57:22 WIB", "mint": "88JgZHVfWtdfhXqZbgb4ZniwSQ3UWnGh2Qv882mxmece", "sym": "FED", "reason": "liq 17227<20k"}
 {"t": "2026-11-05 05:57:24 WIB", "mint": "7gmxQoGqCNK9BJSaD5NNSPgCjpLV8eTSsStnhQuGArDM", "sym": "FOTF", "reason": "vol1h 9488<40k"}
+{"t": "2026-11-05 05:58:56 WIB", "mint": "BHW5JXmqfvGsAF4npaMW1RaCQdEWwcNTi8XN96xkpump", "sym": "WCATS", "reason": "liq 0<20k"}
+{"t": "2026-11-05 05:58:57 WIB", "mint": "G4bjr2e9BwqkPxfjUfpsk3B8ySvNYq4rBu2RrQMJpump", "sym": "PI", "reason": "liq 7220<20k"}
+{"t": "2026-11-05 05:59:44 WIB", "mint": "F1FiJdqfUzEx8BtfdSCRwGwrKBAZHJs6JkNEfVYYpump", "sym": "GDA", "reason": "risk:Low Liquidity"}
+{"t": "2026-11-05 05:59:46 WIB", "mint": "7cbYn6g9vNQvFJ1igrrFiRHDkzBJT3LSmzfP9JL6pump", "sym": "GOKU", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 06:00:33 WIB", "mint": "J5HCtfNxMMqijXYsRqWnxp9VDR1gKzG1p3qEBZm3BAGS", "sym": "SAN", "reason": "vol1h 0<40k"}
