@@ -7804,3 +7804,8 @@
 {"t": "2026-11-04 16:02:50 WIB", "mint": "64M1Z76Qd4S2eW11uX15sNPp97KCvunR4bhFFMFbpump", "sym": "Twitter", "reason": "liq 0<20k"}
 {"t": "2026-11-04 16:03:36 WIB", "mint": "FfuBMS3rh9M61apXJDs14yAngVnYLWR7xkcX5FxMpump", "sym": "PayIF", "reason": "liq 0<20k"}
 {"t": "2026-11-04 16:03:38 WIB", "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump", "sym": "WILDCAT", "reason": "vol1h 866<40k"}
+{"t": "2026-11-04 16:04:24 WIB", "mint": "HjUWqS5w1rtD6widqXwkbzPVFSn2qLHbXRRmNKQzpump", "sym": "BOW", "reason": "vol1h 16<40k"}
+{"t": "2026-11-04 16:05:11 WIB", "mint": "F1LQvm5biTdEXPrHokxhkR7sDwQcBnA8VTEmD5Gdpump", "sym": "SLINGTOSHI", "reason": "vol1h 16038<40k"}
+{"t": "2026-11-04 16:05:13 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 4869<40k"}
+{"t": "2026-11-04 16:05:14 WIB", "mint": "FQE9h4fL65oDHMsR2MHcSe6d6DF4hFrFarsQQkVJpump", "sym": "X", "reason": "liq 12745<20k"}
+{"t": "2026-11-04 16:06:01 WIB", "mint": "9m8kNFcVwtSqHdGDHjK6yCMLxYBjdCECCZ7zEThcpump", "sym": "BOTTOM", "reason": "vol1h 9240<40k"}
