@@ -7390,3 +7390,8 @@
 {"t": "2026-11-04 11:48:19 WIB", "mint": "3BHazepBWw7zTQK4QqEe22V4tBv2uDSaWYPvXXyfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-04 11:50:36 WIB", "mint": "7mgLSBdYCqq8erhXMfHF1bk9WG4oZLWZTrz2sjv9pump", "sym": "AF", "reason": "liq 0<20k"}
 {"t": "2026-11-04 11:51:23 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1001<40k"}
+{"t": "2026-11-04 11:52:09 WIB", "mint": "FK5tP4Zw7ujWzaz3TgeJ5NcqGe5LFufo7m6zH6YQpump", "sym": "5STAR", "reason": "vol1h 13734<40k"}
+{"t": "2026-11-04 11:54:26 WIB", "mint": "EnngUrVrLXYZgM8WVAjSQTEbHvLnmvmyrBhY4RZ4pump", "sym": "Azathoth", "reason": "vol1h 23514<40k"}
+{"t": "2026-11-04 11:54:29 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 481<40k"}
+{"t": "2026-11-04 11:54:31 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 5679<40k"}
+{"t": "2026-11-04 11:54:32 WIB", "mint": "28mMSX6AtAoDHGCHqut9EazEBqTnooqzDP21CdgDCALL", "sym": "CENTER", "reason": "vol1h 0<40k"}
