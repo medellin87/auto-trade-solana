@@ -8583,3 +8583,7 @@
 {"t": "2026-11-05 00:05:59 WIB", "mint": "EjH9dQSAFmzMH9Jy6aJk95FdtY7xkc1cWvXLetaNpump", "sym": "Pump", "reason": "liq 6766<20k"}
 {"t": "2026-11-05 00:06:00 WIB", "mint": "FYGGJJB7nFoE1DqxFZW2cen1azSxHTAz7tzUej9Hpump", "sym": "Perpfx", "reason": "vol1h 8121<40k"}
 {"t": "2026-11-05 00:06:47 WIB", "mint": "5UuS5jpcHNU7XUAPiybnr7N4m5UBq4tPXR8vB1r3pump", "sym": "Astro", "reason": "vol1h 8684<40k"}
+{"t": "2026-11-05 00:06:48 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 2485<40k"}
+{"t": "2026-11-05 00:09:05 WIB", "mint": "3ttAXdqca9Fz6PCDQAZWeXh5YQ8wicLMFvQvEEXLPwZr", "sym": "PKONG", "reason": "vol1h 334<40k"}
+{"t": "2026-11-05 00:09:52 WIB", "mint": "8gMWXHfSwBRSLc2wKtLv24JYboCAsKaEqfC5cXLeZJXL", "sym": "ZILLIONS", "reason": "vol1h 40<40k"}
+{"t": "2026-11-05 00:09:54 WIB", "mint": "chL2pmauyQ5rnaoS2FTeAHP9H2yadWkfpUVMbb4omni", "sym": "OMNIBUS", "reason": "vol1h 20073<40k"}
