@@ -7304,3 +7304,6 @@
 {"t": "2026-11-04 11:01:39 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 5264<40k"}
 {"t": "2026-11-04 11:02:26 WIB", "mint": "2TnvXN4doLGs5Wa6n55Ajz5s6pQFp3PhyhgZfBsxpump", "sym": "TSLA", "reason": "vol1h 0<40k"}
 {"t": "2026-11-04 11:02:27 WIB", "mint": "9cA1nHMp5kyZcMsQT7tvcsBh4N3AS8Avibbuoc6Wpump", "sym": "UBIKISTAN", "reason": "liq 0<20k"}
+{"t": "2026-11-04 11:04:44 WIB", "mint": "96EA4gsbxdC27nUWdkZ4mi94seD948CTqc3rZyt7Upbq", "sym": "vence", "reason": "vol1h 39829<40k"}
+{"t": "2026-11-04 11:05:31 WIB", "mint": "8muc9DdhqWfAPcvmEebNQCG89bLiwi12T2KtBtzVpump", "sym": "ANONVOYAGE", "reason": "score 0.555<0.6"}
+{"t": "2026-11-04 11:05:33 WIB", "mint": "EG9sQnqecbACdxkkG3XcGgg2WBwL1gU7DpgMJdKkpump", "sym": "assoff", "reason": "liq 0<20k"}
