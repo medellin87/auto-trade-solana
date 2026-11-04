@@ -8389,3 +8389,9 @@
 {"t": "2026-11-04 22:07:39 WIB", "mint": "3p2uEerHoGoKyKcUMabNuLdPXrRmFNLign5ybspkpump", "sym": "SHORT", "reason": "liq 0<20k"}
 {"t": "2026-11-04 22:08:25 WIB", "mint": "3ttAXdqca9Fz6PCDQAZWeXh5YQ8wicLMFvQvEEXLPwZr", "sym": "PKONG", "reason": "vol1h 344<40k"}
 {"t": "2026-11-04 22:09:12 WIB", "mint": "ExVAWdikspc2bdtdxtPzkjK13DahGQnEZ8MqtLNbNxQg", "sym": "AI", "reason": "vol1h 2491<40k"}
+{"t": "2026-11-04 22:10:31 WIB", "mint": "H2nq9XbpbZhKx6PLZYRBq8BN7n5omDkfrvqT1T4vpump", "sym": "CREW", "reason": "vol1h 2587<40k"}
+{"t": "2026-11-04 22:10:32 WIB", "mint": "FaXtNnm14opBcapY2v2bGRSKCAriAmjyAEFmVdCo1Y6T", "sym": "Jackass", "reason": "liq 15966<20k"}
+{"t": "2026-11-04 22:11:19 WIB", "mint": "5ja9qQuE5V9g5TVAFZVdtVQQqoThkAWxEKUaPcC5jN3F", "sym": "NEMO", "reason": "vol1h 17081<40k"}
+{"t": "2026-11-04 22:11:21 WIB", "mint": "CPZguakzrJSPZDvyB2BY7wdk25eKFwuwtYxSPYHmpump", "sym": "LEOMAN", "reason": "score 0.421<0.6"}
+{"t": "2026-11-04 22:12:08 WIB", "mint": "2AXAV41wVSGnr1p9QtWcvM3Xvhzph7rs6pcC214tpump", "sym": "NRBOMBERS", "reason": "vol1h 1879<40k"}
+{"t": "2026-11-04 22:12:10 WIB", "mint": "DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump", "sym": "AMD", "reason": "score 0.47<0.6"}
