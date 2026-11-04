@@ -7087,3 +7087,13 @@
 {"t": "2026-11-04 09:00:13 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 24471<40k"}
 {"t": "2026-11-04 09:01:00 WIB", "mint": "69GXjuoQGxNb75BgQ54qUf6j2aDgXHVSkAcefuiqe58u", "sym": "PUP", "reason": "liq 0<20k"}
 {"t": "2026-11-04 09:01:47 WIB", "mint": "37gLowuHZZ6tF44gXqsnS6VBw9kGdfnqffxdTjmfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-04 09:05:35 WIB", "mint": "DMgry6A9C6U6jopS7bAawukAvAcgpUvWfJULcbnfpump", "sym": "POLY", "reason": "liq 13406<20k"}
+{"t": "2026-11-04 09:05:36 WIB", "mint": "8VNh5MPTg5FJ5Fvo3KAH84vuXF1jozCN1mnZTX8Hpump", "sym": "HELIA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 09:05:38 WIB", "mint": "GT7kQdT3JvZ8vFBW4jjYGYBsrNrE9U4UFspJJAXapump", "sym": "PREDICTINU", "reason": "liq 1951<20k"}
+{"t": "2026-11-04 09:05:40 WIB", "mint": "HZWx1WGSygHc4MUu1dsDpC91LKNwzFyrRu3D6FvKpump", "sym": "TCAT", "reason": "vol1h 27627<40k"}
+{"t": "2026-11-04 09:05:42 WIB", "mint": "HjiBij1BcEwjcgPEb22K8y7imdgaf1kHGMHuEgcDpump", "sym": "AMD", "reason": "top10 47.3%>25"}
+{"t": "2026-11-04 09:05:43 WIB", "mint": "6i3oFRo48Xbnu7B9YH5DgypHRvsr47GagoJhSvs4pump", "sym": "Other", "reason": "liq 3997<20k"}
+{"t": "2026-11-04 09:06:30 WIB", "mint": "hWgWqL4uzBSdji8EAvw3Kg33jShUS6UjxEZB9YBpump", "sym": "WoW", "reason": "vol1h 2345<40k"}
+{"t": "2026-11-04 09:07:17 WIB", "mint": "Fx8xXquQSfVGnfffbgZhP7NbCyUHSLTFDtasS94Spump", "sym": "HYPE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 09:07:19 WIB", "mint": "HV5dDHodf46zXunYAPbYpYs7THtrriiptqzczHKvpump", "sym": "dumocrats", "reason": "vol1h 2868<40k"}
+{"t": "2026-11-04 09:08:06 WIB", "mint": "6gnB2H2hbTVvKUWCzNuqjWY8Rod6EVBmfHi7YxZpTWa7", "sym": "MEOWNERO", "reason": "vol1h 13624<40k"}
