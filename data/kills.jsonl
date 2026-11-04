@@ -1,9 +1,3 @@
-{"t": "2026-11-05 05:09:26 WIB", "mint": "AUcqE7gYFL6grKmFGK9LyxBvZyeYoZrzb41prA8qpump", "sym": "MOAN", "reason": "vol1h 2536<40k"}
-{"t": "2026-11-05 05:09:28 WIB", "mint": "225R7kCBFozcM6831SqQm3Bn8dYa61J2oYAvEm12pump", "sym": "ORBTIC", "reason": "vol1h 2638<40k"}
-{"t": "2026-11-05 05:09:29 WIB", "mint": "EjAvrinzCVfxp91cMRxLZcEqgNRvqw9zxovgpVtLJmq1", "sym": "MORTGAGE", "reason": "liq 0<20k"}
-{"t": "2026-11-05 05:10:16 WIB", "mint": "A72sK9mPWTvU4f5RQFy7upBCeJi9HZx3Q2Wgr7QBnuLL", "sym": "nuLL", "reason": "vol1h 37927<40k"}
-{"t": "2026-11-05 05:11:50 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1142<40k"}
-{"t": "2026-11-05 05:13:21 WIB", "mint": "4NK1dfCNtMwh5BK4yycH5EjXXQXtjARvsD7VX47LDdB2", "sym": "satoshi", "reason": "liq 8734<20k"}
 {"t": "2026-11-05 05:14:53 WIB", "mint": "8gMWXHfSwBRSLc2wKtLv24JYboCAsKaEqfC5cXLeZJXL", "sym": "ZILLIONS", "reason": "vol1h 916<40k"}
 {"t": "2026-11-05 05:15:40 WIB", "mint": "4FtbM7XF7SecHwSmM7Q9jb9gFpUP4Wb3zc7iuNm3Loop", "sym": "LOOPLOOT", "reason": "vol1h 3367<40k"}
 {"t": "2026-11-05 05:16:27 WIB", "mint": "DhxxDYSQk56HPom3AXyctsdsZ4rvJExZLBgx6GPXpump", "sym": "buildor.fun", "reason": "vol1h 14170<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-05 05:25:15 WIB", "mint": "2Bn32nLNQjk6rW4yBooMWZucMQnHLFmbsicbidqUpump", "sym": "ALLSTARS", "reason": "vol1h 4467<40k"}
 {"t": "2026-11-05 05:26:46 WIB", "mint": "88JgZHVfWtdfhXqZbgb4ZniwSQ3UWnGh2Qv882mxmece", "sym": "FED", "reason": "liq 19693<20k"}
 {"t": "2026-11-05 05:26:48 WIB", "mint": "7gmxQoGqCNK9BJSaD5NNSPgCjpLV8eTSsStnhQuGArDM", "sym": "FOTF", "reason": "vol1h 8742<40k"}
+{"t": "2026-11-05 05:28:20 WIB", "mint": "BHW5JXmqfvGsAF4npaMW1RaCQdEWwcNTi8XN96xkpump", "sym": "WCATS", "reason": "vol1h 18568<40k"}
+{"t": "2026-11-05 05:28:21 WIB", "mint": "G4bjr2e9BwqkPxfjUfpsk3B8ySvNYq4rBu2RrQMJpump", "sym": "PI", "reason": "liq 19491<20k"}
+{"t": "2026-11-05 05:29:08 WIB", "mint": "F1FiJdqfUzEx8BtfdSCRwGwrKBAZHJs6JkNEfVYYpump", "sym": "GDA", "reason": "liq 0<20k"}
+{"t": "2026-11-05 05:29:10 WIB", "mint": "HxnEbpkm8TSDB1uEcHuC7u9SgCjLbSzhmxbYez8opump", "sym": "BOARD", "reason": "vol1h 5407<40k"}
+{"t": "2026-11-05 05:29:11 WIB", "mint": "7cbYn6g9vNQvFJ1igrrFiRHDkzBJT3LSmzfP9JL6pump", "sym": "GOKU", "reason": "vol1h 43<40k"}
+{"t": "2026-11-05 05:29:58 WIB", "mint": "J5HCtfNxMMqijXYsRqWnxp9VDR1gKzG1p3qEBZm3BAGS", "sym": "SAN", "reason": "vol1h 202<40k"}
