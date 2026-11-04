@@ -8611,3 +8611,16 @@
 {"t": "2026-11-05 00:26:22 WIB", "mint": "HmANFmkTXT8b4Jox5pNTuX5wEcBXhHufNB8i2fXGpump", "sym": "Meaningless", "reason": "liq 0<20k"}
 {"t": "2026-11-05 00:27:08 WIB", "mint": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr", "sym": "FLOAT", "reason": "vol1h 10498<40k"}
 {"t": "2026-11-05 00:27:10 WIB", "mint": "CpSGxv7oGdY7xNbzDBKafwTLHNx4Qyc3fxMtG4Qppump", "sym": "asi16z", "reason": "vol1h 2061<40k"}
+{"t": "2026-11-05 00:28:42 WIB", "mint": "GtcTZaFGTeF5rAyhpJYDcqjFXWaqyTsRKWSg9tMSpump", "sym": "EMBERS", "reason": "vol1h 25479<40k"}
+{"t": "2026-11-05 00:28:43 WIB", "mint": "ARj9uK3E4hJ7KcwcmkDxeuqYoRAdnCa1fG37iFEApump", "sym": "MP", "reason": "vol1h 14759<40k"}
+{"t": "2026-11-05 00:28:45 WIB", "mint": "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump", "sym": "Noiz ", "reason": "vol1h 474<40k"}
+{"t": "2026-11-05 00:28:46 WIB", "mint": "CSwW7z5to9mFVonsNtAp71hAdhEH5x1eH6fwKv13pump", "sym": "Rosie", "reason": "liq 2028<20k"}
+{"t": "2026-11-05 00:29:33 WIB", "mint": "FZs4YUPyD5sMzUv5fwiWBQx3s9Nzgvw62g8ytohwpump", "sym": "LILY", "reason": "vol1h 2261<40k"}
+{"t": "2026-11-05 00:29:35 WIB", "mint": "Hq822sQy47Cbs39BuZ1iJMp3GRVw2tUVeyMLDBTXpump", "sym": "VANCE", "reason": "liq 0<20k"}
+{"t": "2026-11-05 00:29:37 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.449<0.6"}
+{"t": "2026-11-05 00:29:38 WIB", "mint": "J34sjwqUYsicH2A6aNoMn91MAPYkUUdXsyfFBLBNDoLL", "sym": "DOLLARSE", "reason": "vol1h 1055<40k"}
+{"t": "2026-11-05 00:30:25 WIB", "mint": "72ikDQjxZGxg3wPW8r2NW6WiYSZYTyFqVnWH4Hbbpump", "sym": "PENNY", "reason": "liq 0<20k"}
+{"t": "2026-11-05 00:31:12 WIB", "mint": "7bLFjNUr5wtSeU9tBaLQeKGd7GUXMrXqgyg5qvizcash", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-05 00:31:13 WIB", "mint": "2qsriu8vGz8ZWCPcG1ht5wfhU54evM2R2bGfJ88jAnUc", "sym": "PSA", "reason": "vol1h 15317<40k"}
+{"t": "2026-11-05 00:31:15 WIB", "mint": "29jQSLyMDP3y1DRkVDVi4FxyeR66p5JCMqsaifMEpump", "sym": "BunThing", "reason": "vol1h 3510<40k"}
+{"t": "2026-11-05 00:31:16 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 9214<40k"}
