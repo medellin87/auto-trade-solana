@@ -8678,3 +8678,5 @@
 {"t": "2026-11-05 01:03:35 WIB", "mint": "3vajh3wXe3EuLSXfSaCikyoCnzyhUJ3KPSoFhyAgpump", "sym": "PREFIRE", "reason": "vol1h 3187<40k"}
 {"t": "2026-11-05 01:04:22 WIB", "mint": "CjQ494q5yYfbHMoEpXdbi6mrS5sd3Norx8VEDUwgkXZR", "sym": "VICE", "reason": "vol1h 482<40k"}
 {"t": "2026-11-05 01:05:09 WIB", "mint": "3HZ97ZA5QfdUfc3GkL261pYJLNJpsHG5EfQ11GFtDoP3", "sym": "PAPER", "reason": "vol1h 10552<40k"}
+{"t": "2026-11-05 01:08:11 WIB", "mint": "LWSYx94hV8NaFujStsqRZNsd1V8PkasADLTfiWjbfix", "sym": "FIX", "reason": "liq 19628<20k"}
+{"t": "2026-11-05 01:08:12 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1302<40k"}
