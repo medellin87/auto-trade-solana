@@ -9076,3 +9076,5 @@
 {"t": "2026-11-05 05:09:29 WIB", "mint": "EjAvrinzCVfxp91cMRxLZcEqgNRvqw9zxovgpVtLJmq1", "sym": "MORTGAGE", "reason": "liq 0<20k"}
 {"t": "2026-11-05 05:10:16 WIB", "mint": "A72sK9mPWTvU4f5RQFy7upBCeJi9HZx3Q2Wgr7QBnuLL", "sym": "nuLL", "reason": "vol1h 37927<40k"}
 {"t": "2026-11-05 05:11:50 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1142<40k"}
+{"t": "2026-11-05 05:13:21 WIB", "mint": "4NK1dfCNtMwh5BK4yycH5EjXXQXtjARvsD7VX47LDdB2", "sym": "satoshi", "reason": "liq 8734<20k"}
+{"t": "2026-11-05 05:14:53 WIB", "mint": "8gMWXHfSwBRSLc2wKtLv24JYboCAsKaEqfC5cXLeZJXL", "sym": "ZILLIONS", "reason": "vol1h 916<40k"}
