@@ -8120,3 +8120,6 @@
 {"t": "2026-11-04 19:08:41 WIB", "mint": "DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump", "sym": "AMD", "reason": "score 0.541<0.6"}
 {"t": "2026-11-04 19:09:28 WIB", "mint": "B2hrd6M7z4xaY4Cxe6eYBSedmYxDhyFDaEAaLyZhpump", "sym": "STARMIND", "reason": "vol1h 6066<40k"}
 {"t": "2026-11-04 19:10:15 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 23298<40k"}
+{"t": "2026-11-04 19:11:46 WIB", "mint": "AprAQ7yqYmKxydb3RffQwFeSWCzNC1qSaAFYSmU6pump", "sym": "Toad", "reason": "vol1h 31973<40k"}
+{"t": "2026-11-04 19:13:18 WIB", "mint": "72QNkZqiTBsq5dvn4DEwaC5qBPDkc7SZJ38xXy4jpump", "sym": "RAM", "reason": "vol1h 91<40k"}
+{"t": "2026-11-04 19:13:20 WIB", "mint": "27XNz1SJVFURVDnhXmNyxN78rPLpmiKyDo9GvjBBpump", "sym": "ram", "reason": "liq 0<20k"}
