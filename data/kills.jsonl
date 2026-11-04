@@ -1,7 +1,3 @@
-{"t": "2026-11-04 16:02:50 WIB", "mint": "64M1Z76Qd4S2eW11uX15sNPp97KCvunR4bhFFMFbpump", "sym": "Twitter", "reason": "liq 0<20k"}
-{"t": "2026-11-04 16:03:36 WIB", "mint": "FfuBMS3rh9M61apXJDs14yAngVnYLWR7xkcX5FxMpump", "sym": "PayIF", "reason": "liq 0<20k"}
-{"t": "2026-11-04 16:03:38 WIB", "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump", "sym": "WILDCAT", "reason": "vol1h 866<40k"}
-{"t": "2026-11-04 16:04:24 WIB", "mint": "HjUWqS5w1rtD6widqXwkbzPVFSn2qLHbXRRmNKQzpump", "sym": "BOW", "reason": "vol1h 16<40k"}
 {"t": "2026-11-04 16:05:11 WIB", "mint": "F1LQvm5biTdEXPrHokxhkR7sDwQcBnA8VTEmD5Gdpump", "sym": "SLINGTOSHI", "reason": "vol1h 16038<40k"}
 {"t": "2026-11-04 16:05:13 WIB", "mint": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump", "sym": "LTC", "reason": "vol1h 4869<40k"}
 {"t": "2026-11-04 16:05:14 WIB", "mint": "FQE9h4fL65oDHMsR2MHcSe6d6DF4hFrFarsQQkVJpump", "sym": "X", "reason": "liq 12745<20k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-04 16:14:49 WIB", "mint": "8E8BZk5oWbYnzSQ3Xs66b1g36JckbJ4dzMuwyarFpump", "sym": "Fred", "reason": "vol1h 3919<40k"}
 {"t": "2026-11-04 16:14:51 WIB", "mint": "HAjc6B1MfdjnYPiB2xcETPb25kb85Pxg9nq9i4D5pump", "sym": "HUND ", "reason": "vol1h 153<40k"}
 {"t": "2026-11-04 16:14:53 WIB", "mint": "8djG15hUCgQ3x992CqDj5YKu79Xzinw83cpULvwwpump", "sym": "STARMIND", "reason": "vol1h 3819<40k"}
+{"t": "2026-11-04 16:17:09 WIB", "mint": "CFz85wmZrKngS1FcT5h4ypGftCvcqxJjs7K37U9Fpump", "sym": "jackass", "reason": "vol1h 286<40k"}
+{"t": "2026-11-04 16:17:12 WIB", "mint": "BM1Q9KfjgVoERj1eipkPqueMvhz1kfkUfE835ZjJpump", "sym": "CHATBLT", "reason": "score 0.396<0.6"}
+{"t": "2026-11-04 16:17:58 WIB", "mint": "9CRbVZxQshb9dMkh3yGvyARJRAHMGVuxiQRGhUsppump", "sym": "Doge", "reason": "liq 0<20k"}
+{"t": "2026-11-04 16:18:47 WIB", "mint": "2b8E4BvtGqqfNsLGKPWsSiutss1SPy7h1ANGoDvopump", "sym": "$BRUNK", "reason": "vol1h 96<40k"}
