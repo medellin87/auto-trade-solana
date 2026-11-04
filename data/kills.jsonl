@@ -1,8 +1,3 @@
-{"t": "2026-11-04 12:54:36 WIB", "mint": "DQEHPuEv6cfuGucgQisJvHB61F665QWJX94HuG4upump", "sym": "DEM", "reason": "vol1h 0<40k"}
-{"t": "2026-11-04 12:54:38 WIB", "mint": "6JZ2brKECW2tPCCejknLy6FuUkd8sx1u4jUmFahEpump", "sym": "RAM", "reason": "vol1h 17698<40k"}
-{"t": "2026-11-04 12:54:39 WIB", "mint": "28mMSX6AtAoDHGCHqut9EazEBqTnooqzDP21CdgDCALL", "sym": "CENTER", "reason": "vol1h 0<40k"}
-{"t": "2026-11-04 12:56:11 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 7979<40k"}
-{"t": "2026-11-04 12:56:12 WIB", "mint": "AdNqCG9CeMb8i6KjQBCDLyuUkBRtb5AMnfNqzjUcpump", "sym": "XingXing", "reason": "vol1h 0<40k"}
 {"t": "2026-11-04 12:56:14 WIB", "mint": "5qjzEB3bUBaxqfyG1NQWXgGUwYbZyAgvFeZQo31Dpump", "sym": "$1", "reason": "vol1h 641<40k"}
 {"t": "2026-11-04 12:56:15 WIB", "mint": "592MyuZiyHCEg8YJBnGJXCpcgfaK81vKiV83M3XMpump", "sym": "MEMECOIN", "reason": "vol1h 250<40k"}
 {"t": "2026-11-04 12:56:17 WIB", "mint": "CqUzBPsCAnhm7hFNzz4PeTZamp9yyvxLey2J15Axpump", "sym": "GIVING", "reason": "vol1h 596<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-04 13:12:40 WIB", "mint": "HAjc6B1MfdjnYPiB2xcETPb25kb85Pxg9nq9i4D5pump", "sym": "HUND ", "reason": "vol1h 383<40k"}
 {"t": "2026-11-04 13:12:41 WIB", "mint": "Bc8Nks1nyxXumWQDqqm8N6FF1ruwtqbD3DaezGwrpump", "sym": "LIBBING", "reason": "vol1h 16<40k"}
 {"t": "2026-11-04 13:12:43 WIB", "mint": "7TeSHWrmSv7UfgUFsGVvhwfC9eUie4RFDwFg4RWUpump", "sym": "ROCKSOLID", "reason": "vol1h 0<40k"}
+{"t": "2026-11-04 13:15:00 WIB", "mint": "CFz85wmZrKngS1FcT5h4ypGftCvcqxJjs7K37U9Fpump", "sym": "jackass", "reason": "vol1h 29552<40k"}
+{"t": "2026-11-04 13:15:46 WIB", "mint": "CG1DmSiMXw9WjQXCzP5JDnma5BDY3Cks9bRTdXNLpump", "sym": "MACHKA", "reason": "vol1h 1604<40k"}
+{"t": "2026-11-04 13:16:33 WIB", "mint": "FpWWSqLNrjTTMDM41EXkvBmHBDkNdWrf9RwHL57xpump", "sym": "VI", "reason": "score 0.532<0.6"}
+{"t": "2026-11-04 13:16:35 WIB", "mint": "2b8E4BvtGqqfNsLGKPWsSiutss1SPy7h1ANGoDvopump", "sym": "$BRUNK", "reason": "vol1h 571<40k"}
+{"t": "2026-11-04 13:17:21 WIB", "mint": "D4yQgQruhFDKT3nqq84ZtqQKSHduUYJDU1iEK61Fpump", "sym": "FSD", "reason": "liq 0<20k"}
