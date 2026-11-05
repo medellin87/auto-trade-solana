@@ -10962,3 +10962,7 @@
 {"t": "2026-11-06 01:09:03 WIB", "mint": "34As1e1Kop9zBvu5e84kjg452Uigq8krcoGEJiWRpump", "sym": "UHI", "reason": "vol1h 6202<40k"}
 {"t": "2026-11-06 01:09:05 WIB", "mint": "ExugAjXhv9oyGpMZ6QxwifzfuxtBAnxCWJmAsy5nnUVt", "sym": "SP500", "reason": "vol1h 10765<40k"}
 {"t": "2026-11-06 01:09:07 WIB", "mint": "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump", "sym": "Rocco", "reason": "score 0.582<0.6"}
+{"t": "2026-11-06 01:12:09 WIB", "mint": "141XGGGB1RZ9YTxmgMm92tavRwjH19YndJtB3aEwAYgK", "sym": "BURNIT", "reason": "liq 0<20k"}
+{"t": "2026-11-06 01:12:56 WIB", "mint": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3", "sym": "ZAZA", "reason": "vol1h 271<40k"}
+{"t": "2026-11-06 01:12:57 WIB", "mint": "GeNwBZWJcWQAkLDdty7geii9xSjtCuga1qE9DDzLpump", "sym": "CATO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 01:13:44 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 0<40k"}
