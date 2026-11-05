@@ -10733,3 +10733,6 @@
 {"t": "2026-11-05 22:46:28 WIB", "mint": "GgrXYd7Fz5R2gsBz75YYNYh7CFHXKMWQu4T2SDfUpump", "sym": "Retail", "reason": "liq 0<20k"}
 {"t": "2026-11-05 22:47:17 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 63<40k"}
 {"t": "2026-11-05 22:47:19 WIB", "mint": "5BjfgmtfqvNpAWx1CnZynoWLWNMnrwHLhTFzQ81vkEc8", "sym": "ClapCat", "reason": "vol1h 5233<40k"}
+{"t": "2026-11-05 22:49:38 WIB", "mint": "DJhsdZkkw8M7AWoH2u7tZfXxbTN1w3EyWJ39D3gHpump", "sym": "Yahu", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 22:49:40 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 38291<40k"}
+{"t": "2026-11-05 22:50:27 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "top10 28.1%>25"}
