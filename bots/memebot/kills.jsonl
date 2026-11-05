@@ -11218,3 +11218,9 @@
 {"t": "2026-11-06 03:47:35 WIB", "mint": "38sFzqRSerGhztsgsqQ26ToeAz5UU5ggTS6f5946pump", "sym": "LUCIA", "reason": "liq 1725<20k"}
 {"t": "2026-11-06 03:47:37 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 122<40k"}
 {"t": "2026-11-06 03:48:24 WIB", "mint": "3XRM9hgtpW9PxfNE4Qke5y7xPFx9enWsE7G6AqYLpump", "sym": "Survivor", "reason": "vol1h 19763<40k"}
+{"t": "2026-11-06 03:49:10 WIB", "mint": "0xd7b7ebcb4f3b0de80f87d92327da3d74b435b7a5", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-06 03:49:57 WIB", "mint": "9iaXwjVAtRQmDKuYuxMmT5GBKiVJ3dQ4ji1vWkEXY1Jz", "sym": "iFruit", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 03:49:59 WIB", "mint": "EiMueMXDdz9QRyQjbHzoh68KvNFZ3gAAZ6BboeGnpump", "sym": "GTHIC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 03:50:00 WIB", "mint": "EZ4EucmvYQVfNKx5xuBESYvCGcXBGUxcn7FUgohjCXpA", "sym": "Snork", "reason": "liq 0<20k"}
+{"t": "2026-11-06 03:50:02 WIB", "mint": "GY8qWXwZPiYuSadJRwRrJLZPhrXTj7pNVqdkfxoPpump", "sym": "fun", "reason": "vol1h 22456<40k"}
+{"t": "2026-11-06 03:50:03 WIB", "mint": "25Lrwta8CGeMt3pmxy7DivhJzRzBp5Ne76bdaxbPpump", "sym": "$Gatto", "reason": "vol1h 41<40k"}
