@@ -11018,3 +11018,7 @@
 {"t": "2026-11-06 01:39:11 WIB", "mint": "ExugAjXhv9oyGpMZ6QxwifzfuxtBAnxCWJmAsy5nnUVt", "sym": "SP500", "reason": "liq 10093<20k"}
 {"t": "2026-11-06 01:41:30 WIB", "mint": "EbDPrU2kLMASKihLHmVbNec8svQSVeXvsVzVkmaXpump", "sym": "NVDA", "reason": "vol1h 1<40k"}
 {"t": "2026-11-06 01:41:32 WIB", "mint": "GMdkBYSKJuWnqd4vGdSnxiELNQTPhMhvdCmPb77dpump", "sym": "Chewchan", "reason": "top10 28.7%>25"}
+{"t": "2026-11-06 01:42:18 WIB", "mint": "141XGGGB1RZ9YTxmgMm92tavRwjH19YndJtB3aEwAYgK", "sym": "BURNIT", "reason": "liq 3200<20k"}
+{"t": "2026-11-06 01:43:05 WIB", "mint": "H4DLfBJe51mam6bxoQHx1KVSB9dNySvtG3BFp18Hpump", "sym": "OPTIONSPAD", "reason": "vol1h 13978<40k"}
+{"t": "2026-11-06 01:43:52 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 01:44:38 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 6302<40k"}
