@@ -1,8 +1,3 @@
-{"t": "2026-11-06 00:20:59 WIB", "mint": "C57WoifmnFQ8Jo9iBLHMuMxVp6f3wBMWmvQDt9g8o2SL", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-06 00:21:01 WIB", "mint": "ASkYiHKWj4Uroti9yxuv67dokmvMZL8KXjGouUWPpump", "sym": "JACKASS", "reason": "vol1h 1<40k"}
-{"t": "2026-11-06 00:21:02 WIB", "mint": "Auan9C7bBJCSGzxRcEPo3F9KdQDGqjq1eGw8iruipump", "sym": "MCD", "reason": "vol1h 0<40k"}
-{"t": "2026-11-06 00:21:04 WIB", "mint": "Eyo1o3QYKQwdvP6UtK9dQLTZj2BBtoJdN4tMWB2Dpump", "sym": "GOODTIME", "reason": "vol1h 17178<40k"}
-{"t": "2026-11-06 00:21:05 WIB", "mint": "DJhsdZkkw8M7AWoH2u7tZfXxbTN1w3EyWJ39D3gHpump", "sym": "Yahu", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 00:21:07 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 9784<40k"}
 {"t": "2026-11-06 00:21:53 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 39704<40k"}
 {"t": "2026-11-06 00:23:25 WIB", "mint": "9v6sN27cXhEvyr4V9DTvSsK3C2k2VVtreHKAMmXbpump", "sym": "S&P500", "reason": "vol1h 22<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-06 00:32:16 WIB", "mint": "4u1FvZgkmLr5Szn3qTuumZaxC53gUEeDxAtigWYfpump", "sym": "JIMOTHY ", "reason": "liq 0<20k"}
 {"t": "2026-11-06 00:32:17 WIB", "mint": "DgoVJ1Up6gi9uZM2cLjTeENZ3GdefXVVnKHtidokpump", "sym": "Retail", "reason": "vol1h 20<40k"}
 {"t": "2026-11-06 00:32:19 WIB", "mint": "C9gR5iUokTb7ksPUm89TvDsN5wi2DYZxRZBZcc5epump", "sym": "OG", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 00:34:36 WIB", "mint": "GyWkSn2ah7dqLyPeZAjEZmfxuU2H4nwfGvgJhfYDVegn", "sym": "bul", "reason": "vol1h 5662<40k"}
+{"t": "2026-11-06 00:34:37 WIB", "mint": "dQeDaezBq35Ecn8YFy4eAFDBBmT64WCEVFf7Dt8UUCp", "sym": "DOMAIN", "reason": "vol1h 10368<40k"}
+{"t": "2026-11-06 00:35:24 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 00:35:26 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.515<0.6"}
+{"t": "2026-11-06 00:36:58 WIB", "mint": "9d2DpBARkhyGUn7AusgPRpDh3rDanYpTKb9GRvTdpump", "sym": "Zhdun", "reason": "liq 0<20k"}
