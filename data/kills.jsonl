@@ -1,7 +1,3 @@
-{"t": "2026-11-06 03:16:07 WIB", "mint": "F2AvkmDtZdXbWXaS1ja8Mjgjy54zsHhDErWzeFCNpump", "sym": "GIVEST", "reason": "vol1h 25552<40k"}
-{"t": "2026-11-06 03:16:09 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 7130<40k"}
-{"t": "2026-11-06 03:16:56 WIB", "mint": "7PriNMSQarKxpDcHHVKBkVh2AyK6rNZmdFF5D6Copump", "sym": "DNUT", "reason": "liq 10711<20k"}
-{"t": "2026-11-06 03:16:59 WIB", "mint": "H6Ya3AwJZ5D9pRg5Fueuhow1aDdpthvJwtk1xj44pump", "sym": "HAMMY", "reason": "liq 0<20k"}
 {"t": "2026-11-06 03:17:01 WIB", "mint": "38sFzqRSerGhztsgsqQ26ToeAz5UU5ggTS6f5946pump", "sym": "LUCIA", "reason": "liq 1749<20k"}
 {"t": "2026-11-06 03:17:02 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 44<40k"}
 {"t": "2026-11-06 03:17:49 WIB", "mint": "3XRM9hgtpW9PxfNE4Qke5y7xPFx9enWsE7G6AqYLpump", "sym": "Survivor", "reason": "liq 0<20k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-06 03:31:13 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "top10 28.7%>25"}
 {"t": "2026-11-06 03:31:15 WIB", "mint": "2cAHQ1SWGMqSASwLD46p1w5z3S9XV6mpwua1hf5Gpump", "sym": "ClaudiaGI", "reason": "vol1h 18776<40k"}
 {"t": "2026-11-06 03:32:47 WIB", "mint": "7kcWPZcZj1Xib8DcSW8zSKobGbk9ZEmo1KfvBCeapump", "sym": "Needle", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 03:33:33 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1440<40k"}
+{"t": "2026-11-06 03:33:35 WIB", "mint": "Fv1nJu3zeA5vrwaqAdypNyvwAQVVNmfMgTGPAE4YKp2e", "sym": "RICO", "reason": "vol1h 14947<40k"}
+{"t": "2026-11-06 03:33:36 WIB", "mint": "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump", "sym": "OREN", "reason": "vol1h 633<40k"}
+{"t": "2026-11-06 03:34:23 WIB", "mint": "DgoVJ1Up6gi9uZM2cLjTeENZ3GdefXVVnKHtidokpump", "sym": "Retail", "reason": "vol1h 18<40k"}
