@@ -11257,3 +11257,5 @@
 {"t": "2026-11-06 04:10:31 WIB", "mint": "J1DUE6yxhWsfh1o8eyLtBpuGWJ6os7pCV7huwMhVpump", "sym": "SCRIPT", "reason": "liq 3368<20k"}
 {"t": "2026-11-06 04:11:17 WIB", "mint": "DWeHCfBzPepsNN38di8wLtyHRAXrp1ovgVxCJGGRpump", "sym": "ELSAYED", "reason": "liq 0<20k"}
 {"t": "2026-11-06 04:12:49 WIB", "mint": "16nwYKMNG56HrFTuPKKMVapBhoAGvHUpEH2UzMYnxTE", "sym": "PENGUIN", "reason": "liq 7513<20k"}
+{"t": "2026-11-06 04:13:36 WIB", "mint": "D4CzGsZgusVj2K8R1its5H8WWdo9mazbDwBc6qvsmfun", "sym": "LAMPORT", "reason": "top10 35.2%>25"}
+{"t": "2026-11-06 04:15:08 WIB", "mint": "FMvFwLkt2MAU2FcuL6UKUHWWSTgc5K2cMgu8HNgupump", "sym": "PARAGUAY", "reason": "vol1h 18318<40k"}
