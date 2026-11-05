@@ -10752,3 +10752,7 @@
 {"t": "2026-11-05 22:56:08 WIB", "mint": "85NnkaeqHzTnJNSqyXzxqbg3x3HbxrcVjNV2BxiDpump", "sym": "GTAVI", "reason": "liq 0<20k"}
 {"t": "2026-11-05 22:56:10 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 1<40k"}
 {"t": "2026-11-05 22:56:56 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 8559<40k"}
+{"t": "2026-11-05 22:57:43 WIB", "mint": "FgGCwNyjGixWk9VPwGqNbFSyt4imE8HbKjVJTGGM5ccs", "sym": "SYP", "reason": "liq 0<20k"}
+{"t": "2026-11-05 22:59:15 WIB", "mint": "CCXuWErFHHV8UFhoA1SNYBj5MHuSpnzrMiBfgnAbpump", "sym": "PHONE", "reason": "vol1h 330<40k"}
+{"t": "2026-11-05 23:00:02 WIB", "mint": "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump", "sym": "OREN", "reason": "vol1h 1794<40k"}
+{"t": "2026-11-05 23:00:04 WIB", "mint": "EhxkzrJ1XgvrrqkvJNZv1A3AXKtcTjhP7R7D1Sbxpump", "sym": "MCD", "reason": "vol1h 0<40k"}
