@@ -10859,3 +10859,8 @@
 {"t": "2026-11-06 00:01:36 WIB", "mint": "C9gR5iUokTb7ksPUm89TvDsN5wi2DYZxRZBZcc5epump", "sym": "OG", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 00:01:37 WIB", "mint": "G9c1gv1BTpVwiJe9D1zTwrmS7gkyWjPWotmfec88pump", "sym": "BC", "reason": "vol1h 1128<40k"}
 {"t": "2026-11-06 00:02:24 WIB", "mint": "Dg77yjPhBcPqVnvu6nWX82nmeKYdhmUrBAr4q8Lqpump", "sym": "BKG", "reason": "liq 0<20k"}
+{"t": "2026-11-06 00:03:56 WIB", "mint": "GyWkSn2ah7dqLyPeZAjEZmfxuU2H4nwfGvgJhfYDVegn", "sym": "bul", "reason": "vol1h 6699<40k"}
+{"t": "2026-11-06 00:04:43 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 00:04:44 WIB", "mint": "cats1JDrvuzdgvtNh5AMm2QvqAjhGJo9TF5pSfd6NK8", "sym": "catfish", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 00:04:46 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.529<0.6"}
+{"t": "2026-11-06 00:06:18 WIB", "mint": "9d2DpBARkhyGUn7AusgPRpDh3rDanYpTKb9GRvTdpump", "sym": "Zhdun", "reason": "liq 0<20k"}
