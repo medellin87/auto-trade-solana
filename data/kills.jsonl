@@ -1,8 +1,3 @@
-{"t": "2026-11-05 19:30:07 WIB", "mint": "2kGfWRgNp1QaxUMFCX9CMN78E1iCbgjBAZuQNUjWpump", "sym": "SAFEMOON", "reason": "vol1h 0<40k"}
-{"t": "2026-11-05 19:30:53 WIB", "mint": "D3nNiCTSxPz1TMGJoDPMGqhGnyvCWAw9xAcWpfbtpump", "sym": "Lily", "reason": "liq 0<20k"}
-{"t": "2026-11-05 19:30:55 WIB", "mint": "8crRRo8zpxJaUhnV81hzyqh4JU5RpuvVaP7iCfV2aXVV", "sym": "MINTED", "reason": "vol1h 2602<40k"}
-{"t": "2026-11-05 19:30:56 WIB", "mint": "LKsRfGJjy25VZQJZL5tBZ6aMdtxHHA6PZ7Fp4mohype", "sym": "ELYSIUM", "reason": "liq 0<20k"}
-{"t": "2026-11-05 19:30:58 WIB", "mint": "2pdaLHt8451o3abCE8SCFgzJxn6LyT9W6gQodSi9fHnF", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-05 19:32:30 WIB", "mint": "Cz2YM1CaVm8FDbET2fZ33hLkhSrUyJJMtCgQxmbhpump", "sym": "UMBRA", "reason": "liq 8260<20k"}
 {"t": "2026-11-05 19:32:31 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 2587<40k"}
 {"t": "2026-11-05 19:33:18 WIB", "mint": "4WT81YNHWhRQ8oPV6y41XSF13fDqWfL8G1TUiEiApump", "sym": "PEERLY", "reason": "vol1h 504<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-05 19:42:56 WIB", "mint": "79zuA7obQuVMdCWTdkS7uEY7KkctYyZF9nSjaFPVpump", "sym": "CALLINU", "reason": "vol1h 5<40k"}
 {"t": "2026-11-05 19:42:57 WIB", "mint": "C1dNqHWwrLC6Hmtbr75BL3FmH4UCN3ztam7VDtwhpump", "sym": "Raul", "reason": "vol1h 2314<40k"}
 {"t": "2026-11-05 19:43:44 WIB", "mint": "5BjfgmtfqvNpAWx1CnZynoWLWNMnrwHLhTFzQ81vkEc8", "sym": "ClapCat", "reason": "vol1h 3519<40k"}
+{"t": "2026-11-05 19:46:46 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 14900<40k"}
+{"t": "2026-11-05 19:46:47 WIB", "mint": "3jh9CEhQQir5XuzwQRJGiJ8xZJsafCR9BxK7PQvfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-05 19:46:49 WIB", "mint": "DJhsdZkkw8M7AWoH2u7tZfXxbTN1w3EyWJ39D3gHpump", "sym": "Yahu", "reason": "vol1h 69<40k"}
+{"t": "2026-11-05 19:47:36 WIB", "mint": "EdMJZ7RZChhZBupifzoDsYfN1axQkfV1XhEV7nDrcVS4", "sym": "BYTE", "reason": "vol1h 22441<40k"}
+{"t": "2026-11-05 19:47:37 WIB", "mint": "EbFJbnAMyf1hHHd2QNvHFRoKFntj1GZWHnFR2JYYpump", "sym": "CR", "reason": "liq 2022<20k"}
