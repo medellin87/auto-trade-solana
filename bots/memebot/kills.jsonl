@@ -10664,3 +10664,7 @@
 {"t": "2026-11-05 21:57:02 WIB", "mint": "CnDtykATX2fWmChpmeJ9qpmw3BuwdPEx67PZJSqdpump", "sym": "ETF", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 21:57:04 WIB", "mint": "Fo6wD8HTUaWqVcKte3u3u1PufsCkWkbR5iJbn6Lcpump", "sym": "Bats", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 21:58:36 WIB", "mint": "CCXuWErFHHV8UFhoA1SNYBj5MHuSpnzrMiBfgnAbpump", "sym": "PHONE", "reason": "liq 0<20k"}
+{"t": "2026-11-05 21:59:22 WIB", "mint": "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump", "sym": "OREN", "reason": "vol1h 1389<40k"}
+{"t": "2026-11-05 21:59:24 WIB", "mint": "EhxkzrJ1XgvrrqkvJNZv1A3AXKtcTjhP7R7D1Sbxpump", "sym": "MCD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 22:00:10 WIB", "mint": "DgoVJ1Up6gi9uZM2cLjTeENZ3GdefXVVnKHtidokpump", "sym": "Retail", "reason": "vol1h 87<40k"}
+{"t": "2026-11-05 22:01:42 WIB", "mint": "ESWuXHiwswpkfhQtA6A1tAtiBJh9A5hUDYj5fEYhigh", "sym": "Fischer", "reason": "vol1h 15826<40k"}
