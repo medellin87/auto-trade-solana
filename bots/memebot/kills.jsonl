@@ -9698,3 +9698,6 @@
 {"t": "2026-11-05 12:00:00 WIB", "mint": "3BeJLbpE9te1VW1PEEzDb6Q9jP6DibqijwQQnux1pump", "sym": "BTP", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 12:00:47 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 1837<40k"}
 {"t": "2026-11-05 12:00:49 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 12:01:35 WIB", "mint": "8LE65NsUJk3QfR385RLZKwTC2DRmX65CVRKmDkvvpump", "sym": "Look", "reason": "liq 4583<20k"}
+{"t": "2026-11-05 12:02:25 WIB", "mint": "7gmxQoGqCNK9BJSaD5NNSPgCjpLV8eTSsStnhQuGArDM", "sym": "FOTF", "reason": "vol1h 4760<40k"}
+{"t": "2026-11-05 12:03:57 WIB", "mint": "592MyuZiyHCEg8YJBnGJXCpcgfaK81vKiV83M3XMpump", "sym": "MEMECOIN", "reason": "vol1h 63<40k"}
