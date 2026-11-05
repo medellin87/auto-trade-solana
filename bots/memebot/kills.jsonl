@@ -10622,3 +10622,9 @@
 {"t": "2026-11-05 21:28:48 WIB", "mint": "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump", "sym": "OREN", "reason": "vol1h 1392<40k"}
 {"t": "2026-11-05 21:29:35 WIB", "mint": "DgoVJ1Up6gi9uZM2cLjTeENZ3GdefXVVnKHtidokpump", "sym": "Retail", "reason": "vol1h 18<40k"}
 {"t": "2026-11-05 21:31:06 WIB", "mint": "ESWuXHiwswpkfhQtA6A1tAtiBJh9A5hUDYj5fEYhigh", "sym": "Fischer", "reason": "liq 14493<20k"}
+{"t": "2026-11-05 21:32:38 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 21:32:40 WIB", "mint": "E28NSNzx2hA3fkqRG58PSatSMwd6wR8AEuasqWVApump", "sym": "POLIS", "reason": "vol1h 16<40k"}
+{"t": "2026-11-05 21:33:26 WIB", "mint": "8crRRo8zpxJaUhnV81hzyqh4JU5RpuvVaP7iCfV2aXVV", "sym": "MINTED", "reason": "vol1h 1385<40k"}
+{"t": "2026-11-05 21:33:28 WIB", "mint": "2pdaLHt8451o3abCE8SCFgzJxn6LyT9W6gQodSi9fHnF", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-05 21:33:29 WIB", "mint": "Di5QqeLmx5Q3Azp5LkjVBqQ7S1HfK8FC6fe1bAWtKtpB", "sym": "GAIA", "reason": "liq 11052<20k"}
+{"t": "2026-11-05 21:33:31 WIB", "mint": "Ad8jHhxVsAJ1DHecFuZc2usXdKFJCPcgQhdiq2JYpump", "sym": "\u30ad\u30e9", "reason": "vol1h 4381<40k"}
