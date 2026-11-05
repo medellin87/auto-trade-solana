@@ -1,5 +1,3 @@
-{"t": "2026-11-06 03:42:05 WIB", "mint": "16nwYKMNG56HrFTuPKKMVapBhoAGvHUpEH2UzMYnxTE", "sym": "PENGUIN", "reason": "liq 14538<20k"}
-{"t": "2026-11-06 03:42:52 WIB", "mint": "D4CzGsZgusVj2K8R1its5H8WWdo9mazbDwBc6qvsmfun", "sym": "LAMPORT", "reason": "top10 35.8%>25"}
 {"t": "2026-11-06 03:44:24 WIB", "mint": "FMvFwLkt2MAU2FcuL6UKUHWWSTgc5K2cMgu8HNgupump", "sym": "PARAGUAY", "reason": "liq 0<20k"}
 {"t": "2026-11-06 03:45:56 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 2<40k"}
 {"t": "2026-11-06 03:46:43 WIB", "mint": "F2AvkmDtZdXbWXaS1ja8Mjgjy54zsHhDErWzeFCNpump", "sym": "GIVEST", "reason": "liq 9615<20k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-06 03:55:39 WIB", "mint": "H8qnm9mTpFt3vFj9JBy4cBTXARsmZefG8n1sno4Wpump", "sym": "MIM", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 03:55:40 WIB", "mint": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump", "sym": "paws", "reason": "vol1h 2359<40k"}
 {"t": "2026-11-06 03:55:42 WIB", "mint": "38bXdDFTuGC8wsqzwh1HAGx9ciqp3EWp5EaPYa3nUV3N", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-06 03:59:29 WIB", "mint": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump", "sym": "\u2588\u2588\u2588", "reason": "vol1h 7756<40k"}
+{"t": "2026-11-06 03:59:30 WIB", "mint": "BoSKFKyXoecufqntJCad8ds8QeTCqXFd3696nF3B9NWE", "sym": "ZAZU", "reason": "vol1h 17772<40k"}
