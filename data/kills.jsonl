@@ -1,8 +1,3 @@
-{"t": "2026-11-05 15:57:54 WIB", "mint": "2f95ogiEqQjDgWV74ksPx68i83yHLUbzDv92be4Rpump", "sym": "x", "reason": "vol1h 5426<40k"}
-{"t": "2026-11-05 15:57:55 WIB", "mint": "Cbof7ewFxc2CaBs37K27a5Bh9jKuo9hpYUPhVKWdpump", "sym": "BTC", "reason": "vol1h 0<40k"}
-{"t": "2026-11-05 15:59:27 WIB", "mint": "Gg3XUJHFoFSha6cWFDT2im8mtNuSHhCzp2D4naowpump", "sym": "BUSTED", "reason": "vol1h 748<40k"}
-{"t": "2026-11-05 15:59:29 WIB", "mint": "6sSkbS324Qu7xHT7YCMxrCfBXdXWzGzFNpawepzypump", "sym": "I", "reason": "liq 2511<20k"}
-{"t": "2026-11-05 15:59:30 WIB", "mint": "27Y4WwxHiconrfhwQKGotJ5nVEbrcFiDnJnoRBbCpump", "sym": "tism", "reason": "vol1h 9<40k"}
 {"t": "2026-11-05 16:01:02 WIB", "mint": "RkE3HHo6W1LyhGSVvZ3osNtMy4VWe7NjHauG6iLpump", "sym": "MINA", "reason": "vol1h 7631<40k"}
 {"t": "2026-11-05 16:01:48 WIB", "mint": "ApQTyckfEL2LfG4ETVPhYf3ETpEXMGmS1YNHJd1Ugoat", "sym": "GOAT", "reason": "vol1h 176<40k"}
 {"t": "2026-11-05 16:01:50 WIB", "mint": "3WEE9g1q9w3sKp6Lf48Fpqcw9BwKJCoUwSbJXbFhpump", "sym": "Princess", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-05 16:12:09 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 645<40k"}
 {"t": "2026-11-05 16:12:11 WIB", "mint": "F7ok81gZ87Ni9LCzSeS9dvDwYYskn9g58FHmZDjkpump", "sym": "SHORT", "reason": "vol1h 38582<40k"}
 {"t": "2026-11-05 16:12:57 WIB", "mint": "DJhsdZkkw8M7AWoH2u7tZfXxbTN1w3EyWJ39D3gHpump", "sym": "Yahu", "reason": "vol1h 190<40k"}
+{"t": "2026-11-05 16:14:29 WIB", "mint": "9MRXakh9ofc4wvDwFLQr3xAMDbSy1EVEg5aJVPxPpump", "sym": "GIF", "reason": "liq 0<20k"}
+{"t": "2026-11-05 16:14:31 WIB", "mint": "9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump", "sym": "GAVELDROP", "reason": "score 0.57<0.6"}
+{"t": "2026-11-05 16:15:17 WIB", "mint": "5uevEv4hxPoohvdr6rXE7wba2DNW9L8uQRR4FWGxpump", "sym": "\u20bd", "reason": "vol1h 3492<40k"}
+{"t": "2026-11-05 16:15:19 WIB", "mint": "5gqiRdCWHX8gtijXBqNX9Y8262U7iSAGdj9rgJN3stay", "sym": "STAY", "reason": "vol1h 1142<40k"}
+{"t": "2026-11-05 16:16:51 WIB", "mint": "FkqShCrHiv1ebJBKMvK3FTK2CXJMECxw9gKDj6Dupump", "sym": "BALLOT", "reason": "vol1h 8<40k"}
