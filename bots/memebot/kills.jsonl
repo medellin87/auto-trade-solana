@@ -11252,3 +11252,8 @@
 {"t": "2026-11-06 04:08:07 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 5<40k"}
 {"t": "2026-11-06 04:08:09 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.52<0.6"}
 {"t": "2026-11-06 04:08:11 WIB", "mint": "8GpeEJZ7ubtVjR4cNLFChbtAENtxGHkMeYt39tN1xJiG", "sym": "TEST", "reason": "vol1h 3885<40k"}
+{"t": "2026-11-06 04:10:27 WIB", "mint": "97dcHRQ54TMNas9BFgMpX28CBJF5ZZYVvHxzyrvtBAGS", "sym": "DERUG", "reason": "vol1h 350<40k"}
+{"t": "2026-11-06 04:10:29 WIB", "mint": "BUuAR8UvcW9ypN5zzfYXAJjAmwno6o8BxEeHXw8xpump", "sym": "Unity", "reason": "vol1h 20585<40k"}
+{"t": "2026-11-06 04:10:31 WIB", "mint": "J1DUE6yxhWsfh1o8eyLtBpuGWJ6os7pCV7huwMhVpump", "sym": "SCRIPT", "reason": "liq 3368<20k"}
+{"t": "2026-11-06 04:11:17 WIB", "mint": "DWeHCfBzPepsNN38di8wLtyHRAXrp1ovgVxCJGGRpump", "sym": "ELSAYED", "reason": "liq 0<20k"}
+{"t": "2026-11-06 04:12:49 WIB", "mint": "16nwYKMNG56HrFTuPKKMVapBhoAGvHUpEH2UzMYnxTE", "sym": "PENGUIN", "reason": "liq 7513<20k"}
