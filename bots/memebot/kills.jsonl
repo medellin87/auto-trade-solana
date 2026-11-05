@@ -10526,3 +10526,7 @@
 {"t": "2026-11-05 20:32:17 WIB", "mint": "2pdaLHt8451o3abCE8SCFgzJxn6LyT9W6gQodSi9fHnF", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-05 20:33:49 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 5053<40k"}
 {"t": "2026-11-05 20:35:21 WIB", "mint": "Gg3XUJHFoFSha6cWFDT2im8mtNuSHhCzp2D4naowpump", "sym": "BUSTED", "reason": "vol1h 1620<40k"}
+{"t": "2026-11-05 20:35:22 WIB", "mint": "27Y4WwxHiconrfhwQKGotJ5nVEbrcFiDnJnoRBbCpump", "sym": "tism", "reason": "vol1h 236<40k"}
+{"t": "2026-11-05 20:36:09 WIB", "mint": "AyJ3fiXTrd7s85YKCC56zrmXtHzwqtVqYvtb462ypump", "sym": "7", "reason": "liq 9784<20k"}
+{"t": "2026-11-05 20:36:56 WIB", "mint": "4PSHNUHXDxAyxLBDCMQvuqyvEZnj3beTZLpRAVnvCipo", "sym": "IPO", "reason": "vol1h 15<40k"}
+{"t": "2026-11-05 20:36:57 WIB", "mint": "3MQqSsqU91UpNf95B3qXS6aHpYgRXrA5udL1G3rcpump", "sym": "TRILLY", "reason": "liq 0<20k"}
