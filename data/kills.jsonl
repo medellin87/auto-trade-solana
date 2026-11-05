@@ -1,6 +1,3 @@
-{"t": "2026-11-05 23:20:34 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "top10 28.1%>25"}
-{"t": "2026-11-05 23:22:06 WIB", "mint": "9v6sN27cXhEvyr4V9DTvSsK3C2k2VVtreHKAMmXbpump", "sym": "S&P500", "reason": "vol1h 1961<40k"}
-{"t": "2026-11-05 23:22:08 WIB", "mint": "9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump", "sym": "GAVELDROP", "reason": "score 0.583<0.6"}
 {"t": "2026-11-05 23:22:55 WIB", "mint": "6j1TAQEsdiM85XsBamqTzpgYMXwLd1FnrbPhQaDH4VTQ", "sym": "GUDI", "reason": "vol1h 3084<40k"}
 {"t": "2026-11-05 23:22:57 WIB", "mint": "HJTB9zW3vodjqUsmXXsEfewZoWPa6LjT8RCA1j7mpump", "sym": "SWAN", "reason": "liq 18022<20k"}
 {"t": "2026-11-05 23:22:58 WIB", "mint": "4RXreBwjK4zjqrQFZUYswuAY5XctAUjZ77XdQU6g75mz", "sym": "Thursday", "reason": "vol1h 0<40k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-05 23:34:06 WIB", "mint": "cats1JDrvuzdgvtNh5AMm2QvqAjhGJo9TF5pSfd6NK8", "sym": "catfish", "reason": "vol1h 1<40k"}
 {"t": "2026-11-05 23:34:09 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.458<0.6"}
 {"t": "2026-11-05 23:35:41 WIB", "mint": "9d2DpBARkhyGUn7AusgPRpDh3rDanYpTKb9GRvTdpump", "sym": "Zhdun", "reason": "vol1h 32039<40k"}
+{"t": "2026-11-05 23:40:59 WIB", "mint": "DgZfbGxG8mmpxgxZ5X2nuzdMMxo9pFMMfvkM39nApump", "sym": "Dumocrat", "reason": "liq 3795<20k"}
+{"t": "2026-11-05 23:41:01 WIB", "mint": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3", "sym": "ZAZA", "reason": "vol1h 112<40k"}
+{"t": "2026-11-05 23:41:02 WIB", "mint": "GeNwBZWJcWQAkLDdty7geii9xSjtCuga1qE9DDzLpump", "sym": "CATO", "reason": "vol1h 21<40k"}
