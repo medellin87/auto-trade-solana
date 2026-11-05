@@ -11363,3 +11363,10 @@
 {"t": "2026-11-06 05:18:55 WIB", "mint": "12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz", "sym": "FUNZ", "reason": "vol1h 3554<40k"}
 {"t": "2026-11-06 05:18:57 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 227<40k"}
 {"t": "2026-11-06 05:18:58 WIB", "mint": "A39LprdkW88LqaXKmAvnoH3EjTJ5uMQynsRbWzEjLmsU", "sym": "LIZARD", "reason": "liq 6036<20k"}
+{"t": "2026-11-06 05:21:15 WIB", "mint": "HQstiRVdp2cB6s6p3v6WWe23r8K4EP9wnx9gS3yLpump", "sym": "VETO", "reason": "vol1h 33845<40k"}
+{"t": "2026-11-06 05:21:17 WIB", "mint": "FdhcFfdxuxC1rRQtqG8nfr76pSHEX5v5ac8wULWXpump", "sym": "APE", "reason": "vol1h 15987<40k"}
+{"t": "2026-11-06 05:21:18 WIB", "mint": "9AkUUP7htRyuMsTz2Jc5X1tdrUZxa8sD7iPSjYNRqaZV", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-06 05:22:05 WIB", "mint": "9iaXwjVAtRQmDKuYuxMmT5GBKiVJ3dQ4ji1vWkEXY1Jz", "sym": "iFruit", "reason": "vol1h 313<40k"}
+{"t": "2026-11-06 05:22:06 WIB", "mint": "EiMueMXDdz9QRyQjbHzoh68KvNFZ3gAAZ6BboeGnpump", "sym": "GTHIC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 05:22:08 WIB", "mint": "GY8qWXwZPiYuSadJRwRrJLZPhrXTj7pNVqdkfxoPpump", "sym": "fun", "reason": "vol1h 4817<40k"}
+{"t": "2026-11-06 05:22:55 WIB", "mint": "8u8kFmu5A7a3hGdGXgQ1pdAPcwQxqjktFs5f377Ppump", "sym": "crawlers", "reason": "liq 0<20k"}
