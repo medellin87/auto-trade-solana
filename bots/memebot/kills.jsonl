@@ -11070,3 +11070,8 @@
 {"t": "2026-11-06 02:09:17 WIB", "mint": "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump", "sym": "Rocco", "reason": "score 0.432<0.6"}
 {"t": "2026-11-06 02:11:34 WIB", "mint": "FnN6ZLo2YB6bDF9AqyQ3juyAyLtsuJ62YcFTSbZGpump", "sym": "Envelope", "reason": "liq 0<20k"}
 {"t": "2026-11-06 02:12:23 WIB", "mint": "141XGGGB1RZ9YTxmgMm92tavRwjH19YndJtB3aEwAYgK", "sym": "BURNIT", "reason": "liq 2378<20k"}
+{"t": "2026-11-06 02:13:09 WIB", "mint": "H4DLfBJe51mam6bxoQHx1KVSB9dNySvtG3BFp18Hpump", "sym": "OPTIONSPAD", "reason": "vol1h 23852<40k"}
+{"t": "2026-11-06 02:13:56 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 02:14:43 WIB", "mint": "M5gr5LtdPHNS3SsKx7qeC4cqznxFbJNVqEkUyxqpump", "sym": "COGE", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-06 02:14:45 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 6202<40k"}
+{"t": "2026-11-06 02:15:31 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 1919<40k"}
