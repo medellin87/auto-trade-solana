@@ -11126,3 +11126,10 @@
 {"t": "2026-11-06 02:46:17 WIB", "mint": "E7cdaueM9tCakwmaRiZxs5h6QMTMMaC369dVAYfRpump", "sym": "Edmond", "reason": "liq 0<20k"}
 {"t": "2026-11-06 02:46:18 WIB", "mint": "H6Ya3AwJZ5D9pRg5Fueuhow1aDdpthvJwtk1xj44pump", "sym": "HAMMY", "reason": "liq 0<20k"}
 {"t": "2026-11-06 02:46:22 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 640<40k"}
+{"t": "2026-11-06 02:47:09 WIB", "mint": "3XRM9hgtpW9PxfNE4Qke5y7xPFx9enWsE7G6AqYLpump", "sym": "Survivor", "reason": "vol1h 21022<40k"}
+{"t": "2026-11-06 02:47:55 WIB", "mint": "Ch24dNtXQNWVsXEJvWihzbhzfggtMHumwKu9gVLQpump", "sym": "COGE", "reason": "liq 2573<20k"}
+{"t": "2026-11-06 02:47:57 WIB", "mint": "0xd7b7ebcb4f3b0de80f87d92327da3d74b435b7a5", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-06 02:48:43 WIB", "mint": "9iaXwjVAtRQmDKuYuxMmT5GBKiVJ3dQ4ji1vWkEXY1Jz", "sym": "iFruit", "reason": "vol1h 8<40k"}
+{"t": "2026-11-06 02:48:45 WIB", "mint": "EiMueMXDdz9QRyQjbHzoh68KvNFZ3gAAZ6BboeGnpump", "sym": "GTHIC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 02:48:46 WIB", "mint": "25Lrwta8CGeMt3pmxy7DivhJzRzBp5Ne76bdaxbPpump", "sym": "$Gatto", "reason": "vol1h 201<40k"}
+{"t": "2026-11-06 02:49:33 WIB", "mint": "6BdeiMqnUWHeDwFQP6njS3urjeC4g5jFAA2dpd7Kpump", "sym": "COGE", "reason": "vol1h 12176<40k"}
