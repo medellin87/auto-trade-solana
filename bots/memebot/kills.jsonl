@@ -10523,3 +10523,6 @@
 {"t": "2026-11-05 20:31:28 WIB", "mint": "2kGfWRgNp1QaxUMFCX9CMN78E1iCbgjBAZuQNUjWpump", "sym": "SAFEMOON", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 20:32:14 WIB", "mint": "8crRRo8zpxJaUhnV81hzyqh4JU5RpuvVaP7iCfV2aXVV", "sym": "MINTED", "reason": "vol1h 2119<40k"}
 {"t": "2026-11-05 20:32:16 WIB", "mint": "LKsRfGJjy25VZQJZL5tBZ6aMdtxHHA6PZ7Fp4mohype", "sym": "ELYSIUM", "reason": "liq 10286<20k"}
+{"t": "2026-11-05 20:32:17 WIB", "mint": "2pdaLHt8451o3abCE8SCFgzJxn6LyT9W6gQodSi9fHnF", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-05 20:33:49 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 5053<40k"}
+{"t": "2026-11-05 20:35:21 WIB", "mint": "Gg3XUJHFoFSha6cWFDT2im8mtNuSHhCzp2D4naowpump", "sym": "BUSTED", "reason": "vol1h 1620<40k"}
