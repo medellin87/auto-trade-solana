@@ -11165,3 +11165,11 @@
 {"t": "2026-11-06 03:12:14 WIB", "mint": "D4CzGsZgusVj2K8R1its5H8WWdo9mazbDwBc6qvsmfun", "sym": "LAMPORT", "reason": "top10 36.7%>25"}
 {"t": "2026-11-06 03:13:01 WIB", "mint": "FnN6ZLo2YB6bDF9AqyQ3juyAyLtsuJ62YcFTSbZGpump", "sym": "Envelope", "reason": "liq 5404<20k"}
 {"t": "2026-11-06 03:13:47 WIB", "mint": "FMvFwLkt2MAU2FcuL6UKUHWWSTgc5K2cMgu8HNgupump", "sym": "PARAGUAY", "reason": "liq 0<20k"}
+{"t": "2026-11-06 03:15:19 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 3<40k"}
+{"t": "2026-11-06 03:16:06 WIB", "mint": "M5gr5LtdPHNS3SsKx7qeC4cqznxFbJNVqEkUyxqpump", "sym": "COGE", "reason": "liq 8225<20k"}
+{"t": "2026-11-06 03:16:07 WIB", "mint": "F2AvkmDtZdXbWXaS1ja8Mjgjy54zsHhDErWzeFCNpump", "sym": "GIVEST", "reason": "vol1h 25552<40k"}
+{"t": "2026-11-06 03:16:09 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 7130<40k"}
+{"t": "2026-11-06 03:16:56 WIB", "mint": "7PriNMSQarKxpDcHHVKBkVh2AyK6rNZmdFF5D6Copump", "sym": "DNUT", "reason": "liq 10711<20k"}
+{"t": "2026-11-06 03:16:59 WIB", "mint": "H6Ya3AwJZ5D9pRg5Fueuhow1aDdpthvJwtk1xj44pump", "sym": "HAMMY", "reason": "liq 0<20k"}
+{"t": "2026-11-06 03:17:01 WIB", "mint": "38sFzqRSerGhztsgsqQ26ToeAz5UU5ggTS6f5946pump", "sym": "LUCIA", "reason": "liq 1749<20k"}
+{"t": "2026-11-06 03:17:02 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 44<40k"}
