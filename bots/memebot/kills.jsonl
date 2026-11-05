@@ -10619,3 +10619,6 @@
 {"t": "2026-11-05 21:26:28 WIB", "mint": "Fo6wD8HTUaWqVcKte3u3u1PufsCkWkbR5iJbn6Lcpump", "sym": "Bats", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 21:27:15 WIB", "mint": "42jU526C7S5ipz9ijcrGr7jEvgi1NEEYuGt2H1dBhpYQ", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-05 21:28:01 WIB", "mint": "CCXuWErFHHV8UFhoA1SNYBj5MHuSpnzrMiBfgnAbpump", "sym": "PHONE", "reason": "liq 0<20k"}
+{"t": "2026-11-05 21:28:48 WIB", "mint": "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump", "sym": "OREN", "reason": "vol1h 1392<40k"}
+{"t": "2026-11-05 21:29:35 WIB", "mint": "DgoVJ1Up6gi9uZM2cLjTeENZ3GdefXVVnKHtidokpump", "sym": "Retail", "reason": "vol1h 18<40k"}
+{"t": "2026-11-05 21:31:06 WIB", "mint": "ESWuXHiwswpkfhQtA6A1tAtiBJh9A5hUDYj5fEYhigh", "sym": "Fischer", "reason": "liq 14493<20k"}
