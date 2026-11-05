@@ -11116,3 +11116,5 @@
 {"t": "2026-11-06 02:36:13 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.503<0.6"}
 {"t": "2026-11-06 02:36:59 WIB", "mint": "Ea5dBrJZN58yV1nm1Q4DybJNYKeTvwpb2GEkXyW64bUH", "sym": "PHILCOIN", "reason": "vol1h 17941<40k"}
 {"t": "2026-11-06 02:38:31 WIB", "mint": "97dcHRQ54TMNas9BFgMpX28CBJF5ZZYVvHxzyrvtBAGS", "sym": "DERUG", "reason": "vol1h 1965<40k"}
+{"t": "2026-11-06 02:41:33 WIB", "mint": "D4CzGsZgusVj2K8R1its5H8WWdo9mazbDwBc6qvsmfun", "sym": "LAMPORT", "reason": "vol1h 4193<40k"}
+{"t": "2026-11-06 02:42:20 WIB", "mint": "FnN6ZLo2YB6bDF9AqyQ3juyAyLtsuJ62YcFTSbZGpump", "sym": "Envelope", "reason": "liq 11068<20k"}
