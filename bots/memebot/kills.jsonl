@@ -10959,3 +10959,6 @@
 {"t": "2026-11-06 01:05:57 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 01:05:59 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.429<0.6"}
 {"t": "2026-11-06 01:07:31 WIB", "mint": "9d2DpBARkhyGUn7AusgPRpDh3rDanYpTKb9GRvTdpump", "sym": "Zhdun", "reason": "vol1h 27562<40k"}
+{"t": "2026-11-06 01:09:03 WIB", "mint": "34As1e1Kop9zBvu5e84kjg452Uigq8krcoGEJiWRpump", "sym": "UHI", "reason": "vol1h 6202<40k"}
+{"t": "2026-11-06 01:09:05 WIB", "mint": "ExugAjXhv9oyGpMZ6QxwifzfuxtBAnxCWJmAsy5nnUVt", "sym": "SP500", "reason": "vol1h 10765<40k"}
+{"t": "2026-11-06 01:09:07 WIB", "mint": "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump", "sym": "Rocco", "reason": "score 0.582<0.6"}
