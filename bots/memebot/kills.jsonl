@@ -9246,3 +9246,8 @@
 {"t": "2026-11-05 07:07:59 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.368<0.6"}
 {"t": "2026-11-05 07:08:01 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 4647<40k"}
 {"t": "2026-11-05 07:08:48 WIB", "mint": "98yCwpsD515u6JhJ7NoLiMn1PwpHC3VXaNt3rehkpump", "sym": "GIFIFY", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 07:09:34 WIB", "mint": "2jTipNyyGcCjtJzQ7q8KetpZu3NYxHS24BzvqHbgpump", "sym": "Kept", "reason": "liq 0<20k"}
+{"t": "2026-11-05 07:09:36 WIB", "mint": "EsGVwSYRp2ofqZJxg65C1wGVkRKKY3QXqp7ShsqNreps", "sym": "reps", "reason": "vol1h 9294<40k"}
+{"t": "2026-11-05 07:10:22 WIB", "mint": "H7N5zQwiBMDHxqn3r93VSSqUqHgFUQCU8yRiuGRcpump", "sym": "FISTJAK", "reason": "liq 2421<20k"}
+{"t": "2026-11-05 07:10:24 WIB", "mint": "CyKZbrCAM4Sydk96bTDN2VFrZyJ11Ca1vZ9DX6Gapump", "sym": "ATTENTION", "reason": "vol1h 24682<40k"}
+{"t": "2026-11-05 07:11:56 WIB", "mint": "9AdKxSY9iEG6928bLJmRStk6X471NbuMqvVpsBMmpump", "sym": "slop", "reason": "vol1h 23140<40k"}
