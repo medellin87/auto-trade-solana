@@ -10219,3 +10219,4 @@
 {"t": "2026-11-05 17:19:42 WIB", "mint": "35TVjidU7ePGMWLM1r2UwEXXWCWH77kFyFndJ57xpump", "sym": "LEVERAGED", "reason": "liq 0<20k"}
 {"t": "2026-11-05 17:20:28 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 3398<40k"}
 {"t": "2026-11-05 17:20:30 WIB", "mint": "GXS1XuYuZJX7NuQvXPJPbpe4YfTsm3UyK4AmqsMcpump", "sym": "PAI", "reason": "vol1h 3157<40k"}
+{"t": "2026-11-05 17:23:32 WIB", "mint": "FAuCetTD8J7e9Z7rxTAFWPJUmTZRt2g3oLEVE3kzAkDD", "sym": "$FAUCET", "reason": "vol1h 0<40k"}
