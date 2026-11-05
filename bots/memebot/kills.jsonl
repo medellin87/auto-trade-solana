@@ -10873,3 +10873,8 @@
 {"t": "2026-11-06 00:15:31 WIB", "mint": "ACiYG6QitgkPn7i8R6Q19bDc6JD6CNsUd1WFmt7fpump", "sym": "fiat", "reason": "liq 0<20k"}
 {"t": "2026-11-06 00:15:32 WIB", "mint": "D6NFva5hP7vmc9Xa1iNaE5mn9pWJGeiVT3on97C5pump", "sym": "NONUT", "reason": "vol1h 769<40k"}
 {"t": "2026-11-06 00:15:34 WIB", "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump", "sym": "Democat", "reason": "vol1h 25040<40k"}
+{"t": "2026-11-06 00:16:20 WIB", "mint": "GMXYEB8JfRRPxxLCBxWWxFePjMfSfdQUVmd8YHsupump", "sym": "BTC", "reason": "liq 1739<20k"}
+{"t": "2026-11-06 00:17:07 WIB", "mint": "78HjW7GJPQtcqcZbWgVEsSA7mh52UWpsXC19rb9Apump", "sym": "EM", "reason": "vol1h 16993<40k"}
+{"t": "2026-11-06 00:17:54 WIB", "mint": "5WSv6HNJBEWYouhAkko4ReegMgMHPZxEiGQiMbM1pump", "sym": "BUREAU", "reason": "vol1h 1954<40k"}
+{"t": "2026-11-06 00:18:40 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 89<40k"}
+{"t": "2026-11-06 00:18:42 WIB", "mint": "5BjfgmtfqvNpAWx1CnZynoWLWNMnrwHLhTFzQ81vkEc8", "sym": "ClapCat", "reason": "vol1h 1162<40k"}
