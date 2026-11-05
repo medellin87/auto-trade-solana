@@ -1,9 +1,3 @@
-{"t": "2026-11-05 20:38:33 WIB", "mint": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3", "sym": "ZAZA", "reason": "vol1h 140<40k"}
-{"t": "2026-11-05 20:39:20 WIB", "mint": "9UuBKMwmvB4FWcFF6W1UKwwQjeYN8AzzjN33sQx9pump", "sym": "Pillheads", "reason": "liq 8692<20k"}
-{"t": "2026-11-05 20:39:22 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 5837<40k"}
-{"t": "2026-11-05 20:39:23 WIB", "mint": "7gmxQoGqCNK9BJSaD5NNSPgCjpLV8eTSsStnhQuGArDM", "sym": "FOTF", "reason": "vol1h 4972<40k"}
-{"t": "2026-11-05 20:40:10 WIB", "mint": "52e9K9NtXT9m6yX4ykfKE4WuGc8uocjTNuvfsHbWpump", "sym": "Bank", "reason": "liq 7154<20k"}
-{"t": "2026-11-05 20:40:56 WIB", "mint": "CPQMNVYoe9gfbBaRBRCaWoSTM2UBm7vxRh2Dtj4Cpump", "sym": "PEPE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-05 20:41:43 WIB", "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump", "sym": "Democat", "reason": "score 0.567<0.6"}
 {"t": "2026-11-05 20:41:45 WIB", "mint": "F7CSEdSHM4jxhqN8fS6o1SUDagnZUhaC4ZTfbvBJpump", "sym": "WOKE", "reason": "vol1h 16455<40k"}
 {"t": "2026-11-05 20:41:46 WIB", "mint": "D6NFva5hP7vmc9Xa1iNaE5mn9pWJGeiVT3on97C5pump", "sym": "NONUT", "reason": "vol1h 6563<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-05 20:53:36 WIB", "mint": "6Sd1WRni8ZC3N3LmL9hXZSGdMq4KvxdR4YpxbsgNpump", "sym": "goomy", "reason": "vol1h 16472<40k"}
 {"t": "2026-11-05 20:53:38 WIB", "mint": "J4rP3zhpvk3r2tFasTAecU4g9gnxDDpaR2xAXnz873fu", "sym": "LIBRE", "reason": "vol1h 20328<40k"}
 {"t": "2026-11-05 20:53:39 WIB", "mint": "25Lrwta8CGeMt3pmxy7DivhJzRzBp5Ne76bdaxbPpump", "sym": "$Gatto", "reason": "vol1h 1705<40k"}
+{"t": "2026-11-05 20:54:26 WIB", "mint": "HX6pnETuZySVAsy8hT4a1zRFPYG4nXrfKVd1x66SPJ7c", "sym": "GNusmas", "reason": "liq 0<20k"}
+{"t": "2026-11-05 20:54:28 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 70<40k"}
+{"t": "2026-11-05 20:55:14 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 9535<40k"}
+{"t": "2026-11-05 20:56:01 WIB", "mint": "Fo6wD8HTUaWqVcKte3u3u1PufsCkWkbR5iJbn6Lcpump", "sym": "Bats", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 20:56:02 WIB", "mint": "CnDtykATX2fWmChpmeJ9qpmw3BuwdPEx67PZJSqdpump", "sym": "ETF", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 20:56:49 WIB", "mint": "42jU526C7S5ipz9ijcrGr7jEvgi1NEEYuGt2H1dBhpYQ", "sym": "?", "reason": "no solana pair"}
