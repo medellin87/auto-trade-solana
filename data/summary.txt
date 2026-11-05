@@ -1,4 +1,4 @@
-Updated 2026-11-05 08:31:26 WIB | PAPER ONLY
-Cash $6.32 | open 5 (cost $6.32) | start $200.0
+Updated 2026-11-05 08:34:38 WIB | PAPER ONLY
+Cash $3.79 | open 7 (cost $8.85) | start $200.0
 Closed trades 513 W142/L371
 Biggest win 12.98 | Worst -15.15
