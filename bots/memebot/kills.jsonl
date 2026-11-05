@@ -10682,3 +10682,5 @@
 {"t": "2026-11-05 22:11:05 WIB", "mint": "7tKA8ghhfzz27XMSRWHBTYkpyf7oPzziwZgsgyNZpump", "sym": "RATELLO", "reason": "score 0.473<0.6"}
 {"t": "2026-11-05 22:11:06 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 31<40k"}
 {"t": "2026-11-05 22:11:11 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "liq 0<20k"}
+{"t": "2026-11-05 22:13:28 WIB", "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump", "sym": "Democat", "reason": "score 0.459<0.6"}
+{"t": "2026-11-05 22:13:29 WIB", "mint": "D6NFva5hP7vmc9Xa1iNaE5mn9pWJGeiVT3on97C5pump", "sym": "NONUT", "reason": "vol1h 1083<40k"}
