@@ -1,6 +1,3 @@
-{"t": "2026-11-05 17:59:38 WIB", "mint": "EESvU4BaTq6yGfaCUbNVC8HCDtrsfnoecmrSpKzuVxDu", "sym": "INDEX", "reason": "liq 7351<20k"}
-{"t": "2026-11-05 18:00:25 WIB", "mint": "Cz2YM1CaVm8FDbET2fZ33hLkhSrUyJJMtCgQxmbhpump", "sym": "UMBRA", "reason": "liq 0<20k"}
-{"t": "2026-11-05 18:00:26 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 3346<40k"}
 {"t": "2026-11-05 18:01:13 WIB", "mint": "4WT81YNHWhRQ8oPV6y41XSF13fDqWfL8G1TUiEiApump", "sym": "PEERLY", "reason": "liq 0<20k"}
 {"t": "2026-11-05 18:01:59 WIB", "mint": "Gg3XUJHFoFSha6cWFDT2im8mtNuSHhCzp2D4naowpump", "sym": "BUSTED", "reason": "vol1h 2218<40k"}
 {"t": "2026-11-05 18:02:01 WIB", "mint": "6sSkbS324Qu7xHT7YCMxrCfBXdXWzGzFNpawepzypump", "sym": "I", "reason": "vol1h 409<40k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-05 18:14:40 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 659<40k"}
 {"t": "2026-11-05 18:15:27 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "risk:Creator history of rugged tokens"}
 {"t": "2026-11-05 18:15:29 WIB", "mint": "DJhsdZkkw8M7AWoH2u7tZfXxbTN1w3EyWJ39D3gHpump", "sym": "Yahu", "reason": "vol1h 17<40k"}
+{"t": "2026-11-05 18:17:00 WIB", "mint": "9MRXakh9ofc4wvDwFLQr3xAMDbSy1EVEg5aJVPxPpump", "sym": "GIF", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 18:17:49 WIB", "mint": "5gqiRdCWHX8gtijXBqNX9Y8262U7iSAGdj9rgJN3stay", "sym": "STAY", "reason": "vol1h 1040<40k"}
+{"t": "2026-11-05 18:18:36 WIB", "mint": "Af62u9MBXbAEknD2VRR6pjF8FYdk1toXP6Hg9qAopump", "sym": "Ronaldinu", "reason": "risk:Creator history of rugged tokens"}
