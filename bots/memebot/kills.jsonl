@@ -11162,3 +11162,6 @@
 {"t": "2026-11-06 03:06:53 WIB", "mint": "4BXf7JpVrK4szcnavdtDN6ijUevuMZX1mbduc8gmpump", "sym": "Nightmare", "reason": "vol1h 11167<40k"}
 {"t": "2026-11-06 03:06:55 WIB", "mint": "3nXkuDUUX8S2oM1izvVEkoLUvfe5CW21wuEAm3GCpump", "sym": "TOFI", "reason": "vol1h 30372<40k"}
 {"t": "2026-11-06 03:09:12 WIB", "mint": "97dcHRQ54TMNas9BFgMpX28CBJF5ZZYVvHxzyrvtBAGS", "sym": "DERUG", "reason": "vol1h 2224<40k"}
+{"t": "2026-11-06 03:12:14 WIB", "mint": "D4CzGsZgusVj2K8R1its5H8WWdo9mazbDwBc6qvsmfun", "sym": "LAMPORT", "reason": "top10 36.7%>25"}
+{"t": "2026-11-06 03:13:01 WIB", "mint": "FnN6ZLo2YB6bDF9AqyQ3juyAyLtsuJ62YcFTSbZGpump", "sym": "Envelope", "reason": "liq 5404<20k"}
+{"t": "2026-11-06 03:13:47 WIB", "mint": "FMvFwLkt2MAU2FcuL6UKUHWWSTgc5K2cMgu8HNgupump", "sym": "PARAGUAY", "reason": "liq 0<20k"}
