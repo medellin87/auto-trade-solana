@@ -1,8 +1,3 @@
-{"t": "2026-11-06 00:21:53 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 39704<40k"}
-{"t": "2026-11-06 00:23:25 WIB", "mint": "9v6sN27cXhEvyr4V9DTvSsK3C2k2VVtreHKAMmXbpump", "sym": "S&P500", "reason": "vol1h 22<40k"}
-{"t": "2026-11-06 00:23:27 WIB", "mint": "9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump", "sym": "GAVELDROP", "reason": "score 0.584<0.6"}
-{"t": "2026-11-06 00:24:14 WIB", "mint": "6j1TAQEsdiM85XsBamqTzpgYMXwLd1FnrbPhQaDH4VTQ", "sym": "GUDI", "reason": "vol1h 722<40k"}
-{"t": "2026-11-06 00:24:16 WIB", "mint": "HJTB9zW3vodjqUsmXXsEfewZoWPa6LjT8RCA1j7mpump", "sym": "SWAN", "reason": "liq 4897<20k"}
 {"t": "2026-11-06 00:24:17 WIB", "mint": "4RXreBwjK4zjqrQFZUYswuAY5XctAUjZ77XdQU6g75mz", "sym": "Thursday", "reason": "vol1h 3<40k"}
 {"t": "2026-11-06 00:25:04 WIB", "mint": "HACti7z3k7K4qAyaMkebTNfsaqC4JiQWoCkskMVDpump", "sym": "PEER", "reason": "vol1h 12450<40k"}
 {"t": "2026-11-06 00:25:05 WIB", "mint": "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump", "sym": "\u2588\u2588\u2588", "reason": "vol1h 11744<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-06 00:35:26 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.515<0.6"}
 {"t": "2026-11-06 00:36:58 WIB", "mint": "9d2DpBARkhyGUn7AusgPRpDh3rDanYpTKb9GRvTdpump", "sym": "Zhdun", "reason": "liq 0<20k"}
 {"t": "2026-11-06 00:38:30 WIB", "mint": "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump", "sym": "Rocco", "reason": "score 0.34<0.6"}
+{"t": "2026-11-06 00:41:33 WIB", "mint": "141XGGGB1RZ9YTxmgMm92tavRwjH19YndJtB3aEwAYgK", "sym": "BURNIT", "reason": "liq 0<20k"}
+{"t": "2026-11-06 00:42:19 WIB", "mint": "DgZfbGxG8mmpxgxZ5X2nuzdMMxo9pFMMfvkM39nApump", "sym": "Dumocrat", "reason": "vol1h 485<40k"}
+{"t": "2026-11-06 00:42:21 WIB", "mint": "148fJTrVybPyQqzTxNzfLQq5sxVkMfmV2cLpAyVnNCX3", "sym": "ZAZA", "reason": "vol1h 497<40k"}
+{"t": "2026-11-06 00:42:22 WIB", "mint": "GeNwBZWJcWQAkLDdty7geii9xSjtCuga1qE9DDzLpump", "sym": "CATO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 00:43:09 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 0<40k"}
