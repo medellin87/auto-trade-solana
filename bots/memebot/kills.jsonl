@@ -11359,3 +11359,7 @@
 {"t": "2026-11-06 05:17:19 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 05:17:20 WIB", "mint": "DQFsVZb1duDtkh4DqmupKYmY8dFvy83ss7Meh2T1pump", "sym": "Pronos", "reason": "vol1h 4304<40k"}
 {"t": "2026-11-06 05:17:22 WIB", "mint": "HSF72vVdbSAbjjAfru1d6PhTavbSo3pd2gJvKVLvpump", "sym": "zezu", "reason": "liq 2767<20k"}
+{"t": "2026-11-06 05:18:08 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 5550<40k"}
+{"t": "2026-11-06 05:18:55 WIB", "mint": "12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz", "sym": "FUNZ", "reason": "vol1h 3554<40k"}
+{"t": "2026-11-06 05:18:57 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 227<40k"}
+{"t": "2026-11-06 05:18:58 WIB", "mint": "A39LprdkW88LqaXKmAvnoH3EjTJ5uMQynsRbWzEjLmsU", "sym": "LIZARD", "reason": "liq 6036<20k"}
