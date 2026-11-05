@@ -10684,3 +10684,5 @@
 {"t": "2026-11-05 22:11:11 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "liq 0<20k"}
 {"t": "2026-11-05 22:13:28 WIB", "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump", "sym": "Democat", "reason": "score 0.459<0.6"}
 {"t": "2026-11-05 22:13:29 WIB", "mint": "D6NFva5hP7vmc9Xa1iNaE5mn9pWJGeiVT3on97C5pump", "sym": "NONUT", "reason": "vol1h 1083<40k"}
+{"t": "2026-11-05 22:15:47 WIB", "mint": "ECNQSQA7Y5bnXzbotgv6XcG15c6jpJ6V2BFbYzJrpump", "sym": "PAWKET", "reason": "top10 55.7%>25"}
+{"t": "2026-11-05 22:16:34 WIB", "mint": "5BjfgmtfqvNpAWx1CnZynoWLWNMnrwHLhTFzQ81vkEc8", "sym": "ClapCat", "reason": "vol1h 2944<40k"}
