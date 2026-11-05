@@ -10167,3 +10167,7 @@
 {"t": "2026-11-05 16:45:58 WIB", "mint": "5uevEv4hxPoohvdr6rXE7wba2DNW9L8uQRR4FWGxpump", "sym": "\u20bd", "reason": "vol1h 2675<40k"}
 {"t": "2026-11-05 16:45:59 WIB", "mint": "5gqiRdCWHX8gtijXBqNX9Y8262U7iSAGdj9rgJN3stay", "sym": "STAY", "reason": "vol1h 1105<40k"}
 {"t": "2026-11-05 16:47:31 WIB", "mint": "FkqShCrHiv1ebJBKMvK3FTK2CXJMECxw9gKDj6Dupump", "sym": "BALLOT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-05 16:48:17 WIB", "mint": "25Lrwta8CGeMt3pmxy7DivhJzRzBp5Ne76bdaxbPpump", "sym": "$Gatto", "reason": "vol1h 2980<40k"}
+{"t": "2026-11-05 16:49:04 WIB", "mint": "35TVjidU7ePGMWLM1r2UwEXXWCWH77kFyFndJ57xpump", "sym": "LEVERAGED", "reason": "liq 0<20k"}
+{"t": "2026-11-05 16:49:51 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 3223<40k"}
+{"t": "2026-11-05 16:49:52 WIB", "mint": "GXS1XuYuZJX7NuQvXPJPbpe4YfTsm3UyK4AmqsMcpump", "sym": "PAI", "reason": "vol1h 674<40k"}
