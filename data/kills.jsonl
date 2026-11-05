@@ -1,7 +1,3 @@
-{"t": "2026-11-06 05:56:46 WIB", "mint": "GGVs673aVEFBvNZ6ZE4fPhojDSveWuatA1FgAD7Wpump", "sym": "COPE", "reason": "vol1h 7<40k"}
-{"t": "2026-11-06 05:56:48 WIB", "mint": "GL7H6gTz6Gk8Go5MAcuW8yzyCnXuvzY31NCfWAgaqQLb", "sym": "USNR", "reason": "vol1h 11088<40k"}
-{"t": "2026-11-06 05:57:35 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 9724<40k"}
-{"t": "2026-11-06 05:57:36 WIB", "mint": "EqRAiaF9pwx7VWAgXT8FwnEZSjJ2t56hw1mSaPkkpump", "sym": "NULL", "reason": "vol1h 1557<40k"}
 {"t": "2026-11-06 05:58:23 WIB", "mint": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump", "sym": "paws", "reason": "vol1h 1004<40k"}
 {"t": "2026-11-06 05:59:09 WIB", "mint": "FqJu1nmcNP8fCJfAW7Y4dGmp6fF9iF2RxrqMSFAcpump", "sym": "TOYS4KIDS", "reason": "liq 14016<20k"}
 {"t": "2026-11-06 05:59:56 WIB", "mint": "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump", "sym": "CHOP", "reason": "vol1h 165<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-06 06:14:03 WIB", "mint": "9ntZCiVBHzWB6eqktV8G9YRjMgY9ob7gcVNLp2cbpump", "sym": "Meow", "reason": "vol1h 17209<40k"}
 {"t": "2026-11-06 06:18:35 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 1<40k"}
 {"t": "2026-11-06 06:18:37 WIB", "mint": "5WjMhnaKcuCcKeLFYFP27pKGKPcKcjGFPcdKhViapump", "sym": "DGEN", "reason": "vol1h 17789<40k"}
+{"t": "2026-11-06 06:19:24 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 7084<40k"}
+{"t": "2026-11-06 06:20:10 WIB", "mint": "12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz", "sym": "FUNZ", "reason": "vol1h 253<40k"}
+{"t": "2026-11-06 06:20:12 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 06:20:13 WIB", "mint": "A39LprdkW88LqaXKmAvnoH3EjTJ5uMQynsRbWzEjLmsU", "sym": "LIZARD", "reason": "vol1h 5056<40k"}
