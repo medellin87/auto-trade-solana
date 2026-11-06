@@ -13090,3 +13090,10 @@
 {"t": "2026-11-07 02:02:07 WIB", "mint": "2XHe8XaNzbKEPmiZWqqBLhDKEKYa9xFdros6DFbrpump", "sym": "FOMO", "reason": "liq 1914<20k"}
 {"t": "2026-11-07 02:02:09 WIB", "mint": "8CqriKGeyCn2ER86uwbyZaDzMKYkryZErNCeVk5apump", "sym": "game", "reason": "liq 0<20k"}
 {"t": "2026-11-07 02:04:28 WIB", "mint": "Hzd8aipeiiB7txuG9yYnAw4SbDpn9dJbFX514WSrpump", "sym": "HABIBI", "reason": "vol1h 37031<40k"}
+{"t": "2026-11-07 02:05:59 WIB", "mint": "9kXG537MZvtTBUieRvrye9KG93FbA25QAk7zf5oYpump", "sym": "blocus", "reason": "vol1h 639<40k"}
+{"t": "2026-11-07 02:06:01 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 23106<40k"}
+{"t": "2026-11-07 02:07:33 WIB", "mint": "J6qBwUcQU6x7hwtNp4Pwf2zMttnPdBJeNMECREYjsJ9F", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 02:07:34 WIB", "mint": "89fEDcEWRqvqyiyXB2UYYByijCJY8xC7Wmzva4h5pump", "sym": "MDX", "reason": "vol1h 6266<40k"}
+{"t": "2026-11-07 02:07:36 WIB", "mint": "B7tXcd782qYKZiZk3HNu6nDzsYLto8hr23rLUKBCpump", "sym": "GM", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 02:07:37 WIB", "mint": "2D88NTW3ND7gGYRXpZvsD9jkYn9yN3Qm8CVyprHLpump", "sym": "POMBERT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 02:07:39 WIB", "mint": "3rxXFMNgXgefmncUJnbmt9CWNyknbD6q7uZfZza3pump", "sym": "BORDERLESS", "reason": "top10 26.2%>25"}
