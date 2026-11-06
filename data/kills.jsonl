@@ -1,9 +1,3 @@
-{"t": "2026-11-06 08:27:45 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "score 0.518<0.6"}
-{"t": "2026-11-06 08:29:19 WIB", "mint": "Eyo1o3QYKQwdvP6UtK9dQLTZj2BBtoJdN4tMWB2Dpump", "sym": "GOODTIME", "reason": "vol1h 32<40k"}
-{"t": "2026-11-06 08:30:06 WIB", "mint": "EqRAiaF9pwx7VWAgXT8FwnEZSjJ2t56hw1mSaPkkpump", "sym": "NULL", "reason": "vol1h 42<40k"}
-{"t": "2026-11-06 08:30:53 WIB", "mint": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump", "sym": "paws", "reason": "vol1h 2043<40k"}
-{"t": "2026-11-06 08:31:39 WIB", "mint": "FqJu1nmcNP8fCJfAW7Y4dGmp6fF9iF2RxrqMSFAcpump", "sym": "TOYS4KIDS", "reason": "vol1h 11948<40k"}
-{"t": "2026-11-06 08:31:41 WIB", "mint": "4etoZaNKFjM8v2DrByfskDkcrd6NFu6xHSdRDNFJpump", "sym": "Mei", "reason": "vol1h 428<40k"}
 {"t": "2026-11-06 08:32:28 WIB", "mint": "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump", "sym": "CHOP", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 08:32:29 WIB", "mint": "e9Mj5rNjXSzWtuHtYwTN78Jua5z7eEpJafAd1evpump", "sym": "CO-OP", "reason": "vol1h 37083<40k"}
 {"t": "2026-11-06 08:33:16 WIB", "mint": "2mqHwVq8GjUitZV5gffWwGi65tX6X2Nh6mSRcvsppump", "sym": "BOWL", "reason": "vol1h 7766<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-06 08:46:36 WIB", "mint": "GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump", "sym": "coin", "reason": "score 0.474<0.6"}
 {"t": "2026-11-06 08:48:08 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 2499<40k"}
 {"t": "2026-11-06 08:49:40 WIB", "mint": "EJaknLSRiM3Xbd9oKEJ8X2ZxQ6AkiwC6RUwfE4suEVjv", "sym": "IFHC", "reason": "vol1h 2973<40k"}
+{"t": "2026-11-06 08:51:12 WIB", "mint": "Dk2iHPgeStfACECMbmigRRcDtP8yzfTjdHnMq7hqpump", "sym": "DEGEN", "reason": "liq 0<20k"}
+{"t": "2026-11-06 08:51:13 WIB", "mint": "CTBLN2kx2Lmn2UhTdvAuEdXRvPcRYPgdCXEjrNPKpump", "sym": "LIBTARD", "reason": "vol1h 38765<40k"}
+{"t": "2026-11-06 08:51:15 WIB", "mint": "5WjMhnaKcuCcKeLFYFP27pKGKPcKcjGFPcdKhViapump", "sym": "DGEN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 08:52:01 WIB", "mint": "He7BndQKCLfuPNmtMpVF8xycRkGxn7sEodLXQ9Jepump", "sym": "Unity", "reason": "vol1h 692<40k"}
+{"t": "2026-11-06 08:52:03 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 13068<40k"}
+{"t": "2026-11-06 08:52:50 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 0<40k"}
