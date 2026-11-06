@@ -12765,3 +12765,8 @@
 {"t": "2026-11-06 22:37:45 WIB", "mint": "9ZtuW8JzjCPNirmhKne2EnWknTj7wjv7k4cRaFEhpump", "sym": "RECEIPTS", "reason": "liq 0<20k"}
 {"t": "2026-11-06 22:37:49 WIB", "mint": "EiMueMXDdz9QRyQjbHzoh68KvNFZ3gAAZ6BboeGnpump", "sym": "GTHIC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 22:37:51 WIB", "mint": "6jYjKCftmRwAzZ5CE19vVF6FHv3Xq9aCQopwUu4Jpump", "sym": "UTC", "reason": "liq 0<20k"}
+{"t": "2026-11-06 22:38:37 WIB", "mint": "2LuPXocwDuLC2bDb8rvXy4sa92TyYmQUjTgueDuVpump", "sym": "OMNI", "reason": "vol1h 2256<40k"}
+{"t": "2026-11-06 22:39:24 WIB", "mint": "A5HkJyFXtJLEyWTVddsMSXukxxdTyRQgNDqvchk2pump", "sym": "401k", "reason": "liq 2548<20k"}
+{"t": "2026-11-06 22:40:11 WIB", "mint": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump", "sym": "NIO", "reason": "vol1h 26321<40k"}
+{"t": "2026-11-06 22:40:12 WIB", "mint": "9M6mXY89WSMj9g68rTirN2FiCqM9RfbCFeJpGxzLpump", "sym": "Holden", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 22:41:01 WIB", "mint": "5LiPSTdtQxCgohJTAgEhRFMGy8EwgcD2wTsN1WBFpump", "sym": "Lucky", "reason": "vol1h 452<40k"}
