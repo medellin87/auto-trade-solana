@@ -11685,3 +11685,7 @@
 {"t": "2026-11-06 08:55:57 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 27717<40k"}
 {"t": "2026-11-06 08:55:58 WIB", "mint": "Ex4sJY2KjgQhgwFTfyfPzPUbpUu5g53W9FxfvRVGpump", "sym": "LEAP", "reason": "vol1h 3117<40k"}
 {"t": "2026-11-06 08:56:00 WIB", "mint": "EiMueMXDdz9QRyQjbHzoh68KvNFZ3gAAZ6BboeGnpump", "sym": "GTHIC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 08:56:47 WIB", "mint": "DLPeij9Bbs1XS27Re7eGcfd19ScXFr3obAuZuXespump", "sym": "LIFE", "reason": "vol1h 736<40k"}
+{"t": "2026-11-06 08:58:19 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 13<40k"}
+{"t": "2026-11-06 08:58:20 WIB", "mint": "CMK5SEFQw3DDs6iGTBBAHeyQyMnBgtZvFnUp6tYwabi", "sym": "WABI", "reason": "liq 11944<20k"}
+{"t": "2026-11-06 08:58:22 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "score 0.548<0.6"}
