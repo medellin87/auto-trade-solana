@@ -12776,3 +12776,9 @@
 {"t": "2026-11-06 22:44:10 WIB", "mint": "4SrWPnMz2SzP4sVxgFiB9Fk8d3iwJLn6AEs3RNPLpump", "sym": "POPO", "reason": "liq 0<20k"}
 {"t": "2026-11-06 22:46:26 WIB", "mint": "ABicNQY6kxCajLm2xNfg82hPyKBNHNH38jYUcVs8pump", "sym": "TLM", "reason": "vol1h 8459<40k"}
 {"t": "2026-11-06 22:47:13 WIB", "mint": "Ax8UrrTcnqkxhxYLwd3ef8nXEQvJoNG4xwpRyUQGpump", "sym": "TTP", "reason": "vol1h 7917<40k"}
+{"t": "2026-11-06 22:48:00 WIB", "mint": "8upv7s9NasqQuvVfqiBH9gEADQGx4fXQNRRKcXFwiyUw", "sym": "SLAB", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 22:48:01 WIB", "mint": "FLgZb2BiMTYxoHLPVY6EtZBDoXS9vydfxyEqXf2epump", "sym": "401kat", "reason": "liq 16995<20k"}
+{"t": "2026-11-06 22:48:48 WIB", "mint": "A6rVjxZbTyAD8CTURMKnHmhQ3QHN1yyMnaXUCRcApump", "sym": "ODDLY", "reason": "liq 1923<20k"}
+{"t": "2026-11-06 22:49:35 WIB", "mint": "9eMSBNKqnrZuh1qiQe4aTQXGTZoTD97ZRfnWsTbvpump", "sym": "FEE", "reason": "vol1h 26758<40k"}
+{"t": "2026-11-06 22:49:36 WIB", "mint": "HuqKMcaEojnp4qRReE1dr5ed5TQhhMcjEn6wskRppump", "sym": "RED", "reason": "vol1h 967<40k"}
+{"t": "2026-11-06 22:50:23 WIB", "mint": "GzH5ZKJmQcdAk1hA6KzMbqvUs769pt1HvfU5EDRmt85z", "sym": "L00K", "reason": "vol1h 2002<40k"}
