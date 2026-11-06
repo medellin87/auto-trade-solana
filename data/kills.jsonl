@@ -1,7 +1,3 @@
-{"t": "2026-11-06 06:56:24 WIB", "mint": "2UxjHoidyefQxJrCS8qT23JsbqKFcpPCa8ywBYZupump", "sym": "$LIBCOIN", "reason": "vol1h 0<40k"}
-{"t": "2026-11-06 06:57:55 WIB", "mint": "Eyo1o3QYKQwdvP6UtK9dQLTZj2BBtoJdN4tMWB2Dpump", "sym": "GOODTIME", "reason": "vol1h 198<40k"}
-{"t": "2026-11-06 06:57:57 WIB", "mint": "nearFUCFULHhJy2iyJUkAHqxHcEn4La8PbAH1coy5dS", "sym": "NEARFUN", "reason": "vol1h 0<40k"}
-{"t": "2026-11-06 06:58:00 WIB", "mint": "GL7H6gTz6Gk8Go5MAcuW8yzyCnXuvzY31NCfWAgaqQLb", "sym": "USNR", "reason": "vol1h 406<40k"}
 {"t": "2026-11-06 06:58:47 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 7086<40k"}
 {"t": "2026-11-06 06:58:48 WIB", "mint": "EqRAiaF9pwx7VWAgXT8FwnEZSjJ2t56hw1mSaPkkpump", "sym": "NULL", "reason": "vol1h 3257<40k"}
 {"t": "2026-11-06 06:59:35 WIB", "mint": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump", "sym": "paws", "reason": "vol1h 6098<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-06 07:14:29 WIB", "mint": "D1Y9T8Qep4fCX1tJmfDPqBWhzCdtYgDDv9XfLPWRpump", "sym": "HERMANO", "reason": "vol1h 22554<40k"}
 {"t": "2026-11-06 07:15:16 WIB", "mint": "9ntZCiVBHzWB6eqktV8G9YRjMgY9ob7gcVNLp2cbpump", "sym": "Meow", "reason": "vol1h 9<40k"}
 {"t": "2026-11-06 07:16:47 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 2337<40k"}
+{"t": "2026-11-06 07:18:19 WIB", "mint": "EJaknLSRiM3Xbd9oKEJ8X2ZxQ6AkiwC6RUwfE4suEVjv", "sym": "IFHC", "reason": "vol1h 21791<40k"}
+{"t": "2026-11-06 07:19:51 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 1<40k"}
+{"t": "2026-11-06 07:19:53 WIB", "mint": "5WjMhnaKcuCcKeLFYFP27pKGKPcKcjGFPcdKhViapump", "sym": "DGEN", "reason": "vol1h 2509<40k"}
+{"t": "2026-11-06 07:20:39 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 14495<40k"}
