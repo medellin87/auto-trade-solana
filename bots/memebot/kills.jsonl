@@ -13070,3 +13070,11 @@
 {"t": "2026-11-07 01:49:31 WIB", "mint": "GT7wXqoYTgS2LycKCaB2XBoAMVjf1X4zPXd3T3zjpump", "sym": "AAC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-07 01:51:03 WIB", "mint": "2pE71Sdwnb3ftmXnwBehrpRvgyR9PLUg6iiDep2fLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-07 01:52:35 WIB", "mint": "2LuPXocwDuLC2bDb8rvXy4sa92TyYmQUjTgueDuVpump", "sym": "OMNI", "reason": "vol1h 2187<40k"}
+{"t": "2026-11-07 01:53:22 WIB", "mint": "7Ewy4www8wH1BNuu3RdsEcCAhvAC1bEQEsCeskY9pump", "sym": "MTA6", "reason": "LP locked 84%<90"}
+{"t": "2026-11-07 01:54:09 WIB", "mint": "Eyo1o3QYKQwdvP6UtK9dQLTZj2BBtoJdN4tMWB2Dpump", "sym": "GOODTIME", "reason": "vol1h 24<40k"}
+{"t": "2026-11-07 01:54:10 WIB", "mint": "AiMuXkQBQXYWUtbee2msipYTR1ivWnxe4z6DonEfjHJp", "sym": "POLYPAD", "reason": "vol1h 4<40k"}
+{"t": "2026-11-07 01:54:57 WIB", "mint": "8VdrHbx444YZJZp1vNb9pXAv5aW4Kv7E7bk7Zwaapump", "sym": "TURKEY", "reason": "vol1h 3647<40k"}
+{"t": "2026-11-07 01:54:59 WIB", "mint": "9doLvcTPK9wrEi8sSwXgG72ftMs6U8R9YTrgpSStqrEe", "sym": "RIPP", "reason": "vol1h 2374<40k"}
+{"t": "2026-11-07 01:55:45 WIB", "mint": "9eFaj6tsTmurbVKA1ND4J7LiXngBLNxz5X94AEfEpump", "sym": "STOMP", "reason": "vol1h 52<40k"}
+{"t": "2026-11-07 01:55:47 WIB", "mint": "12EcWU2y36dDjBxXT5xuR1a5tLqBYEP7k66qVkp9pump", "sym": "WIP", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 01:55:48 WIB", "mint": "J3icQvBVUiVTnmRuDVnyT9jad2hJB6R6gjkCoqkUpump", "sym": "RIPPING", "reason": "liq 5843<20k"}
