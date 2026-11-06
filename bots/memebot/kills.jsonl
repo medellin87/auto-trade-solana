@@ -12752,3 +12752,6 @@
 {"t": "2026-11-06 22:29:07 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 3921<40k"}
 {"t": "2026-11-06 22:30:39 WIB", "mint": "5Yyxt95UsHtmu2CoxjtgRBuKdF7Zyjff9Pig5R2cpump", "sym": "gPAID", "reason": "liq 0<20k"}
 {"t": "2026-11-06 22:30:40 WIB", "mint": "78QgXXyJEayttcnAva8VYj4XdJ8e2WYwKoxBCFFv17hf", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-06 22:32:12 WIB", "mint": "C8WvgVddkYYrw4r2ihjpDKYpraiscdJaYr6eNPSipump", "sym": "RAM", "reason": "vol1h 90<40k"}
+{"t": "2026-11-06 22:32:14 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 4574<40k"}
+{"t": "2026-11-06 22:33:45 WIB", "mint": "9kXG537MZvtTBUieRvrye9KG93FbA25QAk7zf5oYpump", "sym": "blocus", "reason": "vol1h 1092<40k"}
