@@ -1,5 +1,3 @@
-{"t": "2026-11-06 16:21:38 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 2102<40k"}
-{"t": "2026-11-06 16:21:40 WIB", "mint": "ag45Z2EKBhDNiJmh8iDvXqSQPGsKk35SsMvQi8Vpump", "sym": "Labs", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 16:21:41 WIB", "mint": "8uwhL5tgKsi1r1EodGijHrawkYUMtT94wmNsAF16pump", "sym": "BTC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 16:21:43 WIB", "mint": "5cMfR62b8qaTBwpLzhHY9VvbnanP5nPDfabaTVsapump", "sym": "ape", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 16:21:44 WIB", "mint": "oCZHH8HnEBCPipEGdEcP3f45pQAaM7nh7P6EkRPpump", "sym": "AMD", "reason": "score 0.459<0.6"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-06 16:44:12 WIB", "mint": "3gPdCDA88Y1Sjy9ELsquTe31MkkxfEjwxSqECk56NsZw", "sym": "BMR", "reason": "vol1h 250<40k"}
 {"t": "2026-11-06 16:44:13 WIB", "mint": "FNp2Hit1bpYfskkW2CaWbW9tTVis4wb3qMjEZ8E4pump", "sym": "UK", "reason": "liq 0<20k"}
 {"t": "2026-11-06 16:45:00 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 72<40k"}
+{"t": "2026-11-06 16:47:16 WIB", "mint": "5wDRGMqCTkCjVyaGzq1f2GTurUhYFLhVURBjGpVLpump", "sym": "inu", "reason": "vol1h 12<40k"}
+{"t": "2026-11-06 16:48:48 WIB", "mint": "EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump", "sym": "RM", "reason": "score 0.565<0.6"}
