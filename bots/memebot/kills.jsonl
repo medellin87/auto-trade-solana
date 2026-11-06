@@ -11971,3 +11971,6 @@
 {"t": "2026-11-06 13:49:57 WIB", "mint": "G1dPxV39DGrnAxxr3DPHoZpJRqamdpQPNtPiieKGpump", "sym": "Fun", "reason": "liq 0<20k"}
 {"t": "2026-11-06 13:51:29 WIB", "mint": "HEM1NM9vpVjeSkH5jkvTG5bDe7ZbFNvM6vWRJqghpump", "sym": "PUMP", "reason": "liq 0<20k"}
 {"t": "2026-11-06 13:53:01 WIB", "mint": "58QW3NoVDYr87kK62h2XSdtnJtYf9vstcAoFCwShpump", "sym": "SI", "reason": "liq 0<20k"}
+{"t": "2026-11-06 13:54:32 WIB", "mint": "2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump", "sym": "RHSI", "reason": "vol1h 639<40k"}
+{"t": "2026-11-06 13:55:19 WIB", "mint": "AHQKMSVEStWZNNgReBt8cck5fT8sBdo9ZFyo2m7cpump", "sym": "TrollGiving", "reason": "vol1h 26597<40k"}
+{"t": "2026-11-06 13:57:36 WIB", "mint": "4VTnR3UmTquiCD1Quz5Z577XdgzehWBK8yTc9482pump", "sym": "NWO", "reason": "liq 15585<20k"}
