@@ -11925,3 +11925,5 @@
 {"t": "2026-11-06 13:18:35 WIB", "mint": "5ve4fMHU4BsSgJvjF9NEMp5m9yNLqYkugPKbV7SZpump", "sym": "CALLING", "reason": "vol1h 1<40k"}
 {"t": "2026-11-06 13:18:37 WIB", "mint": "fF44qzhsdUR5VQuQAHYxxt25iHCrKadWM3fABAApump", "sym": "callinu", "reason": "vol1h 2638<40k"}
 {"t": "2026-11-06 13:18:40 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "top10 30.0%>25"}
+{"t": "2026-11-06 13:20:57 WIB", "mint": "HEM1NM9vpVjeSkH5jkvTG5bDe7ZbFNvM6vWRJqghpump", "sym": "PUMP", "reason": "liq 0<20k"}
+{"t": "2026-11-06 13:22:29 WIB", "mint": "58QW3NoVDYr87kK62h2XSdtnJtYf9vstcAoFCwShpump", "sym": "SI", "reason": "liq 0<20k"}
