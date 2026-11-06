@@ -12156,3 +12156,6 @@
 {"t": "2026-11-06 15:53:32 WIB", "mint": "GfJp1CbDsaoSGf3rXqVbgmwRx3HtZ6mCtv16GzFgpump", "sym": "CZ", "reason": "liq 0<20k"}
 {"t": "2026-11-06 15:53:33 WIB", "mint": "HEM1NM9vpVjeSkH5jkvTG5bDe7ZbFNvM6vWRJqghpump", "sym": "PUMP", "reason": "vol1h 11569<40k"}
 {"t": "2026-11-06 15:53:35 WIB", "mint": "9tq9beEgem9zudg9BZshdhcT1nf9N8iUUkmcsRX6FJWu", "sym": "MarsCoin", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 15:54:22 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 4846<40k"}
+{"t": "2026-11-06 15:55:08 WIB", "mint": "58QW3NoVDYr87kK62h2XSdtnJtYf9vstcAoFCwShpump", "sym": "SI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 15:56:40 WIB", "mint": "2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump", "sym": "RHSI", "reason": "vol1h 79<40k"}
