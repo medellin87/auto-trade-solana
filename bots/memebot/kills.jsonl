@@ -12571,3 +12571,14 @@
 {"t": "2026-11-06 20:29:46 WIB", "mint": "C8WvgVddkYYrw4r2ihjpDKYpraiscdJaYr6eNPSipump", "sym": "RAM", "reason": "liq 2897<20k"}
 {"t": "2026-11-06 20:29:48 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 2034<40k"}
 {"t": "2026-11-06 20:30:35 WIB", "mint": "HmPib7rkwk5wfcaAGEKjMxfnVoh4JZEzUNGh84cLLh5b", "sym": "SOLGALAXY", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 20:31:21 WIB", "mint": "DXAr71P11EoKtR5CftQEfxgeVKVvQTJQnrtWPK8xpump", "sym": "MINERS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 20:31:24 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.356<0.6"}
+{"t": "2026-11-06 20:32:10 WIB", "mint": "cV8JPreMoD9Qy4asQPCAPccaezhFHUn8kJGtXVBpump", "sym": "Elons", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 20:32:12 WIB", "mint": "4FHEBKNYy6BZ1QFMKj1xL8HDTM12rdXLRYw8DgiCUnQn", "sym": "LABS", "reason": "liq 17315<20k"}
+{"t": "2026-11-06 20:32:13 WIB", "mint": "2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump", "sym": "RHSI", "reason": "vol1h 1<40k"}
+{"t": "2026-11-06 20:32:15 WIB", "mint": "2D88NTW3ND7gGYRXpZvsD9jkYn9yN3Qm8CVyprHLpump", "sym": "POMBERT", "reason": "vol1h 2017<40k"}
+{"t": "2026-11-06 20:32:17 WIB", "mint": "6BTFfjFTs6THMYyPp66pe99umPbgNuAseNzt8Sd3pump", "sym": "WhatsUP", "reason": "vol1h 30682<40k"}
+{"t": "2026-11-06 20:32:19 WIB", "mint": "B7tXcd782qYKZiZk3HNu6nDzsYLto8hr23rLUKBCpump", "sym": "GM", "reason": "LP locked 85%<90"}
+{"t": "2026-11-06 20:32:20 WIB", "mint": "4nQqYeHziRZaiYLodVt56q9AyubY693oGnSPXYcNpump", "sym": "LION", "reason": "vol1h 37<40k"}
+{"t": "2026-11-06 20:33:07 WIB", "mint": "88u51cRpQETNJqomtqgUj9xYKJjkn3RLsZS9qae6pump", "sym": "lucky", "reason": "liq 0<20k"}
+{"t": "2026-11-06 20:33:53 WIB", "mint": "3zhGmXK4B1trPzJh4cG1et2H1GRtC7uWcvLhFcvSBGmV", "sym": "?", "reason": "no solana pair"}
