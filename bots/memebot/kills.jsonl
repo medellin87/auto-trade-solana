@@ -11838,3 +11838,4 @@
 {"t": "2026-11-06 12:19:52 WIB", "mint": "Et4v79NEma2XNcQLZLJq2FZFqEVstN9FWfewarr3pump", "sym": "pump", "reason": "liq 0<20k"}
 {"t": "2026-11-06 12:28:10 WIB", "mint": "DoqsX2uvZnZNTzbxuS5nbXLoxrrPUWE8BZXRQfEPpump", "sym": "PRIVAZ", "reason": "vol1h 36550<40k"}
 {"t": "2026-11-06 12:36:27 WIB", "mint": "5BWHo2duxhkRR4ftnZWErnB8GoXpFgZ4ZR9UN8LDpump", "sym": "fun", "reason": "vol1h 36360<40k"}
+{"t": "2026-11-06 12:40:14 WIB", "mint": "Ejsis9t87kSTpQ6SHhYNdRc2av7Vjp5pyAVMiYvtpump", "sym": "Bracket", "reason": "liq 0<20k"}
