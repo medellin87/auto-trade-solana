@@ -13194,3 +13194,8 @@
 {"t": "2026-11-07 03:19:31 WIB", "mint": "w6hiBt1ZeJSKRRdwiyMPk5ErLP3yNbm5KtFGsm6pump", "sym": "MEME", "reason": "liq 0<20k"}
 {"t": "2026-11-07 03:20:17 WIB", "mint": "JVtVUduUFx3HL3fA87YA77YDGn5iQoYDeDaLFNopump", "sym": "Shitcoin", "reason": "vol1h 1116<40k"}
 {"t": "2026-11-07 03:21:04 WIB", "mint": "GT7wXqoYTgS2LycKCaB2XBoAMVjf1X4zPXd3T3zjpump", "sym": "AAC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 03:22:36 WIB", "mint": "7NcM7x9PEjB2qJTgRgNvVwnnPPZ6wAdXRXWa8Cqfboob", "sym": "LAURA", "reason": "vol1h 29630<40k"}
+{"t": "2026-11-07 03:22:37 WIB", "mint": "2pE71Sdwnb3ftmXnwBehrpRvgyR9PLUg6iiDep2fLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 03:24:09 WIB", "mint": "2LuPXocwDuLC2bDb8rvXy4sa92TyYmQUjTgueDuVpump", "sym": "OMNI", "reason": "vol1h 1527<40k"}
+{"t": "2026-11-07 03:24:56 WIB", "mint": "7Ewy4www8wH1BNuu3RdsEcCAhvAC1bEQEsCeskY9pump", "sym": "MTA6", "reason": "vol1h 7<40k"}
+{"t": "2026-11-07 03:24:58 WIB", "mint": "RCAEvp1mnWJgLb4pyhXr4D5PqekNvcBEqVNReQFpump", "sym": "WHITE", "reason": "LP locked 0%<90"}
