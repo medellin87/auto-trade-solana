@@ -1,5 +1,3 @@
-{"t": "2026-11-06 13:18:06 WIB", "mint": "EJaknLSRiM3Xbd9oKEJ8X2ZxQ6AkiwC6RUwfE4suEVjv", "sym": "IFHC", "reason": "vol1h 1760<40k"}
-{"t": "2026-11-06 13:18:07 WIB", "mint": "4GGYBWZJZXpxZo88xykwGTKyXfn25SiufSPCmVQfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-06 13:18:09 WIB", "mint": "CWHwGkR8MTvaxZUfWcyAuEsjz1JRTuRurXFh6PeUpump", "sym": "BTC", "reason": "vol1h 2147<40k"}
 {"t": "2026-11-06 13:18:10 WIB", "mint": "FaHcqxjGs6wg8JuzQi3NbgpQQD9TRhaMPg3WojZpump", "sym": "Chuddome", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 13:18:12 WIB", "mint": "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump", "sym": "CHOP", "reason": "vol1h 212<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-06 13:30:07 WIB", "mint": "7TrU2pLuFPA1c2ptSQxuVV8dYSL3tYtWKUhNUDXkpump", "sym": "GIRL", "reason": "liq 0<20k"}
 {"t": "2026-11-06 13:36:54 WIB", "mint": "HpaGuJuaF1v7VEkSXg8bQRqTqiyddBrqJxboqNNfpump", "sym": "Joe", "reason": "liq 2970<20k"}
 {"t": "2026-11-06 13:37:41 WIB", "mint": "H4D5mThN4ts9ZEqpB1xkiejcCoZ88dAGECbW2o3Kpump", "sym": "Girlcoin", "reason": "liq 7863<20k"}
+{"t": "2026-11-06 13:40:00 WIB", "mint": "GNNhU2SEArd5RGN49Yjo4YHTipRA3E5gMJeUPE4Gpump", "sym": "BP", "reason": "vol1h 30907<40k"}
+{"t": "2026-11-06 13:41:31 WIB", "mint": "Ejsis9t87kSTpQ6SHhYNdRc2av7Vjp5pyAVMiYvtpump", "sym": "Bracket", "reason": "vol1h 23675<40k"}
