@@ -13286,3 +13286,7 @@
 {"t": "2026-11-07 04:21:29 WIB", "mint": "B7ea9NfNXtuvmELcZf2U3KGtgWFqYgio89jbhiwhyNX4", "sym": "INCOME", "reason": "liq 10888<20k"}
 {"t": "2026-11-07 04:21:31 WIB", "mint": "JVtVUduUFx3HL3fA87YA77YDGn5iQoYDeDaLFNopump", "sym": "Shitcoin", "reason": "vol1h 523<40k"}
 {"t": "2026-11-07 04:23:48 WIB", "mint": "8o6SUa4sqpR9duz9xd9PYj81Bkwzbi7N9v5ckUyqpump", "sym": "Private", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 04:25:20 WIB", "mint": "2LuPXocwDuLC2bDb8rvXy4sa92TyYmQUjTgueDuVpump", "sym": "OMNI", "reason": "vol1h 1551<40k"}
+{"t": "2026-11-07 04:26:07 WIB", "mint": "HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump", "sym": "sexcoin", "reason": "score 0.41<0.6"}
+{"t": "2026-11-07 04:26:08 WIB", "mint": "RCAEvp1mnWJgLb4pyhXr4D5PqekNvcBEqVNReQFpump", "sym": "WHITE", "reason": "liq 16487<20k"}
+{"t": "2026-11-07 04:26:10 WIB", "mint": "3p7ovHYiYswRwNq6bNCi5KpQjhoL3hYourG9SxAcpump", "sym": "API", "reason": "liq 0<20k"}
