@@ -12633,3 +12633,6 @@
 {"t": "2026-11-06 21:09:04 WIB", "mint": "5LiPSTdtQxCgohJTAgEhRFMGy8EwgcD2wTsN1WBFpump", "sym": "Lucky", "reason": "liq 0<20k"}
 {"t": "2026-11-06 21:13:37 WIB", "mint": "A4oL7WDF3nw9TWtuVP5uVaJ9CVR3u4a9j2htqZKQpump", "sym": "St\u0435ve", "reason": "vol1h 27263<40k"}
 {"t": "2026-11-06 21:14:23 WIB", "mint": "ABicNQY6kxCajLm2xNfg82hPyKBNHNH38jYUcVs8pump", "sym": "TLM", "reason": "vol1h 15321<40k"}
+{"t": "2026-11-06 21:15:10 WIB", "mint": "Ax8UrrTcnqkxhxYLwd3ef8nXEQvJoNG4xwpRyUQGpump", "sym": "TTP", "reason": "vol1h 26855<40k"}
+{"t": "2026-11-06 21:15:12 WIB", "mint": "9YdeAChyHusXuhASQUtUF6FHnbKY9SkuypRZRedDpump", "sym": "Lab", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 21:15:58 WIB", "mint": "8upv7s9NasqQuvVfqiBH9gEADQGx4fXQNRRKcXFwiyUw", "sym": "SLAB", "reason": "vol1h 0<40k"}
