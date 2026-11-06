@@ -12198,3 +12198,7 @@
 {"t": "2026-11-06 16:21:41 WIB", "mint": "8uwhL5tgKsi1r1EodGijHrawkYUMtT94wmNsAF16pump", "sym": "BTC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 16:21:43 WIB", "mint": "5cMfR62b8qaTBwpLzhHY9VvbnanP5nPDfabaTVsapump", "sym": "ape", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 16:21:44 WIB", "mint": "oCZHH8HnEBCPipEGdEcP3f45pQAaM7nh7P6EkRPpump", "sym": "AMD", "reason": "score 0.459<0.6"}
+{"t": "2026-11-06 16:22:31 WIB", "mint": "H2bCoZzuarve2KrceaX114yobUG6dwM2BSn7puhqpump", "sym": "RNC", "reason": "vol1h 29417<40k"}
+{"t": "2026-11-06 16:24:04 WIB", "mint": "GfJp1CbDsaoSGf3rXqVbgmwRx3HtZ6mCtv16GzFgpump", "sym": "CZ", "reason": "score 0.497<0.6"}
+{"t": "2026-11-06 16:24:05 WIB", "mint": "HEM1NM9vpVjeSkH5jkvTG5bDe7ZbFNvM6vWRJqghpump", "sym": "PUMP", "reason": "vol1h 5853<40k"}
+{"t": "2026-11-06 16:24:07 WIB", "mint": "9tq9beEgem9zudg9BZshdhcT1nf9N8iUUkmcsRX6FJWu", "sym": "MarsCoin", "reason": "vol1h 0<40k"}
