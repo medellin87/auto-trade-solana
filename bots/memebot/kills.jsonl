@@ -12836,3 +12836,8 @@
 {"t": "2026-11-06 23:22:44 WIB", "mint": "3gPdCDA88Y1Sjy9ELsquTe31MkkxfEjwxSqECk56NsZw", "sym": "BMR", "reason": "vol1h 261<40k"}
 {"t": "2026-11-06 23:22:45 WIB", "mint": "FZs4YUPyD5sMzUv5fwiWBQx3s9Nzgvw62g8ytohwpump", "sym": "LILY", "reason": "vol1h 1560<40k"}
 {"t": "2026-11-06 23:23:32 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1091<40k"}
+{"t": "2026-11-06 23:24:18 WIB", "mint": "9eFaj6tsTmurbVKA1ND4J7LiXngBLNxz5X94AEfEpump", "sym": "STOMP", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 23:25:05 WIB", "mint": "57vAaMsnAJXkvULtAz7fsi6gRn3bHRJFJsJV1okNpump", "sym": "OREN", "reason": "vol1h 1011<40k"}
+{"t": "2026-11-06 23:25:52 WIB", "mint": "8miHqg1VgbZtpXivfCYaZSGXRFaVCL9R4gbvbznnZe8W", "sym": "ORBIT", "reason": "liq 0<20k"}
+{"t": "2026-11-06 23:25:53 WIB", "mint": "4QDPF5TtNAKtU5p5pvcq9h9b44nRSikRzNrKzsUfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-06 23:25:55 WIB", "mint": "DhQ9394i8LJfGZn45UnzgUMvU9wEp5pkMkr1oV41pump", "sym": "ROT$", "reason": "vol1h 218<40k"}
