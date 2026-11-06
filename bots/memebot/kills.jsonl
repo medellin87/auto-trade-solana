@@ -11739,3 +11739,7 @@
 {"t": "2026-11-06 09:35:11 WIB", "mint": "3GQPuyTyYtNSdSvxfWKQigK9FaLLcM97R4k89QeUpump", "sym": "NVDA", "reason": "liq 0<20k"}
 {"t": "2026-11-06 09:35:13 WIB", "mint": "4QrUEhQExMncD1F2hnVqzjSEXc6tmbzohf4sxPFopump", "sym": "HMQ", "reason": "vol1h 8865<40k"}
 {"t": "2026-11-06 09:35:59 WIB", "mint": "DNerJKigs1xZ5rCBDtU9a2ACxvskScMnSihWY9yYpump", "sym": "Bubbles", "reason": "vol1h 23178<40k"}
+{"t": "2026-11-06 09:36:46 WIB", "mint": "Czrf9mnkgtyRxqaG1Fmzhhn3afYGJwh4xB1G9cBzpump", "sym": "dumbo", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 09:38:18 WIB", "mint": "M1biEJsfuZBTmTjHRqziTASP51dUhjSHrB5rDjPpump", "sym": "SHADOW", "reason": "vol1h 19779<40k"}
+{"t": "2026-11-06 09:38:20 WIB", "mint": "8uwhL5tgKsi1r1EodGijHrawkYUMtT94wmNsAF16pump", "sym": "BTC", "reason": "vol1h 10100<40k"}
+{"t": "2026-11-06 09:39:09 WIB", "mint": "FPu4Lbmttj2FcMXbRdpqbrj6hzg7wSoSQGD31VWkzGPZ", "sym": "1000x", "reason": "vol1h 2809<40k"}
