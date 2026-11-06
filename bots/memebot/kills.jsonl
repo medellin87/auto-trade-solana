@@ -11607,3 +11607,7 @@
 {"t": "2026-11-06 07:59:48 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 20737<40k"}
 {"t": "2026-11-06 07:59:50 WIB", "mint": "EqRAiaF9pwx7VWAgXT8FwnEZSjJ2t56hw1mSaPkkpump", "sym": "NULL", "reason": "vol1h 299<40k"}
 {"t": "2026-11-06 08:00:37 WIB", "mint": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump", "sym": "paws", "reason": "vol1h 2112<40k"}
+{"t": "2026-11-06 08:01:23 WIB", "mint": "FqJu1nmcNP8fCJfAW7Y4dGmp6fF9iF2RxrqMSFAcpump", "sym": "TOYS4KIDS", "reason": "liq 7408<20k"}
+{"t": "2026-11-06 08:02:10 WIB", "mint": "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump", "sym": "CHOP", "reason": "vol1h 205<40k"}
+{"t": "2026-11-06 08:02:11 WIB", "mint": "e9Mj5rNjXSzWtuHtYwTN78Jua5z7eEpJafAd1evpump", "sym": "CO-OP", "reason": "vol1h 27870<40k"}
+{"t": "2026-11-06 08:02:58 WIB", "mint": "BMR1rnBWrSTssBCuVgBnT9M4WANwbHGSLrTgzCf1T6wM", "sym": "KOLDEX", "reason": "vol1h 220<40k"}
