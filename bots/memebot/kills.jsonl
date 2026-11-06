@@ -11928,3 +11928,6 @@
 {"t": "2026-11-06 13:20:57 WIB", "mint": "HEM1NM9vpVjeSkH5jkvTG5bDe7ZbFNvM6vWRJqghpump", "sym": "PUMP", "reason": "liq 0<20k"}
 {"t": "2026-11-06 13:22:29 WIB", "mint": "58QW3NoVDYr87kK62h2XSdtnJtYf9vstcAoFCwShpump", "sym": "SI", "reason": "liq 0<20k"}
 {"t": "2026-11-06 13:24:01 WIB", "mint": "2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump", "sym": "RHSI", "reason": "vol1h 814<40k"}
+{"t": "2026-11-06 13:27:02 WIB", "mint": "4VTnR3UmTquiCD1Quz5Z577XdgzehWBK8yTc9482pump", "sym": "NWO", "reason": "liq 16032<20k"}
+{"t": "2026-11-06 13:27:04 WIB", "mint": "8meXxGnjyAs84VqPUYV3YTpGK93rD98HpyYonuXCpump", "sym": "stockloan", "reason": "vol1h 37809<40k"}
+{"t": "2026-11-06 13:29:21 WIB", "mint": "DoqsX2uvZnZNTzbxuS5nbXLoxrrPUWE8BZXRQfEPpump", "sym": "PRIVAZ", "reason": "vol1h 10249<40k"}
