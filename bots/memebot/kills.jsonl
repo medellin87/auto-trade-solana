@@ -12270,3 +12270,5 @@
 {"t": "2026-11-06 17:14:42 WIB", "mint": "3gPdCDA88Y1Sjy9ELsquTe31MkkxfEjwxSqECk56NsZw", "sym": "BMR", "reason": "vol1h 67<40k"}
 {"t": "2026-11-06 17:15:29 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 128<40k"}
 {"t": "2026-11-06 17:17:00 WIB", "mint": "GNKV96CghmXbgSxR4HpYgbjxczZBouQ68wjU2xG4pump", "sym": "UK", "reason": "liq 0<20k"}
+{"t": "2026-11-06 17:19:18 WIB", "mint": "EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump", "sym": "RM", "reason": "score 0.556<0.6"}
+{"t": "2026-11-06 17:20:04 WIB", "mint": "HW6WZPeiX7r6iMY8LvVd8Xc4fooTym2GikH1farspump", "sym": "HEDGE", "reason": "vol1h 0<40k"}
