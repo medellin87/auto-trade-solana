@@ -12844,3 +12844,5 @@
 {"t": "2026-11-06 23:27:26 WIB", "mint": "DiHxAwXMMm9F8QG4qxkGd57a4dVQYvs1iUyTn9VKpump", "sym": "RAM", "reason": "liq 0<20k"}
 {"t": "2026-11-06 23:28:13 WIB", "mint": "GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump", "sym": "NIG", "reason": "vol1h 32960<40k"}
 {"t": "2026-11-06 23:28:15 WIB", "mint": "AmTXahqDdtTPDwT2cHU8XQYJUTD1oGU7NZXeh6smpump", "sym": "REPDEM26", "reason": "vol1h 111<40k"}
+{"t": "2026-11-06 23:32:04 WIB", "mint": "78QgXXyJEayttcnAva8VYj4XdJ8e2WYwKoxBCFFv17hf", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-06 23:32:50 WIB", "mint": "BEW43zJ2y5bvPsw39PbaZZZfFXoKopdWjS9NFjGCpump", "sym": "OTC", "reason": "vol1h 8089<40k"}
