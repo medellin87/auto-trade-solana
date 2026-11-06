@@ -1,5 +1,3 @@
-{"t": "2026-11-06 21:26:08 WIB", "mint": "7MjcRuYAvJkTRRTi3SsTRGJVVBDvDREdJm3ycYVUpump", "sym": "ODDLY", "reason": "liq 0<20k"}
-{"t": "2026-11-06 21:26:09 WIB", "mint": "AmTXahqDdtTPDwT2cHU8XQYJUTD1oGU7NZXeh6smpump", "sym": "REPDEM26", "reason": "vol1h 164<40k"}
 {"t": "2026-11-06 21:27:41 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 15467<40k"}
 {"t": "2026-11-06 21:27:43 WIB", "mint": "CWHwGkR8MTvaxZUfWcyAuEsjz1JRTuRurXFh6PeUpump", "sym": "BTC", "reason": "vol1h 5<40k"}
 {"t": "2026-11-06 21:27:44 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 644<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-06 21:38:11 WIB", "mint": "A5HkJyFXtJLEyWTVddsMSXukxxdTyRQgNDqvchk2pump", "sym": "401k", "reason": "liq 16336<20k"}
 {"t": "2026-11-06 21:39:43 WIB", "mint": "5LiPSTdtQxCgohJTAgEhRFMGy8EwgcD2wTsN1WBFpump", "sym": "Lucky", "reason": "vol1h 26223<40k"}
 {"t": "2026-11-06 21:41:15 WIB", "mint": "F1gaAkrGnVD8V9yF67kDcLUCvFpDisWbJMG32mJmpump", "sym": "Pumpgiving", "reason": "vol1h 10698<40k"}
+{"t": "2026-11-06 21:44:19 WIB", "mint": "A4oL7WDF3nw9TWtuVP5uVaJ9CVR3u4a9j2htqZKQpump", "sym": "St\u0435ve", "reason": "liq 10303<20k"}
+{"t": "2026-11-06 21:45:06 WIB", "mint": "ABicNQY6kxCajLm2xNfg82hPyKBNHNH38jYUcVs8pump", "sym": "TLM", "reason": "vol1h 8022<40k"}
