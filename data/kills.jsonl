@@ -1,8 +1,3 @@
-{"t": "2026-11-06 18:46:27 WIB", "mint": "3gPdCDA88Y1Sjy9ELsquTe31MkkxfEjwxSqECk56NsZw", "sym": "BMR", "reason": "vol1h 123<40k"}
-{"t": "2026-11-06 18:46:28 WIB", "mint": "3dWe37sqSgR8z4ToBCb6ArUyhgVLLTnYyVU3uqd9pump", "sym": "BDHM", "reason": "vol1h 48<40k"}
-{"t": "2026-11-06 18:46:30 WIB", "mint": "24f37Pe28zVCZKaBFcx5kSchPLgXCACZuz5GkJsDp6XY", "sym": "GATOMF", "reason": "vol1h 552<40k"}
-{"t": "2026-11-06 18:46:31 WIB", "mint": "FZs4YUPyD5sMzUv5fwiWBQx3s9Nzgvw62g8ytohwpump", "sym": "LILY", "reason": "vol1h 105<40k"}
-{"t": "2026-11-06 18:47:18 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1652<40k"}
 {"t": "2026-11-06 18:50:20 WIB", "mint": "AnDQPGonTwufBrqXSDZNo4czEsedUaaNX3j6LW4Lpump", "sym": "Vutomi", "reason": "vol1h 16226<40k"}
 {"t": "2026-11-06 18:51:09 WIB", "mint": "EW1b9rcLAJe634mgxb5r4bVYxDoGU37o7YazBzjTpump", "sym": "RM", "reason": "vol1h 37652<40k"}
 {"t": "2026-11-06 18:52:43 WIB", "mint": "AmTXahqDdtTPDwT2cHU8XQYJUTD1oGU7NZXeh6smpump", "sym": "REPDEM26", "reason": "vol1h 542<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-06 18:57:00 WIB", "mint": "GfJp1CbDsaoSGf3rXqVbgmwRx3HtZ6mCtv16GzFgpump", "sym": "CZ", "reason": "vol1h 6178<40k"}
 {"t": "2026-11-06 18:57:47 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 418<40k"}
 {"t": "2026-11-06 18:58:33 WIB", "mint": "HmPib7rkwk5wfcaAGEKjMxfnVoh4JZEzUNGh84cLLh5b", "sym": "SOLGALAXY", "reason": "liq 0<20k"}
+{"t": "2026-11-06 19:00:05 WIB", "mint": "cV8JPreMoD9Qy4asQPCAPccaezhFHUn8kJGtXVBpump", "sym": "Elons", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 19:00:07 WIB", "mint": "2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump", "sym": "RHSI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 19:00:08 WIB", "mint": "4nQqYeHziRZaiYLodVt56q9AyubY693oGnSPXYcNpump", "sym": "LION", "reason": "vol1h 255<40k"}
+{"t": "2026-11-06 19:00:55 WIB", "mint": "qiXxj2wUKXXVcqJjjibubXkX33NA83Wyfg3onJppump", "sym": "KRUN", "reason": "vol1h 468<40k"}
+{"t": "2026-11-06 19:00:56 WIB", "mint": "DYHLASz36ZcWs6M5kuDp1EGk6wzEjhe5SUmCP87zpump", "sym": "Dunesday", "reason": "vol1h 0<40k"}
