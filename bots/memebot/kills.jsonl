@@ -11631,3 +11631,8 @@
 {"t": "2026-11-06 08:16:16 WIB", "mint": "GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump", "sym": "coin", "reason": "score 0.543<0.6"}
 {"t": "2026-11-06 08:17:47 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 1876<40k"}
 {"t": "2026-11-06 08:19:19 WIB", "mint": "EJaknLSRiM3Xbd9oKEJ8X2ZxQ6AkiwC6RUwfE4suEVjv", "sym": "IFHC", "reason": "vol1h 6896<40k"}
+{"t": "2026-11-06 08:20:37 WIB", "mint": "5WjMhnaKcuCcKeLFYFP27pKGKPcKcjGFPcdKhViapump", "sym": "DGEN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 08:20:39 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 2<40k"}
+{"t": "2026-11-06 08:21:25 WIB", "mint": "He7BndQKCLfuPNmtMpVF8xycRkGxn7sEodLXQ9Jepump", "sym": "Unity", "reason": "vol1h 21037<40k"}
+{"t": "2026-11-06 08:21:27 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 15638<40k"}
+{"t": "2026-11-06 08:22:14 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 0<40k"}
