@@ -11521,3 +11521,6 @@
 {"t": "2026-11-06 06:58:47 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 7086<40k"}
 {"t": "2026-11-06 06:58:48 WIB", "mint": "EqRAiaF9pwx7VWAgXT8FwnEZSjJ2t56hw1mSaPkkpump", "sym": "NULL", "reason": "vol1h 3257<40k"}
 {"t": "2026-11-06 06:59:35 WIB", "mint": "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump", "sym": "paws", "reason": "vol1h 6098<40k"}
+{"t": "2026-11-06 07:00:22 WIB", "mint": "FqJu1nmcNP8fCJfAW7Y4dGmp6fF9iF2RxrqMSFAcpump", "sym": "TOYS4KIDS", "reason": "liq 18923<20k"}
+{"t": "2026-11-06 07:01:08 WIB", "mint": "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump", "sym": "CHOP", "reason": "vol1h 89<40k"}
+{"t": "2026-11-06 07:01:55 WIB", "mint": "BMR1rnBWrSTssBCuVgBnT9M4WANwbHGSLrTgzCf1T6wM", "sym": "KOLDEX", "reason": "vol1h 11537<40k"}
