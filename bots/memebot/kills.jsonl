@@ -11706,3 +11706,9 @@
 {"t": "2026-11-06 09:12:23 WIB", "mint": "7wE17VifYPgK42xDjeqthzhje6D69ib8Dq2XfyFQpump", "sym": "STARE", "reason": "liq 2415<20k"}
 {"t": "2026-11-06 09:13:10 WIB", "mint": "GyWkSn2ah7dqLyPeZAjEZmfxuU2H4nwfGvgJhfYDVegn", "sym": "bul", "reason": "vol1h 10318<40k"}
 {"t": "2026-11-06 09:13:58 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.456<0.6"}
+{"t": "2026-11-06 09:15:30 WIB", "mint": "AX56XAixNhncCoqW3AdKmE6KsZuiuNTqPvNYTa5Ypump", "sym": "Bear", "reason": "vol1h 55<40k"}
+{"t": "2026-11-06 09:15:31 WIB", "mint": "97dcHRQ54TMNas9BFgMpX28CBJF5ZZYVvHxzyrvtBAGS", "sym": "DERUG", "reason": "vol1h 299<40k"}
+{"t": "2026-11-06 09:16:18 WIB", "mint": "D1Y9T8Qep4fCX1tJmfDPqBWhzCdtYgDDv9XfLPWRpump", "sym": "HERMANO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 09:16:19 WIB", "mint": "fN2DroYvzjsuGxRk6JDVrsmrijXNCnExvCWnBuSpump", "sym": "BFN", "reason": "vol1h 7082<40k"}
+{"t": "2026-11-06 09:16:21 WIB", "mint": "g8FFFJHQnd84dcbHGjvTRMLzRPaE7FVV2bmNs2wpump", "sym": "COPE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 09:17:08 WIB", "mint": "GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump", "sym": "coin", "reason": "score 0.362<0.6"}
