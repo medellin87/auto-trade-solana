@@ -12018,3 +12018,7 @@
 {"t": "2026-11-06 14:23:31 WIB", "mint": "58QW3NoVDYr87kK62h2XSdtnJtYf9vstcAoFCwShpump", "sym": "SI", "reason": "vol1h 8019<40k"}
 {"t": "2026-11-06 14:25:02 WIB", "mint": "2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump", "sym": "RHSI", "reason": "vol1h 347<40k"}
 {"t": "2026-11-06 14:25:04 WIB", "mint": "FzTKun7HZds4mnx1sgayLNjnTyM9AjG6X16KGNZepump", "sym": "token", "reason": "vol1h 299<40k"}
+{"t": "2026-11-06 14:25:50 WIB", "mint": "AHQKMSVEStWZNNgReBt8cck5fT8sBdo9ZFyo2m7cpump", "sym": "TrollGiving", "reason": "liq 0<20k"}
+{"t": "2026-11-06 14:26:37 WIB", "mint": "9mG144KCpZJeeYZfcmUS8mfQiV9UyxzBRWZ5n9mXpump", "sym": "STAR", "reason": "liq 0<20k"}
+{"t": "2026-11-06 14:28:09 WIB", "mint": "4VTnR3UmTquiCD1Quz5Z577XdgzehWBK8yTc9482pump", "sym": "NWO", "reason": "vol1h 7252<40k"}
+{"t": "2026-11-06 14:28:10 WIB", "mint": "8meXxGnjyAs84VqPUYV3YTpGK93rD98HpyYonuXCpump", "sym": "stockloan", "reason": "vol1h 13099<40k"}
