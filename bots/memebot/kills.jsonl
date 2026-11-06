@@ -12613,3 +12613,8 @@
 {"t": "2026-11-06 20:57:15 WIB", "mint": "97dcHRQ54TMNas9BFgMpX28CBJF5ZZYVvHxzyrvtBAGS", "sym": "DERUG", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 20:57:16 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 649<40k"}
 {"t": "2026-11-06 20:57:18 WIB", "mint": "8gMWXHfSwBRSLc2wKtLv24JYboCAsKaEqfC5cXLeZJXL", "sym": "ZILLIONS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 20:58:50 WIB", "mint": "5Yyxt95UsHtmu2CoxjtgRBuKdF7Zyjff9Pig5R2cpump", "sym": "gPAID", "reason": "liq 0<20k"}
+{"t": "2026-11-06 21:00:22 WIB", "mint": "C8WvgVddkYYrw4r2ihjpDKYpraiscdJaYr6eNPSipump", "sym": "RAM", "reason": "liq 2679<20k"}
+{"t": "2026-11-06 21:00:23 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 1545<40k"}
+{"t": "2026-11-06 21:01:55 WIB", "mint": "DXAr71P11EoKtR5CftQEfxgeVKVvQTJQnrtWPK8xpump", "sym": "MINERS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 21:01:57 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.351<0.6"}
