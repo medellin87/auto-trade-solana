@@ -12393,3 +12393,5 @@
 {"t": "2026-11-06 18:33:19 WIB", "mint": "Cy2XH7dLwwovkzNAFtWVEDkJNCdZ4u5cpcMHnCNHpump", "sym": "CI", "reason": "liq 1822<20k"}
 {"t": "2026-11-06 18:33:21 WIB", "mint": "4RbXErm8gGuag4rGRJF9cuvYm655QW7stQ6nGtnHpump", "sym": "raea", "reason": "vol1h 1968<40k"}
 {"t": "2026-11-06 18:33:22 WIB", "mint": "9PACXELBxKFDNcHjAnMcXjZiAXyYNjXBWiNtmVsCRpP5", "sym": "LIMMY", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 18:37:10 WIB", "mint": "32FEjpKaaHBqhPLkMGVymmvBrBzi3FbuPJD4mjq6pump", "sym": "GTA", "reason": "vol1h 41<40k"}
+{"t": "2026-11-06 18:37:12 WIB", "mint": "G2apw4XQdSfTv9836JHWhRZGyqG43m93eMEF4zjnpump", "sym": "HALO", "reason": "score 0.549<0.6"}
