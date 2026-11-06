@@ -13509,3 +13509,7 @@
 {"t": "2026-11-07 06:45:18 WIB", "mint": "8iQwG4AGgrXszr8tFHvagXVYpniYsPcAqLEUct3cpump", "sym": "GRIDLOCK", "reason": "vol1h 0<40k"}
 {"t": "2026-11-07 06:45:20 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 3417<40k"}
 {"t": "2026-11-07 06:46:07 WIB", "mint": "JATk4idqfAyU21F6w3xf2Rbyj9j8FnYxVWLMfoweqExh", "sym": "WHITE", "reason": "score 0.386<0.6"}
+{"t": "2026-11-07 06:49:11 WIB", "mint": "5Fqqj85zgpRrYGaXrrZpYrcLnXk4LjzLSwhy6o7Zpump", "sym": "vibeshift", "reason": "vol1h 12923<40k"}
+{"t": "2026-11-07 06:49:58 WIB", "mint": "J4fWoyVecozyBj83NFk3qzHZR7qkt92YAhgoFvGzcash", "sym": "MOOH", "reason": "vol1h 6662<40k"}
+{"t": "2026-11-07 06:49:59 WIB", "mint": "AFhcJJpfvVjrtydxjR8K2DJ5ikEG4KqEaQsEP8vRbrzt", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 06:50:46 WIB", "mint": "F1fvzeTbmPXFDFL26jEN3FHmk558kJSA1cYqNRANpump", "sym": "Pooh", "reason": "vol1h 54<40k"}
