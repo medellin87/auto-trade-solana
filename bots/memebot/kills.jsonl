@@ -13123,3 +13123,11 @@
 {"t": "2026-11-07 02:28:38 WIB", "mint": "EFCLz5dNa7kjsGqEZ3QhaKNozcAgJChNP78koKyppump", "sym": "CEILING", "reason": "liq 12481<20k"}
 {"t": "2026-11-07 02:28:40 WIB", "mint": "5aDjvdypu3N88vfC6ZN85CwjeR49N2Bcp7gL7C5Epump", "sym": "TTP", "reason": "vol1h 15425<40k"}
 {"t": "2026-11-07 02:28:41 WIB", "mint": "HSUVjgv7nLdnWHMp1kxFAKR8FadisPqa55LJf6M4pump", "sym": "JOHN", "reason": "vol1h 11733<40k"}
+{"t": "2026-11-07 02:30:13 WIB", "mint": "GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump", "sym": "NIG", "reason": "vol1h 9481<40k"}
+{"t": "2026-11-07 02:31:00 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 3377<40k"}
+{"t": "2026-11-07 02:31:02 WIB", "mint": "FugyvQb7hrg71eL8iWu6cpZvg9HyJBXN761dzxNFpump", "sym": "LAURA", "reason": "score 0.505<0.6"}
+{"t": "2026-11-07 02:31:03 WIB", "mint": "ANoKnrzuemscJtL8SPf3qHuQ52rnXPbab8nbw4cUpump", "sym": "Elung", "reason": "vol1h 327<40k"}
+{"t": "2026-11-07 02:31:50 WIB", "mint": "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump", "sym": "CHOP", "reason": "vol1h 28<40k"}
+{"t": "2026-11-07 02:32:37 WIB", "mint": "2fnGKgfwYjqv99ppnKCq5nCLLhRSJAPAhSMVkqjipump", "sym": "PODCAT", "reason": "vol1h 4153<40k"}
+{"t": "2026-11-07 02:32:38 WIB", "mint": "2XHe8XaNzbKEPmiZWqqBLhDKEKYa9xFdros6DFbrpump", "sym": "FOMO", "reason": "vol1h 79<40k"}
+{"t": "2026-11-07 02:32:40 WIB", "mint": "8CqriKGeyCn2ER86uwbyZaDzMKYkryZErNCeVk5apump", "sym": "game", "reason": "liq 0<20k"}
