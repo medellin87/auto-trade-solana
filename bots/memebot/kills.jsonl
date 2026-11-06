@@ -11548,3 +11548,6 @@
 {"t": "2026-11-06 07:19:51 WIB", "mint": "4QnrCt8AbhoD4Th2a3ph6QMsiwLKA2rrZnJN9aZpJnzM", "sym": "SCRYPT", "reason": "vol1h 1<40k"}
 {"t": "2026-11-06 07:19:53 WIB", "mint": "5WjMhnaKcuCcKeLFYFP27pKGKPcKcjGFPcdKhViapump", "sym": "DGEN", "reason": "vol1h 2509<40k"}
 {"t": "2026-11-06 07:20:39 WIB", "mint": "519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump", "sym": "RETIRE", "reason": "vol1h 14495<40k"}
+{"t": "2026-11-06 07:21:26 WIB", "mint": "E4LtkkDAv5fPL7N4zLZMnFgfwu6WjVRGKnjTbHVTpump", "sym": "BLUXEL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 07:23:43 WIB", "mint": "FdhcFfdxuxC1rRQtqG8nfr76pSHEX5v5ac8wULWXpump", "sym": "APE", "reason": "vol1h 3<40k"}
+{"t": "2026-11-06 07:23:44 WIB", "mint": "9AkUUP7htRyuMsTz2Jc5X1tdrUZxa8sD7iPSjYNRqaZV", "sym": "?", "reason": "no solana pair"}
