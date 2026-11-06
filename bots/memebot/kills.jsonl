@@ -12618,3 +12618,12 @@
 {"t": "2026-11-06 21:00:23 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 1545<40k"}
 {"t": "2026-11-06 21:01:55 WIB", "mint": "DXAr71P11EoKtR5CftQEfxgeVKVvQTJQnrtWPK8xpump", "sym": "MINERS", "reason": "vol1h 0<40k"}
 {"t": "2026-11-06 21:01:57 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.351<0.6"}
+{"t": "2026-11-06 21:02:44 WIB", "mint": "4FHEBKNYy6BZ1QFMKj1xL8HDTM12rdXLRYw8DgiCUnQn", "sym": "LABS", "reason": "liq 10650<20k"}
+{"t": "2026-11-06 21:02:46 WIB", "mint": "2cfhWuibpfehWjwhtqWxQgqfCxqLT4rvT2gJBW1Lpump", "sym": "RHSI", "reason": "vol1h 1<40k"}
+{"t": "2026-11-06 21:02:47 WIB", "mint": "2D88NTW3ND7gGYRXpZvsD9jkYn9yN3Qm8CVyprHLpump", "sym": "POMBERT", "reason": "vol1h 15292<40k"}
+{"t": "2026-11-06 21:02:49 WIB", "mint": "6BTFfjFTs6THMYyPp66pe99umPbgNuAseNzt8Sd3pump", "sym": "WhatsUP", "reason": "vol1h 11068<40k"}
+{"t": "2026-11-06 21:02:51 WIB", "mint": "B7tXcd782qYKZiZk3HNu6nDzsYLto8hr23rLUKBCpump", "sym": "GM", "reason": "LP locked 79%<90"}
+{"t": "2026-11-06 21:02:52 WIB", "mint": "4nQqYeHziRZaiYLodVt56q9AyubY693oGnSPXYcNpump", "sym": "LION", "reason": "vol1h 0<40k"}
+{"t": "2026-11-06 21:03:39 WIB", "mint": "88u51cRpQETNJqomtqgUj9xYKJjkn3RLsZS9qae6pump", "sym": "lucky", "reason": "liq 0<20k"}
+{"t": "2026-11-06 21:04:26 WIB", "mint": "3zhGmXK4B1trPzJh4cG1et2H1GRtC7uWcvLhFcvSBGmV", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-06 21:05:12 WIB", "mint": "8jaj3rXyuMKsyiKz2eXX4eEDh1qWuptEXmqmnsyapump", "sym": "Gobbler", "reason": "vol1h 0<40k"}
