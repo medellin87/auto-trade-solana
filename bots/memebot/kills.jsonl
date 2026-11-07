@@ -15170,3 +15170,8 @@
 {"t": "2026-11-08 01:30:44 WIB", "mint": "21egFEadeDfo117KUTacewoBFbfiKhvzcFQpiaRUpump", "sym": "TELEPAID", "reason": "liq 0<20k"}
 {"t": "2026-11-08 01:31:30 WIB", "mint": "FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump", "sym": "Busted", "reason": "vol1h 2<40k"}
 {"t": "2026-11-08 01:31:32 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 248<40k"}
+{"t": "2026-11-08 01:32:18 WIB", "mint": "GdDDtMSiECRSwe4a3qci83BXUuGckJZAnQ9eWFGkpump", "sym": "LUNA", "reason": "liq 0<20k"}
+{"t": "2026-11-08 01:33:05 WIB", "mint": "8QTBDqUVWQjP6KzfrtLkBKhfaFLDenxvqFv2tDkGdMpu", "sym": "HYMET", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 01:34:37 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 21158<40k"}
+{"t": "2026-11-08 01:34:38 WIB", "mint": "38xxeytGQZ9KJWoKogdMo8Cimctmo8fVx6UDeP59pump", "sym": "MUGI", "reason": "vol1h 1<40k"}
+{"t": "2026-11-08 01:34:40 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "vol1h 5394<40k"}
