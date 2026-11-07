@@ -15636,3 +15636,8 @@
 {"t": "2026-11-08 06:38:00 WIB", "mint": "62GCmXJQVUZ5BZ5EJqDavtQmQRcAXXwFAXEv1h5apump", "sym": "Highcap", "reason": "liq 4485<20k"}
 {"t": "2026-11-08 06:38:47 WIB", "mint": "AdcN6x4M4ujrcAam1kgApn7XAssbDGtG8zX5Tgc9pump", "sym": "PMUP", "reason": "liq 0<20k"}
 {"t": "2026-11-08 06:39:33 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "vol1h 1407<40k"}
+{"t": "2026-11-08 06:40:20 WIB", "mint": "GAGDqXtsZyEb3meqYDVfZ61bpbeCmhQJpxXffhkapump", "sym": "MACCA", "reason": "vol1h 315<40k"}
+{"t": "2026-11-08 06:40:22 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 4800<40k"}
+{"t": "2026-11-08 06:41:08 WIB", "mint": "5CVJ8W52Z41KRfAYHnpJTSMx4eP5ZThGDZ5tW7R8pump", "sym": "SHANE", "reason": "vol1h 214<40k"}
+{"t": "2026-11-08 06:41:55 WIB", "mint": "ESsJudHZ9BYFcwMQRe7xoWfgxK3BeEgkfexHmnqipump", "sym": "porkchop", "reason": "vol1h 27868<40k"}
+{"t": "2026-11-08 06:42:46 WIB", "mint": "68EB2XWzg6ZMUg1VXgWEHgx4WP1X1JG8mWY4SB86pump", "sym": "KRYOX", "reason": "vol1h 0<40k"}

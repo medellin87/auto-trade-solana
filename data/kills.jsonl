@@ -1,8 +1,3 @@
-{"t": "2026-11-08 06:19:58 WIB", "mint": "7jXs2ff3dN4ZxngNADH3152Q2PNwMGg4mhTEZ7Rnpump", "sym": "HABIBI", "reason": "vol1h 11<40k"}
-{"t": "2026-11-08 06:19:59 WIB", "mint": "4zgsp8SGdYvwAK4s8BxF7yq45zr4AXN5NLmFJ6p8Ps4J", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-08 06:20:01 WIB", "mint": "6P565raMnJykrP71KYowo4jsAeM5tgdQma4abPdfLoat", "sym": "SIZE", "reason": "vol1h 24259<40k"}
-{"t": "2026-11-08 06:21:33 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "vol1h 3857<40k"}
-{"t": "2026-11-08 06:22:19 WIB", "mint": "3kQbP4tTBtUQ13TifHEon7X6ms9MhYtTr43m612owo5P", "sym": "GTA6", "reason": "vol1h 25764<40k"}
 {"t": "2026-11-08 06:23:06 WIB", "mint": "61Zymfc5PMYNhWpZLKc9wLeYMmCHFushQB9PEMp9pump", "sym": "HINT", "reason": "liq 1958<20k"}
 {"t": "2026-11-08 06:23:53 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 659<40k"}
 {"t": "2026-11-08 06:25:25 WIB", "mint": "CM5ZLrUH1iTqeEn3Q23P6FGYwq9DprLiHZpNY53rboob", "sym": "ABTC", "reason": "top10 72.2%>25"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-08 06:38:00 WIB", "mint": "62GCmXJQVUZ5BZ5EJqDavtQmQRcAXXwFAXEv1h5apump", "sym": "Highcap", "reason": "liq 4485<20k"}
 {"t": "2026-11-08 06:38:47 WIB", "mint": "AdcN6x4M4ujrcAam1kgApn7XAssbDGtG8zX5Tgc9pump", "sym": "PMUP", "reason": "liq 0<20k"}
 {"t": "2026-11-08 06:39:33 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "vol1h 1407<40k"}
+{"t": "2026-11-08 06:40:20 WIB", "mint": "GAGDqXtsZyEb3meqYDVfZ61bpbeCmhQJpxXffhkapump", "sym": "MACCA", "reason": "vol1h 315<40k"}
+{"t": "2026-11-08 06:40:22 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 4800<40k"}
+{"t": "2026-11-08 06:41:08 WIB", "mint": "5CVJ8W52Z41KRfAYHnpJTSMx4eP5ZThGDZ5tW7R8pump", "sym": "SHANE", "reason": "vol1h 214<40k"}
+{"t": "2026-11-08 06:41:55 WIB", "mint": "ESsJudHZ9BYFcwMQRe7xoWfgxK3BeEgkfexHmnqipump", "sym": "porkchop", "reason": "vol1h 27868<40k"}
+{"t": "2026-11-08 06:42:46 WIB", "mint": "68EB2XWzg6ZMUg1VXgWEHgx4WP1X1JG8mWY4SB86pump", "sym": "KRYOX", "reason": "vol1h 0<40k"}
