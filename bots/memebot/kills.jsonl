@@ -15415,3 +15415,7 @@
 {"t": "2026-11-08 04:19:30 WIB", "mint": "nd8AaKQzPYB4EneZhZ2ii2cWHQMRmbiSqWTb3Dmpump", "sym": "sink", "reason": "vol1h 15<40k"}
 {"t": "2026-11-08 04:19:31 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "vol1h 176<40k"}
 {"t": "2026-11-08 04:20:18 WIB", "mint": "AxcMAGQXrS2zrGibXkGq5K38Au5FD9MsviHp4M76pump", "sym": "CLAUDIA", "reason": "liq 6186<20k"}
+{"t": "2026-11-08 04:21:50 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 155<40k"}
+{"t": "2026-11-08 04:24:07 WIB", "mint": "AJBZMJ4a4dLKvrXmjkrKwjaaQCdph5kssjadZizppump", "sym": "GTA6COP", "reason": "vol1h 1371<40k"}
+{"t": "2026-11-08 04:24:08 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 1161<40k"}
+{"t": "2026-11-08 04:24:10 WIB", "mint": "76EABWAydCs13EcLDCjF9LBUiGaeKuEzoynrGA4fpump", "sym": "BILL", "reason": "liq 2675<20k"}
