@@ -15488,3 +15488,7 @@
 {"t": "2026-11-08 05:05:52 WIB", "mint": "FQ47SAH4xuRJArffifAbqZSX1kq3ewE3GxnLuGYypump", "sym": "PoUT", "reason": "vol1h 228<40k"}
 {"t": "2026-11-08 05:06:39 WIB", "mint": "F3cCiTtB5hh7sf2BudYeXm45jPpF4FNbADRjje7MDfrF", "sym": "LIQUID", "reason": "liq 7967<20k"}
 {"t": "2026-11-08 05:06:40 WIB", "mint": "6TL9QgfwNdZZv1GokU64XVtP5xh7wX5FgutvSdBQpump", "sym": "mem", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 05:08:12 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "vol1h 8476<40k"}
+{"t": "2026-11-08 05:08:59 WIB", "mint": "GAGDqXtsZyEb3meqYDVfZ61bpbeCmhQJpxXffhkapump", "sym": "MACCA", "reason": "vol1h 34<40k"}
+{"t": "2026-11-08 05:09:45 WIB", "mint": "5CVJ8W52Z41KRfAYHnpJTSMx4eP5ZThGDZ5tW7R8pump", "sym": "SHANE", "reason": "vol1h 623<40k"}
+{"t": "2026-11-08 05:09:47 WIB", "mint": "AuQKd7r4jT2TQwsWtEQUcaqJsoFAXa5Uq3r7RTFABAGS", "sym": "ECOMERATE", "reason": "vol1h 7744<40k"}
