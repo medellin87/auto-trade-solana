@@ -14164,3 +14164,5 @@
 {"t": "2026-11-07 13:52:42 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 2700<40k"}
 {"t": "2026-11-07 13:52:43 WIB", "mint": "8iQwG4AGgrXszr8tFHvagXVYpniYsPcAqLEUct3cpump", "sym": "GRIDLOCK", "reason": "vol1h 0<40k"}
 {"t": "2026-11-07 13:56:31 WIB", "mint": "DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump", "sym": "HODL", "reason": "score 0.552<0.6"}
+{"t": "2026-11-07 13:57:17 WIB", "mint": "3axY5MwcFTs3YMkVXpp3BzNzMr9ghf6Q8ZYfsm9Hpump", "sym": "KOL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 13:57:19 WIB", "mint": "AR282rBKsxZbhXsYvjcgF5UuS4ckQtRM5KU7k9DHpump", "sym": "CASHDOG", "reason": "liq 1998<20k"}
