@@ -14663,3 +14663,7 @@
 {"t": "2026-11-07 19:24:09 WIB", "mint": "7PcgFRfifR9VDniF8bfJfsuyi9TWuQY9A5sRMsgspump", "sym": "fone", "reason": "vol1h 39976<40k"}
 {"t": "2026-11-07 19:25:40 WIB", "mint": "FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump", "sym": "Busted", "reason": "vol1h 105<40k"}
 {"t": "2026-11-07 19:25:42 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 671<40k"}
+{"t": "2026-11-07 19:26:28 WIB", "mint": "4LHAeHbziM2KAcdmsiaWPSgz2oMdiHAqPhpB68xbpump", "sym": "Burn", "reason": "liq 9579<20k"}
+{"t": "2026-11-07 19:27:15 WIB", "mint": "BNJm3TDYcP5CwnFDYPdEjdUydK9NYgwd9yJYFuvbz1c2", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 19:28:02 WIB", "mint": "2aTYTMEpcDQpSaXt3dYPmDX2ogSoZu5EXT6FyAcVpump", "sym": "gooner", "reason": "vol1h 1217<40k"}
+{"t": "2026-11-07 19:28:03 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 2509<40k"}
