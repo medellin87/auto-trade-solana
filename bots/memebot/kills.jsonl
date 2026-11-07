@@ -14880,3 +14880,7 @@
 {"t": "2026-11-07 22:11:58 WIB", "mint": "4gyubJ7sqYDySUDmVFEfSdvvC43F1eWLUXgEHDDWpump", "sym": "debtdog", "reason": "score 0.585<0.6"}
 {"t": "2026-11-07 22:12:00 WIB", "mint": "H1E8QmJWin7RBq2BV78RLPR8mUyKz2oh2sLEG6CSnarK", "sym": "SPAD", "reason": "vol1h 3142<40k"}
 {"t": "2026-11-07 22:14:17 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "top10 28.0%>25"}
+{"t": "2026-11-07 22:15:04 WIB", "mint": "CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump", "sym": "MIR", "reason": "vol1h 694<40k"}
+{"t": "2026-11-07 22:15:05 WIB", "mint": "SfN45ywcz5MnTmq6eUjEdsAj3Qye3SUQhuginTFgrey", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 22:15:52 WIB", "mint": "HgaTfWUmT8vUjGQY9QvQq4hQMkUyQkcXfXuRhu71pump", "sym": "Flash", "reason": "vol1h 79<40k"}
+{"t": "2026-11-07 22:17:24 WIB", "mint": "HfAimQ71tRyonnu8KiKy1tZ52MieNdS43mawGsqapump", "sym": "HESOYAM", "reason": "vol1h 17936<40k"}
