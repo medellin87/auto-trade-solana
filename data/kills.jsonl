@@ -1,8 +1,3 @@
-{"t": "2026-11-07 12:25:39 WIB", "mint": "3axY5MwcFTs3YMkVXpp3BzNzMr9ghf6Q8ZYfsm9Hpump", "sym": "KOL", "reason": "liq 0<20k"}
-{"t": "2026-11-07 12:25:40 WIB", "mint": "GaEbreYm9pGNj1seKDQaPV98aeSMb3M6FmE4B6EApump", "sym": "Pebble", "reason": "vol1h 42<40k"}
-{"t": "2026-11-07 12:29:27 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 35908<40k"}
-{"t": "2026-11-07 12:30:14 WIB", "mint": "BWCvTsDir5hrQVLNtGkEnmjjj3rwXDa14xoa3aWapump", "sym": "$KCAT", "reason": "vol1h 0<40k"}
-{"t": "2026-11-07 12:31:01 WIB", "mint": "21azpu32qfuNZR6TkKdUZKVnDtmvTUSBrXxhRFE5pump", "sym": "Hakutaku", "reason": "liq 0<20k"}
 {"t": "2026-11-07 12:31:02 WIB", "mint": "2VQjP5VaxExyMBC4nC811hyPzRiyEUnurJv7wMnMBAGS", "sym": "VADER", "reason": "vol1h 3907<40k"}
 {"t": "2026-11-07 12:31:49 WIB", "mint": "Bhe7zAmLTxsV2JiiibujUX4yHJbKjPFYTLSGTQUzpump", "sym": "Slingfolio", "reason": "liq 5854<20k"}
 {"t": "2026-11-07 12:31:50 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 189<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-07 12:45:15 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-07 12:46:02 WIB", "mint": "EiGomUgMj2Cw7itffw7UHT6suYDx3LGUFbp8uZn1XCfJ", "sym": "PS5", "reason": "vol1h 3702<40k"}
 {"t": "2026-11-07 12:46:03 WIB", "mint": "EbZ3Kfay9pN5BsTY4pWNUtw6B6EYy5xSW7LTWi4Rpump", "sym": "COOKD", "reason": "liq 0<20k"}
+{"t": "2026-11-07 12:46:50 WIB", "mint": "CGKevMsAwUP7evr52LyqHcy1yQV5GWww6HpLfQ1ZdjZS", "sym": "DUCKDITO", "reason": "vol1h 382<40k"}
+{"t": "2026-11-07 12:47:37 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 1014<40k"}
+{"t": "2026-11-07 12:47:38 WIB", "mint": "FMqWsXKaAe41Kxfji7v5cpzQmr2gKAteAi9wREmkpump", "sym": "DONNA", "reason": "vol1h 1<40k"}
+{"t": "2026-11-07 12:48:25 WIB", "mint": "GsZANz2KPDJdrQgcdmmYdmCUkxRWFfhkukcYeMSvpump", "sym": "PALICO", "reason": "vol1h 25989<40k"}
+{"t": "2026-11-07 12:48:26 WIB", "mint": "FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump", "sym": "Busted", "reason": "vol1h 54<40k"}
