@@ -15436,3 +15436,5 @@
 {"t": "2026-11-08 04:32:50 WIB", "mint": "CsMF3EMEVm9ow925mtFVwnAvTYUgckcQJrFUWEFMpump", "sym": "HLYS", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 04:33:36 WIB", "mint": "23bySGFVbrQwhAQ8AT2CQkCSdxWZhbzzEbnQNVCvpump", "sym": "SXSI", "reason": "liq 10449<20k"}
 {"t": "2026-11-08 04:33:38 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 04:35:55 WIB", "mint": "F3cCiTtB5hh7sf2BudYeXm45jPpF4FNbADRjje7MDfrF", "sym": "LIQUID", "reason": "liq 13887<20k"}
+{"t": "2026-11-08 04:35:56 WIB", "mint": "6TL9QgfwNdZZv1GokU64XVtP5xh7wX5FgutvSdBQpump", "sym": "mem", "reason": "vol1h 0<40k"}
