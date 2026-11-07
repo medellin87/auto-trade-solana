@@ -15302,3 +15302,9 @@
 {"t": "2026-11-08 03:02:55 WIB", "mint": "X39t6ZXvAJNyYG1AtPMCZcAeJTG8YAPLsb1Tn2Fpump", "sym": "delga", "reason": "vol1h 35993<40k"}
 {"t": "2026-11-08 03:02:56 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 1231<40k"}
 {"t": "2026-11-08 03:03:43 WIB", "mint": "GdDDtMSiECRSwe4a3qci83BXUuGckJZAnQ9eWFGkpump", "sym": "LUNA", "reason": "vol1h 1771<40k"}
+{"t": "2026-11-08 03:04:29 WIB", "mint": "F3cCiTtB5hh7sf2BudYeXm45jPpF4FNbADRjje7MDfrF", "sym": "LIQUID", "reason": "vol1h 18511<40k"}
+{"t": "2026-11-08 03:04:31 WIB", "mint": "6TL9QgfwNdZZv1GokU64XVtP5xh7wX5FgutvSdBQpump", "sym": "mem", "reason": "liq 0<20k"}
+{"t": "2026-11-08 03:06:02 WIB", "mint": "EmP7fc1LK5XqNKQzk1zPPZTSPpJfTc4eDoHj73xGU5x7", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 03:06:04 WIB", "mint": "6MidA49VWEJaYoyDGTcDKxmFFxrq3ohyCYgZQWfbpump", "sym": "BOOBIE", "reason": "liq 2099<20k"}
+{"t": "2026-11-08 03:06:05 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "vol1h 3672<40k"}
+{"t": "2026-11-08 03:06:52 WIB", "mint": "GAGDqXtsZyEb3meqYDVfZ61bpbeCmhQJpxXffhkapump", "sym": "MACCA", "reason": "vol1h 11462<40k"}
