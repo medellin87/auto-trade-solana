@@ -14534,3 +14534,9 @@
 {"t": "2026-11-07 17:48:08 WIB", "mint": "ESmgUDX9JK7EJ33y8PrAyN3wEuU8utdkaoCUivf757GE", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-07 17:49:39 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 54<40k"}
 {"t": "2026-11-07 17:49:41 WIB", "mint": "8P8BNixECEJw33Xg2WmqFX2YjcMFVa2PkvaU7Y1Spump", "sym": "burncoin", "reason": "vol1h 2<40k"}
+{"t": "2026-11-07 17:50:28 WIB", "mint": "7jpQyywZm2KD9NTZX7DoZkcvETWCEf56wb1nmfJmpump", "sym": "lucky", "reason": "vol1h 113<40k"}
+{"t": "2026-11-07 17:50:29 WIB", "mint": "61x1LzmmaLskTMwdM5gCKMJEJNgbk8xnQ6ndB9cjpump", "sym": "MeeNa", "reason": "vol1h 26727<40k"}
+{"t": "2026-11-07 17:51:16 WIB", "mint": "7SM67HaeM9gW9MoRycWnXthBsQcxWZznNZ9NtqXypump", "sym": "COINFT", "reason": "vol1h 564<40k"}
+{"t": "2026-11-07 17:51:17 WIB", "mint": "GGntxxCLGWER1GP265DMhHmmPffHc9BGDbcfvzGLpump", "sym": "NTP", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 17:52:04 WIB", "mint": "7i628ftthQaFFLqCNAjJmsPGCyurwCPYb3qRbqA8pump", "sym": "INCOGNITOCHAN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 17:52:50 WIB", "mint": "LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump", "sym": "PODS", "reason": "liq 2507<20k"}
