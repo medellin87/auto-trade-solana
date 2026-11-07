@@ -1,6 +1,3 @@
-{"t": "2026-11-07 19:48:16 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 6038<40k"}
-{"t": "2026-11-07 19:49:03 WIB", "mint": "4AN9uwPTNFfFCFzR4n9KaVk3JyLmMACewf3aXV6Zpump", "sym": "MEME", "reason": "vol1h 2680<40k"}
-{"t": "2026-11-07 19:49:04 WIB", "mint": "X7vvi2scAYDftprhfRf2ij2YHHbaL3Noenpzmrypump", "sym": "cig", "reason": "liq 0<20k"}
 {"t": "2026-11-07 19:51:21 WIB", "mint": "EphCWcWcVcG7fjtGhvk2UjCUqhRcRfpuTbCyn5xoBAGS", "sym": "DACITY", "reason": "LP locked 86%<90"}
 {"t": "2026-11-07 19:51:23 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 101<40k"}
 {"t": "2026-11-07 19:52:10 WIB", "mint": "9m7DdaxLjDhdCXwrvfiEkJ4bjuitwoboiW9pAaqcpump", "sym": "memecoin", "reason": "liq 0<20k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-07 20:07:51 WIB", "mint": "D1daGWL56VrjVagTKsGQRJagpDzyXAGZFmGV6XrFpump", "sym": "Scat", "reason": "vol1h 73<40k"}
 {"t": "2026-11-07 20:07:52 WIB", "mint": "FHCntFVzzGmbcUNmf1jBGaBsi4duboB1cwjg4yrcpump", "sym": "trauma", "reason": "liq 1980<20k"}
 {"t": "2026-11-07 20:08:39 WIB", "mint": "DphvrnuA1g7b9zRvSWdUxwfMj5sFS6Szy8C8rGuHr4VM", "sym": "BBOX", "reason": "vol1h 18046<40k"}
+{"t": "2026-11-07 20:10:11 WIB", "mint": "FdkG3mGaq8BcnYejs1fR4y6NV2wVmDjkRLYEWvjSpump", "sym": "Seatbelt", "reason": "vol1h 29921<40k"}
+{"t": "2026-11-07 20:10:12 WIB", "mint": "4gyubJ7sqYDySUDmVFEfSdvvC43F1eWLUXgEHDDWpump", "sym": "debtdog", "reason": "liq 0<20k"}
+{"t": "2026-11-07 20:10:14 WIB", "mint": "H1E8QmJWin7RBq2BV78RLPR8mUyKz2oh2sLEG6CSnarK", "sym": "SPAD", "reason": "vol1h 8100<40k"}

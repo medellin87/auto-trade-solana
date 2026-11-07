@@ -14719,3 +14719,6 @@
 {"t": "2026-11-07 20:07:51 WIB", "mint": "D1daGWL56VrjVagTKsGQRJagpDzyXAGZFmGV6XrFpump", "sym": "Scat", "reason": "vol1h 73<40k"}
 {"t": "2026-11-07 20:07:52 WIB", "mint": "FHCntFVzzGmbcUNmf1jBGaBsi4duboB1cwjg4yrcpump", "sym": "trauma", "reason": "liq 1980<20k"}
 {"t": "2026-11-07 20:08:39 WIB", "mint": "DphvrnuA1g7b9zRvSWdUxwfMj5sFS6Szy8C8rGuHr4VM", "sym": "BBOX", "reason": "vol1h 18046<40k"}
+{"t": "2026-11-07 20:10:11 WIB", "mint": "FdkG3mGaq8BcnYejs1fR4y6NV2wVmDjkRLYEWvjSpump", "sym": "Seatbelt", "reason": "vol1h 29921<40k"}
+{"t": "2026-11-07 20:10:12 WIB", "mint": "4gyubJ7sqYDySUDmVFEfSdvvC43F1eWLUXgEHDDWpump", "sym": "debtdog", "reason": "liq 0<20k"}
+{"t": "2026-11-07 20:10:14 WIB", "mint": "H1E8QmJWin7RBq2BV78RLPR8mUyKz2oh2sLEG6CSnarK", "sym": "SPAD", "reason": "vol1h 8100<40k"}
