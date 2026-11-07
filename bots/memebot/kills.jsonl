@@ -14829,3 +14829,8 @@
 {"t": "2026-11-07 21:33:38 WIB", "mint": "C53oR3dJciYDQAt4SUv4UBzb4DgKJyr3ovwCZLPmpump", "sym": "BPOOL", "reason": "vol1h 11512<40k"}
 {"t": "2026-11-07 21:35:57 WIB", "mint": "25YymNVsua1yZbapaiVuhCgS2w8KrFwt2p7hF3Aqpump", "sym": "PIZZA", "reason": "vol1h 128<40k"}
 {"t": "2026-11-07 21:37:29 WIB", "mint": "6JmDY4eYXiBJhKFjLhM2oG95UiwkEoAN2daqq6tUpump", "sym": "NOPANIC", "reason": "liq 19880<20k"}
+{"t": "2026-11-07 21:38:15 WIB", "mint": "CfL8KmoTngbNpmjAo1SD1udnJ1h2Rg23bng6WCbDpump", "sym": "farmsem", "reason": "liq 2027<20k"}
+{"t": "2026-11-07 21:38:17 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.451<0.6"}
+{"t": "2026-11-07 21:39:05 WIB", "mint": "iW4XP2BWd3iqf1LMZvpsKidb49wVAh3S8SfNUsDpump", "sym": "duge", "reason": "score 0.494<0.6"}
+{"t": "2026-11-07 21:39:51 WIB", "mint": "DphvrnuA1g7b9zRvSWdUxwfMj5sFS6Szy8C8rGuHr4VM", "sym": "BBOX", "reason": "vol1h 568<40k"}
+{"t": "2026-11-07 21:40:38 WIB", "mint": "EUn8wDoXKeCA3MuQUxhzPo3Mpsgu4pNNiPUnj7puHUSH", "sym": "HUSH", "reason": "vol1h 0<40k"}
