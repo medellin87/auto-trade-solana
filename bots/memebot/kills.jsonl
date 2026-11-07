@@ -15012,3 +15012,7 @@
 {"t": "2026-11-07 23:38:05 WIB", "mint": "8JE8SbNyVeBfF5BYpEyk5zdXxUYkQjxyyh4VuiDYpump", "sym": "JW3", "reason": "vol1h 1194<40k"}
 {"t": "2026-11-07 23:39:37 WIB", "mint": "FUqebvxLEu5WEfzGkwPnQ7rhSjxKizQVk92XF4vLpump", "sym": "Roo", "reason": "liq 0<20k"}
 {"t": "2026-11-07 23:40:24 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.503<0.6"}
+{"t": "2026-11-07 23:41:11 WIB", "mint": "GfUFpGSAdGXb9anQJLXZ2Z9ipXJcwmLjn5e3LA9vpump", "sym": "HOLDMAS", "reason": "vol1h 8424<40k"}
+{"t": "2026-11-07 23:41:57 WIB", "mint": "FtbfeZXDrUFqC31z9dW9cBrbSUqcD3QaCtXVwk33pump", "sym": "miggles", "reason": "liq 0<20k"}
+{"t": "2026-11-07 23:42:44 WIB", "mint": "BB843oCDKgqZyQXiGfF5RAHF1ZYsEBQx8oxGq5dPZqHq", "sym": "BB84", "reason": "top10 73.1%>25"}
+{"t": "2026-11-07 23:43:31 WIB", "mint": "DJjJJNZtLDZv7epjeqs2PaWwUk8okJHRAGBkTo2JBAGS", "sym": "ZERONIUM", "reason": "vol1h 8767<40k"}
