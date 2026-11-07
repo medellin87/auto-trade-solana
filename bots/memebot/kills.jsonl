@@ -15392,3 +15392,7 @@
 {"t": "2026-11-08 04:03:56 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 1594<40k"}
 {"t": "2026-11-08 04:05:28 WIB", "mint": "F3cCiTtB5hh7sf2BudYeXm45jPpF4FNbADRjje7MDfrF", "sym": "LIQUID", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 04:05:30 WIB", "mint": "6TL9QgfwNdZZv1GokU64XVtP5xh7wX5FgutvSdBQpump", "sym": "mem", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 04:07:01 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "vol1h 1819<40k"}
+{"t": "2026-11-08 04:07:03 WIB", "mint": "EmP7fc1LK5XqNKQzk1zPPZTSPpJfTc4eDoHj73xGU5x7", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 04:07:49 WIB", "mint": "GAGDqXtsZyEb3meqYDVfZ61bpbeCmhQJpxXffhkapump", "sym": "MACCA", "reason": "vol1h 189<40k"}
+{"t": "2026-11-08 04:08:36 WIB", "mint": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK", "sym": "MAMESUKE", "reason": "vol1h 2409<40k"}
