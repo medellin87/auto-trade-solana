@@ -14797,3 +14797,6 @@
 {"t": "2026-11-07 21:10:13 WIB", "mint": "EUn8wDoXKeCA3MuQUxhzPo3Mpsgu4pNNiPUnj7puHUSH", "sym": "HUSH", "reason": "vol1h 0<40k"}
 {"t": "2026-11-07 21:11:00 WIB", "mint": "FdkG3mGaq8BcnYejs1fR4y6NV2wVmDjkRLYEWvjSpump", "sym": "Seatbelt", "reason": "liq 4337<20k"}
 {"t": "2026-11-07 21:11:03 WIB", "mint": "H1E8QmJWin7RBq2BV78RLPR8mUyKz2oh2sLEG6CSnarK", "sym": "SPAD", "reason": "vol1h 4008<40k"}
+{"t": "2026-11-07 21:13:20 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 6900<40k"}
+{"t": "2026-11-07 21:14:07 WIB", "mint": "CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump", "sym": "MIR", "reason": "vol1h 2246<40k"}
+{"t": "2026-11-07 21:14:54 WIB", "mint": "HgaTfWUmT8vUjGQY9QvQq4hQMkUyQkcXfXuRhu71pump", "sym": "Flash", "reason": "liq 2020<20k"}
