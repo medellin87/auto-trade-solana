@@ -1,8 +1,3 @@
-{"t": "2026-11-07 13:02:22 WIB", "mint": "Bhe7zAmLTxsV2JiiibujUX4yHJbKjPFYTLSGTQUzpump", "sym": "Slingfolio", "reason": "vol1h 10979<40k"}
-{"t": "2026-11-07 13:02:24 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 192<40k"}
-{"t": "2026-11-07 13:03:10 WIB", "mint": "76inp9q4HxQUsGxEvxMhhjtx9DipbMrqssLQEcWABJnp", "sym": "STONKA", "reason": "vol1h 24958<40k"}
-{"t": "2026-11-07 13:03:58 WIB", "mint": "BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump", "sym": "Alice", "reason": "score 0.423<0.6"}
-{"t": "2026-11-07 13:05:29 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 6575<40k"}
 {"t": "2026-11-07 13:06:16 WIB", "mint": "2fAnUZorfTy7pQ1m8q8EVAntZPMkHFQh2Ks6FXzepump", "sym": "DIC", "reason": "vol1h 38<40k"}
 {"t": "2026-11-07 13:07:03 WIB", "mint": "GoqdpMVvqawNUvdfTmqXvvoSaDRrqDQexzG7wzf2pump", "sym": "SLINGFOLIO", "reason": "score 0.545<0.6"}
 {"t": "2026-11-07 13:07:04 WIB", "mint": "3J9aZ8aJq8c5Xz7DmBHGPi1e4v6Dw1S87tatoPXYpump", "sym": "Capiboo", "reason": "liq 16058<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-07 13:18:59 WIB", "mint": "GsZANz2KPDJdrQgcdmmYdmCUkxRWFfhkukcYeMSvpump", "sym": "PALICO", "reason": "vol1h 38<40k"}
 {"t": "2026-11-07 13:19:00 WIB", "mint": "FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump", "sym": "Busted", "reason": "vol1h 53<40k"}
 {"t": "2026-11-07 13:19:47 WIB", "mint": "999Y1nMepcsWZSd3gNXYPku6S6p4bEUNkaAaNHdgpump", "sym": "GSTR", "reason": "vol1h 36385<40k"}
+{"t": "2026-11-07 13:20:33 WIB", "mint": "CESsto7youNSupcBZ38ohSRAwDS2SHdvUazhRR5rpump", "sym": "iMoney", "reason": "vol1h 113<40k"}
+{"t": "2026-11-07 13:21:20 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 5001<40k"}
+{"t": "2026-11-07 13:22:07 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 11803<40k"}
+{"t": "2026-11-07 13:22:08 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 2854<40k"}
+{"t": "2026-11-07 13:22:10 WIB", "mint": "8iQwG4AGgrXszr8tFHvagXVYpniYsPcAqLEUct3cpump", "sym": "GRIDLOCK", "reason": "vol1h 0<40k"}
