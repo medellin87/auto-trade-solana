@@ -15653,3 +15653,7 @@
 {"t": "2026-11-08 06:47:32 WIB", "mint": "2Vyn71PUv4t9dDcA6dDDRSgmS4eeq7kBr93MPfkzbfun", "sym": "fun", "reason": "liq 8152<20k"}
 {"t": "2026-11-08 06:48:19 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 1529<40k"}
 {"t": "2026-11-08 06:49:05 WIB", "mint": "2QvHVcsXYid5LaPWniQhugGsP1nFT9cpZhCXrfznpump", "sym": "TRSH", "reason": "vol1h 1<40k"}
+{"t": "2026-11-08 06:49:53 WIB", "mint": "BWh8q5etuPwekJ2JEDkbMxMQWy4FysoJ8LEwE3rFpump", "sym": "GIGAHUG", "reason": "score 0.556<0.6"}
+{"t": "2026-11-08 06:50:40 WIB", "mint": "4pvckjr5iF6vCknppdHhyEYHbdmdqSHnErBTiTbquyum", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 06:50:41 WIB", "mint": "5DXtqcCcSGJWvuJSoE6nmhm4qpQYrWv1x5W45QMvpump", "sym": "BLKFRI", "reason": "vol1h 1077<40k"}
+{"t": "2026-11-08 06:51:28 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "score 0.589<0.6"}
