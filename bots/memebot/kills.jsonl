@@ -14123,3 +14123,8 @@
 {"t": "2026-11-07 13:25:57 WIB", "mint": "DKtofLM6bhb54GQy5YFSWQjQmGiZqAkjzkQJ1LTopump", "sym": "HODL", "reason": "score 0.507<0.6"}
 {"t": "2026-11-07 13:26:44 WIB", "mint": "3axY5MwcFTs3YMkVXpp3BzNzMr9ghf6Q8ZYfsm9Hpump", "sym": "KOL", "reason": "vol1h 5<40k"}
 {"t": "2026-11-07 13:26:46 WIB", "mint": "AR282rBKsxZbhXsYvjcgF5UuS4ckQtRM5KU7k9DHpump", "sym": "CASHDOG", "reason": "vol1h 2929<40k"}
+{"t": "2026-11-07 13:30:33 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.468<0.6"}
+{"t": "2026-11-07 13:31:20 WIB", "mint": "BWCvTsDir5hrQVLNtGkEnmjjj3rwXDa14xoa3aWapump", "sym": "$KCAT", "reason": "vol1h 3<40k"}
+{"t": "2026-11-07 13:32:06 WIB", "mint": "21azpu32qfuNZR6TkKdUZKVnDtmvTUSBrXxhRFE5pump", "sym": "Hakutaku", "reason": "liq 12870<20k"}
+{"t": "2026-11-07 13:32:08 WIB", "mint": "AKPMwDNqYCvRuzFgYpvX8FcFFZb1nCRDPUPjuczfpump", "sym": "PAYBACK", "reason": "liq 0<20k"}
+{"t": "2026-11-07 13:32:10 WIB", "mint": "2VQjP5VaxExyMBC4nC811hyPzRiyEUnurJv7wMnMBAGS", "sym": "VADER", "reason": "vol1h 1957<40k"}
