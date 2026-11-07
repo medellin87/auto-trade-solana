@@ -1,8 +1,3 @@
-{"t": "2026-11-08 03:59:12 WIB", "mint": "7cXnBxmP61vAKZLTukHJbnyYRmbFTaWiYHX1sMAupump", "sym": "PEPE", "reason": "vol1h 201<40k"}
-{"t": "2026-11-08 03:59:13 WIB", "mint": "FHSB5iPopaLZxUubiQsyHiaEuXu5Hne7uqMYvtzhpump", "sym": "GIGAHUG", "reason": "liq 1782<20k"}
-{"t": "2026-11-08 04:01:30 WIB", "mint": "F7PuP5Typwuv3P6dtbB7N6fBVmqYSWu7We7S4wT1pump", "sym": "DEMWOJAK", "reason": "liq 2059<20k"}
-{"t": "2026-11-08 04:01:32 WIB", "mint": "FTrbc3sUPbTsKiNK3e5wWeAaGBuLwmY9RWtKJCSpump", "sym": "Jos\u00e9", "reason": "vol1h 0<40k"}
-{"t": "2026-11-08 04:01:34 WIB", "mint": "AFfoew4h79qV3HSdCA19LQM6CimNpznBaY7jjpuXpump", "sym": "GOOBLO", "reason": "LP locked 72%<90"}
 {"t": "2026-11-08 04:02:20 WIB", "mint": "CsMF3EMEVm9ow925mtFVwnAvTYUgckcQJrFUWEFMpump", "sym": "HLYS", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 04:03:07 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 04:03:08 WIB", "mint": "23bySGFVbrQwhAQ8AT2CQkCSdxWZhbzzEbnQNVCvpump", "sym": "SXSI", "reason": "vol1h 8898<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-08 04:16:16 WIB", "mint": "5bhvBUBxeHHbTx9Hpu2bBKd8UCrzoeim1UWjxZ7h9KoL", "sym": "KOL", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 04:17:04 WIB", "mint": "AnDnzPZTvb7AV9jNM2N18DU72wAK4X8LnF5zoApQBAGS", "sym": "SLOPCASH", "reason": "vol1h 37566<40k"}
 {"t": "2026-11-08 04:17:08 WIB", "mint": "5EGnnZ1HRhvacTBcAzmBifoD9j2vrwUCbd6UQ5USzAZD", "sym": "RIZZMAS", "reason": "vol1h 1826<40k"}
+{"t": "2026-11-08 04:18:42 WIB", "mint": "BfCtziixpDc1Fqn7DTFY9H1gRPXmXxAAitqHdngXpump", "sym": "pigeons", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 04:19:28 WIB", "mint": "5Fis49VQ4XR2k1PjScGSBPbFrc7H9N7YFcRGz6k5sLUJ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 04:19:30 WIB", "mint": "nd8AaKQzPYB4EneZhZ2ii2cWHQMRmbiSqWTb3Dmpump", "sym": "sink", "reason": "vol1h 15<40k"}
+{"t": "2026-11-08 04:19:31 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "vol1h 176<40k"}
+{"t": "2026-11-08 04:20:18 WIB", "mint": "AxcMAGQXrS2zrGibXkGq5K38Au5FD9MsviHp4M76pump", "sym": "CLAUDIA", "reason": "liq 6186<20k"}
