@@ -14038,3 +14038,5 @@
 {"t": "2026-11-07 12:21:05 WIB", "mint": "8iQwG4AGgrXszr8tFHvagXVYpniYsPcAqLEUct3cpump", "sym": "GRIDLOCK", "reason": "vol1h 1944<40k"}
 {"t": "2026-11-07 12:25:39 WIB", "mint": "3axY5MwcFTs3YMkVXpp3BzNzMr9ghf6Q8ZYfsm9Hpump", "sym": "KOL", "reason": "liq 0<20k"}
 {"t": "2026-11-07 12:25:40 WIB", "mint": "GaEbreYm9pGNj1seKDQaPV98aeSMb3M6FmE4B6EApump", "sym": "Pebble", "reason": "vol1h 42<40k"}
+{"t": "2026-11-07 12:29:27 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 35908<40k"}
+{"t": "2026-11-07 12:30:14 WIB", "mint": "BWCvTsDir5hrQVLNtGkEnmjjj3rwXDa14xoa3aWapump", "sym": "$KCAT", "reason": "vol1h 0<40k"}
