@@ -15555,3 +15555,7 @@
 {"t": "2026-11-08 05:49:53 WIB", "mint": "4zgsp8SGdYvwAK4s8BxF7yq45zr4AXN5NLmFJ6p8Ps4J", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 05:49:54 WIB", "mint": "6P565raMnJykrP71KYowo4jsAeM5tgdQma4abPdfLoat", "sym": "SIZE", "reason": "vol1h 33739<40k"}
 {"t": "2026-11-08 05:50:41 WIB", "mint": "BfCtziixpDc1Fqn7DTFY9H1gRPXmXxAAitqHdngXpump", "sym": "pigeons", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 05:51:27 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "vol1h 43<40k"}
+{"t": "2026-11-08 05:52:15 WIB", "mint": "3kQbP4tTBtUQ13TifHEon7X6ms9MhYtTr43m612owo5P", "sym": "GTA6", "reason": "top10 26.6%>25"}
+{"t": "2026-11-08 05:53:01 WIB", "mint": "61Zymfc5PMYNhWpZLKc9wLeYMmCHFushQB9PEMp9pump", "sym": "HINT", "reason": "liq 2002<20k"}
+{"t": "2026-11-08 05:53:48 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 491<40k"}
