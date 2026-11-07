@@ -1,8 +1,3 @@
-{"t": "2026-11-08 06:35:42 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 8<40k"}
-{"t": "2026-11-08 06:37:13 WIB", "mint": "FQ47SAH4xuRJArffifAbqZSX1kq3ewE3GxnLuGYypump", "sym": "PoUT", "reason": "vol1h 84<40k"}
-{"t": "2026-11-08 06:38:00 WIB", "mint": "62GCmXJQVUZ5BZ5EJqDavtQmQRcAXXwFAXEv1h5apump", "sym": "Highcap", "reason": "liq 4485<20k"}
-{"t": "2026-11-08 06:38:47 WIB", "mint": "AdcN6x4M4ujrcAam1kgApn7XAssbDGtG8zX5Tgc9pump", "sym": "PMUP", "reason": "liq 0<20k"}
-{"t": "2026-11-08 06:39:33 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "vol1h 1407<40k"}
 {"t": "2026-11-08 06:40:20 WIB", "mint": "GAGDqXtsZyEb3meqYDVfZ61bpbeCmhQJpxXffhkapump", "sym": "MACCA", "reason": "vol1h 315<40k"}
 {"t": "2026-11-08 06:40:22 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 4800<40k"}
 {"t": "2026-11-08 06:41:08 WIB", "mint": "5CVJ8W52Z41KRfAYHnpJTSMx4eP5ZThGDZ5tW7R8pump", "sym": "SHANE", "reason": "vol1h 214<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-08 06:53:02 WIB", "mint": "3kQbP4tTBtUQ13TifHEon7X6ms9MhYtTr43m612owo5P", "sym": "GTA6", "reason": "vol1h 13089<40k"}
 {"t": "2026-11-08 06:53:48 WIB", "mint": "61Zymfc5PMYNhWpZLKc9wLeYMmCHFushQB9PEMp9pump", "sym": "HINT", "reason": "vol1h 21<40k"}
 {"t": "2026-11-08 06:54:35 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 2098<40k"}
+{"t": "2026-11-08 06:56:07 WIB", "mint": "CM5ZLrUH1iTqeEn3Q23P6FGYwq9DprLiHZpNY53rboob", "sym": "ABTC", "reason": "vol1h 37281<40k"}
+{"t": "2026-11-08 06:56:55 WIB", "mint": "AJBZMJ4a4dLKvrXmjkrKwjaaQCdph5kssjadZizppump", "sym": "GTA6COP", "reason": "vol1h 1134<40k"}
+{"t": "2026-11-08 06:56:57 WIB", "mint": "9PPMpwduf92BGy52pPef7gceC3T54H2SJac36Brxpump", "sym": ":3", "reason": "vol1h 25019<40k"}
+{"t": "2026-11-08 06:57:43 WIB", "mint": "9pqtMh3DnydKbAvTp97N9ht1mkUB8wvvsTefg4KzM8se", "sym": "LUCIA", "reason": "vol1h 680<40k"}
+{"t": "2026-11-08 06:57:45 WIB", "mint": "78ikafZfTXwq338ZjHTyDyd5nZtZzLRTS6Fsw6fLoat", "sym": "?", "reason": "no solana pair"}
