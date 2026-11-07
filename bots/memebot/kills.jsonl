@@ -14837,3 +14837,6 @@
 {"t": "2026-11-07 21:41:25 WIB", "mint": "FdkG3mGaq8BcnYejs1fR4y6NV2wVmDjkRLYEWvjSpump", "sym": "Seatbelt", "reason": "vol1h 4519<40k"}
 {"t": "2026-11-07 21:41:28 WIB", "mint": "H1E8QmJWin7RBq2BV78RLPR8mUyKz2oh2sLEG6CSnarK", "sym": "SPAD", "reason": "vol1h 4628<40k"}
 {"t": "2026-11-07 21:43:45 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 13047<40k"}
+{"t": "2026-11-07 21:44:32 WIB", "mint": "CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump", "sym": "MIR", "reason": "vol1h 462<40k"}
+{"t": "2026-11-07 21:44:33 WIB", "mint": "SfN45ywcz5MnTmq6eUjEdsAj3Qye3SUQhuginTFgrey", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 21:45:20 WIB", "mint": "HgaTfWUmT8vUjGQY9QvQq4hQMkUyQkcXfXuRhu71pump", "sym": "Flash", "reason": "liq 1832<20k"}
