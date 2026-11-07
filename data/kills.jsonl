@@ -1,8 +1,3 @@
-{"t": "2026-11-07 09:12:18 WIB", "mint": "GpTxxPvZZB656fWgMaf6Hd33hXiX7k4yQni98GFspump", "sym": "Scamcoin", "reason": "liq 0<20k"}
-{"t": "2026-11-07 09:13:05 WIB", "mint": "FMqWsXKaAe41Kxfji7v5cpzQmr2gKAteAi9wREmkpump", "sym": "DONNA", "reason": "vol1h 4<40k"}
-{"t": "2026-11-07 09:13:07 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 4709<40k"}
-{"t": "2026-11-07 09:13:08 WIB", "mint": "cdqg5TNd14ULp3PVZTcGShaBuFkhbRwodSUxAfkZEgp", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-07 09:13:57 WIB", "mint": "F1YNtNkbv2H4FJ95TCM65k1XmaZvv3sNSkS7kvmApump", "sym": "Job", "reason": "liq 0<20k"}
 {"t": "2026-11-07 09:13:58 WIB", "mint": "26A1ZawAf3HCDUYK57z4JSm6HBKZDYe3fy9Bb81fpump", "sym": "SOPWICK", "reason": "vol1h 1984<40k"}
 {"t": "2026-11-07 09:17:00 WIB", "mint": "D1d1ESMVZbf1tDrU9WRZ8h5nH5kXj9zpvsD9Qcpupump", "sym": "pillcat", "reason": "vol1h 22781<40k"}
 {"t": "2026-11-07 09:17:02 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 10684<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-07 09:28:08 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 252<40k"}
 {"t": "2026-11-07 09:28:09 WIB", "mint": "EyWezCsLhzE3GmjUB1pjWHKiGUVrMfko2sU2xMBpump", "sym": "GHOST", "reason": "vol1h 30495<40k"}
 {"t": "2026-11-07 09:28:56 WIB", "mint": "ZFtb1eDmcDmkWtmyqSjVQDfGS7tdshyzzuJoTeEpump", "sym": "scamsem", "reason": "liq 1960<20k"}
+{"t": "2026-11-07 09:31:13 WIB", "mint": "jnkVpfuDKTngQYinxDZASzzrhwg2tGiqQ3zHfCQpump", "sym": "MASCOT", "reason": "vol1h 7676<40k"}
+{"t": "2026-11-07 09:31:14 WIB", "mint": "2BmtNY2aEa2UtLMHpTLsLjCt77znxBBYzRNAXPoGEMuP", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 09:31:16 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 11342<40k"}
+{"t": "2026-11-07 09:31:17 WIB", "mint": "FRCpQFvy2mj2X2T3n4NvR5GvyUcmHXQaF6KpvCi1pump", "sym": "Pibblemas", "reason": "vol1h 970<40k"}
+{"t": "2026-11-07 09:32:04 WIB", "mint": "2fAnUZorfTy7pQ1m8q8EVAntZPMkHFQh2Ks6FXzepump", "sym": "DIC", "reason": "vol1h 505<40k"}

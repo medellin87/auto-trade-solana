@@ -13767,3 +13767,8 @@
 {"t": "2026-11-07 09:28:08 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 252<40k"}
 {"t": "2026-11-07 09:28:09 WIB", "mint": "EyWezCsLhzE3GmjUB1pjWHKiGUVrMfko2sU2xMBpump", "sym": "GHOST", "reason": "vol1h 30495<40k"}
 {"t": "2026-11-07 09:28:56 WIB", "mint": "ZFtb1eDmcDmkWtmyqSjVQDfGS7tdshyzzuJoTeEpump", "sym": "scamsem", "reason": "liq 1960<20k"}
+{"t": "2026-11-07 09:31:13 WIB", "mint": "jnkVpfuDKTngQYinxDZASzzrhwg2tGiqQ3zHfCQpump", "sym": "MASCOT", "reason": "vol1h 7676<40k"}
+{"t": "2026-11-07 09:31:14 WIB", "mint": "2BmtNY2aEa2UtLMHpTLsLjCt77znxBBYzRNAXPoGEMuP", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 09:31:16 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 11342<40k"}
+{"t": "2026-11-07 09:31:17 WIB", "mint": "FRCpQFvy2mj2X2T3n4NvR5GvyUcmHXQaF6KpvCi1pump", "sym": "Pibblemas", "reason": "vol1h 970<40k"}
+{"t": "2026-11-07 09:32:04 WIB", "mint": "2fAnUZorfTy7pQ1m8q8EVAntZPMkHFQh2Ks6FXzepump", "sym": "DIC", "reason": "vol1h 505<40k"}
