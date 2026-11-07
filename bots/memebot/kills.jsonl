@@ -13754,3 +13754,7 @@
 {"t": "2026-11-07 09:20:13 WIB", "mint": "AML8jQxZQSkJniFkLdCzEcDKKTtCtEBgh5jWFSNdpump", "sym": "STICKY", "reason": "vol1h 59<40k"}
 {"t": "2026-11-07 09:21:47 WIB", "mint": "6NkaU1hq3MqwPapru9uLyKaKGQwAZR1Uf6SHGLHQpump", "sym": "Amika ", "reason": "vol1h 6169<40k"}
 {"t": "2026-11-07 09:21:49 WIB", "mint": "9iaXwjVAtRQmDKuYuxMmT5GBKiVJ3dQ4ji1vWkEXY1Jz", "sym": "iFruit", "reason": "vol1h 676<40k"}
+{"t": "2026-11-07 09:24:05 WIB", "mint": "F1fvzeTbmPXFDFL26jEN3FHmk558kJSA1cYqNRANpump", "sym": "Pooh", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 09:24:52 WIB", "mint": "F2agq1YQbGcw98tHYaEufdXhQVQMTaALpPs4rWyXpump", "sym": "REVERSE", "reason": "liq 0<20k"}
+{"t": "2026-11-07 09:24:54 WIB", "mint": "6NhLum2iGMrje9RubFpf5bG3Rz48BHpeNn6PCKHmpump", "sym": "DUMO", "reason": "vol1h 1469<40k"}
+{"t": "2026-11-07 09:25:41 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.557<0.6"}
