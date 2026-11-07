@@ -15146,3 +15146,6 @@
 {"t": "2026-11-08 01:13:33 WIB", "mint": "5JHHcudrqibzuc4S9tGgthmfLNoRof4E3KWWGQsrpump", "sym": "Steve", "reason": "liq 0<20k"}
 {"t": "2026-11-08 01:13:34 WIB", "mint": "2QvHVcsXYid5LaPWniQhugGsP1nFT9cpZhCXrfznpump", "sym": "TRSH", "reason": "vol1h 1597<40k"}
 {"t": "2026-11-08 01:15:07 WIB", "mint": "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump", "sym": "CHILL", "reason": "top10 38.3%>25"}
+{"t": "2026-11-08 01:17:23 WIB", "mint": "A9jFHc2G5AsT4vL5Lq1WHUFLsqnQ9W5pVjrQDoxUBAGS", "sym": "BRANCH", "reason": "liq 0<20k"}
+{"t": "2026-11-08 01:18:10 WIB", "mint": "CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump", "sym": "MIR", "reason": "vol1h 256<40k"}
+{"t": "2026-11-08 01:18:56 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 8366<40k"}
