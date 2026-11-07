@@ -15081,3 +15081,7 @@
 {"t": "2026-11-08 00:25:54 WIB", "mint": "7cXnBxmP61vAKZLTukHJbnyYRmbFTaWiYHX1sMAupump", "sym": "PEPE", "reason": "vol1h 33<40k"}
 {"t": "2026-11-08 00:26:40 WIB", "mint": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump", "sym": "BTC", "reason": "vol1h 33418<40k"}
 {"t": "2026-11-08 00:26:42 WIB", "mint": "DXXLf6zptReh2BM46XKRAhwWkEgipqtjSH6mxHedpump", "sym": "Kirks", "reason": "liq 10945<20k"}
+{"t": "2026-11-08 00:27:29 WIB", "mint": "7SM67HaeM9gW9MoRycWnXthBsQcxWZznNZ9NtqXypump", "sym": "COINFT", "reason": "vol1h 83<40k"}
+{"t": "2026-11-08 00:29:00 WIB", "mint": "CsMF3EMEVm9ow925mtFVwnAvTYUgckcQJrFUWEFMpump", "sym": "HLYS", "reason": "vol1h 352<40k"}
+{"t": "2026-11-08 00:29:47 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 9<40k"}
+{"t": "2026-11-08 00:29:49 WIB", "mint": "DY3o5SLKeZkhkyqJJL4bbxxHos86yLqoVD4wVVaHpiLL", "sym": "piLL", "reason": "top10 29.3%>25"}
