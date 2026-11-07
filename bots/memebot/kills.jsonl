@@ -14132,3 +14132,10 @@
 {"t": "2026-11-07 13:32:58 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 190<40k"}
 {"t": "2026-11-07 13:33:44 WIB", "mint": "76inp9q4HxQUsGxEvxMhhjtx9DipbMrqssLQEcWABJnp", "sym": "STONKA", "reason": "vol1h 33817<40k"}
 {"t": "2026-11-07 13:33:46 WIB", "mint": "95GFcjoAA2gmtiVHKEKFsTso1BenbFESLKZkyFdvpump", "sym": "Austin", "reason": "vol1h 15524<40k"}
+{"t": "2026-11-07 13:36:03 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 5743<40k"}
+{"t": "2026-11-07 13:36:50 WIB", "mint": "4C6LMX3q8iwShzW6j6A71NAUCgZ9G72T93hh4bKDpump", "sym": "notion", "reason": "vol1h 13301<40k"}
+{"t": "2026-11-07 13:36:51 WIB", "mint": "2fAnUZorfTy7pQ1m8q8EVAntZPMkHFQh2Ks6FXzepump", "sym": "DIC", "reason": "vol1h 166<40k"}
+{"t": "2026-11-07 13:36:53 WIB", "mint": "CsMF3EMEVm9ow925mtFVwnAvTYUgckcQJrFUWEFMpump", "sym": "HLYS", "reason": "vol1h 59<40k"}
+{"t": "2026-11-07 13:37:42 WIB", "mint": "3J9aZ8aJq8c5Xz7DmBHGPi1e4v6Dw1S87tatoPXYpump", "sym": "Capiboo", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-07 13:37:43 WIB", "mint": "DTuG18xCtXTLe3nWSsL96Ehe8au6NiuBRG4MwvVipump", "sym": "Hakutaku", "reason": "liq 1816<20k"}
+{"t": "2026-11-07 13:37:45 WIB", "mint": "BCf4DzxdJbpcGVAs9gzbRDW25P5wUDzRMEgMja7cpump", "sym": "mem", "reason": "liq 0<20k"}
