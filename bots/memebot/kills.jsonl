@@ -14711,3 +14711,6 @@
 {"t": "2026-11-07 20:00:47 WIB", "mint": "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK", "sym": "MAMESUKE", "reason": "vol1h 2435<40k"}
 {"t": "2026-11-07 20:00:49 WIB", "mint": "FoufDb9hXygVYT58SVDAFhbd98k3D93xYHtd9eCewQPk", "sym": "PROPFUN", "reason": "vol1h 12543<40k"}
 {"t": "2026-11-07 20:02:20 WIB", "mint": "C53oR3dJciYDQAt4SUv4UBzb4DgKJyr3ovwCZLPmpump", "sym": "BPOOL", "reason": "liq 0<20k"}
+{"t": "2026-11-07 20:04:39 WIB", "mint": "25YymNVsua1yZbapaiVuhCgS2w8KrFwt2p7hF3Aqpump", "sym": "PIZZA", "reason": "vol1h 50<40k"}
+{"t": "2026-11-07 20:05:26 WIB", "mint": "2D88NTW3ND7gGYRXpZvsD9jkYn9yN3Qm8CVyprHLpump", "sym": "POMBERT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 20:05:28 WIB", "mint": "Bxw3zJMXDhm7VLNLMsFTuG5Csh5qGFruUvRH5C6ypump", "sym": "Chimps", "reason": "vol1h 3<40k"}
