@@ -15143,3 +15143,6 @@
 {"t": "2026-11-08 01:08:11 WIB", "mint": "HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump", "sym": "sexcoin", "reason": "vol1h 5657<40k"}
 {"t": "2026-11-08 01:08:57 WIB", "mint": "7uyptQEZRL5pz318S3oRjHW4iszo9thfd8nkU8ATpump", "sym": "ser", "reason": "liq 0<20k"}
 {"t": "2026-11-08 01:10:29 WIB", "mint": "C891rB7xCUAztoAinptQFbDiDnDhJf3NQWALP98fpump", "sym": "ECAT", "reason": "liq 1766<20k"}
+{"t": "2026-11-08 01:13:33 WIB", "mint": "5JHHcudrqibzuc4S9tGgthmfLNoRof4E3KWWGQsrpump", "sym": "Steve", "reason": "liq 0<20k"}
+{"t": "2026-11-08 01:13:34 WIB", "mint": "2QvHVcsXYid5LaPWniQhugGsP1nFT9cpZhCXrfznpump", "sym": "TRSH", "reason": "vol1h 1597<40k"}
+{"t": "2026-11-08 01:15:07 WIB", "mint": "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump", "sym": "CHILL", "reason": "top10 38.3%>25"}
