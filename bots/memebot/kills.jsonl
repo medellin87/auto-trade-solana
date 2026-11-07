@@ -15276,3 +15276,6 @@
 {"t": "2026-11-08 02:44:51 WIB", "mint": "5JHHcudrqibzuc4S9tGgthmfLNoRof4E3KWWGQsrpump", "sym": "Steve", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 02:44:52 WIB", "mint": "2QvHVcsXYid5LaPWniQhugGsP1nFT9cpZhCXrfznpump", "sym": "TRSH", "reason": "vol1h 5121<40k"}
 {"t": "2026-11-08 02:45:41 WIB", "mint": "5EGnnZ1HRhvacTBcAzmBifoD9j2vrwUCbd6UQ5USzAZD", "sym": "RIZZMAS", "reason": "vol1h 6843<40k"}
+{"t": "2026-11-08 02:47:58 WIB", "mint": "5Fis49VQ4XR2k1PjScGSBPbFrc7H9N7YFcRGz6k5sLUJ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 02:47:59 WIB", "mint": "nd8AaKQzPYB4EneZhZ2ii2cWHQMRmbiSqWTb3Dmpump", "sym": "sink", "reason": "vol1h 9341<40k"}
+{"t": "2026-11-08 02:48:01 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "liq 3506<20k"}
