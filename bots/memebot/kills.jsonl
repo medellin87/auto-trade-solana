@@ -15405,3 +15405,8 @@
 {"t": "2026-11-08 04:13:53 WIB", "mint": "9mmVh6ki37Y2TdGRZse1QEYoB23YS7eNfuYCfCLvi8b9", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 04:13:54 WIB", "mint": "E4gk2S6jhf6v5wVH5qSvXpHB6XgJuVY582p48KG3KaqN", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 04:14:41 WIB", "mint": "FCZoR7cQiT3JPACjr3b4GJ5QNVeHaJeqsZSAGYmHBAGS", "sym": "SHAW", "reason": "liq 5976<20k"}
+{"t": "2026-11-08 04:15:27 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 572<40k"}
+{"t": "2026-11-08 04:16:14 WIB", "mint": "2QvHVcsXYid5LaPWniQhugGsP1nFT9cpZhCXrfznpump", "sym": "TRSH", "reason": "vol1h 576<40k"}
+{"t": "2026-11-08 04:16:16 WIB", "mint": "5bhvBUBxeHHbTx9Hpu2bBKd8UCrzoeim1UWjxZ7h9KoL", "sym": "KOL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 04:17:04 WIB", "mint": "AnDnzPZTvb7AV9jNM2N18DU72wAK4X8LnF5zoApQBAGS", "sym": "SLOPCASH", "reason": "vol1h 37566<40k"}
+{"t": "2026-11-08 04:17:08 WIB", "mint": "5EGnnZ1HRhvacTBcAzmBifoD9j2vrwUCbd6UQ5USzAZD", "sym": "RIZZMAS", "reason": "vol1h 1826<40k"}
