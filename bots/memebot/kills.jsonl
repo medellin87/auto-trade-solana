@@ -14004,3 +14004,8 @@
 {"t": "2026-11-07 12:01:22 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "top10 35.3%>25"}
 {"t": "2026-11-07 12:02:08 WIB", "mint": "76inp9q4HxQUsGxEvxMhhjtx9DipbMrqssLQEcWABJnp", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-07 12:02:55 WIB", "mint": "BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump", "sym": "Alice", "reason": "score 0.579<0.6"}
+{"t": "2026-11-07 12:04:27 WIB", "mint": "2PDF6ADXdHQYE8BnHWCq7b7CvLTTPfWGsjZnsNgKpump", "sym": "Benny", "reason": "vol1h 10<40k"}
+{"t": "2026-11-07 12:04:29 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 7678<40k"}
+{"t": "2026-11-07 12:05:15 WIB", "mint": "2fAnUZorfTy7pQ1m8q8EVAntZPMkHFQh2Ks6FXzepump", "sym": "DIC", "reason": "vol1h 147<40k"}
+{"t": "2026-11-07 12:06:02 WIB", "mint": "GoqdpMVvqawNUvdfTmqXvvoSaDRrqDQexzG7wzf2pump", "sym": "SLINGFOLIO", "reason": "liq 18901<20k"}
+{"t": "2026-11-07 12:06:04 WIB", "mint": "3J9aZ8aJq8c5Xz7DmBHGPi1e4v6Dw1S87tatoPXYpump", "sym": "Capiboo", "reason": "liq 19464<20k"}
