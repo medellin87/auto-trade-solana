@@ -1,6 +1,3 @@
-{"t": "2026-11-07 07:01:41 WIB", "mint": "5jqzgwyQMGjJyZPUHXbFCiQ7KmxdGK67ipJAowjHpump", "sym": "ape", "reason": "liq 0<20k"}
-{"t": "2026-11-07 07:01:43 WIB", "mint": "12EcWU2y36dDjBxXT5xuR1a5tLqBYEP7k66qVkp9pump", "sym": "WIP", "reason": "vol1h 0<40k"}
-{"t": "2026-11-07 07:01:45 WIB", "mint": "2rwNfv9tS82uvjZU9QCLUWcfUvPpAxsHFhiKYyBHpump", "sym": "Memecoin", "reason": "score 0.596<0.6"}
 {"t": "2026-11-07 07:01:46 WIB", "mint": "FjeYiDWmJnSHBW5mK3TNwuk3HKZhGhw46VhH7q8WBe6n", "sym": "zPEPE", "reason": "vol1h 22029<40k"}
 {"t": "2026-11-07 07:04:05 WIB", "mint": "4AN9uwPTNFfFCFzR4n9KaVk3JyLmMACewf3aXV6Zpump", "sym": "MEME", "reason": "vol1h 5709<40k"}
 {"t": "2026-11-07 07:04:07 WIB", "mint": "DWYMGCuBvciLMFXZDf9SCnrGFiikUaoukUE22iQcpump", "sym": "SCRNR", "reason": "vol1h 456<40k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-07 07:20:33 WIB", "mint": "9irzXvqHLGdCXkHxQD9ZTZFbeYRVmBg1cT2oT7ppump", "sym": "LATE", "reason": "vol1h 37703<40k"}
 {"t": "2026-11-07 07:20:34 WIB", "mint": "2LJEoKUBKpZe6QHSPytjPaqjsJfGop96w1K6CcGxpump", "sym": "Tommie", "reason": "liq 0<20k"}
 {"t": "2026-11-07 07:21:21 WIB", "mint": "F1fvzeTbmPXFDFL26jEN3FHmk558kJSA1cYqNRANpump", "sym": "Pooh", "reason": "vol1h 56<40k"}
+{"t": "2026-11-07 07:23:38 WIB", "mint": "HZXfbN8D6cYiZfKeep8kSM5pjEngaXh1TC8oAB4hpump", "sym": "$TRENCHMAS", "reason": "vol1h 680<40k"}
+{"t": "2026-11-07 07:25:10 WIB", "mint": "FsMvq7uan6Bv1m7rEBt3tLNBPYRkYFYDaUgwF6M1pump", "sym": "Official", "reason": "liq 0<20k"}
+{"t": "2026-11-07 07:25:11 WIB", "mint": "JVtVUduUFx3HL3fA87YA77YDGn5iQoYDeDaLFNopump", "sym": "Shitcoin", "reason": "vol1h 3945<40k"}
