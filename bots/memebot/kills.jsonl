@@ -14040,3 +14040,10 @@
 {"t": "2026-11-07 12:25:40 WIB", "mint": "GaEbreYm9pGNj1seKDQaPV98aeSMb3M6FmE4B6EApump", "sym": "Pebble", "reason": "vol1h 42<40k"}
 {"t": "2026-11-07 12:29:27 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 35908<40k"}
 {"t": "2026-11-07 12:30:14 WIB", "mint": "BWCvTsDir5hrQVLNtGkEnmjjj3rwXDa14xoa3aWapump", "sym": "$KCAT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 12:31:01 WIB", "mint": "21azpu32qfuNZR6TkKdUZKVnDtmvTUSBrXxhRFE5pump", "sym": "Hakutaku", "reason": "liq 0<20k"}
+{"t": "2026-11-07 12:31:02 WIB", "mint": "2VQjP5VaxExyMBC4nC811hyPzRiyEUnurJv7wMnMBAGS", "sym": "VADER", "reason": "vol1h 3907<40k"}
+{"t": "2026-11-07 12:31:49 WIB", "mint": "Bhe7zAmLTxsV2JiiibujUX4yHJbKjPFYTLSGTQUzpump", "sym": "Slingfolio", "reason": "liq 5854<20k"}
+{"t": "2026-11-07 12:31:50 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 189<40k"}
+{"t": "2026-11-07 12:31:52 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "top10 34.9%>25"}
+{"t": "2026-11-07 12:32:39 WIB", "mint": "76inp9q4HxQUsGxEvxMhhjtx9DipbMrqssLQEcWABJnp", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 12:33:26 WIB", "mint": "BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump", "sym": "Alice", "reason": "score 0.441<0.6"}
