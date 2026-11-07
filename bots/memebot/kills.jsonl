@@ -15577,3 +15577,7 @@
 {"t": "2026-11-08 06:01:44 WIB", "mint": "Ad21xtFxCiGCvRACa9HHTWzDkkaK72A2iFEDCAsSpump", "sym": "DJNEC\u041e", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 06:01:46 WIB", "mint": "EphCWcWcVcG7fjtGhvk2UjCUqhRcRfpuTbCyn5xoBAGS", "sym": "DACITY", "reason": "vol1h 8480<40k"}
 {"t": "2026-11-08 06:01:47 WIB", "mint": "7cXnBxmP61vAKZLTukHJbnyYRmbFTaWiYHX1sMAupump", "sym": "PEPE", "reason": "vol1h 93<40k"}
+{"t": "2026-11-08 06:04:51 WIB", "mint": "CsMF3EMEVm9ow925mtFVwnAvTYUgckcQJrFUWEFMpump", "sym": "HLYS", "reason": "vol1h 136<40k"}
+{"t": "2026-11-08 06:05:38 WIB", "mint": "3EafjpE83KLduv2R8Gy9bpD8DhNp8e5w7ShJWYs2CwDd", "sym": "FOLD", "reason": "liq 5872<20k"}
+{"t": "2026-11-08 06:05:40 WIB", "mint": "HZf39pW3fWrmwEmhVhkTENj7a3AAUC5fizgrVpDzpump", "sym": "LOSS", "reason": "liq 0<20k"}
+{"t": "2026-11-08 06:05:41 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 8<40k"}
