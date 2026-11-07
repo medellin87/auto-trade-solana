@@ -13816,3 +13816,6 @@
 {"t": "2026-11-07 09:58:50 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 185<40k"}
 {"t": "2026-11-07 09:58:52 WIB", "mint": "EyWezCsLhzE3GmjUB1pjWHKiGUVrMfko2sU2xMBpump", "sym": "GHOST", "reason": "vol1h 30554<40k"}
 {"t": "2026-11-07 09:59:38 WIB", "mint": "ZFtb1eDmcDmkWtmyqSjVQDfGS7tdshyzzuJoTeEpump", "sym": "scamsem", "reason": "liq 1907<20k"}
+{"t": "2026-11-07 10:01:55 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 7105<40k"}
+{"t": "2026-11-07 10:01:57 WIB", "mint": "2PDF6ADXdHQYE8BnHWCq7b7CvLTTPfWGsjZnsNgKpump", "sym": "Benny", "reason": "vol1h 21337<40k"}
+{"t": "2026-11-07 10:02:43 WIB", "mint": "2fAnUZorfTy7pQ1m8q8EVAntZPMkHFQh2Ks6FXzepump", "sym": "DIC", "reason": "vol1h 6502<40k"}
