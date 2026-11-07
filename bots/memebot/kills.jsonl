@@ -14921,3 +14921,6 @@
 {"t": "2026-11-07 22:38:26 WIB", "mint": "6JmDY4eYXiBJhKFjLhM2oG95UiwkEoAN2daqq6tUpump", "sym": "NOPANIC", "reason": "score 0.329<0.6"}
 {"t": "2026-11-07 22:39:14 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.489<0.6"}
 {"t": "2026-11-07 22:41:30 WIB", "mint": "EUn8wDoXKeCA3MuQUxhzPo3Mpsgu4pNNiPUnj7puHUSH", "sym": "HUSH", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 22:44:33 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "top10 28.0%>25"}
+{"t": "2026-11-07 22:45:19 WIB", "mint": "CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump", "sym": "MIR", "reason": "vol1h 1042<40k"}
+{"t": "2026-11-07 22:45:21 WIB", "mint": "SfN45ywcz5MnTmq6eUjEdsAj3Qye3SUQhuginTFgrey", "sym": "?", "reason": "no solana pair"}
