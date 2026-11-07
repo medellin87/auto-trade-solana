@@ -1,7 +1,3 @@
-{"t": "2026-11-07 14:19:22 WIB", "mint": "FMqWsXKaAe41Kxfji7v5cpzQmr2gKAteAi9wREmkpump", "sym": "DONNA", "reason": "vol1h 26<40k"}
-{"t": "2026-11-07 14:20:09 WIB", "mint": "FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump", "sym": "Busted", "reason": "vol1h 0<40k"}
-{"t": "2026-11-07 14:20:56 WIB", "mint": "999Y1nMepcsWZSd3gNXYPku6S6p4bEUNkaAaNHdgpump", "sym": "GSTR", "reason": "vol1h 4512<40k"}
-{"t": "2026-11-07 14:21:42 WIB", "mint": "5uhjgW31K5DiwMEvetFD9Lqn261ZJSG73HW4UDcfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-07 14:22:29 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 5007<40k"}
 {"t": "2026-11-07 14:23:16 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 2071<40k"}
 {"t": "2026-11-07 14:23:17 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1993<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-07 14:38:55 WIB", "mint": "GoqdpMVvqawNUvdfTmqXvvoSaDRrqDQexzG7wzf2pump", "sym": "SLINGFOLIO", "reason": "score 0.336<0.6"}
 {"t": "2026-11-07 14:38:56 WIB", "mint": "DTuG18xCtXTLe3nWSsL96Ehe8au6NiuBRG4MwvVipump", "sym": "Hakutaku", "reason": "vol1h 0<40k"}
 {"t": "2026-11-07 14:38:58 WIB", "mint": "BCf4DzxdJbpcGVAs9gzbRDW25P5wUDzRMEgMja7cpump", "sym": "mem", "reason": "vol1h 51<40k"}
+{"t": "2026-11-07 14:40:29 WIB", "mint": "CuDaiesYbXQgAJsMowt61k6EhhS2sjbao3g9i3GMpump", "sym": "meme", "reason": "vol1h 1<40k"}
+{"t": "2026-11-07 14:40:31 WIB", "mint": "25YymNVsua1yZbapaiVuhCgS2w8KrFwt2p7hF3Aqpump", "sym": "PIZZA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 14:40:32 WIB", "mint": "Ef8veCkBGFnovD9ZHLx7draEU2EkLjs1yvNq744jpump", "sym": "FATSHANE", "reason": "liq 0<20k"}
+{"t": "2026-11-07 14:41:19 WIB", "mint": "FTQvTA4bcGS43JGM4CUF1WiiVe9cPcybDyu9mLDfpump", "sym": "Azure", "reason": "vol1h 0<40k"}
