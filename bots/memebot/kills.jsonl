@@ -14089,3 +14089,8 @@
 {"t": "2026-11-07 13:02:24 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 192<40k"}
 {"t": "2026-11-07 13:03:10 WIB", "mint": "76inp9q4HxQUsGxEvxMhhjtx9DipbMrqssLQEcWABJnp", "sym": "STONKA", "reason": "vol1h 24958<40k"}
 {"t": "2026-11-07 13:03:58 WIB", "mint": "BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump", "sym": "Alice", "reason": "score 0.423<0.6"}
+{"t": "2026-11-07 13:05:29 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 6575<40k"}
+{"t": "2026-11-07 13:06:16 WIB", "mint": "2fAnUZorfTy7pQ1m8q8EVAntZPMkHFQh2Ks6FXzepump", "sym": "DIC", "reason": "vol1h 38<40k"}
+{"t": "2026-11-07 13:07:03 WIB", "mint": "GoqdpMVvqawNUvdfTmqXvvoSaDRrqDQexzG7wzf2pump", "sym": "SLINGFOLIO", "reason": "score 0.545<0.6"}
+{"t": "2026-11-07 13:07:04 WIB", "mint": "3J9aZ8aJq8c5Xz7DmBHGPi1e4v6Dw1S87tatoPXYpump", "sym": "Capiboo", "reason": "liq 16058<20k"}
+{"t": "2026-11-07 13:07:08 WIB", "mint": "BCf4DzxdJbpcGVAs9gzbRDW25P5wUDzRMEgMja7cpump", "sym": "mem", "reason": "vol1h 34067<40k"}
