@@ -13715,3 +13715,7 @@
 {"t": "2026-11-07 08:56:34 WIB", "mint": "7jRGjc5W7Dmfs9NVQQqA8SzDGqi8PQQQdXeRAjgwpump", "sym": "Work", "reason": "liq 10329<20k"}
 {"t": "2026-11-07 08:56:36 WIB", "mint": "JVtVUduUFx3HL3fA87YA77YDGn5iQoYDeDaLFNopump", "sym": "Shitcoin", "reason": "vol1h 3240<40k"}
 {"t": "2026-11-07 08:57:22 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 215<40k"}
+{"t": "2026-11-07 09:01:11 WIB", "mint": "jnkVpfuDKTngQYinxDZASzzrhwg2tGiqQ3zHfCQpump", "sym": "MASCOT", "reason": "vol1h 20386<40k"}
+{"t": "2026-11-07 09:01:13 WIB", "mint": "2BmtNY2aEa2UtLMHpTLsLjCt77znxBBYzRNAXPoGEMuP", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-07 09:01:14 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 12947<40k"}
+{"t": "2026-11-07 09:01:16 WIB", "mint": "FRCpQFvy2mj2X2T3n4NvR5GvyUcmHXQaF6KpvCi1pump", "sym": "Pibblemas", "reason": "vol1h 28789<40k"}
