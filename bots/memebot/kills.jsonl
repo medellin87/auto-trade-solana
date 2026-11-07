@@ -14585,3 +14585,7 @@
 {"t": "2026-11-07 18:23:18 WIB", "mint": "7PcgFRfifR9VDniF8bfJfsuyi9TWuQY9A5sRMsgspump", "sym": "fone", "reason": "vol1h 28243<40k"}
 {"t": "2026-11-07 18:23:19 WIB", "mint": "LTE6P1KHQVgkzrmvTrApwfx6nsDX8T9JEVNSLNrpump", "sym": "PODS", "reason": "liq 2467<20k"}
 {"t": "2026-11-07 18:24:06 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 201<40k"}
+{"t": "2026-11-07 18:24:52 WIB", "mint": "FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump", "sym": "Busted", "reason": "vol1h 71<40k"}
+{"t": "2026-11-07 18:24:54 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 1467<40k"}
+{"t": "2026-11-07 18:25:41 WIB", "mint": "4LHAeHbziM2KAcdmsiaWPSgz2oMdiHAqPhpB68xbpump", "sym": "Burn", "reason": "vol1h 7437<40k"}
+{"t": "2026-11-07 18:26:27 WIB", "mint": "BNJm3TDYcP5CwnFDYPdEjdUydK9NYgwd9yJYFuvbz1c2", "sym": "?", "reason": "no solana pair"}
