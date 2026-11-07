@@ -15581,3 +15581,5 @@
 {"t": "2026-11-08 06:05:38 WIB", "mint": "3EafjpE83KLduv2R8Gy9bpD8DhNp8e5w7ShJWYs2CwDd", "sym": "FOLD", "reason": "liq 5872<20k"}
 {"t": "2026-11-08 06:05:40 WIB", "mint": "HZf39pW3fWrmwEmhVhkTENj7a3AAUC5fizgrVpDzpump", "sym": "LOSS", "reason": "liq 0<20k"}
 {"t": "2026-11-08 06:05:41 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 8<40k"}
+{"t": "2026-11-08 06:07:13 WIB", "mint": "FQ47SAH4xuRJArffifAbqZSX1kq3ewE3GxnLuGYypump", "sym": "PoUT", "reason": "vol1h 110<40k"}
+{"t": "2026-11-08 06:07:59 WIB", "mint": "62GCmXJQVUZ5BZ5EJqDavtQmQRcAXXwFAXEv1h5apump", "sym": "Highcap", "reason": "liq 7798<20k"}
