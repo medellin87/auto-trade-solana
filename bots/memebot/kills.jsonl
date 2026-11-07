@@ -14139,3 +14139,6 @@
 {"t": "2026-11-07 13:37:42 WIB", "mint": "3J9aZ8aJq8c5Xz7DmBHGPi1e4v6Dw1S87tatoPXYpump", "sym": "Capiboo", "reason": "risk:Creator history of rugged tokens"}
 {"t": "2026-11-07 13:37:43 WIB", "mint": "DTuG18xCtXTLe3nWSsL96Ehe8au6NiuBRG4MwvVipump", "sym": "Hakutaku", "reason": "liq 1816<20k"}
 {"t": "2026-11-07 13:37:45 WIB", "mint": "BCf4DzxdJbpcGVAs9gzbRDW25P5wUDzRMEgMja7cpump", "sym": "mem", "reason": "liq 0<20k"}
+{"t": "2026-11-07 13:39:17 WIB", "mint": "CuDaiesYbXQgAJsMowt61k6EhhS2sjbao3g9i3GMpump", "sym": "meme", "reason": "liq 1976<20k"}
+{"t": "2026-11-07 13:39:18 WIB", "mint": "9DubmcpjdeJvJv225TjDL3uz9579dT1U8nGrWa9xpump", "sym": "jailsem", "reason": "vol1h 4875<40k"}
+{"t": "2026-11-07 13:40:05 WIB", "mint": "FTQvTA4bcGS43JGM4CUF1WiiVe9cPcybDyu9mLDfpump", "sym": "Azure", "reason": "vol1h 0<40k"}
