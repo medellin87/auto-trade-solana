@@ -1,7 +1,3 @@
-{"t": "2026-11-08 03:07:42 WIB", "mint": "55cJN7Esu4A6ux9kkadEw8LX8jW3uqqfo9XCf2Kapump", "sym": "TERSO", "reason": "vol1h 268<40k"}
-{"t": "2026-11-08 03:09:13 WIB", "mint": "D9r4jXFbKxVvrwhYfWxFS5xgnm2Ujtx6ijQYdmPDyFF2", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-08 03:09:15 WIB", "mint": "4WmYtUfWjEPDNn8utm7nb9UbNiktvxRdeRioythcpump", "sym": "DanaWhite", "reason": "liq 7341<20k"}
-{"t": "2026-11-08 03:10:01 WIB", "mint": "HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump", "sym": "sexcoin", "reason": "vol1h 8795<40k"}
 {"t": "2026-11-08 03:13:03 WIB", "mint": "E4gk2S6jhf6v5wVH5qSvXpHB6XgJuVY582p48KG3KaqN", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 03:14:35 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 5871<40k"}
 {"t": "2026-11-08 03:15:21 WIB", "mint": "5bhvBUBxeHHbTx9Hpu2bBKd8UCrzoeim1UWjxZ7h9KoL", "sym": "KOL", "reason": "vol1h 0<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-08 03:28:44 WIB", "mint": "FHSB5iPopaLZxUubiQsyHiaEuXu5Hne7uqMYvtzhpump", "sym": "GIGAHUG", "reason": "liq 1818<20k"}
 {"t": "2026-11-08 03:31:01 WIB", "mint": "F7PuP5Typwuv3P6dtbB7N6fBVmqYSWu7We7S4wT1pump", "sym": "DEMWOJAK", "reason": "liq 2087<20k"}
 {"t": "2026-11-08 03:31:03 WIB", "mint": "FTrbc3sUPbTsKiNK3e5wWeAaGBuLwmY9RWtKJCSpump", "sym": "Jos\u00e9", "reason": "vol1h 32300<40k"}
+{"t": "2026-11-08 03:31:49 WIB", "mint": "CsMF3EMEVm9ow925mtFVwnAvTYUgckcQJrFUWEFMpump", "sym": "HLYS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 03:32:36 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 03:33:22 WIB", "mint": "X39t6ZXvAJNyYG1AtPMCZcAeJTG8YAPLsb1Tn2Fpump", "sym": "delga", "reason": "vol1h 11443<40k"}
+{"t": "2026-11-08 03:33:24 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 452<40k"}
