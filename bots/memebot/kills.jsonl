@@ -13743,3 +13743,11 @@
 {"t": "2026-11-07 09:13:08 WIB", "mint": "cdqg5TNd14ULp3PVZTcGShaBuFkhbRwodSUxAfkZEgp", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-07 09:13:57 WIB", "mint": "F1YNtNkbv2H4FJ95TCM65k1XmaZvv3sNSkS7kvmApump", "sym": "Job", "reason": "liq 0<20k"}
 {"t": "2026-11-07 09:13:58 WIB", "mint": "26A1ZawAf3HCDUYK57z4JSm6HBKZDYe3fy9Bb81fpump", "sym": "SOPWICK", "reason": "vol1h 1984<40k"}
+{"t": "2026-11-07 09:17:00 WIB", "mint": "D1d1ESMVZbf1tDrU9WRZ8h5nH5kXj9zpvsD9Qcpupump", "sym": "pillcat", "reason": "vol1h 22781<40k"}
+{"t": "2026-11-07 09:17:02 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 10684<40k"}
+{"t": "2026-11-07 09:17:48 WIB", "mint": "8iQwG4AGgrXszr8tFHvagXVYpniYsPcAqLEUct3cpump", "sym": "GRIDLOCK", "reason": "vol1h 130<40k"}
+{"t": "2026-11-07 09:17:50 WIB", "mint": "C1w2cSCc4GmXfUL2y5amkGLhDPsJT7Ts7VyS71inpump", "sym": "BTC", "reason": "top10 26.9%>25"}
+{"t": "2026-11-07 09:17:52 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 6826<40k"}
+{"t": "2026-11-07 09:18:38 WIB", "mint": "8b4SeQFqBG2Td7wcB8Z7HofcRYG6aFpAqSsyvgbBpump", "sym": "Libtard", "reason": "vol1h 2<40k"}
+{"t": "2026-11-07 09:19:25 WIB", "mint": "FAYGPSNAeikLpLzFnWfSXAjnj2kV6jJBv7qCXX7gBAGS", "sym": "ASTEROID", "reason": "vol1h 15341<40k"}
+{"t": "2026-11-07 09:19:27 WIB", "mint": "7tAjeX7mNQg2jsJkDH1ePwVNBG5J9xKoys2CMZdfpump", "sym": "CALL", "reason": "liq 14830<20k"}
