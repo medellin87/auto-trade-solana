@@ -15064,3 +15064,7 @@
 {"t": "2026-11-08 00:16:23 WIB", "mint": "A9jFHc2G5AsT4vL5Lq1WHUFLsqnQ9W5pVjrQDoxUBAGS", "sym": "BRANCH", "reason": "liq 0<20k"}
 {"t": "2026-11-08 00:16:24 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 27116<40k"}
 {"t": "2026-11-08 00:17:11 WIB", "mint": "CLcZdLNMLTip1qdtEwcPUsB8QB4qjsrXWw8Wm2dqpump", "sym": "MIR", "reason": "vol1h 623<40k"}
+{"t": "2026-11-08 00:17:57 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 5277<40k"}
+{"t": "2026-11-08 00:18:44 WIB", "mint": "9JRXatzg5WqZAfcmzabEoS3bv1FpVg3i8qmMKekLuvLE", "sym": "Hekta", "reason": "vol1h 38776<40k"}
+{"t": "2026-11-08 00:20:17 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 4904<40k"}
+{"t": "2026-11-08 00:20:19 WIB", "mint": "2Z6EJqNPymvRk15XAoki6CGCepNsn5Eyttgc2UXCpump", "sym": "BASECAT", "reason": "vol1h 4581<40k"}
