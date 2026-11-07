@@ -1,9 +1,3 @@
-{"t": "2026-11-07 12:31:02 WIB", "mint": "2VQjP5VaxExyMBC4nC811hyPzRiyEUnurJv7wMnMBAGS", "sym": "VADER", "reason": "vol1h 3907<40k"}
-{"t": "2026-11-07 12:31:49 WIB", "mint": "Bhe7zAmLTxsV2JiiibujUX4yHJbKjPFYTLSGTQUzpump", "sym": "Slingfolio", "reason": "liq 5854<20k"}
-{"t": "2026-11-07 12:31:50 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 189<40k"}
-{"t": "2026-11-07 12:31:52 WIB", "mint": "C89aVBvoZjSGuXQzhsLvNzekDuJrhezzR58rEN9RMk4u", "sym": "STM", "reason": "top10 34.9%>25"}
-{"t": "2026-11-07 12:32:39 WIB", "mint": "76inp9q4HxQUsGxEvxMhhjtx9DipbMrqssLQEcWABJnp", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-07 12:33:26 WIB", "mint": "BdouwEr3mwXkT6S6EmHNCjn9oEtykRKCKiUSTRF9pump", "sym": "Alice", "reason": "score 0.441<0.6"}
 {"t": "2026-11-07 12:34:58 WIB", "mint": "2PDF6ADXdHQYE8BnHWCq7b7CvLTTPfWGsjZnsNgKpump", "sym": "Benny", "reason": "vol1h 0<40k"}
 {"t": "2026-11-07 12:34:59 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 8174<40k"}
 {"t": "2026-11-07 12:35:46 WIB", "mint": "2fAnUZorfTy7pQ1m8q8EVAntZPMkHFQh2Ks6FXzepump", "sym": "DIC", "reason": "vol1h 66<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-07 12:47:38 WIB", "mint": "FMqWsXKaAe41Kxfji7v5cpzQmr2gKAteAi9wREmkpump", "sym": "DONNA", "reason": "vol1h 1<40k"}
 {"t": "2026-11-07 12:48:25 WIB", "mint": "GsZANz2KPDJdrQgcdmmYdmCUkxRWFfhkukcYeMSvpump", "sym": "PALICO", "reason": "vol1h 25989<40k"}
 {"t": "2026-11-07 12:48:26 WIB", "mint": "FzmSx4UuG8Jhsrxvyt1xNtk6qFxo7KY4zGwPifKZpump", "sym": "Busted", "reason": "vol1h 54<40k"}
+{"t": "2026-11-07 12:49:13 WIB", "mint": "999Y1nMepcsWZSd3gNXYPku6S6p4bEUNkaAaNHdgpump", "sym": "GSTR", "reason": "vol1h 32707<40k"}
+{"t": "2026-11-07 12:50:00 WIB", "mint": "CESsto7youNSupcBZ38ohSRAwDS2SHdvUazhRR5rpump", "sym": "iMoney", "reason": "vol1h 196<40k"}
+{"t": "2026-11-07 12:50:46 WIB", "mint": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump", "sym": "SI276", "reason": "vol1h 4472<40k"}
+{"t": "2026-11-07 12:51:33 WIB", "mint": "CXRT8bpLxm2aeJ1FteTCKESm8nseeZ1b36S3f4CYpump", "sym": "GTA6K9", "reason": "vol1h 16323<40k"}
+{"t": "2026-11-07 12:51:34 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 18986<40k"}
+{"t": "2026-11-07 12:51:36 WIB", "mint": "8iQwG4AGgrXszr8tFHvagXVYpniYsPcAqLEUct3cpump", "sym": "GRIDLOCK", "reason": "vol1h 0<40k"}
