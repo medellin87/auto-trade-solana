@@ -13609,3 +13609,8 @@
 {"t": "2026-11-07 07:55:48 WIB", "mint": "FsMvq7uan6Bv1m7rEBt3tLNBPYRkYFYDaUgwF6M1pump", "sym": "Official", "reason": "vol1h 18543<40k"}
 {"t": "2026-11-07 07:55:50 WIB", "mint": "JVtVUduUFx3HL3fA87YA77YDGn5iQoYDeDaLFNopump", "sym": "Shitcoin", "reason": "vol1h 4571<40k"}
 {"t": "2026-11-07 07:56:36 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 251<40k"}
+{"t": "2026-11-07 07:58:53 WIB", "mint": "46r5vJSK4vZWvU4roBXoQYoBZE8d4nmN3b6wRa6Gpump", "sym": "HATCH", "reason": "LP locked 0%<90"}
+{"t": "2026-11-07 07:58:55 WIB", "mint": "EU6bvkgzxk6L4z6W1X6dDsNiVy5mbwUojhePD964pump", "sym": "jose", "reason": "vol1h 1280<40k"}
+{"t": "2026-11-07 07:58:57 WIB", "mint": "226tNXTuT6i88qgWL1XpMaRV8tchwbaVkXSHL7Z4pump", "sym": "Mommy", "reason": "vol1h 0<40k"}
+{"t": "2026-11-07 07:59:43 WIB", "mint": "jnkVpfuDKTngQYinxDZASzzrhwg2tGiqQ3zHfCQpump", "sym": "MASCOT", "reason": "liq 0<20k"}
+{"t": "2026-11-07 07:59:45 WIB", "mint": "2BmtNY2aEa2UtLMHpTLsLjCt77znxBBYzRNAXPoGEMuP", "sym": "?", "reason": "no solana pair"}
