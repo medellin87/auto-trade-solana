@@ -17622,3 +17622,6 @@
 {"t": "2026-11-09 06:45:04 WIB", "mint": "9qdiq5f1oeJSFwYETdYnG98Ykn5GpfjSNtGj37o8pump", "sym": "AF", "reason": "vol1h 37952<40k"}
 {"t": "2026-11-09 06:45:06 WIB", "mint": "HLaSzRgp4mkZeDrAEKTJvr2UhSokYPxRS7auuYmg3xDX", "sym": "Debtcoin", "reason": "vol1h 13277<40k"}
 {"t": "2026-11-09 06:45:52 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 3728<40k"}
+{"t": "2026-11-09 06:51:14 WIB", "mint": "9NreoyFb9upDybBr1jgnTSKaXzMyjvsoAiQqCe8cpump", "sym": "Ansemia", "reason": "vol1h 3623<40k"}
+{"t": "2026-11-09 06:51:16 WIB", "mint": "CYkhLTCQ8z3o2zyWz6Ubzsszs5b8pCYfskL6DrRSbXvX", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 06:51:18 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 11922<40k"}
