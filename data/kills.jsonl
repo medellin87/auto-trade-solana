@@ -1,8 +1,3 @@
-{"t": "2026-11-09 01:21:02 WIB", "mint": "7LHZo4sALH2pTeM1PqEo9YYNDfWdmZ467w1cBwsApump", "sym": "Scamgoor", "reason": "liq 8010<20k"}
-{"t": "2026-11-09 01:25:35 WIB", "mint": "5BeD1Uc3Rz2Eha5FqGEnVUpGRNRk8khkXLXQNxynPyTx", "sym": "STOKE", "reason": "score 0.583<0.6"}
-{"t": "2026-11-09 01:25:36 WIB", "mint": "BF6CWcBuZ6BQFU97QuYLzFEzxCL41pDbGVeHwNdKpump", "sym": "PerpEly", "reason": "liq 0<20k"}
-{"t": "2026-11-09 01:25:38 WIB", "mint": "AFv7Xu3NnxV1k2rTU3mKAm7QRATBTkp6FxVZ5CQppump", "sym": "Puddgy", "reason": "vol1h 15<40k"}
-{"t": "2026-11-09 01:26:25 WIB", "mint": "gC1VNEFrwSWy4vWxd6pU3ZMaT1Xw88Y6JvaqGdCpump", "sym": "TA", "reason": "vol1h 197<40k"}
 {"t": "2026-11-09 01:27:58 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 42<40k"}
 {"t": "2026-11-09 01:28:47 WIB", "mint": "3RfKpgSY7v6itR7WS8f9YTRpmz7pMRBhm9BYd1PGpump", "sym": "Scamgoor", "reason": "liq 10849<20k"}
 {"t": "2026-11-09 01:29:34 WIB", "mint": "8NjiLXhpmd3C7EEM27Zs9vtRL1zBUN6C1Rdqb47Bpump", "sym": "bob", "reason": "liq 0<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-09 01:40:36 WIB", "mint": "9EPtsKZAomGxr3YR2cxfedLSjHCTvWcbv472dkNfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 01:41:23 WIB", "mint": "8SCtD3kgeLSdboe32j1AZEzsudsqBzCrW4E5d7a5pump", "sym": "BBTC", "reason": "vol1h 1531<40k"}
 {"t": "2026-11-09 01:41:24 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 11388<40k"}
+{"t": "2026-11-09 01:42:56 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 11286<40k"}
+{"t": "2026-11-09 01:42:58 WIB", "mint": "HdBqANzXMhfAWWtkJjiLmg6VyQLLRRfVnDvBeFRWpump", "sym": "SLINGOOR", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 01:42:59 WIB", "mint": "CojdNrtfNnaE8swdtgNYC7mSbcQTrfUvk9y953n3divs", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 01:44:33 WIB", "mint": "7kagiutSA5A7FwEMx57GbLdU9YRS9pJyevABTc3ppump", "sym": "Z00K", "reason": "vol1h 10895<40k"}
+{"t": "2026-11-09 01:45:20 WIB", "mint": "39cf2cTArkzFBj1UQTwHsX5bp8sA2efu3Jp6cSc9pump", "sym": "Callcat", "reason": "liq 5732<20k"}
