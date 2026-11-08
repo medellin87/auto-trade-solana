@@ -16910,3 +16910,7 @@
 {"t": "2026-11-08 21:05:24 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "score 0.515<0.6"}
 {"t": "2026-11-08 21:05:26 WIB", "mint": "83a3Wx2joPkVtU6JKtfbhwwJtShD2wCP1cMSAQTeacc", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 21:06:58 WIB", "mint": "6c9NUNsAYFzcd6bBM9zoHVfvMkdpzE3LpDJ4s8zipump", "sym": "ASCEN", "reason": "vol1h 206<40k"}
+{"t": "2026-11-08 21:08:30 WIB", "mint": "2tHh71KSPRWSAW3uQ9qQE8CG4EBqfKaM8SaYEATvpump", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 21:08:31 WIB", "mint": "oopsiaJxr31WYm1kzFjCk81Q9asgPTUTrxqPJJzmKWa", "sym": "OOPS!", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 21:09:18 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 1306<40k"}
+{"t": "2026-11-08 21:10:05 WIB", "mint": "5PmU19opZfFbRTVHzhFdUDp5Z4RdaMxVh2uHxqbGpump", "sym": "MELT", "reason": "LP locked 64%<90"}
