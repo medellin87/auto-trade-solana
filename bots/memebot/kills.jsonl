@@ -17422,3 +17422,10 @@
 {"t": "2026-11-09 04:00:55 WIB", "mint": "BYPPfvV8xdFeTS43nPFRZeLdJ8STPVELg7rvagtqpump", "sym": "GROKIA", "reason": "score 0.554<0.6"}
 {"t": "2026-11-09 04:00:57 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 1<40k"}
 {"t": "2026-11-09 04:01:43 WIB", "mint": "m8nqgxVLv5yzutnHKdWbWBWQGGsvr2BRJzXKLW83otc", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 04:04:46 WIB", "mint": "HsXo7d9bFQZTbhAquXJBmykCJoPnzZVnx92GNrZTpump", "sym": "PMUSI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 04:04:47 WIB", "mint": "41YhFK4Ksvr2pY46SzyPuMfqj4fqUMnE1YUzedJvpump", "sym": "BROKE", "reason": "vol1h 4056<40k"}
+{"t": "2026-11-09 04:04:49 WIB", "mint": "AqQCmcUSWt7SsNVbruq7X93VchQUSsRXE9oYaxR4pump", "sym": "CHIMERA", "reason": "liq 16528<20k"}
+{"t": "2026-11-09 04:05:35 WIB", "mint": "4i5muJFFaTX7a6u9QhpZYs8Q1BwwCU4jSuRxAwuSHELL", "sym": "SHELL", "reason": "liq 16333<20k"}
+{"t": "2026-11-09 04:06:22 WIB", "mint": "3quBBtqaHHS7ex4rJaB5pEQNKrBmvU74HXgwnp8cpump", "sym": "cnb", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 04:07:09 WIB", "mint": "2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump", "sym": "GTA", "reason": "liq 1733<20k"}
+{"t": "2026-11-09 04:07:10 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 38973<40k"}
