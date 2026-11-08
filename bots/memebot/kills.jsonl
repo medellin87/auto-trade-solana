@@ -17546,3 +17546,7 @@
 {"t": "2026-11-09 05:42:34 WIB", "mint": "9FaRXU3DWbcGGpwcHzfAM6bJcfuL8QWpu46hmz88pump", "sym": "STC", "reason": "liq 0<20k"}
 {"t": "2026-11-09 05:42:36 WIB", "mint": "GAHurYcsKYZ7srApNPPfFeQxzKdyRTbRhKJwqt5Lpump", "sym": "WarInu", "reason": "vol1h 140<40k"}
 {"t": "2026-11-09 05:42:37 WIB", "mint": "AEy4dgZGAMmGkA49N1Fy47SNiXDWPmw2r9e2BbEQpump", "sym": "PILL", "reason": "liq 0<20k"}
+{"t": "2026-11-09 05:43:24 WIB", "mint": "BrAMN5NQdDBvxsRht75gPJoybkBhtxc964tdkuqWpump", "sym": "INDEX", "reason": "liq 7815<20k"}
+{"t": "2026-11-09 05:44:11 WIB", "mint": "9qdiq5f1oeJSFwYETdYnG98Ykn5GpfjSNtGj37o8pump", "sym": "AF", "reason": "liq 0<20k"}
+{"t": "2026-11-09 05:44:13 WIB", "mint": "HLaSzRgp4mkZeDrAEKTJvr2UhSokYPxRS7auuYmg3xDX", "sym": "Debtcoin", "reason": "score 0.522<0.6"}
+{"t": "2026-11-09 05:44:59 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 5663<40k"}
