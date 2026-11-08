@@ -15881,3 +15881,10 @@
 {"t": "2026-11-08 09:05:46 WIB", "mint": "9pdGroSihctnCdhQyBCz2isKM4KzXpihy3jsww8rpump", "sym": "RNUT", "reason": "liq 0<20k"}
 {"t": "2026-11-08 09:05:48 WIB", "mint": "AxVwrg2rMh85gEGHezr8SBZGFTeLpQvC9MaEQ4pLpump", "sym": "Slingpad", "reason": "vol1h 10644<40k"}
 {"t": "2026-11-08 09:07:19 WIB", "mint": "8SQXVMEfccBmErcbFsdvk3iMjyTYbFt2vUHGKyLYpump", "sym": "TURKEYGUY", "reason": "liq 2153<20k"}
+{"t": "2026-11-08 09:08:06 WIB", "mint": "AxRxxogfGb51aSsfs9EA6LRV4gsQ5KcyhQSMyzapkwUx", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 09:08:53 WIB", "mint": "FQ47SAH4xuRJArffifAbqZSX1kq3ewE3GxnLuGYypump", "sym": "PoUT", "reason": "vol1h 6<40k"}
+{"t": "2026-11-08 09:08:54 WIB", "mint": "72CMcmTqUFdxtjdJ9CZi9QL5wkuDqu9aDdnBqTcCuc76", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 09:09:41 WIB", "mint": "A2BE2nUe32d21rpPPYmk1DF9DhTVX7c2ofyMrffcpump", "sym": "Raymond", "reason": "liq 0<20k"}
+{"t": "2026-11-08 09:10:28 WIB", "mint": "4xgXNdix6AUbuq6wkWtXhyK362ZUnPyZxAk1Y3dEpump", "sym": "Tungmas", "reason": "vol1h 27716<40k"}
+{"t": "2026-11-08 09:10:29 WIB", "mint": "9AmoEjBupR7FJKpb9GouckCq4z9mbAa1kCnXdF6Bpump", "sym": "RSI", "reason": "liq 0<20k"}
+{"t": "2026-11-08 09:10:31 WIB", "mint": "DvwumkvsRimEE32eN3FAGqN8NRR1Lk5s4Pi5GWqZ7gKY", "sym": "BELL", "reason": "vol1h 380<40k"}
