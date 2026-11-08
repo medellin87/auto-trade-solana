@@ -17536,3 +17536,6 @@
 {"t": "2026-11-09 05:32:29 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 05:34:01 WIB", "mint": "3Xnf6373p4wMbC6fiFcwc6eHgcJcfEGUB6YB7r23mS3o", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 05:36:18 WIB", "mint": "4DXxwJTgPvBRFDVCb6Sg3wggbxXBHsvXKat5ZS9Tpump", "sym": "PerpSium", "reason": "vol1h 28197<40k"}
+{"t": "2026-11-09 05:38:37 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 38949<40k"}
+{"t": "2026-11-09 05:38:39 WIB", "mint": "Hm6oB55fQvgT5wnq5KKKqLE6sweimNTeyQvDkDNVpump", "sym": "NAIWA", "reason": "liq 3021<20k"}
+{"t": "2026-11-09 05:39:25 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "vol1h 3315<40k"}
