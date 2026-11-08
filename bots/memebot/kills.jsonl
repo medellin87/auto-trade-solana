@@ -16902,3 +16902,6 @@
 {"t": "2026-11-08 21:00:39 WIB", "mint": "55cJN7Esu4A6ux9kkadEw8LX8jW3uqqfo9XCf2Kapump", "sym": "TERSO", "reason": "vol1h 234<40k"}
 {"t": "2026-11-08 21:00:41 WIB", "mint": "2s5xQZca7zpwwdEymrW6ewoTPuSngnZBXaCTFUYvLESS", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 21:01:28 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-08 21:03:00 WIB", "mint": "d2Kz4Xenwm3rVZX3sU2WTPLfagux48ounr81LQApump", "sym": "Percolator", "reason": "vol1h 38052<40k"}
+{"t": "2026-11-08 21:03:47 WIB", "mint": "BWh8q5etuPwekJ2JEDkbMxMQWy4FysoJ8LEwE3rFpump", "sym": "GIGAHUG", "reason": "score 0.536<0.6"}
+{"t": "2026-11-08 21:03:49 WIB", "mint": "CcnnN36L73k3uBhVuMEwGGXZEWsdUeBAqNiAbiDVpump", "sym": "JDHABIBI", "reason": "vol1h 0<40k"}
