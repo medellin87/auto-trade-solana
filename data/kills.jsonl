@@ -1,8 +1,3 @@
-{"t": "2026-11-08 15:19:51 WIB", "mint": "HJV67mbSNLHPj3oDDzGXJZ1LfFpwcXxmsF4Fa8qYpump", "sym": "DOGRAY", "reason": "vol1h 1622<40k"}
-{"t": "2026-11-08 15:19:52 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 891<40k"}
-{"t": "2026-11-08 15:20:39 WIB", "mint": "DoUDUz6R49zrT2R28LgcJugHDmo7r7mAN3trPEmZpump", "sym": "EDGAR", "reason": "vol1h 17379<40k"}
-{"t": "2026-11-08 15:20:40 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 14415<40k"}
-{"t": "2026-11-08 15:20:42 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 5294<40k"}
 {"t": "2026-11-08 15:20:44 WIB", "mint": "2NE9a9gWFv8pztvHQa91oKDThS6skxWEqBGHVNEDpump", "sym": "BGATO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 15:20:45 WIB", "mint": "BRKJMgL8McCUSHH6JjjbMUYYq7CVi26AKsezNZeVpump", "sym": "KimMani", "reason": "vol1h 18241<40k"}
 {"t": "2026-11-08 15:21:32 WIB", "mint": "68EB2XWzg6ZMUg1VXgWEHgx4WP1X1JG8mWY4SB86pump", "sym": "KRYOX", "reason": "vol1h 219<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-08 15:40:15 WIB", "mint": "FevRmdX2AdU5227ihMKCi8YLQgeaEEmyrcUk3FUEpump", "sym": "Job", "reason": "vol1h 10<40k"}
 {"t": "2026-11-08 15:40:17 WIB", "mint": "4AN9uwPTNFfFCFzR4n9KaVk3JyLmMACewf3aXV6Zpump", "sym": "MEME", "reason": "vol1h 133<40k"}
 {"t": "2026-11-08 15:41:04 WIB", "mint": "C1kd6g65hLXLF2xzM6Wu3XueXEN88dqCRBCHsEKhpump", "sym": "FOMOGIVING", "reason": "vol1h 42<40k"}
+{"t": "2026-11-08 15:42:36 WIB", "mint": "FCjUiz4euLwZ99Dp83g6JVjpBiCt9adYyoHgJyeMpump", "sym": "MI", "reason": "liq 3400<20k"}
+{"t": "2026-11-08 15:42:37 WIB", "mint": "ctMpaPiXjiUN86BoYbdE1G5QtjvTjkdyBbGkZHepump", "sym": "CALLCAT", "reason": "liq 9651<20k"}
+{"t": "2026-11-08 15:44:09 WIB", "mint": "J1c4tDDUziWwZQ4D8c6kxuAXHg5hcBX8GTNFUEaBpump", "sym": "MI", "reason": "vol1h 23<40k"}
+{"t": "2026-11-08 15:44:56 WIB", "mint": "4HqpRjsRS8pjdWa2B3mBAmNNxTXUeJ9L6AfFnRgipump", "sym": "HOPE", "reason": "vol1h 9792<40k"}
+{"t": "2026-11-08 15:44:57 WIB", "mint": "CdmzERuZnYQwqwa2rxtRjsMjDU6y6qrM5ez6n2mxpump", "sym": "GATOGLITCH", "reason": "liq 3181<20k"}
