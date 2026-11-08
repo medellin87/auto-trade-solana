@@ -17179,3 +17179,7 @@
 {"t": "2026-11-09 00:50:39 WIB", "mint": "7LHZo4sALH2pTeM1PqEo9YYNDfWdmZ467w1cBwsApump", "sym": "Scamgoor", "reason": "liq 12065<20k"}
 {"t": "2026-11-09 00:55:11 WIB", "mint": "AFv7Xu3NnxV1k2rTU3mKAm7QRATBTkp6FxVZ5CQppump", "sym": "Puddgy", "reason": "vol1h 6<40k"}
 {"t": "2026-11-09 00:55:57 WIB", "mint": "gC1VNEFrwSWy4vWxd6pU3ZMaT1Xw88Y6JvaqGdCpump", "sym": "TA", "reason": "vol1h 1924<40k"}
+{"t": "2026-11-09 00:57:31 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 93<40k"}
+{"t": "2026-11-09 00:58:20 WIB", "mint": "3RfKpgSY7v6itR7WS8f9YTRpmz7pMRBhm9BYd1PGpump", "sym": "Scamgoor", "reason": "top10 40.1%>25"}
+{"t": "2026-11-09 00:59:07 WIB", "mint": "6ipDHmRE54vJuYfAPooKNWiGpaf2TW4wcvfCFMvApump", "sym": "Senvra", "reason": "vol1h 11202<40k"}
+{"t": "2026-11-09 00:59:08 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1907<40k"}
