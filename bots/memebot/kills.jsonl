@@ -17367,3 +17367,7 @@
 {"t": "2026-11-09 03:16:18 WIB", "mint": "2NNMnL71YRqvnkA1TPmJLawtnJW857Nvk6qauybxpump", "sym": "NIGOOR", "reason": "liq 9250<20k"}
 {"t": "2026-11-09 03:17:05 WIB", "mint": "GrnWKAjRzzZj7kgaKFD3tArNJJHmTr2udVkcFiEopump", "sym": "Lend", "reason": "vol1h 7<40k"}
 {"t": "2026-11-09 03:17:54 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 14249<40k"}
+{"t": "2026-11-09 03:20:11 WIB", "mint": "5DXtqcCcSGJWvuJSoE6nmhm4qpQYrWv1x5W45QMvpump", "sym": "BLKFRI", "reason": "vol1h 747<40k"}
+{"t": "2026-11-09 03:20:12 WIB", "mint": "GdMjsTtrn3AKFHD8x3u15Hg6QLCWfXbdvPsofd83pump", "sym": "ELYOTC", "reason": "liq 0<20k"}
+{"t": "2026-11-09 03:20:59 WIB", "mint": "FDfFpvV5JoJwYdXkasP7bJcGb5vbw5AEtfo63Pabpump", "sym": "MEMEPLOYED", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 03:21:01 WIB", "mint": "FU4JmFnSsFcTjALsfe8Byod3xaZQYAEurqMBefW2pump", "sym": "shep", "reason": "vol1h 12050<40k"}
