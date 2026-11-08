@@ -17278,3 +17278,9 @@
 {"t": "2026-11-09 02:11:05 WIB", "mint": "9EPtsKZAomGxr3YR2cxfedLSjHCTvWcbv472dkNfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 02:11:52 WIB", "mint": "8SCtD3kgeLSdboe32j1AZEzsudsqBzCrW4E5d7a5pump", "sym": "BBTC", "reason": "vol1h 2958<40k"}
 {"t": "2026-11-09 02:11:54 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 8513<40k"}
+{"t": "2026-11-09 02:13:25 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 12107<40k"}
+{"t": "2026-11-09 02:13:27 WIB", "mint": "HdBqANzXMhfAWWtkJjiLmg6VyQLLRRfVnDvBeFRWpump", "sym": "SLINGOOR", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 02:13:28 WIB", "mint": "CojdNrtfNnaE8swdtgNYC7mSbcQTrfUvk9y953n3divs", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 02:15:02 WIB", "mint": "7kagiutSA5A7FwEMx57GbLdU9YRS9pJyevABTc3ppump", "sym": "Z00K", "reason": "liq 0<20k"}
+{"t": "2026-11-09 02:15:49 WIB", "mint": "2NNMnL71YRqvnkA1TPmJLawtnJW857Nvk6qauybxpump", "sym": "NIGOOR", "reason": "liq 0<20k"}
+{"t": "2026-11-09 02:15:50 WIB", "mint": "39cf2cTArkzFBj1UQTwHsX5bp8sA2efu3Jp6cSc9pump", "sym": "Callcat", "reason": "liq 5758<20k"}
