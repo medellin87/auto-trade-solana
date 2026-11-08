@@ -16977,3 +16977,8 @@
 {"t": "2026-11-08 22:01:38 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.503<0.6"}
 {"t": "2026-11-08 22:02:25 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "risk:Creator history of rugged tokens"}
 {"t": "2026-11-08 22:03:57 WIB", "mint": "d2Kz4Xenwm3rVZX3sU2WTPLfagux48ounr81LQApump", "sym": "Percolator", "reason": "liq 3211<20k"}
+{"t": "2026-11-08 22:04:43 WIB", "mint": "CcnnN36L73k3uBhVuMEwGGXZEWsdUeBAqNiAbiDVpump", "sym": "JDHABIBI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 22:04:47 WIB", "mint": "ArzQNj7T2MHN5daKeYoTAq1ZeJShy9NQUrm9rJ6Ppump", "sym": "Jeetlon", "reason": "liq 0<20k"}
+{"t": "2026-11-08 22:06:19 WIB", "mint": "83a3Wx2joPkVtU6JKtfbhwwJtShD2wCP1cMSAQTeacc", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 22:06:20 WIB", "mint": "HxAyQ3CH4fpYE3gRAvaaDvbx4b1XyX87MyAGwgdipump", "sym": "Respect", "reason": "vol1h 1<40k"}
+{"t": "2026-11-08 22:06:22 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "vol1h 32363<40k"}
