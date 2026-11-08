@@ -16236,3 +16236,5 @@
 {"t": "2026-11-08 12:59:31 WIB", "mint": "EXgMnKTGimrSSkZKdiZnm86jNqrJGgWeXFRUy1uWsoLc", "sym": "SOLC", "reason": "vol1h 961<40k"}
 {"t": "2026-11-08 13:00:18 WIB", "mint": "31Lddm2WbW1WJ31Tb4aHUW3nA9Q7dTfpazerNDLdpump", "sym": "Memecoin", "reason": "liq 3506<20k"}
 {"t": "2026-11-08 13:00:19 WIB", "mint": "oopsiaJxr31WYm1kzFjCk81Q9asgPTUTrxqPJJzmKWa", "sym": "OOPS!", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 13:04:06 WIB", "mint": "62nCxgQbrumcv5RnDrT7rQVv4rbAqhtseG26D3sE2EPR", "sym": "SEAL", "reason": "vol1h 142<40k"}
+{"t": "2026-11-08 13:04:53 WIB", "mint": "BfgS8o5Lyxysr5KtJyFxQADev6KKjc2Pyc2HqG7Mdoge", "sym": "SQUIRREL", "reason": "vol1h 483<40k"}
