@@ -15810,3 +15810,5 @@
 {"t": "2026-11-08 08:22:17 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "score 0.585<0.6"}
 {"t": "2026-11-08 08:22:19 WIB", "mint": "JDKPjvyXbzaz6ZCWzqnpzufSozoMn47tdSSbtnVwupS2", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 08:23:06 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "vol1h 27<40k"}
+{"t": "2026-11-08 08:25:24 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 4576<40k"}
+{"t": "2026-11-08 08:26:11 WIB", "mint": "oopsiaJxr31WYm1kzFjCk81Q9asgPTUTrxqPJJzmKWa", "sym": "OOPS!", "reason": "vol1h 0<40k"}
