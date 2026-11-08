@@ -16951,3 +16951,5 @@
 {"t": "2026-11-08 21:40:38 WIB", "mint": "5PmU19opZfFbRTVHzhFdUDp5Z4RdaMxVh2uHxqbGpump", "sym": "MELT", "reason": "LP locked 64%<90"}
 {"t": "2026-11-08 21:41:25 WIB", "mint": "9KodgZ5ZiN6xL1z2jyHDiCzXfR1eGqz867phn8bMpump", "sym": "BTC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 21:42:11 WIB", "mint": "ArsxRBcArVRcEFvii4bnVrnFWrYoUthCqhR2uwPGpump", "sym": "HAN", "reason": "vol1h 19747<40k"}
+{"t": "2026-11-08 21:43:43 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "top10 32.8%>25"}
+{"t": "2026-11-08 21:44:31 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.409<0.6"}
