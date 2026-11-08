@@ -15945,3 +15945,7 @@
 {"t": "2026-11-08 09:50:45 WIB", "mint": "G1evzzdxVXa7q3ypytdrEWstKdaS2rvDG8q76jDTpump", "sym": "ABDUL", "reason": "liq 0<20k"}
 {"t": "2026-11-08 09:52:07 WIB", "mint": "BWh8q5etuPwekJ2JEDkbMxMQWy4FysoJ8LEwE3rFpump", "sym": "GIGAHUG", "reason": "score 0.56<0.6"}
 {"t": "2026-11-08 09:52:53 WIB", "mint": "5DXtqcCcSGJWvuJSoE6nmhm4qpQYrWv1x5W45QMvpump", "sym": "BLKFRI", "reason": "vol1h 42<40k"}
+{"t": "2026-11-08 09:54:29 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "vol1h 2<40k"}
+{"t": "2026-11-08 09:56:47 WIB", "mint": "2nUQnyfwhVE4cTJGfcH2bqp7JG24Fo4zzjQ61BZevwuE", "sym": "TAOLF", "reason": "score 0.49<0.6"}
+{"t": "2026-11-08 09:56:48 WIB", "mint": "7sTmYgpUXFhZEprCJZVZAUX6we5ti2FoKJ2QCxHfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 09:56:50 WIB", "mint": "oopsiaJxr31WYm1kzFjCk81Q9asgPTUTrxqPJJzmKWa", "sym": "OOPS!", "reason": "vol1h 0<40k"}
