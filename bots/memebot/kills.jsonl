@@ -17596,3 +17596,7 @@
 {"t": "2026-11-09 06:24:45 WIB", "mint": "9x2AEiRsWNGeDgDTdmW3fCPh6GVcP3cRQUJ8mffkpump", "sym": "WAITING", "reason": "vol1h 3513<40k"}
 {"t": "2026-11-09 06:27:02 WIB", "mint": "8SZTCYrwbn5XurcKYheaHY4sj11BpEV8Uuy3CXDvpump", "sym": "Doudou", "reason": "liq 0<20k"}
 {"t": "2026-11-09 06:27:49 WIB", "mint": "3MBJfJ3AFU2vyXr9PaF4S1DaVeo4wW48y7E8q53DZbjU", "sym": "UPPIN", "reason": "vol1h 2150<40k"}
+{"t": "2026-11-09 06:29:21 WIB", "mint": "GHLMKtZta7JMcRHXTXa65xS4ubXEzieM5rQvjc8Bpump", "sym": "DEBT", "reason": "liq 18081<20k"}
+{"t": "2026-11-09 06:29:23 WIB", "mint": "DXucHQjnGGLnW8kkiBZEKp7gRhYHF9ni1aegyvqypump", "sym": "Naiwa", "reason": "vol1h 2<40k"}
+{"t": "2026-11-09 06:30:09 WIB", "mint": "FPsEMQeAbd5Jqp5kxQE1ZKAC6X5JSVsqSgcCNkLYpump", "sym": "lol", "reason": "liq 0<20k"}
+{"t": "2026-11-09 06:30:56 WIB", "mint": "2eGd3wkgzzwnwpGXKYwXGVdFYCpY5wXH5AHicBXvpump", "sym": "Forever", "reason": "vol1h 591<40k"}
