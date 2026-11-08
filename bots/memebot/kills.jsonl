@@ -15761,3 +15761,6 @@
 {"t": "2026-11-08 07:51:37 WIB", "mint": "2qj5mtSv6BYw7ZFZYuB8c8SfJMHxoWhdfnSy96xjpump", "sym": "Tommie", "reason": "liq 0<20k"}
 {"t": "2026-11-08 07:51:38 WIB", "mint": "JDKPjvyXbzaz6ZCWzqnpzufSozoMn47tdSSbtnVwupS2", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 07:52:25 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "vol1h 51<40k"}
+{"t": "2026-11-08 07:54:44 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 4050<40k"}
+{"t": "2026-11-08 07:55:31 WIB", "mint": "oopsiaJxr31WYm1kzFjCk81Q9asgPTUTrxqPJJzmKWa", "sym": "OOPS!", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 07:56:17 WIB", "mint": "Ch6cxwpSbEgUDW1hrhC1JDLVmCUZaTCxDfUoY3Sepump", "sym": "GTA", "reason": "vol1h 13724<40k"}
