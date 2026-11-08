@@ -1,8 +1,3 @@
-{"t": "2026-11-08 23:30:30 WIB", "mint": "HsXo7d9bFQZTbhAquXJBmykCJoPnzZVnx92GNrZTpump", "sym": "PMUSI", "reason": "vol1h 1<40k"}
-{"t": "2026-11-08 23:31:17 WIB", "mint": "94XT3wbmQ2gYJPZBBPSpBouMto1zyJgFmzpRF3iHpump", "sym": "Subpoena", "reason": "vol1h 14566<40k"}
-{"t": "2026-11-08 23:32:04 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 2263<40k"}
-{"t": "2026-11-08 23:32:05 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 64<40k"}
-{"t": "2026-11-08 23:33:39 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "vol1h 31469<40k"}
 {"t": "2026-11-08 23:35:11 WIB", "mint": "HVqfmenHcGJ4fTddMV63DJh3P4hicMdcUf5LM5GSpump", "sym": "PFB", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 23:35:57 WIB", "mint": "7qf6JJpfGZtpLifvBvmgU6RHNWubD8jRGy4aHBnhpump", "sym": "DACAT", "reason": "liq 1753<20k"}
 {"t": "2026-11-08 23:35:59 WIB", "mint": "8uUuaftMvA2QsVawSYgQzHnhN5p3ezfLbhs2HAkcTdpC", "sym": "?", "reason": "no solana pair"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-08 23:55:21 WIB", "mint": "gC1VNEFrwSWy4vWxd6pU3ZMaT1Xw88Y6JvaqGdCpump", "sym": "TA", "reason": "liq 4859<20k"}
 {"t": "2026-11-08 23:56:08 WIB", "mint": "ErvM3kEjJeCJZ24RSs4H75nSHGxkNxZaDyDKb2odpump", "sym": "manlet", "reason": "vol1h 8768<40k"}
 {"t": "2026-11-08 23:56:56 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 6866<40k"}
+{"t": "2026-11-08 23:57:43 WIB", "mint": "7ETtD1R93rjLsKjvevZQLXySu6Ag3jNRm9xF8FVXpump", "sym": "Cousins", "reason": "vol1h 37799<40k"}
+{"t": "2026-11-08 23:58:30 WIB", "mint": "6ipDHmRE54vJuYfAPooKNWiGpaf2TW4wcvfCFMvApump", "sym": "Senvra", "reason": "vol1h 12458<40k"}
+{"t": "2026-11-08 23:58:31 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 5407<40k"}
+{"t": "2026-11-09 00:00:03 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 2713<40k"}
+{"t": "2026-11-09 00:00:04 WIB", "mint": "3JmVNVLfvSpcoVx5VEUXfejdYrok81GqenpZSqFbpump", "sym": "Hobbes", "reason": "vol1h 10042<40k"}
