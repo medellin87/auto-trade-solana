@@ -17204,3 +17204,5 @@
 {"t": "2026-11-09 01:08:41 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "score 0.411<0.6"}
 {"t": "2026-11-09 01:09:28 WIB", "mint": "9eatZbVfte9UhQFoL4vYxxqfxU3huNobPq9TsfMApump", "sym": "CCC", "reason": "liq 0<20k"}
 {"t": "2026-11-09 01:11:00 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 10821<40k"}
+{"t": "2026-11-09 01:12:32 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 3983<40k"}
+{"t": "2026-11-09 01:12:33 WIB", "mint": "CojdNrtfNnaE8swdtgNYC7mSbcQTrfUvk9y953n3divs", "sym": "?", "reason": "no solana pair"}
