@@ -1,8 +1,3 @@
-{"t": "2026-11-09 04:37:46 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 33255<40k"}
-{"t": "2026-11-09 04:37:48 WIB", "mint": "Hm6oB55fQvgT5wnq5KKKqLE6sweimNTeyQvDkDNVpump", "sym": "NAIWA", "reason": "vol1h 0<40k"}
-{"t": "2026-11-09 04:38:34 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "vol1h 5379<40k"}
-{"t": "2026-11-09 04:40:06 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 4232<40k"}
-{"t": "2026-11-09 04:40:53 WIB", "mint": "5bsYbpRazim6sPXQK9bqNsBxmGELFpGCAGNMTxB4pump", "sym": "FRP", "reason": "liq 0<20k"}
 {"t": "2026-11-09 04:40:55 WIB", "mint": "5bpoWwTbLzTSqRtfgBgMJPGN8j8RTa29VX63KB9dpump", "sym": "4CHAN", "reason": "vol1h 2396<40k"}
 {"t": "2026-11-09 04:41:41 WIB", "mint": "GAHurYcsKYZ7srApNPPfFeQxzKdyRTbRhKJwqt5Lpump", "sym": "WarInu", "reason": "vol1h 1334<40k"}
 {"t": "2026-11-09 04:41:43 WIB", "mint": "5b8LGwj96DedD5HzzDskfsd2BqTQQ4pFdQganEW9pump", "sym": "NVIDIH", "reason": "liq 18138<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-09 05:01:13 WIB", "mint": "Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump", "sym": "george", "reason": "vol1h 4584<40k"}
 {"t": "2026-11-09 05:01:14 WIB", "mint": "9honpvxB9T5RAMBXNfiwShHuNYzmptXj1PhVk8B9pump", "sym": "BABYANSEM", "reason": "vol1h 36916<40k"}
 {"t": "2026-11-09 05:02:01 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 52<40k"}
+{"t": "2026-11-09 05:05:48 WIB", "mint": "4DXxwJTgPvBRFDVCb6Sg3wggbxXBHsvXKat5ZS9Tpump", "sym": "PerpSium", "reason": "vol1h 22250<40k"}
+{"t": "2026-11-09 05:05:50 WIB", "mint": "AqQCmcUSWt7SsNVbruq7X93VchQUSsRXE9oYaxR4pump", "sym": "CHIMERA", "reason": "liq 8446<20k"}
+{"t": "2026-11-09 05:06:37 WIB", "mint": "4i5muJFFaTX7a6u9QhpZYs8Q1BwwCU4jSuRxAwuSHELL", "sym": "SHELL", "reason": "vol1h 26284<40k"}
+{"t": "2026-11-09 05:08:11 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 34486<40k"}
+{"t": "2026-11-09 05:08:12 WIB", "mint": "Hm6oB55fQvgT5wnq5KKKqLE6sweimNTeyQvDkDNVpump", "sym": "NAIWA", "reason": "liq 4852<20k"}
