@@ -16232,3 +16232,7 @@
 {"t": "2026-11-08 12:56:22 WIB", "mint": "5DXtqcCcSGJWvuJSoE6nmhm4qpQYrWv1x5W45QMvpump", "sym": "BLKFRI", "reason": "vol1h 137<40k"}
 {"t": "2026-11-08 12:57:09 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "score 0.51<0.6"}
 {"t": "2026-11-08 12:57:58 WIB", "mint": "FB5jzwHwJExWQXQ2gDpK7kACqd3sArofYZFEtCd5pump", "sym": "LAUNCH", "reason": "vol1h 1<40k"}
+{"t": "2026-11-08 12:59:30 WIB", "mint": "4HRN1MU8uLX7vYcz8DLj8Cf1B8MAFcfd1F78Y9fGpump", "sym": "CLASH", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 12:59:31 WIB", "mint": "EXgMnKTGimrSSkZKdiZnm86jNqrJGgWeXFRUy1uWsoLc", "sym": "SOLC", "reason": "vol1h 961<40k"}
+{"t": "2026-11-08 13:00:18 WIB", "mint": "31Lddm2WbW1WJ31Tb4aHUW3nA9Q7dTfpazerNDLdpump", "sym": "Memecoin", "reason": "liq 3506<20k"}
+{"t": "2026-11-08 13:00:19 WIB", "mint": "oopsiaJxr31WYm1kzFjCk81Q9asgPTUTrxqPJJzmKWa", "sym": "OOPS!", "reason": "vol1h 0<40k"}
