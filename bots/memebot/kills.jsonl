@@ -17011,3 +17011,6 @@
 {"t": "2026-11-08 22:30:29 WIB", "mint": "8r1dELDh8c15fnNxqtAEpRnhK34fSRFWvcSSs98mpump", "sym": "YONGJA", "reason": "liq 14645<20k"}
 {"t": "2026-11-08 22:31:15 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 4359<40k"}
 {"t": "2026-11-08 22:31:17 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-08 22:32:04 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.472<0.6"}
+{"t": "2026-11-08 22:32:51 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-08 22:34:23 WIB", "mint": "d2Kz4Xenwm3rVZX3sU2WTPLfagux48ounr81LQApump", "sym": "Percolator", "reason": "vol1h 16116<40k"}
