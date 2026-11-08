@@ -16434,3 +16434,8 @@
 {"t": "2026-11-08 15:09:40 WIB", "mint": "FevRmdX2AdU5227ihMKCi8YLQgeaEEmyrcUk3FUEpump", "sym": "Job", "reason": "vol1h 25<40k"}
 {"t": "2026-11-08 15:09:42 WIB", "mint": "BdViSenuLhASvAqa6J5BLJKVh4PtmNsNgBF8Ehw8Q4Fc", "sym": "ANCHOR", "reason": "vol1h 31595<40k"}
 {"t": "2026-11-08 15:10:28 WIB", "mint": "C1kd6g65hLXLF2xzM6Wu3XueXEN88dqCRBCHsEKhpump", "sym": "FOMOGIVING", "reason": "vol1h 15<40k"}
+{"t": "2026-11-08 15:12:00 WIB", "mint": "FCjUiz4euLwZ99Dp83g6JVjpBiCt9adYyoHgJyeMpump", "sym": "MI", "reason": "liq 0<20k"}
+{"t": "2026-11-08 15:12:01 WIB", "mint": "ctMpaPiXjiUN86BoYbdE1G5QtjvTjkdyBbGkZHepump", "sym": "CALLCAT", "reason": "liq 17697<20k"}
+{"t": "2026-11-08 15:13:33 WIB", "mint": "J1c4tDDUziWwZQ4D8c6kxuAXHg5hcBX8GTNFUEaBpump", "sym": "MI", "reason": "liq 1814<20k"}
+{"t": "2026-11-08 15:14:20 WIB", "mint": "CdmzERuZnYQwqwa2rxtRjsMjDU6y6qrM5ez6n2mxpump", "sym": "GATOGLITCH", "reason": "liq 3043<20k"}
+{"t": "2026-11-08 15:14:21 WIB", "mint": "4HqpRjsRS8pjdWa2B3mBAmNNxTXUeJ9L6AfFnRgipump", "sym": "HOPE", "reason": "vol1h 10507<40k"}
