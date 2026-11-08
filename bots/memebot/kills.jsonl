@@ -17137,3 +17137,8 @@
 {"t": "2026-11-09 00:11:53 WIB", "mint": "6UtTdKXi2i4gkpnvkRhwViE88CgiaAnZuJ8mg4wgpump", "sym": "SCAMGOOR", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 00:12:39 WIB", "mint": "VjKCt9XXKQ5zjR2xf8hNyXc6VRJHMqrGaK7p7NtPLUS", "sym": "SURPLUS", "reason": "liq 16992<20k"}
 {"t": "2026-11-09 00:15:41 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 18131<40k"}
+{"t": "2026-11-09 00:16:28 WIB", "mint": "5ZqaR5kgfjYwX3WDvnzEmzVfoSniuo1FJB8hJCQ3pump", "sym": "shroom", "reason": "vol1h 1956<40k"}
+{"t": "2026-11-09 00:16:30 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.423<0.6"}
+{"t": "2026-11-09 00:18:02 WIB", "mint": "5DXtqcCcSGJWvuJSoE6nmhm4qpQYrWv1x5W45QMvpump", "sym": "BLKFRI", "reason": "vol1h 509<40k"}
+{"t": "2026-11-09 00:18:03 WIB", "mint": "FevRmdX2AdU5227ihMKCi8YLQgeaEEmyrcUk3FUEpump", "sym": "Job", "reason": "vol1h 100<40k"}
+{"t": "2026-11-09 00:18:51 WIB", "mint": "E6YzNTXqCCWYq8WqKRZGct6pVTig1uNbNGT37ERYpump", "sym": "LUCIA", "reason": "top10 34.4%>25"}
