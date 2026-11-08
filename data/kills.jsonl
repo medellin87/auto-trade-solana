@@ -1,9 +1,3 @@
-{"t": "2026-11-09 03:35:48 WIB", "mint": "3quBBtqaHHS7ex4rJaB5pEQNKrBmvU74HXgwnp8cpump", "sym": "cnb", "reason": "vol1h 0<40k"}
-{"t": "2026-11-09 03:36:35 WIB", "mint": "2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump", "sym": "GTA", "reason": "top10 32.2%>25"}
-{"t": "2026-11-09 03:36:36 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 33451<40k"}
-{"t": "2026-11-09 03:37:23 WIB", "mint": "3M1c7BqWVaChfRLtMc49XcQQXfajCTRVyZVoe45wpump", "sym": "norm", "reason": "vol1h 438<40k"}
-{"t": "2026-11-09 03:37:25 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "vol1h 24861<40k"}
-{"t": "2026-11-09 03:37:26 WIB", "mint": "8wwBPfLtVwhzDEtDjEkKGojSo9WeGkr877C96dcjpump", "sym": "KOL", "reason": "liq 2507<20k"}
 {"t": "2026-11-09 03:38:13 WIB", "mint": "7tAcA9QX4y7NQtE2esjyJpw3xAZi67NnJSg2Xsympump", "sym": "BTC", "reason": "vol1h 1<40k"}
 {"t": "2026-11-09 03:39:00 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 637<40k"}
 {"t": "2026-11-09 03:39:46 WIB", "mint": "2vSptzRCQiDtGikJDhmW8as2RHwj6H8zud64QpcNbang", "sym": "?", "reason": "no solana pair"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-09 03:55:25 WIB", "mint": "3MBJfJ3AFU2vyXr9PaF4S1DaVeo4wW48y7E8q53DZbjU", "sym": "UPPIN", "reason": "vol1h 7304<40k"}
 {"t": "2026-11-09 03:56:12 WIB", "mint": "GXjaiaUuhgb89Jnbn9CAbQ1aZS3XrJKFQJTqzDAxaLLo", "sym": "allo", "reason": "vol1h 55<40k"}
 {"t": "2026-11-09 03:56:59 WIB", "mint": "4jtJQ1PHj6w33tQZwFx8qCY2JbSuKWnGBnvWrDMjpump", "sym": "DAISY", "reason": "liq 6751<20k"}
+{"t": "2026-11-09 03:58:30 WIB", "mint": "9DL3ybGDHqe18JyMLHBkZ6PwkbCUtdypfzqCf3QLWmLn", "sym": "LOOP", "reason": "vol1h 26203<40k"}
+{"t": "2026-11-09 03:58:32 WIB", "mint": "7xWZSw8KfLbPRiLiyPPMNboCq81j3oc53DpAYiXfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 03:58:34 WIB", "mint": "2eGd3wkgzzwnwpGXKYwXGVdFYCpY5wXH5AHicBXvpump", "sym": "Forever", "reason": "vol1h 37458<40k"}
+{"t": "2026-11-09 04:00:08 WIB", "mint": "Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump", "sym": "george", "reason": "vol1h 8875<40k"}
+{"t": "2026-11-09 04:00:55 WIB", "mint": "BYPPfvV8xdFeTS43nPFRZeLdJ8STPVELg7rvagtqpump", "sym": "GROKIA", "reason": "score 0.554<0.6"}
+{"t": "2026-11-09 04:00:57 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 1<40k"}
