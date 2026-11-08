@@ -15910,3 +15910,6 @@
 {"t": "2026-11-08 09:26:15 WIB", "mint": "7sTmYgpUXFhZEprCJZVZAUX6we5ti2FoKJ2QCxHfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-08 09:26:16 WIB", "mint": "2nUQnyfwhVE4cTJGfcH2bqp7JG24Fo4zzjQ61BZevwuE", "sym": "TAOLF", "reason": "vol1h 31525<40k"}
 {"t": "2026-11-08 09:27:48 WIB", "mint": "AJBZMJ4a4dLKvrXmjkrKwjaaQCdph5kssjadZizppump", "sym": "GTA6COP", "reason": "vol1h 1521<40k"}
+{"t": "2026-11-08 09:31:45 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.479<0.6"}
+{"t": "2026-11-08 09:31:46 WIB", "mint": "4otPjM3mtiVrZmRmCUbahgFpcEcDaj5wUFcCAPFnpump", "sym": "Think", "reason": "vol1h 106<40k"}
+{"t": "2026-11-08 09:31:48 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 13<40k"}
