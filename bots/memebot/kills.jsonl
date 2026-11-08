@@ -15764,3 +15764,9 @@
 {"t": "2026-11-08 07:54:44 WIB", "mint": "7Uv5x7yDjzKbgHwQNesHkVPKS7nXeiqoqdynRgUjpump", "sym": "BTC", "reason": "vol1h 4050<40k"}
 {"t": "2026-11-08 07:55:31 WIB", "mint": "oopsiaJxr31WYm1kzFjCk81Q9asgPTUTrxqPJJzmKWa", "sym": "OOPS!", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 07:56:17 WIB", "mint": "Ch6cxwpSbEgUDW1hrhC1JDLVmCUZaTCxDfUoY3Sepump", "sym": "GTA", "reason": "vol1h 13724<40k"}
+{"t": "2026-11-08 07:57:04 WIB", "mint": "AJBZMJ4a4dLKvrXmjkrKwjaaQCdph5kssjadZizppump", "sym": "GTA6COP", "reason": "vol1h 4326<40k"}
+{"t": "2026-11-08 07:57:51 WIB", "mint": "9pqtMh3DnydKbAvTp97N9ht1mkUB8wvvsTefg4KzM8se", "sym": "LUCIA", "reason": "vol1h 323<40k"}
+{"t": "2026-11-08 07:57:52 WIB", "mint": "78ikafZfTXwq338ZjHTyDyd5nZtZzLRTS6Fsw6fLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-08 07:57:54 WIB", "mint": "4QhwAw8ituDjJbMMJG3zLLgHmrhL74WZ2BximAYYBAGS", "sym": "MAGGIE", "reason": "liq 0<20k"}
+{"t": "2026-11-08 07:58:41 WIB", "mint": "HMFrT2kiqWBGgiPWXqQuavi3Y7eezEySgwn1yDwfpump", "sym": "CLAUDIA", "reason": "score 0.57<0.6"}
+{"t": "2026-11-08 07:58:42 WIB", "mint": "7f6hnfpSajnuWSinNAzKs77Ye8eyVVZRzKUPw12spump", "sym": "\ud83d\udd95", "reason": "vol1h 32601<40k"}
