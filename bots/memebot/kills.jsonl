@@ -17515,3 +17515,8 @@
 {"t": "2026-11-09 05:13:00 WIB", "mint": "BrAMN5NQdDBvxsRht75gPJoybkBhtxc964tdkuqWpump", "sym": "INDEX", "reason": "liq 0<20k"}
 {"t": "2026-11-09 05:14:34 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 7996<40k"}
 {"t": "2026-11-09 05:14:35 WIB", "mint": "FUppVamcF2np57H2fDeDgRK6eCrhBzUcr8YaECjQpump", "sym": "Debtcoin", "reason": "liq 0<20k"}
+{"t": "2026-11-09 05:18:25 WIB", "mint": "BCMdoKLrTMt6JFT41TFiNQ91s52NvyrsGvUnnhjnpump", "sym": "ABTC", "reason": "vol1h 25923<40k"}
+{"t": "2026-11-09 05:18:26 WIB", "mint": "2Cmxtzbt941j3Vi9HjXsDkYNQxQ43jF2j51PYrBdpump", "sym": "SCOPE", "reason": "vol1h 1753<40k"}
+{"t": "2026-11-09 05:19:58 WIB", "mint": "9NreoyFb9upDybBr1jgnTSKaXzMyjvsoAiQqCe8cpump", "sym": "Ansemia", "reason": "vol1h 34864<40k"}
+{"t": "2026-11-09 05:20:00 WIB", "mint": "CYkhLTCQ8z3o2zyWz6Ubzsszs5b8pCYfskL6DrRSbXvX", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 05:20:02 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 10586<40k"}
