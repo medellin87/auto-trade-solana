@@ -1,8 +1,3 @@
-{"t": "2026-11-09 01:01:30 WIB", "mint": "HsXo7d9bFQZTbhAquXJBmykCJoPnzZVnx92GNrZTpump", "sym": "PMUSI", "reason": "vol1h 19<40k"}
-{"t": "2026-11-09 01:02:16 WIB", "mint": "94XT3wbmQ2gYJPZBBPSpBouMto1zyJgFmzpRF3iHpump", "sym": "Subpoena", "reason": "vol1h 575<40k"}
-{"t": "2026-11-09 01:03:03 WIB", "mint": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump", "sym": "HELL", "reason": "vol1h 4092<40k"}
-{"t": "2026-11-09 01:03:05 WIB", "mint": "GtSzzXjUqJpooi1p9ji3iteYmfvYzPkqBXKG5avkpump", "sym": "scamoor", "reason": "liq 0<20k"}
-{"t": "2026-11-09 01:03:51 WIB", "mint": "Avbtweci2uXR2j3zPDewBYrnRRAfyi7uvdb4imTxpump", "sym": "solo", "reason": "liq 0<20k"}
 {"t": "2026-11-09 01:03:53 WIB", "mint": "4eCedtekv3f61kNbWT8XEwDBv9tPsKtBunhoUz4RtWTL", "sym": "ARCANA", "reason": "vol1h 8693<40k"}
 {"t": "2026-11-09 01:04:42 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "vol1h 21109<40k"}
 {"t": "2026-11-09 01:06:13 WIB", "mint": "J7UXuwewfvP5YptiAy3qwkuMovEFcWZCcQ7n73bwpump", "sym": "Slingoor", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-09 01:25:36 WIB", "mint": "BF6CWcBuZ6BQFU97QuYLzFEzxCL41pDbGVeHwNdKpump", "sym": "PerpEly", "reason": "liq 0<20k"}
 {"t": "2026-11-09 01:25:38 WIB", "mint": "AFv7Xu3NnxV1k2rTU3mKAm7QRATBTkp6FxVZ5CQppump", "sym": "Puddgy", "reason": "vol1h 15<40k"}
 {"t": "2026-11-09 01:26:25 WIB", "mint": "gC1VNEFrwSWy4vWxd6pU3ZMaT1Xw88Y6JvaqGdCpump", "sym": "TA", "reason": "vol1h 197<40k"}
+{"t": "2026-11-09 01:27:58 WIB", "mint": "Ho7n9cAt7Yjfxk7DnkZ5VDNUQrPP76FqySaSaTZWpump", "sym": "ORPO", "reason": "vol1h 42<40k"}
+{"t": "2026-11-09 01:28:47 WIB", "mint": "3RfKpgSY7v6itR7WS8f9YTRpmz7pMRBhm9BYd1PGpump", "sym": "Scamgoor", "reason": "liq 10849<20k"}
+{"t": "2026-11-09 01:29:34 WIB", "mint": "8NjiLXhpmd3C7EEM27Zs9vtRL1zBUN6C1Rdqb47Bpump", "sym": "bob", "reason": "liq 0<20k"}
+{"t": "2026-11-09 01:29:35 WIB", "mint": "6ipDHmRE54vJuYfAPooKNWiGpaf2TW4wcvfCFMvApump", "sym": "Senvra", "reason": "vol1h 1845<40k"}
+{"t": "2026-11-09 01:29:37 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 2170<40k"}
