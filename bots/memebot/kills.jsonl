@@ -16983,3 +16983,6 @@
 {"t": "2026-11-08 22:06:20 WIB", "mint": "HxAyQ3CH4fpYE3gRAvaaDvbx4b1XyX87MyAGwgdipump", "sym": "Respect", "reason": "vol1h 1<40k"}
 {"t": "2026-11-08 22:06:22 WIB", "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump", "sym": "COGE", "reason": "vol1h 32363<40k"}
 {"t": "2026-11-08 22:10:09 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 5149<40k"}
+{"t": "2026-11-08 22:10:56 WIB", "mint": "5PmU19opZfFbRTVHzhFdUDp5Z4RdaMxVh2uHxqbGpump", "sym": "MELT", "reason": "LP locked 64%<90"}
+{"t": "2026-11-08 22:11:43 WIB", "mint": "9KodgZ5ZiN6xL1z2jyHDiCzXfR1eGqz867phn8bMpump", "sym": "BTC", "reason": "liq 8400<20k"}
+{"t": "2026-11-08 22:12:29 WIB", "mint": "ArsxRBcArVRcEFvii4bnVrnFWrYoUthCqhR2uwPGpump", "sym": "HAN", "reason": "vol1h 0<40k"}
