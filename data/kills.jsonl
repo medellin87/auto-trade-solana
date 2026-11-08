@@ -1,4 +1,3 @@
-{"t": "2026-11-08 15:12:00 WIB", "mint": "FCjUiz4euLwZ99Dp83g6JVjpBiCt9adYyoHgJyeMpump", "sym": "MI", "reason": "liq 0<20k"}
 {"t": "2026-11-08 15:12:01 WIB", "mint": "ctMpaPiXjiUN86BoYbdE1G5QtjvTjkdyBbGkZHepump", "sym": "CALLCAT", "reason": "liq 17697<20k"}
 {"t": "2026-11-08 15:13:33 WIB", "mint": "J1c4tDDUziWwZQ4D8c6kxuAXHg5hcBX8GTNFUEaBpump", "sym": "MI", "reason": "liq 1814<20k"}
 {"t": "2026-11-08 15:14:20 WIB", "mint": "CdmzERuZnYQwqwa2rxtRjsMjDU6y6qrM5ez6n2mxpump", "sym": "GATOGLITCH", "reason": "liq 3043<20k"}
@@ -28,3 +27,4 @@
 {"t": "2026-11-08 15:28:28 WIB", "mint": "CcnnN36L73k3uBhVuMEwGGXZEWsdUeBAqNiAbiDVpump", "sym": "JDHABIBI", "reason": "vol1h 0<40k"}
 {"t": "2026-11-08 15:29:17 WIB", "mint": "E7TvrT33rb95qR3oM9ShpcXhRpuLaKobHeZcPPuWpump", "sym": "GUS", "reason": "vol1h 19<40k"}
 {"t": "2026-11-08 15:29:18 WIB", "mint": "5DXtqcCcSGJWvuJSoE6nmhm4qpQYrWv1x5W45QMvpump", "sym": "BLKFRI", "reason": "vol1h 105<40k"}
+{"t": "2026-11-08 15:30:08 WIB", "mint": "HxAyQ3CH4fpYE3gRAvaaDvbx4b1XyX87MyAGwgdipump", "sym": "Respect", "reason": "score 0.302<0.6"}
