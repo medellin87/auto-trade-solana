@@ -18185,3 +18185,6 @@
 {"t": "2026-11-09 13:54:29 WIB", "mint": "2fYCF2SKXAgyigVGPbLW9yKTjfqTELCe6UfTqdP3iBCK", "sym": "GRILL", "reason": "vol1h 1590<40k"}
 {"t": "2026-11-09 13:54:31 WIB", "mint": "9w2NEtTt22o1LG3sSTQ9QB6T5AkszF5m177XYeJjpump", "sym": "heng", "reason": "liq 0<20k"}
 {"t": "2026-11-09 13:55:18 WIB", "mint": "3BqJhVZWFZrX2kyFmQR3ccwasptv9RrrveEwGDNbpump", "sym": "EDEN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 13:56:04 WIB", "mint": "2HEhZ79kRwttLvpPpHqAuXzSYTjnVKDs9YUFeFwwbdsa", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 13:57:36 WIB", "mint": "FhXXfmMcLLCnyVEU91QJVeQMBKGmbQQ2Y3pM2XL7pump", "sym": "GPU", "reason": "vol1h 25958<40k"}
+{"t": "2026-11-09 13:57:38 WIB", "mint": "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit", "sym": "RATTLE", "reason": "vol1h 0<40k"}
