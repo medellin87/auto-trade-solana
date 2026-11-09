@@ -1,8 +1,3 @@
-{"t": "2026-11-09 14:47:44 WIB", "mint": "CPhAtdT5RJm5k3NF8SbmQ3QEPVGBiAut7L5ZPKdmpump", "sym": "NVDA", "reason": "vol1h 42<40k"}
-{"t": "2026-11-09 14:48:30 WIB", "mint": "7hThxkbeaJ6VNiV9DZ9c2adnDF9jvEXPrZGBXUN8pump", "sym": "FEC", "reason": "vol1h 0<40k"}
-{"t": "2026-11-09 14:50:47 WIB", "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump", "sym": "BAWSAQ", "reason": "score 0.575<0.6"}
-{"t": "2026-11-09 14:52:19 WIB", "mint": "BsX2GVS2SGoas3zJJgZtHBXoksdF3Ce5f69XaBW9pump", "sym": "main", "reason": "liq 0<20k"}
-{"t": "2026-11-09 14:52:21 WIB", "mint": "B8oda8By1oK1vB4ARQ8pfXug3AKFoeukwcmQoW7Ypump", "sym": "SI", "reason": "vol1h 21909<40k"}
 {"t": "2026-11-09 14:53:53 WIB", "mint": "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1", "sym": "BTC", "reason": "top10 32.7%>25"}
 {"t": "2026-11-09 14:54:39 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 30230<40k"}
 {"t": "2026-11-09 14:55:26 WIB", "mint": "9w2NEtTt22o1LG3sSTQ9QB6T5AkszF5m177XYeJjpump", "sym": "heng", "reason": "liq 3001<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-09 15:07:13 WIB", "mint": "9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump", "sym": "SOLBRO", "reason": "vol1h 5<40k"}
 {"t": "2026-11-09 15:08:45 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.53<0.6"}
 {"t": "2026-11-09 15:09:32 WIB", "mint": "HQu6XAj4FJMkzTDwekqUGyZrYghtno4Rj1HuThfDpump", "sym": "COPYCAT", "reason": "vol1h 9200<40k"}
+{"t": "2026-11-09 15:10:18 WIB", "mint": "qiXxj2wUKXXVcqJjjibubXkX33NA83Wyfg3onJppump", "sym": "KRUN", "reason": "vol1h 28<40k"}
+{"t": "2026-11-09 15:10:20 WIB", "mint": "GgN3jfbg75SiW4qJKmak4VJrnWQvQdnUmN4NLHW5pump", "sym": "JENSEN", "reason": "vol1h 12189<40k"}
+{"t": "2026-11-09 15:10:21 WIB", "mint": "7iVqMUhU8vGCXTWJakdR11HS2NjAMFTCRuBTABArpump", "sym": "AI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 15:11:08 WIB", "mint": "9RZeokzHNXoRyJkWDFdvcQTAzUhKpXm7RrqkUM3Fpump", "sym": "CHILL", "reason": "vol1h 168<40k"}
+{"t": "2026-11-09 15:11:55 WIB", "mint": "Bck1fLN9z9ftgU5gagaJPZWjM1GBhc8qimJKMkXspump", "sym": "LEON", "reason": "vol1h 0<40k"}
