@@ -18916,3 +18916,6 @@
 {"t": "2026-11-10 00:12:51 WIB", "mint": "FgYLHXUybCTD6sk9rGQQFXjx7hXt8iY94vG9AGvkpump", "sym": "QUAKE", "reason": "liq 1775<20k"}
 {"t": "2026-11-10 00:12:54 WIB", "mint": "KtfTT3qm1zbRrUKnxeUBdsghCkjHaVuRnV3G9wcpump", "sym": "CALLS", "reason": "vol1h 8173<40k"}
 {"t": "2026-11-10 00:14:26 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.456<0.6"}
+{"t": "2026-11-10 00:15:13 WIB", "mint": "Fpkmb7uQXYJACu7hPxg4kXzXa58FugaWSTjtPJX4pump", "sym": "MLC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 00:16:45 WIB", "mint": "7v8LoULtAhg3hT43YYQvKdF3LD3stdudBZAv5oTqpump", "sym": "MILES", "reason": "vol1h 2975<40k"}
+{"t": "2026-11-10 00:16:47 WIB", "mint": "AmoPNK8bzo6Aj1U49bDBEjyrY59rGejuXHTmXbtGyfHx", "sym": "DOGI", "reason": "vol1h 840<40k"}
