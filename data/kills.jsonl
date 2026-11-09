@@ -1,8 +1,3 @@
-{"t": "2026-11-09 21:22:13 WIB", "mint": "DAfNj9Gw8vUaiY8SqnpRohQka6p3vS9T82ex1M7Vpump", "sym": "\u5976\u86d9", "reason": "liq 0<20k"}
-{"t": "2026-11-09 21:24:30 WIB", "mint": "8qNu5Va94kd7u6C7aN4A5Jgc6bf11oA98HFnYWhPpump", "sym": "HABIBI", "reason": "vol1h 32224<40k"}
-{"t": "2026-11-09 21:25:17 WIB", "mint": "B5WJPvcpZj7U66QBcDamcwqsKQDSWMV7C41vZfzoWxtZ", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-09 21:28:19 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 1173<40k"}
-{"t": "2026-11-09 21:28:21 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 3665<40k"}
 {"t": "2026-11-09 21:30:38 WIB", "mint": "AA5U5hNETgeqVouYMefdLVvF5edP5jmNujqdSRjtpump", "sym": "GINGATO", "reason": "LP locked 72%<90"}
 {"t": "2026-11-09 21:31:25 WIB", "mint": "9rj8gESodSHTT6hS65RsBNqrKcCyL8m1ehSNxY2spump", "sym": "ZEN", "reason": "vol1h 2883<40k"}
 {"t": "2026-11-09 21:32:57 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 14626<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-09 21:52:21 WIB", "mint": "DAfNj9Gw8vUaiY8SqnpRohQka6p3vS9T82ex1M7Vpump", "sym": "\u5976\u86d9", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 21:54:38 WIB", "mint": "8qNu5Va94kd7u6C7aN4A5Jgc6bf11oA98HFnYWhPpump", "sym": "HABIBI", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 21:55:25 WIB", "mint": "B5WJPvcpZj7U66QBcDamcwqsKQDSWMV7C41vZfzoWxtZ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 21:56:11 WIB", "mint": "J8UjGgJ6sEMm8WFNhxZZYh3zs7RDABwmjyJfrAk3pump", "sym": "w\u0101ng", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 21:57:43 WIB", "mint": "CFD6db9oWkydVbwR3kZZuQFxBQtUpN173Ghct2xUpump", "sym": "AMD", "reason": "vol1h 25120<40k"}
+{"t": "2026-11-09 21:58:30 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 1279<40k"}
+{"t": "2026-11-09 21:58:31 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 4044<40k"}
+{"t": "2026-11-09 21:58:33 WIB", "mint": "Cg5A5skqFoMdL51zBcrTiDZ6rJbWcERcw748ZmaMHrhG", "sym": "AKULA", "reason": "vol1h 30734<40k"}
