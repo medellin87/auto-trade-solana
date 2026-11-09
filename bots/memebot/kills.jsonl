@@ -17775,3 +17775,8 @@
 {"t": "2026-11-09 08:50:47 WIB", "mint": "7xC51VM74wYdWsNYyUz15ftoLThDv5Rz4fNAKAhSpump", "sym": "PIPELINE", "reason": "liq 0<20k"}
 {"t": "2026-11-09 08:52:21 WIB", "mint": "E28Q8PGpUrKkuq18cWsX8viGkx692sKGyhfyJoz8pump", "sym": "AI", "reason": "liq 14539<20k"}
 {"t": "2026-11-09 08:52:23 WIB", "mint": "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit", "sym": "RATTLE", "reason": "vol1h 1657<40k"}
+{"t": "2026-11-09 08:53:54 WIB", "mint": "91h18MtAMZqkRA2ZRNdDzspEDsDUAaMKvVrskjxYpump", "sym": "Pumpatars", "reason": "liq 8687<20k"}
+{"t": "2026-11-09 08:54:41 WIB", "mint": "HgGrmd6dsRaeryvDLrs5kN1YZehmkbuCafF43UgQpump", "sym": "NVIDIA", "reason": "liq 1658<20k"}
+{"t": "2026-11-09 08:54:43 WIB", "mint": "J5CG6LDbUThkVXFAwN7Nd457hKPNqLKRxKQNiTQdpump", "sym": "GARRETT", "reason": "vol1h 39993<40k"}
+{"t": "2026-11-09 08:56:15 WIB", "mint": "7ty5fJR6Ywwv17DxE14Xbq5EFiy8c5u4dSxDujyLpump", "sym": "BYRON", "reason": "vol1h 39059<40k"}
+{"t": "2026-11-09 08:56:16 WIB", "mint": "AKrw6VbXiScJqZydENKhjJyJYXGsKJCVLmui95ngt1EK", "sym": "VICEKITTY", "reason": "vol1h 0<40k"}
