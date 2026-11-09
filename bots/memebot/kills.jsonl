@@ -18774,3 +18774,7 @@
 {"t": "2026-11-09 22:03:59 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 7340<40k"}
 {"t": "2026-11-09 22:04:00 WIB", "mint": "3nM6e1B7g8LDM8qJ2KLFBcRUM8ppoG4sKUfqUd7Jpump", "sym": "MooHan", "reason": "vol1h 341<40k"}
 {"t": "2026-11-09 22:04:02 WIB", "mint": "Fwagv9buEaaMr9mUZcB6Hit8K9JpWyiS8Q1DYGr5pump", "sym": "Percolator", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 22:06:19 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 9784<40k"}
+{"t": "2026-11-09 22:06:21 WIB", "mint": "tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump", "sym": "MYWAY", "reason": "score 0.317<0.6"}
+{"t": "2026-11-09 22:06:23 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 20266<40k"}
+{"t": "2026-11-09 22:07:55 WIB", "mint": "2eGd3wkgzzwnwpGXKYwXGVdFYCpY5wXH5AHicBXvpump", "sym": "Forever", "reason": "vol1h 7<40k"}
