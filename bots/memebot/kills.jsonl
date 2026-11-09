@@ -19255,3 +19255,7 @@
 {"t": "2026-11-10 04:34:58 WIB", "mint": "848sva4ZrW3DuQ6RJKYEVZYNJdMbMQybuUTZEFWipump", "sym": "LOOPD", "reason": "liq 0<20k"}
 {"t": "2026-11-10 04:35:44 WIB", "mint": "AA5U5hNETgeqVouYMefdLVvF5edP5jmNujqdSRjtpump", "sym": "GINGATO", "reason": "vol1h 2<40k"}
 {"t": "2026-11-10 04:37:18 WIB", "mint": "B4CT6khTqmha1BLAJ6kh7TepiUF3gnJYnupCPCNmpump", "sym": "cook", "reason": "liq 0<20k"}
+{"t": "2026-11-10 04:38:05 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 22007<40k"}
+{"t": "2026-11-10 04:38:52 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 2687<40k"}
+{"t": "2026-11-10 04:39:38 WIB", "mint": "481PDxs2Fg8KikAw4BoG2vcdn4WPzSJS4TWZVX5wF33D", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 04:40:25 WIB", "mint": "ArvNVuHKpRyaRiU72bjBwJK8hz19J5Ery327yzVYpump", "sym": "Biberty", "reason": "vol1h 5055<40k"}
