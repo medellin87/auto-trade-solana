@@ -1,9 +1,3 @@
-{"t": "2026-11-09 18:17:35 WIB", "mint": "worLdk8XAAFzy3V7bnwFSkgamWLaAF4rYwwnKZitBRJ", "sym": "world", "reason": "liq 0<20k"}
-{"t": "2026-11-09 18:18:21 WIB", "mint": "EQrggxHJZFw426p5eRD6Rkia6fWESUat1aT2CUAfLoat", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-09 18:19:08 WIB", "mint": "48AZ5AvCZyHaRbobc3xNesGwf59vNhF83CvFLSmdpump", "sym": "Bobina", "reason": "vol1h 5876<40k"}
-{"t": "2026-11-09 18:20:39 WIB", "mint": "27iaWc5qjQAubC7ENwqD2zYGmm1UWJyMpXNz3DFQpump", "sym": "Anchor", "reason": "vol1h 11910<40k"}
-{"t": "2026-11-09 18:22:56 WIB", "mint": "HA9JHZn8S8VhtGtHtQcDVoLFBAssFPce9VthA2Pgpump", "sym": "BANK", "reason": "liq 0<20k"}
-{"t": "2026-11-09 18:22:58 WIB", "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump", "sym": "BAWSAQ", "reason": "score 0.462<0.6"}
 {"t": "2026-11-09 18:23:45 WIB", "mint": "Ao6rgPZBa12yHaT6Eaa7W35qDq1Zx3xuvKiNXmppump", "sym": "PTY", "reason": "vol1h 1307<40k"}
 {"t": "2026-11-09 18:25:16 WIB", "mint": "7uWSGgTz9zXwarDiHkz7Vi4Zfzk6BeTncvRsfZZKhod1", "sym": "HODL", "reason": "vol1h 20148<40k"}
 {"t": "2026-11-09 18:26:48 WIB", "mint": "B9mnvoCNLzxaz2EJsLwaSynAMxkrK49VXpFAYze5pump", "sym": "Sheep", "reason": "liq 14473<20k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-09 18:42:21 WIB", "mint": "GgN3jfbg75SiW4qJKmak4VJrnWQvQdnUmN4NLHW5pump", "sym": "JENSEN", "reason": "vol1h 11593<40k"}
 {"t": "2026-11-09 18:44:38 WIB", "mint": "5GCWGUcY35ew8FDGUswBwrdXNxpvTmWk8L3Yxegmpump", "sym": "SOLGATO", "reason": "liq 2072<20k"}
 {"t": "2026-11-09 18:44:39 WIB", "mint": "CYGdfVpm8My54T1A3bD44fRmLdZtFaEYyj1czkx9pump", "sym": "Greed", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 18:45:26 WIB", "mint": "Ffy3EDzKqP9vrgvL2WGygM1DvvFnkMR8YzxLPPyRpump", "sym": "SHEEN", "reason": "vol1h 170<40k"}
+{"t": "2026-11-09 18:46:12 WIB", "mint": "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump", "sym": "JASON", "reason": "vol1h 2719<40k"}
+{"t": "2026-11-09 18:46:59 WIB", "mint": "AiGRRtutEk8i4S1soemL9vHTizMvnBySzLUyiSh8pump", "sym": "OTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 18:47:01 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 10892<40k"}
+{"t": "2026-11-09 18:47:02 WIB", "mint": "5pHXhZ3jLdFDFcwFU1tydwEXhrjnBMfu93Fm5GEYpump", "sym": "Duk", "reason": "vol1h 3835<40k"}
+{"t": "2026-11-09 18:47:49 WIB", "mint": "worLdk8XAAFzy3V7bnwFSkgamWLaAF4rYwwnKZitBRJ", "sym": "world", "reason": "vol1h 15590<40k"}
