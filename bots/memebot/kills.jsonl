@@ -18228,3 +18228,6 @@
 {"t": "2026-11-09 14:22:00 WIB", "mint": "B8oda8By1oK1vB4ARQ8pfXug3AKFoeukwcmQoW7Ypump", "sym": "SI", "reason": "liq 0<20k"}
 {"t": "2026-11-09 14:25:02 WIB", "mint": "9w2NEtTt22o1LG3sSTQ9QB6T5AkszF5m177XYeJjpump", "sym": "heng", "reason": "liq 3342<20k"}
 {"t": "2026-11-09 14:25:48 WIB", "mint": "3BqJhVZWFZrX2kyFmQR3ccwasptv9RrrveEwGDNbpump", "sym": "EDEN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 14:28:05 WIB", "mint": "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit", "sym": "RATTLE", "reason": "vol1h 113<40k"}
+{"t": "2026-11-09 14:28:07 WIB", "mint": "FhXXfmMcLLCnyVEU91QJVeQMBKGmbQQ2Y3pM2XL7pump", "sym": "GPU", "reason": "vol1h 19755<40k"}
+{"t": "2026-11-09 14:28:53 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 11856<40k"}
