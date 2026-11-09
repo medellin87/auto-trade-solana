@@ -18138,3 +18138,5 @@
 {"t": "2026-11-09 13:16:23 WIB", "mint": "CPhAtdT5RJm5k3NF8SbmQ3QEPVGBiAut7L5ZPKdmpump", "sym": "NVDA", "reason": "liq 0<20k"}
 {"t": "2026-11-09 13:17:10 WIB", "mint": "7hThxkbeaJ6VNiV9DZ9c2adnDF9jvEXPrZGBXUN8pump", "sym": "FEC", "reason": "vol1h 2<40k"}
 {"t": "2026-11-09 13:19:27 WIB", "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump", "sym": "BAWSAQ", "reason": "vol1h 36908<40k"}
+{"t": "2026-11-09 13:23:59 WIB", "mint": "B6ESYnfmrFtu6T7yGsa1yCXGB62Z555RjirTKFZzpump", "sym": "HUNG", "reason": "vol1h 1036<40k"}
+{"t": "2026-11-09 13:24:01 WIB", "mint": "2fYCF2SKXAgyigVGPbLW9yKTjfqTELCe6UfTqdP3iBCK", "sym": "GRILL", "reason": "vol1h 2977<40k"}
