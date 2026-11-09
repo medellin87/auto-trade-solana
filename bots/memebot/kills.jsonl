@@ -18670,3 +18670,6 @@
 {"t": "2026-11-09 20:23:11 WIB", "mint": "2jEXD26rLHEEnKafxdwtsRiPYbgTe3aCroTP4ccDjTNh", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 20:23:58 WIB", "mint": "HA9JHZn8S8VhtGtHtQcDVoLFBAssFPce9VthA2Pgpump", "sym": "BANK", "reason": "score 0.567<0.6"}
 {"t": "2026-11-09 20:24:45 WIB", "mint": "B5WJPvcpZj7U66QBcDamcwqsKQDSWMV7C41vZfzoWxtZ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 20:27:47 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 3916<40k"}
+{"t": "2026-11-09 20:27:48 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 11803<40k"}
+{"t": "2026-11-09 20:27:50 WIB", "mint": "B9mnvoCNLzxaz2EJsLwaSynAMxkrK49VXpFAYze5pump", "sym": "Sheep", "reason": "vol1h 5093<40k"}
