@@ -1,9 +1,3 @@
-{"t": "2026-11-09 13:56:04 WIB", "mint": "2HEhZ79kRwttLvpPpHqAuXzSYTjnVKDs9YUFeFwwbdsa", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-09 13:57:36 WIB", "mint": "FhXXfmMcLLCnyVEU91QJVeQMBKGmbQQ2Y3pM2XL7pump", "sym": "GPU", "reason": "vol1h 25958<40k"}
-{"t": "2026-11-09 13:57:38 WIB", "mint": "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit", "sym": "RATTLE", "reason": "vol1h 0<40k"}
-{"t": "2026-11-09 13:59:09 WIB", "mint": "5eeEqt2w2hPgFyJ8oaRJizqGZYMBkQr1sJWs2UR1pump", "sym": "heng", "reason": "liq 0<20k"}
-{"t": "2026-11-09 13:59:11 WIB", "mint": "3nM6e1B7g8LDM8qJ2KLFBcRUM8ppoG4sKUfqUd7Jpump", "sym": "MooHan", "reason": "vol1h 2790<40k"}
-{"t": "2026-11-09 13:59:12 WIB", "mint": "Fwagv9buEaaMr9mUZcB6Hit8K9JpWyiS8Q1DYGr5pump", "sym": "Percolator", "reason": "vol1h 2<40k"}
 {"t": "2026-11-09 13:59:59 WIB", "mint": "FaHcqxjGs6wg8JuzQi3NbgpQQD9TRhaMPg3WojZpump", "sym": "Chuddome", "reason": "vol1h 274<40k"}
 {"t": "2026-11-09 14:00:01 WIB", "mint": "6rUq1tg42Ak8iwitJEzcduuqQ5Lbak6mk1fmxJjvpump", "sym": "$BOGAN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 14:00:02 WIB", "mint": "J5CG6LDbUThkVXFAwN7Nd457hKPNqLKRxKQNiTQdpump", "sym": "GARRETT", "reason": "vol1h 0<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-09 14:11:07 WIB", "mint": "Bck1fLN9z9ftgU5gagaJPZWjM1GBhc8qimJKMkXspump", "sym": "LEON", "reason": "vol1h 57<40k"}
 {"t": "2026-11-09 14:11:54 WIB", "mint": "8MuTFfgeFCYa7BKMkKzRbxPLjgdEZFfHtNM2XWSfdtH2", "sym": "BUIDL", "reason": "score 0.414<0.6"}
 {"t": "2026-11-09 14:12:41 WIB", "mint": "8QusKiKZVX3zogu6qdCnM2jAzBPMxo4U6miNQCfXpump", "sym": "Graft", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 14:14:12 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 23866<40k"}
+{"t": "2026-11-09 14:15:44 WIB", "mint": "CJ88vgZxFcaKwwTNktXK48wAi9fNHxrvKfwK1N9pump", "sym": "HUNG", "reason": "vol1h 26<40k"}
+{"t": "2026-11-09 14:15:46 WIB", "mint": "CXz596uKfWb5tkyz5Vh5a9QCKKh38io6hdgGrKKcpump", "sym": "GTA6KODAK", "reason": "vol1h 984<40k"}
+{"t": "2026-11-09 14:16:32 WIB", "mint": "2pYtjVZGVsfZMDT1jxeYgD6b32Yxmyt8nJ3f8dJLpump", "sym": "HUSHDESK", "reason": "vol1h 9449<40k"}
+{"t": "2026-11-09 14:16:34 WIB", "mint": "e9YfLKXrAUswEFgrgCjxjVF3yHU6Vcu4QJBE6k648WT", "sym": "MOOHAN", "reason": "vol1h 6614<40k"}
+{"t": "2026-11-09 14:16:35 WIB", "mint": "4DqzsmHFAA6n5o1MjZCAyerSCUdDmmsY4K3Tvh9Upump", "sym": "ICARUS", "reason": "vol1h 0<40k"}
