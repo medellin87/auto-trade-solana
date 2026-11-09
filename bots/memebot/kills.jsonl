@@ -18703,3 +18703,6 @@
 {"t": "2026-11-09 20:51:59 WIB", "mint": "7yHpDv2e5QVVejJ4z7sH2Um3ve9FRTTKtv2pZVnSpump", "sym": "INUTEREST", "reason": "vol1h 16<40k"}
 {"t": "2026-11-09 20:53:31 WIB", "mint": "2jEXD26rLHEEnKafxdwtsRiPYbgTe3aCroTP4ccDjTNh", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 20:55:03 WIB", "mint": "B5WJPvcpZj7U66QBcDamcwqsKQDSWMV7C41vZfzoWxtZ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 20:58:05 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 638<40k"}
+{"t": "2026-11-09 20:58:06 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 8671<40k"}
+{"t": "2026-11-09 21:00:24 WIB", "mint": "AA5U5hNETgeqVouYMefdLVvF5edP5jmNujqdSRjtpump", "sym": "GINGATO", "reason": "LP locked 83%<90"}
