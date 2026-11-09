@@ -19118,3 +19118,8 @@
 {"t": "2026-11-10 02:56:21 WIB", "mint": "HySY1ArycFvc3AZUy4VW6xcB9aciN4AnHcVE3Ve7pump", "sym": "Cwat", "reason": "vol1h 0<40k"}
 {"t": "2026-11-10 02:57:53 WIB", "mint": "DXPLiLoo4bHVD32BJcHJRK4Wt1nznNLuUWwsQb94pump", "sym": "CAP", "reason": "liq 0<20k"}
 {"t": "2026-11-10 02:57:55 WIB", "mint": "FSpMWoRCLgSQyhchxVrqb9gZABH2ZabukcTdpcC3J673", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 03:00:12 WIB", "mint": "CevgfcYW3Qcm1D1TRK2yL17mZA6H8GdDVsG4VS8Gpump", "sym": "NKCM", "reason": "vol1h 3298<40k"}
+{"t": "2026-11-10 03:01:43 WIB", "mint": "5Mgk87F8EPnbTw92C2vNepjGDKEy8HK3tpzeiGXipump", "sym": "floater", "reason": "liq 2430<20k"}
+{"t": "2026-11-10 03:01:45 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 917<40k"}
+{"t": "2026-11-10 03:01:47 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 28953<40k"}
+{"t": "2026-11-10 03:01:48 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 5824<40k"}
