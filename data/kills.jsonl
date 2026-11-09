@@ -1,8 +1,3 @@
-{"t": "2026-11-10 00:34:34 WIB", "mint": "ENwKN2F4ur4s4eeNwmTnrWz9UAfhFFt6RCu4v9Gn6MLF", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-10 00:34:35 WIB", "mint": "4NJjRz3PxYKic82zxhmWh7bKahGreB1Xftj6p9gxhGWD", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-10 00:34:37 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 12417<40k"}
-{"t": "2026-11-10 00:35:23 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 1973<40k"}
-{"t": "2026-11-10 00:35:25 WIB", "mint": "DZuUnFUf2psEhGjhADwgQ2ZyUU4PoANDvTsAqoswGnNZ", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-10 00:35:27 WIB", "mint": "3iypJo7X2mtXRfgWpPeaeBQctRgMRZ4WviHAPWK2pump", "sym": "HIM", "reason": "vol1h 0<40k"}
 {"t": "2026-11-10 00:36:14 WIB", "mint": "3mCvCUtgELaFwWjkeDQn3bkTYnKquec732dJFsCUpump", "sym": "Cupsey", "reason": "top10 33.8%>25"}
 {"t": "2026-11-10 00:37:46 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 11598<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-10 00:56:23 WIB", "mint": "ARmzcuHBYXa1LbXsLEsEoPK8uPCRD17ohohqnxRBpump", "sym": "GTA", "reason": "liq 1692<20k"}
 {"t": "2026-11-10 00:57:54 WIB", "mint": "7vVFw14tcvLzp7cQCDbfRm6adATVCt8yPyEJXLNdpump", "sym": "REVALY", "reason": "liq 0<20k"}
 {"t": "2026-11-10 00:57:56 WIB", "mint": "8EPYWR2Q4wDbCAHLqRJj8yFYDzmjBMRrzVM9JC7operp", "sym": "PERPS", "reason": "liq 0<20k"}
+{"t": "2026-11-10 00:58:43 WIB", "mint": "6kmkcwKxxmoREhkxrbBvwDY3N2KSfpdMMtWtNoPpump", "sym": "LASTTRUCK", "reason": "LP locked 62%<90"}
+{"t": "2026-11-10 01:00:15 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 1625<40k"}
+{"t": "2026-11-10 01:00:17 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 892<40k"}
+{"t": "2026-11-10 01:00:18 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 15567<40k"}
+{"t": "2026-11-10 01:01:05 WIB", "mint": "Aygw2Y2Bs9VQnvjNURgjrv1McPUHDxuvQhrzNwcBpump", "sym": "BabyPunch", "reason": "liq 5295<20k"}
