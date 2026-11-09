@@ -1,4 +1,3 @@
-{"t": "2026-11-09 06:59:44 WIB", "mint": "GHLMKtZta7JMcRHXTXa65xS4ubXEzieM5rQvjc8Bpump", "sym": "DEBT", "reason": "liq 7143<20k"}
 {"t": "2026-11-09 06:59:45 WIB", "mint": "DXucHQjnGGLnW8kkiBZEKp7gRhYHF9ni1aegyvqypump", "sym": "Naiwa", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 07:00:32 WIB", "mint": "6hkiqwN2Vx85GFY4zcdq3vmyfCBAJKPNY11Y8ffcQDgc", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 07:00:34 WIB", "mint": "FPsEMQeAbd5Jqp5kxQE1ZKAC6X5JSVsqSgcCNkLYpump", "sym": "lol", "reason": "liq 0<20k"}
@@ -28,3 +27,4 @@
 {"t": "2026-11-09 07:15:34 WIB", "mint": "HLaSzRgp4mkZeDrAEKTJvr2UhSokYPxRS7auuYmg3xDX", "sym": "Debtcoin", "reason": "vol1h 10834<40k"}
 {"t": "2026-11-09 07:16:21 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 4812<40k"}
 {"t": "2026-11-09 07:17:07 WIB", "mint": "6odokGfZAeEm667cRiE3H7sLEhctKYaxPUTmE514pump", "sym": "NIVI", "reason": "liq 1693<20k"}
+{"t": "2026-11-09 07:20:57 WIB", "mint": "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit", "sym": "RATTLE", "reason": "vol1h 9392<40k"}
