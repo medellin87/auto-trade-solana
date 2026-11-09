@@ -18778,3 +18778,7 @@
 {"t": "2026-11-09 22:06:21 WIB", "mint": "tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump", "sym": "MYWAY", "reason": "score 0.317<0.6"}
 {"t": "2026-11-09 22:06:23 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 20266<40k"}
 {"t": "2026-11-09 22:07:55 WIB", "mint": "2eGd3wkgzzwnwpGXKYwXGVdFYCpY5wXH5AHicBXvpump", "sym": "Forever", "reason": "vol1h 7<40k"}
+{"t": "2026-11-09 22:08:42 WIB", "mint": "524Uf5ui9NQvtMcxFL29No3Gz5e4Ne2iGdWR5Aympump", "sym": "GTA", "reason": "LP locked 79%<90"}
+{"t": "2026-11-09 22:09:29 WIB", "mint": "4aqpn2d7wKGLrDCUuL1ucL6soQrPwNkrbtsduCo9pump", "sym": "Bruce", "reason": "vol1h 170<40k"}
+{"t": "2026-11-09 22:09:30 WIB", "mint": "8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump", "sym": "HODLER", "reason": "vol1h 7211<40k"}
+{"t": "2026-11-09 22:11:02 WIB", "mint": "5JHHcudrqibzuc4S9tGgthmfLNoRof4E3KWWGQsrpump", "sym": "Steve", "reason": "vol1h 15002<40k"}
