@@ -18668,3 +18668,5 @@
 {"t": "2026-11-09 20:20:07 WIB", "mint": "CDaGFSGPvKT5LEzz7gY2634jMnHSZSPVgJJegVM9pump", "sym": "SOBCAT", "reason": "liq 2283<20k"}
 {"t": "2026-11-09 20:21:39 WIB", "mint": "7yHpDv2e5QVVejJ4z7sH2Um3ve9FRTTKtv2pZVnSpump", "sym": "INUTEREST", "reason": "vol1h 378<40k"}
 {"t": "2026-11-09 20:23:11 WIB", "mint": "2jEXD26rLHEEnKafxdwtsRiPYbgTe3aCroTP4ccDjTNh", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 20:23:58 WIB", "mint": "HA9JHZn8S8VhtGtHtQcDVoLFBAssFPce9VthA2Pgpump", "sym": "BANK", "reason": "score 0.567<0.6"}
+{"t": "2026-11-09 20:24:45 WIB", "mint": "B5WJPvcpZj7U66QBcDamcwqsKQDSWMV7C41vZfzoWxtZ", "sym": "?", "reason": "no solana pair"}
