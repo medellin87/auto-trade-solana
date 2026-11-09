@@ -18974,3 +18974,10 @@
 {"t": "2026-11-10 01:01:52 WIB", "mint": "6GMjV5PHfeNMaXykCktvbdmXAx54TdKfRxSRaD5Spump", "sym": "Nothing", "reason": "liq 16616<20k"}
 {"t": "2026-11-10 01:02:39 WIB", "mint": "AA5U5hNETgeqVouYMefdLVvF5edP5jmNujqdSRjtpump", "sym": "GINGATO", "reason": "vol1h 90<40k"}
 {"t": "2026-11-10 01:03:25 WIB", "mint": "9rj8gESodSHTT6hS65RsBNqrKcCyL8m1ehSNxY2spump", "sym": "ZEN", "reason": "vol1h 529<40k"}
+{"t": "2026-11-10 01:04:57 WIB", "mint": "ENwKN2F4ur4s4eeNwmTnrWz9UAfhFFt6RCu4v9Gn6MLF", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 01:04:59 WIB", "mint": "4NJjRz3PxYKic82zxhmWh7bKahGreB1Xftj6p9gxhGWD", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 01:05:00 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 9641<40k"}
+{"t": "2026-11-10 01:05:47 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 2508<40k"}
+{"t": "2026-11-10 01:05:48 WIB", "mint": "DZuUnFUf2psEhGjhADwgQ2ZyUU4PoANDvTsAqoswGnNZ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 01:05:50 WIB", "mint": "3iypJo7X2mtXRfgWpPeaeBQctRgMRZ4WviHAPWK2pump", "sym": "HIM", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 01:06:37 WIB", "mint": "3xQYoRyycadwD4ZJvFejabeHetva5xDAjggBhFW9pump", "sym": "GTA", "reason": "top10 26.2%>25"}
