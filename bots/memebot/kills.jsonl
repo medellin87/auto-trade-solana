@@ -18491,3 +18491,5 @@
 {"t": "2026-11-09 17:48:04 WIB", "mint": "EQrggxHJZFw426p5eRD6Rkia6fWESUat1aT2CUAfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 17:48:51 WIB", "mint": "48AZ5AvCZyHaRbobc3xNesGwf59vNhF83CvFLSmdpump", "sym": "Bobina", "reason": "vol1h 20532<40k"}
 {"t": "2026-11-09 17:48:52 WIB", "mint": "5uZgW3nJZ1KYTXd9S9xwVvENhCi4CEvirkHznYHMpump", "sym": "DLSS", "reason": "vol1h 31<40k"}
+{"t": "2026-11-09 17:50:24 WIB", "mint": "27iaWc5qjQAubC7ENwqD2zYGmm1UWJyMpXNz3DFQpump", "sym": "Anchor", "reason": "liq 2676<20k"}
+{"t": "2026-11-09 17:51:10 WIB", "mint": "BBJKAvRGy3e7kuZgkvrnwLtpLPNUmzeRb6d5QgNbpump", "sym": "FRIEND", "reason": "vol1h 4<40k"}
