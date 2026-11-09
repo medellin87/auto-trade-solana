@@ -18528,3 +18528,6 @@
 {"t": "2026-11-09 18:17:35 WIB", "mint": "worLdk8XAAFzy3V7bnwFSkgamWLaAF4rYwwnKZitBRJ", "sym": "world", "reason": "liq 0<20k"}
 {"t": "2026-11-09 18:18:21 WIB", "mint": "EQrggxHJZFw426p5eRD6Rkia6fWESUat1aT2CUAfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 18:19:08 WIB", "mint": "48AZ5AvCZyHaRbobc3xNesGwf59vNhF83CvFLSmdpump", "sym": "Bobina", "reason": "vol1h 5876<40k"}
+{"t": "2026-11-09 18:20:39 WIB", "mint": "27iaWc5qjQAubC7ENwqD2zYGmm1UWJyMpXNz3DFQpump", "sym": "Anchor", "reason": "vol1h 11910<40k"}
+{"t": "2026-11-09 18:22:56 WIB", "mint": "HA9JHZn8S8VhtGtHtQcDVoLFBAssFPce9VthA2Pgpump", "sym": "BANK", "reason": "liq 0<20k"}
+{"t": "2026-11-09 18:22:58 WIB", "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump", "sym": "BAWSAQ", "reason": "score 0.462<0.6"}
