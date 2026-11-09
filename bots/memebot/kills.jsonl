@@ -19228,3 +19228,5 @@
 {"t": "2026-11-10 04:14:40 WIB", "mint": "CzcRXdkUxkd7HSkoD7raDR2mgcn5tCAEefixcJGnpump", "sym": "SPY", "reason": "vol1h 925<40k"}
 {"t": "2026-11-10 04:15:26 WIB", "mint": "4PzwAhPWcnDZfnJzMR8rRATtvRBfsbY9a9Pe2RdJpump", "sym": "ZOIN", "reason": "liq 0<20k"}
 {"t": "2026-11-10 04:15:28 WIB", "mint": "BuqeQaxHi5TywXL7ijWGTunk6DCVFFC4vqWcqVFKMa4g", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 04:17:47 WIB", "mint": "7tLZtt1TmFzhAzMGiwCsS8uYAUrPQ5SAWQH1cCB7pump", "sym": "TOMMY", "reason": "vol1h 38826<40k"}
+{"t": "2026-11-10 04:17:49 WIB", "mint": "6C5USgghERG9Rwhr2D1Ny9wTb62HdHhAt5QQ7qgZZZTe", "sym": "TREMP", "reason": "liq 16497<20k"}
