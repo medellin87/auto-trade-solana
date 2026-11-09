@@ -17772,3 +17772,6 @@
 {"t": "2026-11-09 08:46:55 WIB", "mint": "8xecQf6g6ooxPLRS6CePqmSF6RD7YMfZn1QCzDoppump", "sym": "SPY", "reason": "liq 1825<20k"}
 {"t": "2026-11-09 08:47:41 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 1949<40k"}
 {"t": "2026-11-09 08:49:13 WIB", "mint": "2gfXPeNi6YB2SsnWPqn2Yh1QTsQKZo9HcXwMaAq7pump", "sym": "BAGNERO", "reason": "vol1h 36656<40k"}
+{"t": "2026-11-09 08:50:47 WIB", "mint": "7xC51VM74wYdWsNYyUz15ftoLThDv5Rz4fNAKAhSpump", "sym": "PIPELINE", "reason": "liq 0<20k"}
+{"t": "2026-11-09 08:52:21 WIB", "mint": "E28Q8PGpUrKkuq18cWsX8viGkx692sKGyhfyJoz8pump", "sym": "AI", "reason": "liq 14539<20k"}
+{"t": "2026-11-09 08:52:23 WIB", "mint": "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit", "sym": "RATTLE", "reason": "vol1h 1657<40k"}
