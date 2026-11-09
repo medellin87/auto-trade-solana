@@ -1,8 +1,3 @@
-{"t": "2026-11-10 04:06:03 WIB", "mint": "9rj8gESodSHTT6hS65RsBNqrKcCyL8m1ehSNxY2spump", "sym": "ZEN", "reason": "vol1h 8<40k"}
-{"t": "2026-11-10 04:06:50 WIB", "mint": "B4CT6khTqmha1BLAJ6kh7TepiUF3gnJYnupCPCNmpump", "sym": "cook", "reason": "vol1h 39289<40k"}
-{"t": "2026-11-10 04:07:37 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 15694<40k"}
-{"t": "2026-11-10 04:08:23 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 1445<40k"}
-{"t": "2026-11-10 04:09:55 WIB", "mint": "ArvNVuHKpRyaRiU72bjBwJK8hz19J5Ery327yzVYpump", "sym": "Biberty", "reason": "vol1h 6712<40k"}
 {"t": "2026-11-10 04:10:42 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 10237<40k"}
 {"t": "2026-11-10 04:10:43 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 4511<40k"}
 {"t": "2026-11-10 04:11:30 WIB", "mint": "FBeSusFEnDQ7f6UT2kyLGhTJY88iaKhV62JpHSb2pump", "sym": "CIA", "reason": "vol1h 38703<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-10 04:27:06 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 8257<40k"}
 {"t": "2026-11-10 04:27:53 WIB", "mint": "GGWQNszsXF3drV48MDxxN6neQmcja8RqzPswdJ5bpump", "sym": "ZAZU", "reason": "vol1h 15200<40k"}
 {"t": "2026-11-10 04:27:54 WIB", "mint": "HySY1ArycFvc3AZUy4VW6xcB9aciN4AnHcVE3Ve7pump", "sym": "Cwat", "reason": "vol1h 10<40k"}
+{"t": "2026-11-10 04:28:41 WIB", "mint": "BSwp4GjLnejXKqvmjueJmPXC7UZhNoF6RuMQJRpSmeta", "sym": "SAT", "reason": "vol1h 1030<40k"}
+{"t": "2026-11-10 04:29:28 WIB", "mint": "2HbbwKyQqRE2mhhPXd48ehYpGQufY2xGe5vTQaZTpump", "sym": "CAT", "reason": "liq 1665<20k"}
+{"t": "2026-11-10 04:29:29 WIB", "mint": "FSpMWoRCLgSQyhchxVrqb9gZABH2ZabukcTdpcC3J673", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 04:29:31 WIB", "mint": "BAppE6jY9uh2v6ZQ6Gg9fDbP9kA3BzHVNj91GzVY8sJZ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 04:31:03 WIB", "mint": "5QLHv9382yxtsnxeKPLxjznH5aP78Lcf6XLutwYXB6Vb", "sym": "SKT", "reason": "vol1h 36<40k"}
