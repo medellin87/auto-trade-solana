@@ -1,8 +1,3 @@
-{"t": "2026-11-09 10:36:38 WIB", "mint": "8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq", "sym": "moin", "reason": "vol1h 91<40k"}
-{"t": "2026-11-09 10:36:40 WIB", "mint": "5wQn3vMRohsB5ep6jRnu6MoHFGEsmy9oXP8WRJz4pump", "sym": "SOLV", "reason": "vol1h 1893<40k"}
-{"t": "2026-11-09 10:37:26 WIB", "mint": "8q9YfkPp75VWiU2R6CivPzR3Mx4qokNEEd61CXixYwaF", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-09 10:37:28 WIB", "mint": "5xC9dtKCwNucmzPpz1KS9vghiiQ2ZbRZ3QkWhE43pump", "sym": "Greed ", "reason": "vol1h 2736<40k"}
-{"t": "2026-11-09 10:37:29 WIB", "mint": "Bck1fLN9z9ftgU5gagaJPZWjM1GBhc8qimJKMkXspump", "sym": "LEON", "reason": "vol1h 2490<40k"}
 {"t": "2026-11-09 10:39:01 WIB", "mint": "7aSQCD5ffizjFRBx8yWRtnu7s1yXeifLeGrKkUCDpump", "sym": "\u6bd4\u5229", "reason": "vol1h 9184<40k"}
 {"t": "2026-11-09 10:39:48 WIB", "mint": "EFYdWBh6hQJLduR4QYnLNKLMq93PLqjjU5WwhNPgpump", "sym": "GPU", "reason": "liq 0<20k"}
 {"t": "2026-11-09 10:39:50 WIB", "mint": "mHAZC1swRg2kkSBRip5q6XN9mnunzB4Q1cZfLyYpump", "sym": "HUNG", "reason": "vol1h 11486<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-09 11:01:27 WIB", "mint": "55cJN7Esu4A6ux9kkadEw8LX8jW3uqqfo9XCf2Kapump", "sym": "TERSO", "reason": "vol1h 277<40k"}
 {"t": "2026-11-09 11:02:14 WIB", "mint": "F8PGq6RrWiMGwqqAgxzigFZepVH62dQVnkNC2L2Tpump", "sym": "ALICE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 11:02:15 WIB", "mint": "3MBJfJ3AFU2vyXr9PaF4S1DaVeo4wW48y7E8q53DZbjU", "sym": "UPPIN", "reason": "vol1h 1480<40k"}
+{"t": "2026-11-09 11:03:02 WIB", "mint": "9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump", "sym": "SOLBRO", "reason": "vol1h 738<40k"}
+{"t": "2026-11-09 11:03:49 WIB", "mint": "7g7s1mUS3ujFYBJGm1bAb3kjC6dHsepgCckXNNjBpump", "sym": "Trencher", "reason": "vol1h 16029<40k"}
+{"t": "2026-11-09 11:04:36 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.576<0.6"}
+{"t": "2026-11-09 11:05:23 WIB", "mint": "2eGd3wkgzzwnwpGXKYwXGVdFYCpY5wXH5AHicBXvpump", "sym": "Forever", "reason": "vol1h 115<40k"}
+{"t": "2026-11-09 11:05:24 WIB", "mint": "2QTAEn7akoscD5KwYZzHfX996tdr9wH1Gsi3KeRbpump", "sym": "COW", "reason": "liq 7945<20k"}
