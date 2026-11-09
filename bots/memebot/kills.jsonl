@@ -17645,3 +17645,7 @@
 {"t": "2026-11-09 07:05:22 WIB", "mint": "3bmau35kqfppwHekTPnbLkBPTExF2RZDGVkXcrzypump", "sym": "S&P500", "reason": "top10 26.7%>25"}
 {"t": "2026-11-09 07:05:24 WIB", "mint": "3Xnf6373p4wMbC6fiFcwc6eHgcJcfEGUB6YB7r23mS3o", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 07:07:41 WIB", "mint": "4DXxwJTgPvBRFDVCb6Sg3wggbxXBHsvXKat5ZS9Tpump", "sym": "PerpSium", "reason": "vol1h 754<40k"}
+{"t": "2026-11-09 07:09:13 WIB", "mint": "EFNXhdnk6envPtYuB885B4iZgGYoM6fcwv3SfPyYpump", "sym": "PumpBank", "reason": "liq 0<20k"}
+{"t": "2026-11-09 07:10:00 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 39703<40k"}
+{"t": "2026-11-09 07:11:32 WIB", "mint": "8cp6EY2bZck2JU5MrfVyQuRBzdaYtb9cBTfjPwn5krHX", "sym": "CLANKER", "reason": "score 0.521<0.6"}
+{"t": "2026-11-09 07:11:34 WIB", "mint": "AMYoWtJRHFJyu9EvK7v8Z8aZXzwefUMBimCG8tZEpump", "sym": "BabyAnsem", "reason": "liq 18420<20k"}

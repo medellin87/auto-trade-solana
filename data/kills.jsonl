@@ -1,7 +1,3 @@
-{"t": "2026-11-09 06:43:27 WIB", "mint": "9FaRXU3DWbcGGpwcHzfAM6bJcfuL8QWpu46hmz88pump", "sym": "STC", "reason": "vol1h 1<40k"}
-{"t": "2026-11-09 06:43:29 WIB", "mint": "GAHurYcsKYZ7srApNPPfFeQxzKdyRTbRhKJwqt5Lpump", "sym": "WarInu", "reason": "vol1h 4<40k"}
-{"t": "2026-11-09 06:43:31 WIB", "mint": "AEy4dgZGAMmGkA49N1Fy47SNiXDWPmw2r9e2BbEQpump", "sym": "PILL", "reason": "vol1h 6251<40k"}
-{"t": "2026-11-09 06:44:17 WIB", "mint": "BrAMN5NQdDBvxsRht75gPJoybkBhtxc964tdkuqWpump", "sym": "INDEX", "reason": "vol1h 4404<40k"}
 {"t": "2026-11-09 06:45:04 WIB", "mint": "9qdiq5f1oeJSFwYETdYnG98Ykn5GpfjSNtGj37o8pump", "sym": "AF", "reason": "vol1h 37952<40k"}
 {"t": "2026-11-09 06:45:06 WIB", "mint": "HLaSzRgp4mkZeDrAEKTJvr2UhSokYPxRS7auuYmg3xDX", "sym": "Debtcoin", "reason": "vol1h 13277<40k"}
 {"t": "2026-11-09 06:45:52 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 3728<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-09 07:05:22 WIB", "mint": "3bmau35kqfppwHekTPnbLkBPTExF2RZDGVkXcrzypump", "sym": "S&P500", "reason": "top10 26.7%>25"}
 {"t": "2026-11-09 07:05:24 WIB", "mint": "3Xnf6373p4wMbC6fiFcwc6eHgcJcfEGUB6YB7r23mS3o", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 07:07:41 WIB", "mint": "4DXxwJTgPvBRFDVCb6Sg3wggbxXBHsvXKat5ZS9Tpump", "sym": "PerpSium", "reason": "vol1h 754<40k"}
+{"t": "2026-11-09 07:09:13 WIB", "mint": "EFNXhdnk6envPtYuB885B4iZgGYoM6fcwv3SfPyYpump", "sym": "PumpBank", "reason": "liq 0<20k"}
+{"t": "2026-11-09 07:10:00 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 39703<40k"}
+{"t": "2026-11-09 07:11:32 WIB", "mint": "8cp6EY2bZck2JU5MrfVyQuRBzdaYtb9cBTfjPwn5krHX", "sym": "CLANKER", "reason": "score 0.521<0.6"}
+{"t": "2026-11-09 07:11:34 WIB", "mint": "AMYoWtJRHFJyu9EvK7v8Z8aZXzwefUMBimCG8tZEpump", "sym": "BabyAnsem", "reason": "liq 18420<20k"}
