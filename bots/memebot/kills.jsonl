@@ -17894,3 +17894,9 @@
 {"t": "2026-11-09 10:28:39 WIB", "mint": "85mEALGuRCMmmMo7YD51pMfEjWisbHHRwZX8t7Bpump", "sym": "0DAY", "reason": "vol1h 18619<40k"}
 {"t": "2026-11-09 10:28:41 WIB", "mint": "5xcJxMLHchEh3whHimbriKUNUsNgcSKXGztYpszBpump", "sym": "NVIDIA", "reason": "vol1h 2041<40k"}
 {"t": "2026-11-09 10:28:42 WIB", "mint": "9x2AEiRsWNGeDgDTdmW3fCPh6GVcP3cRQUJ8mffkpump", "sym": "WAITING", "reason": "vol1h 1661<40k"}
+{"t": "2026-11-09 10:30:14 WIB", "mint": "EULWnfX3hvnuod8wARSVFPyU1VnJxTB8YBaJFDvrpump", "sym": "Mischio", "reason": "vol1h 31736<40k"}
+{"t": "2026-11-09 10:31:01 WIB", "mint": "T8PVfjmAsczCPk5odgScSHbjyywe4QTxSaVPeVoELYS", "sym": "ELYS", "reason": "liq 13750<20k"}
+{"t": "2026-11-09 10:31:02 WIB", "mint": "55cJN7Esu4A6ux9kkadEw8LX8jW3uqqfo9XCf2Kapump", "sym": "TERSO", "reason": "vol1h 607<40k"}
+{"t": "2026-11-09 10:31:49 WIB", "mint": "F8PGq6RrWiMGwqqAgxzigFZepVH62dQVnkNC2L2Tpump", "sym": "ALICE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 10:31:50 WIB", "mint": "3R6tWb4LHBm2omnzydc4J1xi9fFWrLcZaDsQsG64aQ2x", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 10:31:52 WIB", "mint": "3MBJfJ3AFU2vyXr9PaF4S1DaVeo4wW48y7E8q53DZbjU", "sym": "UPPIN", "reason": "vol1h 2337<40k"}
