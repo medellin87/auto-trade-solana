@@ -18596,3 +18596,7 @@
 {"t": "2026-11-09 19:17:14 WIB", "mint": "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw", "sym": "timmy", "reason": "vol1h 6439<40k"}
 {"t": "2026-11-09 19:17:15 WIB", "mint": "5pHXhZ3jLdFDFcwFU1tydwEXhrjnBMfu93Fm5GEYpump", "sym": "Duk", "reason": "vol1h 411<40k"}
 {"t": "2026-11-09 19:18:02 WIB", "mint": "worLdk8XAAFzy3V7bnwFSkgamWLaAF4rYwwnKZitBRJ", "sym": "world", "reason": "liq 11192<20k"}
+{"t": "2026-11-09 19:18:49 WIB", "mint": "EQrggxHJZFw426p5eRD6Rkia6fWESUat1aT2CUAfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 19:19:35 WIB", "mint": "BEd8GoJccoDA9gpfYdxqGupVFZwKrMWWMHnJYqnrpump", "sym": "shiken", "reason": "liq 16113<20k"}
+{"t": "2026-11-09 19:19:37 WIB", "mint": "CDaGFSGPvKT5LEzz7gY2634jMnHSZSPVgJJegVM9pump", "sym": "SOBCAT", "reason": "vol1h 22625<40k"}
+{"t": "2026-11-09 19:21:09 WIB", "mint": "7yHpDv2e5QVVejJ4z7sH2Um3ve9FRTTKtv2pZVnSpump", "sym": "INUTEREST", "reason": "vol1h 38625<40k"}
