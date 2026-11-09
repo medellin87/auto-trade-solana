@@ -18304,3 +18304,6 @@
 {"t": "2026-11-09 15:17:21 WIB", "mint": "2pYtjVZGVsfZMDT1jxeYgD6b32Yxmyt8nJ3f8dJLpump", "sym": "HUSHDESK", "reason": "vol1h 88<40k"}
 {"t": "2026-11-09 15:18:08 WIB", "mint": "6GnUH7g2nDJeKieaMdWqb2iaaVptJ3k8E5VpWA9pump", "sym": "Wolf", "reason": "liq 0<20k"}
 {"t": "2026-11-09 15:18:10 WIB", "mint": "CPhAtdT5RJm5k3NF8SbmQ3QEPVGBiAut7L5ZPKdmpump", "sym": "NVDA", "reason": "vol1h 19<40k"}
+{"t": "2026-11-09 15:22:44 WIB", "mint": "BsX2GVS2SGoas3zJJgZtHBXoksdF3Ce5f69XaBW9pump", "sym": "main", "reason": "vol1h 19329<40k"}
+{"t": "2026-11-09 15:22:45 WIB", "mint": "B8oda8By1oK1vB4ARQ8pfXug3AKFoeukwcmQoW7Ypump", "sym": "SI", "reason": "vol1h 9020<40k"}
+{"t": "2026-11-09 15:24:17 WIB", "mint": "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1", "sym": "BTC", "reason": "top10 34.6%>25"}
