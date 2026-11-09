@@ -18905,3 +18905,7 @@
 {"t": "2026-11-10 00:04:17 WIB", "mint": "4NJjRz3PxYKic82zxhmWh7bKahGreB1Xftj6p9gxhGWD", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-10 00:04:19 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 34460<40k"}
 {"t": "2026-11-10 00:05:05 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 5299<40k"}
+{"t": "2026-11-10 00:05:52 WIB", "mint": "utRdhLopgf2oR7HcyH741xDL423NrYRLAfFd89Tpump", "sym": "Auction", "reason": "liq 2674<20k"}
+{"t": "2026-11-10 00:07:24 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 11972<40k"}
+{"t": "2026-11-10 00:07:25 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 14964<40k"}
+{"t": "2026-11-10 00:08:12 WIB", "mint": "BbAiQKXoz4Y5DejFk5fWkJ6YUEHW9oGtDwLX9Lbipump", "sym": "SINU", "reason": "vol1h 0<40k"}
