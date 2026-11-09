@@ -18266,3 +18266,6 @@
 {"t": "2026-11-09 14:52:19 WIB", "mint": "BsX2GVS2SGoas3zJJgZtHBXoksdF3Ce5f69XaBW9pump", "sym": "main", "reason": "liq 0<20k"}
 {"t": "2026-11-09 14:52:21 WIB", "mint": "B8oda8By1oK1vB4ARQ8pfXug3AKFoeukwcmQoW7Ypump", "sym": "SI", "reason": "vol1h 21909<40k"}
 {"t": "2026-11-09 14:53:53 WIB", "mint": "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1", "sym": "BTC", "reason": "top10 32.7%>25"}
+{"t": "2026-11-09 14:54:39 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 30230<40k"}
+{"t": "2026-11-09 14:55:26 WIB", "mint": "9w2NEtTt22o1LG3sSTQ9QB6T5AkszF5m177XYeJjpump", "sym": "heng", "reason": "liq 3001<20k"}
+{"t": "2026-11-09 14:56:13 WIB", "mint": "3BqJhVZWFZrX2kyFmQR3ccwasptv9RrrveEwGDNbpump", "sym": "EDEN", "reason": "vol1h 0<40k"}
