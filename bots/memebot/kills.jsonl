@@ -17820,3 +17820,8 @@
 {"t": "2026-11-09 09:29:10 WIB", "mint": "EULWnfX3hvnuod8wARSVFPyU1VnJxTB8YBaJFDvrpump", "sym": "Mischio", "reason": "liq 0<20k"}
 {"t": "2026-11-09 09:29:56 WIB", "mint": "T8PVfjmAsczCPk5odgScSHbjyywe4QTxSaVPeVoELYS", "sym": "ELYS", "reason": "liq 0<20k"}
 {"t": "2026-11-09 09:29:58 WIB", "mint": "55cJN7Esu4A6ux9kkadEw8LX8jW3uqqfo9XCf2Kapump", "sym": "TERSO", "reason": "vol1h 1598<40k"}
+{"t": "2026-11-09 09:30:45 WIB", "mint": "F8PGq6RrWiMGwqqAgxzigFZepVH62dQVnkNC2L2Tpump", "sym": "ALICE", "reason": "liq 0<20k"}
+{"t": "2026-11-09 09:30:46 WIB", "mint": "3R6tWb4LHBm2omnzydc4J1xi9fFWrLcZaDsQsG64aQ2x", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 09:30:48 WIB", "mint": "3MBJfJ3AFU2vyXr9PaF4S1DaVeo4wW48y7E8q53DZbjU", "sym": "UPPIN", "reason": "vol1h 583<40k"}
+{"t": "2026-11-09 09:33:07 WIB", "mint": "3JPqzDf4wqF8wkVR3yErsQJ9ma1wNFBC8zMR7ctCgVzi", "sym": "ANT", "reason": "vol1h 3753<40k"}
+{"t": "2026-11-09 09:33:09 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.581<0.6"}
