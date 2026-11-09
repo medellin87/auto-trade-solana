@@ -1,8 +1,3 @@
-{"t": "2026-11-09 08:18:59 WIB", "mint": "2gfXPeNi6YB2SsnWPqn2Yh1QTsQKZo9HcXwMaAq7pump", "sym": "BAGNERO", "reason": "liq 0<20k"}
-{"t": "2026-11-09 08:20:33 WIB", "mint": "7xC51VM74wYdWsNYyUz15ftoLThDv5Rz4fNAKAhSpump", "sym": "PIPELINE", "reason": "liq 0<20k"}
-{"t": "2026-11-09 08:20:35 WIB", "mint": "B32gQ1hRs6ZHG2Tv6N8PLtESBa1rcKufatp8gb38pump", "sym": "QUINN", "reason": "liq 14456<20k"}
-{"t": "2026-11-09 08:22:07 WIB", "mint": "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit", "sym": "RATTLE", "reason": "vol1h 6781<40k"}
-{"t": "2026-11-09 08:22:56 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 9065<40k"}
 {"t": "2026-11-09 08:23:42 WIB", "mint": "91h18MtAMZqkRA2ZRNdDzspEDsDUAaMKvVrskjxYpump", "sym": "Pumpatars", "reason": "liq 8253<20k"}
 {"t": "2026-11-09 08:24:29 WIB", "mint": "J5CG6LDbUThkVXFAwN7Nd457hKPNqLKRxKQNiTQdpump", "sym": "GARRETT", "reason": "liq 0<20k"}
 {"t": "2026-11-09 08:24:31 WIB", "mint": "HgGrmd6dsRaeryvDLrs5kN1YZehmkbuCafF43UgQpump", "sym": "NVIDIA", "reason": "liq 1646<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-09 08:39:54 WIB", "mint": "CXz596uKfWb5tkyz5Vh5a9QCKKh38io6hdgGrKKcpump", "sym": "GTA6KODAK", "reason": "vol1h 12373<40k"}
 {"t": "2026-11-09 08:40:40 WIB", "mint": "EFNXhdnk6envPtYuB885B4iZgGYoM6fcwv3SfPyYpump", "sym": "PumpBank", "reason": "vol1h 2428<40k"}
 {"t": "2026-11-09 08:43:42 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 2533<40k"}
+{"t": "2026-11-09 08:44:29 WIB", "mint": "5bpoWwTbLzTSqRtfgBgMJPGN8j8RTa29VX63KB9dpump", "sym": "4CHAN", "reason": "vol1h 269<40k"}
+{"t": "2026-11-09 08:44:33 WIB", "mint": "HS8D7Tojxn7zJbRQ838gnjFrhX3fAXjURGKJ2Es2pump", "sym": "Ride", "reason": "vol1h 9525<40k"}
+{"t": "2026-11-09 08:44:34 WIB", "mint": "9ti7bRkF57yANdgdKr6qfFub5C6VG6StSQpUVhkEpump", "sym": "GROXIE", "reason": "liq 0<20k"}
+{"t": "2026-11-09 08:45:21 WIB", "mint": "GAHurYcsKYZ7srApNPPfFeQxzKdyRTbRhKJwqt5Lpump", "sym": "WarInu", "reason": "vol1h 217<40k"}
+{"t": "2026-11-09 08:46:55 WIB", "mint": "8xecQf6g6ooxPLRS6CePqmSF6RD7YMfZn1QCzDoppump", "sym": "SPY", "reason": "liq 1825<20k"}
