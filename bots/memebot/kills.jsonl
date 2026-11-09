@@ -19205,3 +19205,7 @@
 {"t": "2026-11-10 03:58:58 WIB", "mint": "DXPLiLoo4bHVD32BJcHJRK4Wt1nznNLuUWwsQb94pump", "sym": "CAP", "reason": "liq 3397<20k"}
 {"t": "2026-11-10 03:59:01 WIB", "mint": "FSpMWoRCLgSQyhchxVrqb9gZABH2ZabukcTdpcC3J673", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-10 03:59:03 WIB", "mint": "BAppE6jY9uh2v6ZQ6Gg9fDbP9kA3BzHVNj91GzVY8sJZ", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 04:01:20 WIB", "mint": "CevgfcYW3Qcm1D1TRK2yL17mZA6H8GdDVsG4VS8Gpump", "sym": "NKCM", "reason": "vol1h 4926<40k"}
+{"t": "2026-11-10 04:02:52 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 16603<40k"}
+{"t": "2026-11-10 04:02:53 WIB", "mint": "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump", "sym": "Macca", "reason": "vol1h 3588<40k"}
+{"t": "2026-11-10 04:03:40 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "liq 5188<20k"}
