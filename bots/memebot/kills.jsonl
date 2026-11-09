@@ -17686,3 +17686,6 @@
 {"t": "2026-11-09 07:35:07 WIB", "mint": "FCC5aFpXMVZMZJ75SAWRKvPsCbqc3Gz8ymbr8vNw1adP", "sym": "FLOATCHAIN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 07:35:56 WIB", "mint": "3Xnf6373p4wMbC6fiFcwc6eHgcJcfEGUB6YB7r23mS3o", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 07:38:58 WIB", "mint": "CXz596uKfWb5tkyz5Vh5a9QCKKh38io6hdgGrKKcpump", "sym": "GTA6KODAK", "reason": "vol1h 22348<40k"}
+{"t": "2026-11-09 07:39:45 WIB", "mint": "EFNXhdnk6envPtYuB885B4iZgGYoM6fcwv3SfPyYpump", "sym": "PumpBank", "reason": "liq 0<20k"}
+{"t": "2026-11-09 07:40:32 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.391<0.6"}
+{"t": "2026-11-09 07:42:06 WIB", "mint": "AMYoWtJRHFJyu9EvK7v8Z8aZXzwefUMBimCG8tZEpump", "sym": "BabyAnsem", "reason": "liq 10454<20k"}
