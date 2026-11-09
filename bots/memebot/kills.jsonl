@@ -18188,3 +18188,10 @@
 {"t": "2026-11-09 13:56:04 WIB", "mint": "2HEhZ79kRwttLvpPpHqAuXzSYTjnVKDs9YUFeFwwbdsa", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-09 13:57:36 WIB", "mint": "FhXXfmMcLLCnyVEU91QJVeQMBKGmbQQ2Y3pM2XL7pump", "sym": "GPU", "reason": "vol1h 25958<40k"}
 {"t": "2026-11-09 13:57:38 WIB", "mint": "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit", "sym": "RATTLE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 13:59:09 WIB", "mint": "5eeEqt2w2hPgFyJ8oaRJizqGZYMBkQr1sJWs2UR1pump", "sym": "heng", "reason": "liq 0<20k"}
+{"t": "2026-11-09 13:59:11 WIB", "mint": "3nM6e1B7g8LDM8qJ2KLFBcRUM8ppoG4sKUfqUd7Jpump", "sym": "MooHan", "reason": "vol1h 2790<40k"}
+{"t": "2026-11-09 13:59:12 WIB", "mint": "Fwagv9buEaaMr9mUZcB6Hit8K9JpWyiS8Q1DYGr5pump", "sym": "Percolator", "reason": "vol1h 2<40k"}
+{"t": "2026-11-09 13:59:59 WIB", "mint": "FaHcqxjGs6wg8JuzQi3NbgpQQD9TRhaMPg3WojZpump", "sym": "Chuddome", "reason": "vol1h 274<40k"}
+{"t": "2026-11-09 14:00:01 WIB", "mint": "6rUq1tg42Ak8iwitJEzcduuqQ5Lbak6mk1fmxJjvpump", "sym": "$BOGAN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 14:00:02 WIB", "mint": "J5CG6LDbUThkVXFAwN7Nd457hKPNqLKRxKQNiTQdpump", "sym": "GARRETT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 14:00:04 WIB", "mint": "3y1NKnttxg8K31c3Mq1KahuMQ6KhtKRpBvKPbJ7Fpump", "sym": "Cat", "reason": "vol1h 2<40k"}
