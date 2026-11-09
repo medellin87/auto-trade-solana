@@ -17644,3 +17644,4 @@
 {"t": "2026-11-09 07:04:35 WIB", "mint": "FCC5aFpXMVZMZJ75SAWRKvPsCbqc3Gz8ymbr8vNw1adP", "sym": "FLOATCHAIN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 07:05:22 WIB", "mint": "3bmau35kqfppwHekTPnbLkBPTExF2RZDGVkXcrzypump", "sym": "S&P500", "reason": "top10 26.7%>25"}
 {"t": "2026-11-09 07:05:24 WIB", "mint": "3Xnf6373p4wMbC6fiFcwc6eHgcJcfEGUB6YB7r23mS3o", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-09 07:07:41 WIB", "mint": "4DXxwJTgPvBRFDVCb6Sg3wggbxXBHsvXKat5ZS9Tpump", "sym": "PerpSium", "reason": "vol1h 754<40k"}
