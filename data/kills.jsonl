@@ -1,5 +1,3 @@
-{"t": "2026-11-09 08:23:42 WIB", "mint": "91h18MtAMZqkRA2ZRNdDzspEDsDUAaMKvVrskjxYpump", "sym": "Pumpatars", "reason": "liq 8253<20k"}
-{"t": "2026-11-09 08:24:29 WIB", "mint": "J5CG6LDbUThkVXFAwN7Nd457hKPNqLKRxKQNiTQdpump", "sym": "GARRETT", "reason": "liq 0<20k"}
 {"t": "2026-11-09 08:24:31 WIB", "mint": "HgGrmd6dsRaeryvDLrs5kN1YZehmkbuCafF43UgQpump", "sym": "NVIDIA", "reason": "liq 1646<20k"}
 {"t": "2026-11-09 08:26:03 WIB", "mint": "AKrw6VbXiScJqZydENKhjJyJYXGsKJCVLmui95ngt1EK", "sym": "VICEKITTY", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 08:26:49 WIB", "mint": "9x2AEiRsWNGeDgDTdmW3fCPh6GVcP3cRQUJ8mffkpump", "sym": "WAITING", "reason": "vol1h 4256<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-09 08:44:34 WIB", "mint": "9ti7bRkF57yANdgdKr6qfFub5C6VG6StSQpUVhkEpump", "sym": "GROXIE", "reason": "liq 0<20k"}
 {"t": "2026-11-09 08:45:21 WIB", "mint": "GAHurYcsKYZ7srApNPPfFeQxzKdyRTbRhKJwqt5Lpump", "sym": "WarInu", "reason": "vol1h 217<40k"}
 {"t": "2026-11-09 08:46:55 WIB", "mint": "8xecQf6g6ooxPLRS6CePqmSF6RD7YMfZn1QCzDoppump", "sym": "SPY", "reason": "liq 1825<20k"}
+{"t": "2026-11-09 08:47:41 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 1949<40k"}
+{"t": "2026-11-09 08:49:13 WIB", "mint": "2gfXPeNi6YB2SsnWPqn2Yh1QTsQKZo9HcXwMaAq7pump", "sym": "BAGNERO", "reason": "vol1h 36656<40k"}
