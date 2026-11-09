@@ -18181,3 +18181,7 @@
 {"t": "2026-11-09 13:47:37 WIB", "mint": "7hThxkbeaJ6VNiV9DZ9c2adnDF9jvEXPrZGBXUN8pump", "sym": "FEC", "reason": "vol1h 0<40k"}
 {"t": "2026-11-09 13:49:54 WIB", "mint": "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump", "sym": "BAWSAQ", "reason": "score 0.406<0.6"}
 {"t": "2026-11-09 13:51:26 WIB", "mint": "B8oda8By1oK1vB4ARQ8pfXug3AKFoeukwcmQoW7Ypump", "sym": "SI", "reason": "vol1h 35150<40k"}
+{"t": "2026-11-09 13:54:28 WIB", "mint": "B6ESYnfmrFtu6T7yGsa1yCXGB62Z555RjirTKFZzpump", "sym": "HUNG", "reason": "vol1h 480<40k"}
+{"t": "2026-11-09 13:54:29 WIB", "mint": "2fYCF2SKXAgyigVGPbLW9yKTjfqTELCe6UfTqdP3iBCK", "sym": "GRILL", "reason": "vol1h 1590<40k"}
+{"t": "2026-11-09 13:54:31 WIB", "mint": "9w2NEtTt22o1LG3sSTQ9QB6T5AkszF5m177XYeJjpump", "sym": "heng", "reason": "liq 0<20k"}
+{"t": "2026-11-09 13:55:18 WIB", "mint": "3BqJhVZWFZrX2kyFmQR3ccwasptv9RrrveEwGDNbpump", "sym": "EDEN", "reason": "vol1h 0<40k"}
