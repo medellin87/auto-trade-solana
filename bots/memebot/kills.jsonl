@@ -18742,3 +18742,6 @@
 {"t": "2026-11-09 21:32:58 WIB", "mint": "EPqUY4iDZUvZyVGq9vWqQmkpHJRKQs9gUPxYyvecPC9P", "sym": "BEAN", "reason": "vol1h 410<40k"}
 {"t": "2026-11-09 21:33:45 WIB", "mint": "3nM6e1B7g8LDM8qJ2KLFBcRUM8ppoG4sKUfqUd7Jpump", "sym": "MooHan", "reason": "vol1h 88<40k"}
 {"t": "2026-11-09 21:33:47 WIB", "mint": "Fwagv9buEaaMr9mUZcB6Hit8K9JpWyiS8Q1DYGr5pump", "sym": "Percolator", "reason": "vol1h 0<40k"}
+{"t": "2026-11-09 21:36:04 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 9039<40k"}
+{"t": "2026-11-09 21:36:06 WIB", "mint": "tx41eAXzN6jHH22LSgF7eSxpTNvJXwcbrcGsbDrpump", "sym": "MYWAY", "reason": "score 0.311<0.6"}
+{"t": "2026-11-09 21:36:07 WIB", "mint": "CqF8PVZuBvdciBPBwt4Wiuteu6f7vtavLkBJUWEFpump", "sym": "MOGGLES", "reason": "vol1h 24271<40k"}
