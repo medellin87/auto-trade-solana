@@ -15218,3 +15218,6 @@
 {"t": "2026-11-10 16:18:17 WIB", "mint": "3uc2mx5wXSAYHV4oWTqgMwutywRdtfZCKwN9Lyezpump", "sym": "BOOM", "reason": "vol1h 2417<40k"}
 {"t": "2026-11-10 16:19:04 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 6601<40k"}
 {"t": "2026-11-10 16:19:50 WIB", "mint": "FqvWt4TBKqnykjy6cqUJcsruLWycxCshygKBjKRfpump", "sym": "YES", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 16:22:09 WIB", "mint": "qjhWVdryERmzBUcPgiFqb6icRndTRkP2PzYUEMmpump", "sym": "STONKS", "reason": "liq 0<20k"}
+{"t": "2026-11-10 16:22:11 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 5492<40k"}
+{"t": "2026-11-10 16:23:42 WIB", "mint": "HSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D", "sym": "hedge", "reason": "vol1h 155<40k"}
