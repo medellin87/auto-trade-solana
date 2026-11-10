@@ -16390,3 +16390,4 @@
 {"t": "2026-11-11 06:11:42 WIB", "mint": "8Rs3taDv9693YkA3cw3K8zaSnVZZ2UnKmV6upPYLpump", "sym": "savings", "reason": "vol1h 0<40k"}
 {"t": "2026-11-11 06:13:41 WIB", "mint": "AsgB9Fn2tS4TdRXv8PJeWismu9s169kgdFz3bAkJpump", "sym": "icc", "reason": "liq 0<20k"}
 {"t": "2026-11-11 06:13:42 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 11345<40k"}
+{"t": "2026-11-11 06:16:46 WIB", "mint": "EFKrc4gWTq67fYPnXG1DjMEhfm9d9vnrmyJxPqS7CfuS", "sym": "PCAT", "reason": "vol1h 1<40k"}
