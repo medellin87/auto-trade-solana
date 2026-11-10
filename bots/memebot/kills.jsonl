@@ -15949,3 +15949,6 @@
 {"t": "2026-11-11 01:03:02 WIB", "mint": "ETcFxpJDsACEx7TcmbuNh7ttQfxQ42UrTPK5gjXrpump", "sym": "MITE", "reason": "liq 0<20k"}
 {"t": "2026-11-11 01:03:03 WIB", "mint": "3JHTFr9Eiar1xQGD1urbFH8HysMnsc6LQfT5Sz9mpump", "sym": "DRACO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-11 01:03:52 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 29237<40k"}
+{"t": "2026-11-11 01:06:09 WIB", "mint": "3RJ8MmZmbVBPqj7re8AHcrMvPq5MctYqu1ZHXMZkpump", "sym": "XOGE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 01:06:10 WIB", "mint": "EZBcgdXxfWCscEMjehuFvsvYzdkG2T9z7PWi8nr9Mo46", "sym": "CASINO", "reason": "vol1h 1456<40k"}
+{"t": "2026-11-11 01:06:57 WIB", "mint": "8Rs3taDv9693YkA3cw3K8zaSnVZZ2UnKmV6upPYLpump", "sym": "savings", "reason": "vol1h 243<40k"}
