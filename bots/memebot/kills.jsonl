@@ -19774,3 +19774,10 @@
 {"t": "2026-11-10 11:07:38 WIB", "mint": "6f1y2T29NiQeZ9tB35cAWeiGHsxaZRQTyPc79Nsxpump", "sym": "VIBE", "reason": "liq 0<20k"}
 {"t": "2026-11-10 11:08:25 WIB", "mint": "7fsLRfbzgqPYyNNMSTasEVBf7xAqSvQR8ieXZN4afyom", "sym": "HELL", "reason": "vol1h 0<40k"}
 {"t": "2026-11-10 11:09:11 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 1974<40k"}
+{"t": "2026-11-10 11:09:59 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.437<0.6"}
+{"t": "2026-11-10 11:10:45 WIB", "mint": "GRwaEh6eYjWGkjmUajeo23FwirndEmbR1Kepbry6pump", "sym": "RWO", "reason": "vol1h 3835<40k"}
+{"t": "2026-11-10 11:11:32 WIB", "mint": "52N8mH4XGpnsQJbpexD3oxw1G2zZn7m2jX6VSpkd6btd", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 11:12:19 WIB", "mint": "BmAt6895v6PczX3g8jguJheWCj4hYQK5MmnBYr8Yc948", "sym": "JAMAL", "reason": "vol1h 256<40k"}
+{"t": "2026-11-10 11:12:20 WIB", "mint": "65FCxrmv376UzTyfesZJWkBM1tCDohN5i3xkWtkwpump", "sym": "Anthropic", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 11:12:22 WIB", "mint": "B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump", "sym": "AICoin", "reason": "liq 16840<20k"}
+{"t": "2026-11-10 11:12:23 WIB", "mint": "HqZZhbXWm17vnY29uj4cgczNUWo9o8VLUWsN4RH8pump", "sym": "MAYA", "reason": "vol1h 1<40k"}
