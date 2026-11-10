@@ -1,8 +1,3 @@
-{"t": "2026-11-10 18:24:03 WIB", "mint": "qjhWVdryERmzBUcPgiFqb6icRndTRkP2PzYUEMmpump", "sym": "STONKS", "reason": "vol1h 5864<40k"}
-{"t": "2026-11-10 18:24:04 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 5363<40k"}
-{"t": "2026-11-10 18:24:06 WIB", "mint": "2uPWZGK8cr5WChqNMEJFU4erCbsAsdWeDWWCtozppump", "sym": "claudiv88", "reason": "vol1h 18535<40k"}
-{"t": "2026-11-10 18:24:52 WIB", "mint": "5ygcwzryHZMbDZZ4ECiySwF5BkkTomkKrvn7zP3je8P5", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-10 18:24:54 WIB", "mint": "FgoLzGV2nVrghVHCWwAh6388iZkcLZSedykJ5trRpump", "sym": "DERP404", "reason": "vol1h 0<40k"}
 {"t": "2026-11-10 18:27:11 WIB", "mint": "6Vp2HYHDiYkfw7WaBftMLDFLZDkw6Eyhu8fPJd5opump", "sym": "Sakura", "reason": "liq 8327<20k"}
 {"t": "2026-11-10 18:27:57 WIB", "mint": "Gg3XUJHFoFSha6cWFDT2im8mtNuSHhCzp2D4naowpump", "sym": "BUSTED", "reason": "vol1h 619<40k"}
 {"t": "2026-11-10 18:27:59 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 9696<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-10 18:43:32 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.439<0.6"}
 {"t": "2026-11-10 18:44:19 WIB", "mint": "AsdFcM5a7CWLYVfLypktYYVNs1PB4dFRXGbHv28npump", "sym": "IMC", "reason": "liq 0<20k"}
 {"t": "2026-11-10 18:45:06 WIB", "mint": "5zo3RXMEGMfA2zCM8LrsS9rsUn5tX9BFqQUFMJs11J7i", "sym": "apeonx", "reason": "vol1h 239<40k"}
+{"t": "2026-11-10 18:47:23 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.492<0.6"}
+{"t": "2026-11-10 18:48:10 WIB", "mint": "3yjyHCC4EzLb7J7cx3uczgTrqhpXDCBkfShK8Rf3pump", "sym": "TRUMP", "reason": "vol1h 15468<40k"}
+{"t": "2026-11-10 18:48:11 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 18:48:13 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 5927<40k"}
+{"t": "2026-11-10 18:49:00 WIB", "mint": "4XX6qY2tXg1N7RqoRtLnsBPb8t7h3QzfVY94AMTcQU9k", "sym": "ChainChomp131", "reason": "liq 0<20k"}
