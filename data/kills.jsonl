@@ -1,8 +1,3 @@
-{"t": "2026-11-10 14:47:32 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 8271<40k"}
-{"t": "2026-11-10 14:48:18 WIB", "mint": "FqvWt4TBKqnykjy6cqUJcsruLWycxCshygKBjKRfpump", "sym": "YES", "reason": "vol1h 0<40k"}
-{"t": "2026-11-10 14:49:51 WIB", "mint": "BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump", "sym": "OnlyCats", "reason": "score 0.546<0.6"}
-{"t": "2026-11-10 14:50:37 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 9220<40k"}
-{"t": "2026-11-10 14:52:09 WIB", "mint": "HSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D", "sym": "hedge", "reason": "liq 10176<20k"}
 {"t": "2026-11-10 14:54:26 WIB", "mint": "Gg3XUJHFoFSha6cWFDT2im8mtNuSHhCzp2D4naowpump", "sym": "BUSTED", "reason": "vol1h 184<40k"}
 {"t": "2026-11-10 14:54:27 WIB", "mint": "CzcRXdkUxkd7HSkoD7raDR2mgcn5tCAEefixcJGnpump", "sym": "SPY", "reason": "vol1h 0<40k"}
 {"t": "2026-11-10 14:54:29 WIB", "mint": "BaLWdsh9RpqxkbnELpuCWMvb2sVk3kAhAjCMXyXJpump", "sym": "1SOL", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-10 15:07:47 WIB", "mint": "3jXB2MhzxRwwbqadrVYcbiEPy6Vqb5UMXhHYYA5uBAGS", "sym": "DDOSALX", "reason": "vol1h 1<40k"}
 {"t": "2026-11-10 15:09:19 WIB", "mint": "JBUe4NZu4rm4Ej5AsLZECZLHvnWpFRmhn9oPLXCVpump", "sym": "MUBBO", "reason": "vol1h 966<40k"}
 {"t": "2026-11-10 15:10:06 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 22715<40k"}
+{"t": "2026-11-10 15:10:52 WIB", "mint": "5QLHv9382yxtsnxeKPLxjznH5aP78Lcf6XLutwYXB6Vb", "sym": "SKT", "reason": "vol1h 1<40k"}
+{"t": "2026-11-10 15:10:54 WIB", "mint": "D3G9PvtfribHjBMxBiYgVfxDv4VNG5oGsh6g2gQZpump", "sym": "A", "reason": "vol1h 25281<40k"}
+{"t": "2026-11-10 15:10:55 WIB", "mint": "BY5yjL9ydtpTb2Nbs1etuZZ8unXbgKiBrERGMNoUpump", "sym": "FOMO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 15:11:42 WIB", "mint": "AKrw6VbXiScJqZydENKhjJyJYXGsKJCVLmui95ngt1EK", "sym": "VICEKITTY", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 15:12:29 WIB", "mint": "7fsLRfbzgqPYyNNMSTasEVBf7xAqSvQR8ieXZN4afyom", "sym": "HELL", "reason": "vol1h 0<40k"}
