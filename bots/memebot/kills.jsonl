@@ -15575,3 +15575,6 @@
 {"t": "2026-11-10 20:29:29 WIB", "mint": "DigVnUDwgbSSWNMNsgzGNw8EQhqwjniPU2EsfD4Wpump", "sym": "CHAINCHOMP131", "reason": "liq 19323<20k"}
 {"t": "2026-11-10 20:30:16 WIB", "mint": "AoHVuFNKTAEUc5aiC8HLWUWytNC3nkJ4jcnjyFQaiCJg", "sym": "STWC", "reason": "vol1h 67<40k"}
 {"t": "2026-11-10 20:31:03 WIB", "mint": "A8oG7Zq3tEgquTKYnXUu2jjDRc2ooRJLN8DxHsnpump", "sym": "SOL", "reason": "vol1h 18020<40k"}
+{"t": "2026-11-10 20:31:49 WIB", "mint": "3RJ8MmZmbVBPqj7re8AHcrMvPq5MctYqu1ZHXMZkpump", "sym": "XOGE", "reason": "vol1h 1<40k"}
+{"t": "2026-11-10 20:31:51 WIB", "mint": "8QCqrCmjCTmFarmq8SxCryuxzMBLVEWasbFaZQgXpump", "sym": "h1t", "reason": "top10 25.1%>25"}
+{"t": "2026-11-10 20:34:08 WIB", "mint": "6d9SJVns9WUmcUeKcHitTccGVKTD6QsPZ6fDi2e1pump", "sym": "OLCCL", "reason": "vol1h 0<40k"}
