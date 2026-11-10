@@ -1,8 +1,3 @@
-{"t": "2026-11-11 00:52:48 WIB", "mint": "HQNJhJyL1QJggnBSN434QVK1RsvcUMNNfkt1dskzpump", "sym": "HODL", "reason": "vol1h 3740<40k"}
-{"t": "2026-11-11 00:52:50 WIB", "mint": "3WXWFpKjQVtPHkZ3y9hvaxXCzgFYugmoYDzGVbs3pump", "sym": "REX", "reason": "vol1h 0<40k"}
-{"t": "2026-11-11 00:54:23 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 65<40k"}
-{"t": "2026-11-11 00:54:25 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 10104<40k"}
-{"t": "2026-11-11 00:54:26 WIB", "mint": "D6CWSeSMgdy47nsZLqxYbHWoVgHCgfNgKd2FqmP1pump", "sym": "Legion", "reason": "liq 0<20k"}
 {"t": "2026-11-11 00:55:13 WIB", "mint": "NmoNkpkN59oYmSkqh51wgymyuuePizXSGPNgBa4pump", "sym": "Before", "reason": "liq 0<20k"}
 {"t": "2026-11-11 00:56:00 WIB", "mint": "5JHHcudrqibzuc4S9tGgthmfLNoRof4E3KWWGQsrpump", "sym": "Steve", "reason": "vol1h 2881<40k"}
 {"t": "2026-11-11 00:56:01 WIB", "mint": "12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz", "sym": "FUNZ", "reason": "vol1h 7<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-11 01:11:35 WIB", "mint": "BTJTo1ESLNmWZ3RpiG1yhkBWxNnj2MypvbBu8v2Qpump", "sym": "DAINU", "reason": "vol1h 21337<40k"}
 {"t": "2026-11-11 01:11:36 WIB", "mint": "Fxg8YJZwobR55YKN6nK9PQTFMxbwdetZi27m1xJWpump", "sym": "VICECITY", "reason": "vol1h 27062<40k"}
 {"t": "2026-11-11 01:12:23 WIB", "mint": "7mq84UEsjxYehH2cebat9173cAbkoFm2H2CGpzd4pump", "sym": "10T", "reason": "vol1h 113<40k"}
+{"t": "2026-11-11 01:13:54 WIB", "mint": "4VE9sy4fEMJdZ6i7MkYPbnqDJd2oqzJQmg44WJ3opump", "sym": "$KIBBLE", "reason": "vol1h 6<40k"}
+{"t": "2026-11-11 01:15:26 WIB", "mint": "4HLzQoz5KkhXFrwKfX1Jb2iEFBd9QseFAEJvjqDdpump", "sym": "DAKITTY", "reason": "liq 1610<20k"}
+{"t": "2026-11-11 01:15:28 WIB", "mint": "wSkmmtpipUSwwWG2kMWxAj6ay6WRwcxunQXU7rFpump", "sym": "DacityCoin", "reason": "score 0.424<0.6"}
+{"t": "2026-11-11 01:16:15 WIB", "mint": "BxyJ8onib6gjBr6QENELRLdE9gQra4sLLw8KGiK1pump", "sym": "DACAT", "reason": "vol1h 16856<40k"}
+{"t": "2026-11-11 01:16:16 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 13742<40k"}
