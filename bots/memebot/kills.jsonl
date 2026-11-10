@@ -16150,3 +16150,9 @@
 {"t": "2026-11-11 03:22:14 WIB", "mint": "2hyMwC4c11L32VsJwWznCmvfERBhaz19CFpGQyHMpump", "sym": "ZEN", "reason": "vol1h 3630<40k"}
 {"t": "2026-11-11 03:22:15 WIB", "mint": "B167EZDBL11ZCTzA9UwG21sxHLJ5qpnCtEaf4JN8pump", "sym": "Doug", "reason": "vol1h 21679<40k"}
 {"t": "2026-11-11 03:22:17 WIB", "mint": "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring", "sym": "Rings", "reason": "liq 14188<20k"}
+{"t": "2026-11-11 03:23:03 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 19959<40k"}
+{"t": "2026-11-11 03:23:50 WIB", "mint": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump", "sym": "NIO", "reason": "vol1h 13524<40k"}
+{"t": "2026-11-11 03:24:37 WIB", "mint": "GTPniWpBs1dWTEBfb9sZEBgfu4p6XVNuJZ5jyaT2bond", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-11 03:24:38 WIB", "mint": "EwEPg2uk3sqCfnDL6XK1XZ2SPChpoSvm27A4zZehpump", "sym": "PERPS", "reason": "liq 0<20k"}
+{"t": "2026-11-11 03:24:40 WIB", "mint": "5MqPA6hN49wysjzfSnCgr73X27eJMzPdLrv1TtVbpump", "sym": "UKIKI", "reason": "vol1h 8294<40k"}
+{"t": "2026-11-11 03:25:27 WIB", "mint": "9Uz1XmRQGjD2NspWH1FYAtVromkt74s45FXEwXpmpump", "sym": "Catcity", "reason": "score 0.578<0.6"}
