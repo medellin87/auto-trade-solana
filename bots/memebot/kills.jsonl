@@ -15221,3 +15221,7 @@
 {"t": "2026-11-10 16:22:09 WIB", "mint": "qjhWVdryERmzBUcPgiFqb6icRndTRkP2PzYUEMmpump", "sym": "STONKS", "reason": "liq 0<20k"}
 {"t": "2026-11-10 16:22:11 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 5492<40k"}
 {"t": "2026-11-10 16:23:42 WIB", "mint": "HSi9LptAQdDsCBSwVoyQ7HBhMMAi1yvbhwvNoYkGFW9D", "sym": "hedge", "reason": "vol1h 155<40k"}
+{"t": "2026-11-10 16:25:59 WIB", "mint": "Gg3XUJHFoFSha6cWFDT2im8mtNuSHhCzp2D4naowpump", "sym": "BUSTED", "reason": "vol1h 96<40k"}
+{"t": "2026-11-10 16:26:01 WIB", "mint": "BaLWdsh9RpqxkbnELpuCWMvb2sVk3kAhAjCMXyXJpump", "sym": "1SOL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 16:26:02 WIB", "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun", "sym": "SENSE", "reason": "vol1h 79<40k"}
+{"t": "2026-11-10 16:26:49 WIB", "mint": "AoHVuFNKTAEUc5aiC8HLWUWytNC3nkJ4jcnjyFQaiCJg", "sym": "STWC", "reason": "vol1h 0<40k"}
