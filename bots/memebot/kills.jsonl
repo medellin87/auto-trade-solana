@@ -19589,3 +19589,8 @@
 {"t": "2026-11-10 08:47:51 WIB", "mint": "GqJT1Wt65iPZDinwA9r3T7tUrn72Vv412vnUJsCrAtCH", "sym": "scratch", "reason": "liq 0<20k"}
 {"t": "2026-11-10 08:47:53 WIB", "mint": "97ZFp1jBJhncH7NNoTe36u3u5vEEQ3jYyn24RaP4pump", "sym": "workinu", "reason": "vol1h 0<40k"}
 {"t": "2026-11-10 08:47:54 WIB", "mint": "92BqyJz8q8z1mAhDUpZq4jKeAFmFFEXr7J35EPTTSTNK", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-10 08:48:41 WIB", "mint": "Gg3XUJHFoFSha6cWFDT2im8mtNuSHhCzp2D4naowpump", "sym": "BUSTED", "reason": "vol1h 4725<40k"}
+{"t": "2026-11-10 08:48:42 WIB", "mint": "CzcRXdkUxkd7HSkoD7raDR2mgcn5tCAEefixcJGnpump", "sym": "SPY", "reason": "vol1h 0<40k"}
+{"t": "2026-11-10 08:48:44 WIB", "mint": "GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun", "sym": "SENSE", "reason": "vol1h 1663<40k"}
+{"t": "2026-11-10 08:50:16 WIB", "mint": "XeaWBDDBxj5Qf6S6TshMC1SKaxSccJfRZUDj26opump", "sym": "MERLYN", "reason": "vol1h 1643<40k"}
+{"t": "2026-11-10 08:50:17 WIB", "mint": "HJqfjaE4GopFCyWJj8igJJehjQcPjTHsM34aQXn4pump", "sym": "EP", "reason": "liq 0<20k"}
