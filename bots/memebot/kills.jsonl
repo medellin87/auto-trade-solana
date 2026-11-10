@@ -19466,3 +19466,5 @@
 {"t": "2026-11-10 07:07:23 WIB", "mint": "3S4y78b14PRp1e71JNu5rZ2dvP2rwixTc45UE4zWpump", "sym": "TOGO", "reason": "liq 1756<20k"}
 {"t": "2026-11-10 07:07:25 WIB", "mint": "Dcn7FkMfCS5XyTD4rwcmJWcCHYfXUQiTTqtqVS9zpump", "sym": "CCP", "reason": "liq 0<20k"}
 {"t": "2026-11-10 07:08:57 WIB", "mint": "HqZZhbXWm17vnY29uj4cgczNUWo9o8VLUWsN4RH8pump", "sym": "MAYA", "reason": "vol1h 540<40k"}
+{"t": "2026-11-10 07:10:28 WIB", "mint": "EJv8TgQfN6gtYN8Z6KGyBeNPbVYmogmudfxiRA2Fpump", "sym": "GTA", "reason": "vol1h 14369<40k"}
+{"t": "2026-11-10 07:11:15 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 2899<40k"}
