@@ -19767,3 +19767,5 @@
 {"t": "2026-11-10 11:02:54 WIB", "mint": "7ux4vVTCkBAUdyEHB9axUyzKnbdCophQTGHTwYWMpump", "sym": "KEY404", "reason": "liq 0<20k"}
 {"t": "2026-11-10 11:03:40 WIB", "mint": "AaiQanbcdgS4gbLujs412pKjJUFxBxALySVCUPFipump", "sym": "pairless", "reason": "vol1h 0<40k"}
 {"t": "2026-11-10 11:03:42 WIB", "mint": "3jXB2MhzxRwwbqadrVYcbiEPy6Vqb5UMXhHYYA5uBAGS", "sym": "DDOSALX", "reason": "vol1h 2361<40k"}
+{"t": "2026-11-10 11:05:59 WIB", "mint": "H1TdVD6HwgwDcHjCMzhKqkvPH7smQxGe2eTMhXNBpump", "sym": "ASTEX", "reason": "liq 1911<20k"}
+{"t": "2026-11-10 11:06:02 WIB", "mint": "27jy1FcqN2XwD98ysaz7mT3LX4sRjpnRAnYxqEbwpump", "sym": "FWOG", "reason": "liq 0<20k"}
