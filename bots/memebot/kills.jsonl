@@ -16112,3 +16112,6 @@
 {"t": "2026-11-11 02:54:07 WIB", "mint": "GTPniWpBs1dWTEBfb9sZEBgfu4p6XVNuJZ5jyaT2bond", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-11 02:54:09 WIB", "mint": "EwEPg2uk3sqCfnDL6XK1XZ2SPChpoSvm27A4zZehpump", "sym": "PERPS", "reason": "liq 0<20k"}
 {"t": "2026-11-11 02:54:10 WIB", "mint": "5MqPA6hN49wysjzfSnCgr73X27eJMzPdLrv1TtVbpump", "sym": "UKIKI", "reason": "vol1h 6230<40k"}
+{"t": "2026-11-11 02:55:44 WIB", "mint": "8riMEL1onKx87EMAHLWuYqBzvMJFPjWbabk5DSK8pump", "sym": "miaoudame", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 02:56:31 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 02:56:32 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 22362<40k"}
