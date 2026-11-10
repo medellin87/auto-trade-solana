@@ -19807,3 +19807,7 @@
 {"t": "2026-11-10 11:33:22 WIB", "mint": "7ux4vVTCkBAUdyEHB9axUyzKnbdCophQTGHTwYWMpump", "sym": "KEY404", "reason": "vol1h 23818<40k"}
 {"t": "2026-11-10 11:34:09 WIB", "mint": "AaiQanbcdgS4gbLujs412pKjJUFxBxALySVCUPFipump", "sym": "pairless", "reason": "vol1h 0<40k"}
 {"t": "2026-11-10 11:34:10 WIB", "mint": "3jXB2MhzxRwwbqadrVYcbiEPy6Vqb5UMXhHYYA5uBAGS", "sym": "DDOSALX", "reason": "vol1h 1347<40k"}
+{"t": "2026-11-10 11:36:27 WIB", "mint": "H1TdVD6HwgwDcHjCMzhKqkvPH7smQxGe2eTMhXNBpump", "sym": "ASTEX", "reason": "liq 1890<20k"}
+{"t": "2026-11-10 11:36:31 WIB", "mint": "27jy1FcqN2XwD98ysaz7mT3LX4sRjpnRAnYxqEbwpump", "sym": "FWOG", "reason": "vol1h 33242<40k"}
+{"t": "2026-11-10 11:37:18 WIB", "mint": "CmaCfVQHjeCP6PUKanwVbhqQN73XEDvacPEkUgzCSRry", "sym": "Dexty", "reason": "vol1h 26645<40k"}
+{"t": "2026-11-10 11:37:19 WIB", "mint": "5QLHv9382yxtsnxeKPLxjznH5aP78Lcf6XLutwYXB6Vb", "sym": "SKT", "reason": "vol1h 2<40k"}
