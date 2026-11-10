@@ -16050,3 +16050,6 @@
 {"t": "2026-11-11 02:09:32 WIB", "mint": "8z38aEizgpsECAk3u8HkTSG1oUicFrSH4Egjt2Mfmi1m", "sym": "CB", "reason": "vol1h 4<40k"}
 {"t": "2026-11-11 02:10:19 WIB", "mint": "CQ8zNLYwMEAVVBHEswusZrsUraCvc7HjiBPwgTbRpump", "sym": "BOXCAT", "reason": "liq 18967<20k"}
 {"t": "2026-11-11 02:10:20 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 11700<40k"}
+{"t": "2026-11-11 02:13:22 WIB", "mint": "7mq84UEsjxYehH2cebat9173cAbkoFm2H2CGpzd4pump", "sym": "10T", "reason": "vol1h 333<40k"}
+{"t": "2026-11-11 02:13:24 WIB", "mint": "FzHT8dVuPeHeYMKG7ApED14qsBqSpgq6XDL4oJPvbond", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-11 02:13:26 WIB", "mint": "5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump", "sym": "DACITY", "reason": "top10 26.9%>25"}
