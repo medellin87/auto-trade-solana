@@ -16396,3 +16396,7 @@
 {"t": "2026-11-11 06:21:22 WIB", "mint": "B1ZV3tWZV8nq6fcGG5tbVQfGDRi93JBMRBhSWcfHhknR", "sym": "Blind", "reason": "liq 2821<20k"}
 {"t": "2026-11-11 06:22:54 WIB", "mint": "iriSCkcbCZ2xWrmCLBqPfXCGMDXHebGScgW5FhESu27", "sym": "iris", "reason": "vol1h 16807<40k"}
 {"t": "2026-11-11 06:22:55 WIB", "mint": "DXiChMGpiokKzJys1mwaSvbX32pVyB4AAmL7qEC6pump", "sym": "work", "reason": "vol1h 17958<40k"}
+{"t": "2026-11-11 06:24:29 WIB", "mint": "2hyMwC4c11L32VsJwWznCmvfERBhaz19CFpGQyHMpump", "sym": "ZEN", "reason": "vol1h 13658<40k"}
+{"t": "2026-11-11 06:25:16 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 8044<40k"}
+{"t": "2026-11-11 06:26:03 WIB", "mint": "Ff1wNnYGDhY2Mz5DZEQuJKZafCeWRhzskye7rijmpump", "sym": "Max", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 06:26:04 WIB", "mint": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump", "sym": "NIO", "reason": "vol1h 30466<40k"}
