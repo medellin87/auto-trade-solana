@@ -16315,3 +16315,6 @@
 {"t": "2026-11-11 05:13:19 WIB", "mint": "2HhH7LwfNHrxqMrSoXZ6Ri7GdmRYSJ4e8qSra9Krpump", "sym": "forg", "reason": "vol1h 11348<40k"}
 {"t": "2026-11-11 05:16:21 WIB", "mint": "EFKrc4gWTq67fYPnXG1DjMEhfm9d9vnrmyJxPqS7CfuS", "sym": "PCAT", "reason": "vol1h 0<40k"}
 {"t": "2026-11-11 05:16:23 WIB", "mint": "7mq84UEsjxYehH2cebat9173cAbkoFm2H2CGpzd4pump", "sym": "10T", "reason": "vol1h 212<40k"}
+{"t": "2026-11-11 05:20:11 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 764<40k"}
+{"t": "2026-11-11 05:22:30 WIB", "mint": "DXiChMGpiokKzJys1mwaSvbX32pVyB4AAmL7qEC6pump", "sym": "work", "reason": "liq 7617<20k"}
+{"t": "2026-11-11 05:22:32 WIB", "mint": "iriSCkcbCZ2xWrmCLBqPfXCGMDXHebGScgW5FhESu27", "sym": "iris", "reason": "vol1h 35838<40k"}
