@@ -18116,3 +18116,7 @@
 {"t": "2026-11-12 00:57:58 WIB", "mint": "89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump", "sym": "LuckyCoin", "reason": "LP locked 0%<90"}
 {"t": "2026-11-12 00:59:30 WIB", "mint": "64tbhe6oprWwoaSMzNAHtZanzWGyaZhV8JLvuVQ6pump", "sym": "PACS", "reason": "vol1h 95<40k"}
 {"t": "2026-11-12 00:59:31 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 11919<40k"}
+{"t": "2026-11-12 01:01:03 WIB", "mint": "7evRgu7LBmUfZP5LwX46sceYhrBcvgKmhS68DCZTpump", "sym": "LENDX", "reason": "vol1h 32593<40k"}
+{"t": "2026-11-12 01:01:50 WIB", "mint": "BK8ZXzXsVLJzsDdy1paM8Dbcd3qAhMQWcSWq3M6Ypump", "sym": "RWA", "reason": "vol1h 693<40k"}
+{"t": "2026-11-12 01:01:51 WIB", "mint": "E2HPtLCsgb5fK3fxWBAJ4djqAejepWK6ZTqFazf5kgR6", "sym": "Looby", "reason": "vol1h 18552<40k"}
+{"t": "2026-11-12 01:02:38 WIB", "mint": "8oGD1rEraxCCXd98JYdNnb38bENjfR6pGcRuqmfMpump", "sym": "MEOWLAND", "reason": "score 0.505<0.6"}
