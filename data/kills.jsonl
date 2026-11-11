@@ -1,8 +1,3 @@
-{"t": "2026-11-11 20:54:39 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 33535<40k"}
-{"t": "2026-11-11 20:55:25 WIB", "mint": "BXQshCokDSmrsAdM1fj3da2z9XCqDjE9jvakjHjZ47U6", "sym": "Yuna", "reason": "liq 0<20k"}
-{"t": "2026-11-11 20:57:42 WIB", "mint": "2ExUXedCdWQJNZmkuEuEBUcUggyaMJjxFPJM4a4dpump", "sym": "Lazarus", "reason": "liq 2502<20k"}
-{"t": "2026-11-11 20:59:16 WIB", "mint": "FLEVVG7V7KnKrL4hw8NFqvz6tcUh1u5ggPKj4nEdpump", "sym": "Muskratht", "reason": "vol1h 0<40k"}
-{"t": "2026-11-11 20:59:17 WIB", "mint": "AkCMhqLNKq2jGWRaJPevQmF95VjgJm9z2deCccYXsVYm", "sym": "HOLDEM", "reason": "vol1h 4728<40k"}
 {"t": "2026-11-11 21:00:04 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 1676<40k"}
 {"t": "2026-11-11 21:00:06 WIB", "mint": "C493YhUFRt9zFgzLRm3SckCEXeouGse8iUoW3EeFpump", "sym": "Allin", "reason": "vol1h 15274<40k"}
 {"t": "2026-11-11 21:00:07 WIB", "mint": "DrxF9R4jEVyYhBw7eaUw217oejgD3XdqBZok7bYQpump", "sym": "MTGA", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-11 21:13:24 WIB", "mint": "3FFhaqDgcGCP84tinaZMpQx18gndeEwAiQ7sxSydpump", "sym": "FOMO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-11 21:14:56 WIB", "mint": "BLVpn8ofkjnAzpWGaVpspZ5bHTeXDbXFgX4vn3fkpump", "sym": "woohao", "reason": "risk:Creator history of rugged tokens"}
 {"t": "2026-11-11 21:14:58 WIB", "mint": "5jLj1jr2BtTBL8czd6xdpYoFkEqyG89W3bz5Jq6Mpump", "sym": "FLIPIF", "reason": "vol1h 4899<40k"}
+{"t": "2026-11-11 21:15:45 WIB", "mint": "79Kg5MmW36oVsGbQfpkJmtjRGc1Bf5qt2HsvUPfKpump", "sym": "Ponzi", "reason": "liq 0<20k"}
+{"t": "2026-11-11 21:15:46 WIB", "mint": "E4qL6sRp9JTfFAvvZGDdGuyjgAxtAFHqY5DGg95pump", "sym": "BAMBOO", "reason": "vol1h 22731<40k"}
+{"t": "2026-11-11 21:15:48 WIB", "mint": "BY6VKHgo2f74gsnLCdqx8P3S38cpQauoRwSbYPkSBAG", "sym": "BAGWORK", "reason": "vol1h 10946<40k"}
+{"t": "2026-11-11 21:17:20 WIB", "mint": "GyoCSThoXpBZsubGfYiopW91Qi9Pfqwry5nm4dJeCoaL", "sym": "COALSCAN", "reason": "vol1h 3425<40k"}
+{"t": "2026-11-11 21:17:21 WIB", "mint": "DFG7SwUG9cFCgRSWKgQVQqHwjdTVg5FYZDLZDejQpump", "sym": "meme", "reason": "vol1h 15884<40k"}
