@@ -17149,3 +17149,6 @@
 {"t": "2026-11-11 14:30:20 WIB", "mint": "F2xQeTCTqnczXxXQaBWAfDpUnpxn4wQHRPSqvUYJpump", "sym": "Impeach", "reason": "vol1h 1051<40k"}
 {"t": "2026-11-11 14:31:07 WIB", "mint": "Bs4sbk3AWdBckLcPAXZuWpdJcknaF1FTeadH4XRJpump", "sym": "BELIEVE", "reason": "vol1h 3830<40k"}
 {"t": "2026-11-11 14:31:08 WIB", "mint": "DjpbrxEmGngpyMakynQorKW68XyAE1baw3s5MLGGpump", "sym": "ONODA", "reason": "vol1h 18678<40k"}
+{"t": "2026-11-11 14:31:55 WIB", "mint": "4qperWiuSvkn1r3T6ZZkWThzadoxttAeNbPdbDJTpump", "sym": "\u6708\u85aa\u55b5", "reason": "liq 0<20k"}
+{"t": "2026-11-11 14:32:42 WIB", "mint": "DTsqSzDbsKKFoEpMiGAdBwYSDm3QrDxhCN2JFpnoUpay", "sym": "PayLoan", "reason": "liq 0<20k"}
+{"t": "2026-11-11 14:32:44 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.39<0.6"}
