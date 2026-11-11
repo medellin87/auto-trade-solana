@@ -17152,3 +17152,7 @@
 {"t": "2026-11-11 14:31:55 WIB", "mint": "4qperWiuSvkn1r3T6ZZkWThzadoxttAeNbPdbDJTpump", "sym": "\u6708\u85aa\u55b5", "reason": "liq 0<20k"}
 {"t": "2026-11-11 14:32:42 WIB", "mint": "DTsqSzDbsKKFoEpMiGAdBwYSDm3QrDxhCN2JFpnoUpay", "sym": "PayLoan", "reason": "liq 0<20k"}
 {"t": "2026-11-11 14:32:44 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.39<0.6"}
+{"t": "2026-11-11 14:35:01 WIB", "mint": "5dReBkDjES5SyRuasNHytYDmCqdupyoWTRUSTRgtpump", "sym": "PayCat", "reason": "top10 39.2%>25"}
+{"t": "2026-11-11 14:35:47 WIB", "mint": "5QLHv9382yxtsnxeKPLxjznH5aP78Lcf6XLutwYXB6Vb", "sym": "SKT", "reason": "vol1h 8<40k"}
+{"t": "2026-11-11 14:36:34 WIB", "mint": "3FFhaqDgcGCP84tinaZMpQx18gndeEwAiQ7sxSydpump", "sym": "FOMO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 14:37:21 WIB", "mint": "G49HhGLuaEU3knmv1ftiJ9mnB9jXhDgzgZST2kDipump", "sym": "HODL", "reason": "vol1h 0<40k"}
