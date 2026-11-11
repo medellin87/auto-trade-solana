@@ -1,8 +1,3 @@
-{"t": "2026-11-11 17:49:22 WIB", "mint": "416sPL5fqhQpAJVboEQC5Yq52kY4VXzVY6y2GdJhcGnz", "sym": "NIHAO", "reason": "vol1h 125<40k"}
-{"t": "2026-11-11 17:50:09 WIB", "mint": "4Ye6Y6Vaic8cyPdfW2f9PcLhXkysBtSmV84G8X7spump", "sym": "greg", "reason": "vol1h 1298<40k"}
-{"t": "2026-11-11 17:50:10 WIB", "mint": "FW6vyP4JtDhXB5giVX6feVTNzHqY47jNgaMqaWM1pump", "sym": "ZEC", "reason": "liq 0<20k"}
-{"t": "2026-11-11 17:50:12 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 2772<40k"}
-{"t": "2026-11-11 17:50:13 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 43<40k"}
 {"t": "2026-11-11 17:51:00 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 56<40k"}
 {"t": "2026-11-11 17:51:02 WIB", "mint": "9VZerdNL1x6EjetDqRnh5bYcdmk1y8sLAGs1ybzGpump", "sym": "X", "reason": "vol1h 17673<40k"}
 {"t": "2026-11-11 17:51:03 WIB", "mint": "FP7NvFXQXoZL1nQC5QZtE1bzwgALdxj1TeA9J25epump", "sym": "CatFu", "reason": "vol1h 6775<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-11 18:05:08 WIB", "mint": "9LFj2cbr843aKLnvvFRWAExnpzcCn2LiB6cE8t2tpump", "sym": "trenches", "reason": "vol1h 0<40k"}
 {"t": "2026-11-11 18:05:55 WIB", "mint": "4qperWiuSvkn1r3T6ZZkWThzadoxttAeNbPdbDJTpump", "sym": "\u6708\u85aa\u55b5", "reason": "vol1h 10918<40k"}
 {"t": "2026-11-11 18:06:42 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.384<0.6"}
+{"t": "2026-11-11 18:08:14 WIB", "mint": "Amxu3h66ts6ALdrhCzMVgvacPT7h8jSVUPbEcwBmpump", "sym": "Chachamaru", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 18:08:16 WIB", "mint": "5Uj1W1jCJpRhmKqxToSxx9Rd1SYSdsakJczSDKPnpump", "sym": "thesis", "reason": "vol1h 2150<40k"}
+{"t": "2026-11-11 18:09:02 WIB", "mint": "7cin51XTpSkesiZMLJvEGNXqd5DFFqSBixcvn7Ppump", "sym": "TI", "reason": "liq 17137<20k"}
+{"t": "2026-11-11 18:10:34 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 22496<40k"}
+{"t": "2026-11-11 18:10:36 WIB", "mint": "3FFhaqDgcGCP84tinaZMpQx18gndeEwAiQ7sxSydpump", "sym": "FOMO", "reason": "vol1h 0<40k"}
