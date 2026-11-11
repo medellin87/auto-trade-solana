@@ -1,8 +1,3 @@
-{"t": "2026-11-11 17:16:44 WIB", "mint": "Hg3w7GdPViZ5URuCNnK6EwXLzSTmVwX6UXLeD6Pbpump", "sym": "\u54aa\u597d", "reason": "score 0.433<0.6"}
-{"t": "2026-11-11 17:16:46 WIB", "mint": "4fv7Mt8DTuuQK2KiJU2sGJLVHiXbFSUrSJs6wRmC6pay", "sym": "PCAT", "reason": "vol1h 874<40k"}
-{"t": "2026-11-11 17:19:03 WIB", "mint": "416sPL5fqhQpAJVboEQC5Yq52kY4VXzVY6y2GdJhcGnz", "sym": "NIHAO", "reason": "vol1h 2<40k"}
-{"t": "2026-11-11 17:19:04 WIB", "mint": "GWxceEVSTHLvhFi9z6pbwgUNYRgXBMrwCXTXcS1Upump", "sym": "Vicemas", "reason": "vol1h 5099<40k"}
-{"t": "2026-11-11 17:19:51 WIB", "mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump", "sym": "AgenC", "reason": "vol1h 1750<40k"}
 {"t": "2026-11-11 17:19:52 WIB", "mint": "4Ye6Y6Vaic8cyPdfW2f9PcLhXkysBtSmV84G8X7spump", "sym": "greg", "reason": "vol1h 2727<40k"}
 {"t": "2026-11-11 17:19:54 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 84<40k"}
 {"t": "2026-11-11 17:20:41 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 57<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-11 17:34:46 WIB", "mint": "5obfMMi4cm9dkt6DQcWTunS5JQNJiBiHKghYb194pump", "sym": "xfill", "reason": "vol1h 4302<40k"}
 {"t": "2026-11-11 17:35:32 WIB", "mint": "4qperWiuSvkn1r3T6ZZkWThzadoxttAeNbPdbDJTpump", "sym": "\u6708\u85aa\u55b5", "reason": "vol1h 13218<40k"}
 {"t": "2026-11-11 17:36:19 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.403<0.6"}
+{"t": "2026-11-11 17:37:38 WIB", "mint": "Amxu3h66ts6ALdrhCzMVgvacPT7h8jSVUPbEcwBmpump", "sym": "Chachamaru", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 17:37:40 WIB", "mint": "5Uj1W1jCJpRhmKqxToSxx9Rd1SYSdsakJczSDKPnpump", "sym": "thesis", "reason": "vol1h 6871<40k"}
+{"t": "2026-11-11 17:38:26 WIB", "mint": "7cin51XTpSkesiZMLJvEGNXqd5DFFqSBixcvn7Ppump", "sym": "TI", "reason": "liq 18724<20k"}
+{"t": "2026-11-11 17:39:13 WIB", "mint": "AtFRJ5kSvtPZ9yT1hGJhJKWmiSr7PPutCwcHt5SSpump", "sym": "FOID", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 17:39:14 WIB", "mint": "5QLHv9382yxtsnxeKPLxjznH5aP78Lcf6XLutwYXB6Vb", "sym": "SKT", "reason": "vol1h 0<40k"}
