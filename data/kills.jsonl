@@ -1,11 +1,3 @@
-{"t": "2026-11-12 04:47:15 WIB", "mint": "4fm9PevKgig5y9oekTABQSMEHPTiT2p8V9UG9PWMpump", "sym": "niggao", "reason": "vol1h 0<40k"}
-{"t": "2026-11-12 04:48:46 WIB", "mint": "octo2TrsXkN6ErP7Gz1T7Vn5fySnPgbUuT6cjovCB55", "sym": "SQUEEZE", "reason": "vol1h 241<40k"}
-{"t": "2026-11-12 04:49:35 WIB", "mint": "HErn19TzuR3HSxozwXkQ2cERdAWX2ke2nxQKairSpump", "sym": "CHAT", "reason": "liq 1592<20k"}
-{"t": "2026-11-12 04:49:36 WIB", "mint": "2fjLAZLkZtWhjLYjqXTtEuANGvpuGmejgdioLmrjpump", "sym": "ok", "reason": "vol1h 21962<40k"}
-{"t": "2026-11-12 04:50:23 WIB", "mint": "8AXcNNGGKWaBJhdf96N1URtGz3jwCZoLhUEYgzEqpump", "sym": "phil", "reason": "liq 0<20k"}
-{"t": "2026-11-12 04:50:24 WIB", "mint": "bn5DhJnkB8EVDoAgV9qCV3Kbv7XmEEp7mxW4npDpump", "sym": "GACHAZ", "reason": "vol1h 35<40k"}
-{"t": "2026-11-12 04:51:11 WIB", "mint": "CgDpxjtoZoM2yWxN2FaRsZtfa9Tksep55AMbx56Apump", "sym": "mibull", "reason": "vol1h 0<40k"}
-{"t": "2026-11-12 04:51:12 WIB", "mint": "CkhroDi5YBXb9a1s2wmQLg4K8qKSLqme5H7DYeE3pump", "sym": "47", "reason": "vol1h 7294<40k"}
 {"t": "2026-11-12 04:52:46 WIB", "mint": "9gwWShujxRbk3qMSWbtwubgi8ZYy9CPYjLtqRKqzpump", "sym": "\u5999\u8106\u89d2\u732b", "reason": "vol1h 7151<40k"}
 {"t": "2026-11-12 04:53:32 WIB", "mint": "5BjfgmtfqvNpAWx1CnZynoWLWNMnrwHLhTFzQ81vkEc8", "sym": "ClapCat", "reason": "vol1h 16667<40k"}
 {"t": "2026-11-12 04:53:36 WIB", "mint": "Hu4eFmzw4jHDYfU9KhjPnJoJFKdT2c3hr8WENudspump", "sym": "SAXON", "reason": "liq 16787<20k"}
@@ -28,3 +20,11 @@
 {"t": "2026-11-12 05:01:06 WIB", "mint": "3Tkm68nyJdiB8SejbhjufSWg1Kry4yG4xhvFD6W8pump", "sym": "GTA6TRUMP", "reason": "vol1h 1200<40k"}
 {"t": "2026-11-12 05:01:08 WIB", "mint": "89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump", "sym": "LuckyCoin", "reason": "LP locked 0%<90"}
 {"t": "2026-11-12 05:01:55 WIB", "mint": "6WrFRgPTkvA1U9vGX9mdbvTsne3AteJ9azvrGweUpump", "sym": "reatherjak", "reason": "vol1h 4860<40k"}
+{"t": "2026-11-12 05:04:11 WIB", "mint": "BK8ZXzXsVLJzsDdy1paM8Dbcd3qAhMQWcSWq3M6Ypump", "sym": "RWA", "reason": "vol1h 717<40k"}
+{"t": "2026-11-12 05:04:13 WIB", "mint": "E2HPtLCsgb5fK3fxWBAJ4djqAejepWK6ZTqFazf5kgR6", "sym": "Looby", "reason": "vol1h 12270<40k"}
+{"t": "2026-11-12 05:04:59 WIB", "mint": "7gKKy2p1SaMkRFPX7caF96YpfuMMpDj82ZpjaffuvaU5", "sym": "PARK", "reason": "vol1h 970<40k"}
+{"t": "2026-11-12 05:05:46 WIB", "mint": "D3dztueGGYwCwghS4WriSwQN6TAov4cEnYYUVRUDpump", "sym": "SUDO", "reason": "vol1h 23131<40k"}
+{"t": "2026-11-12 05:05:48 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 320<40k"}
+{"t": "2026-11-12 05:06:34 WIB", "mint": "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1", "sym": "BTC", "reason": "vol1h 1853<40k"}
+{"t": "2026-11-12 05:06:36 WIB", "mint": "8bTJDVTG1xPuP4GsaXVKCRrbG4mRehhn5AyFy9yapump", "sym": "BERNIE", "reason": "score 0.308<0.6"}
+{"t": "2026-11-12 05:06:38 WIB", "mint": "FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump", "sym": "HAMSTER", "reason": "risk:Creator history of rugged tokens"}
