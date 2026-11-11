@@ -1,8 +1,3 @@
-{"t": "2026-11-11 14:06:37 WIB", "mint": "G49HhGLuaEU3knmv1ftiJ9mnB9jXhDgzgZST2kDipump", "sym": "HODL", "reason": "liq 0<20k"}
-{"t": "2026-11-11 14:07:24 WIB", "mint": "9TGTr7TnVVMbyhbLquBRRnpPZXYuKSH9WvpeHG49pump", "sym": " CIRVEX", "reason": "vol1h 96<40k"}
-{"t": "2026-11-11 14:07:26 WIB", "mint": "GdiMHnL4FcE8GHz8B2TYqfQTfXpG34ntGt3eawtXpump", "sym": "T2", "reason": "vol1h 0<40k"}
-{"t": "2026-11-11 14:07:27 WIB", "mint": "B2gycr4fwzzfBAyLd6ZC983Gk5gnJCWDmja6cpbFpump", "sym": "btc", "reason": "vol1h 0<40k"}
-{"t": "2026-11-11 14:08:14 WIB", "mint": "6mwuYnY3fHdxed9GnrdY5BkXhJwMi1uz39MPsYUcpump", "sym": "BULLHARIS", "reason": "vol1h 2096<40k"}
 {"t": "2026-11-11 14:08:15 WIB", "mint": "8ryRQD6jWfxnSdvvVbQ8Tzwo1NgGP7w1X1nQPpb4pump", "sym": "meowl", "reason": "vol1h 2956<40k"}
 {"t": "2026-11-11 14:09:47 WIB", "mint": "D5R84PDCH3nv2WfeFDyck7gXNFD5bZQEtnd9ToN3pump", "sym": "neinhao", "reason": "vol1h 0<40k"}
 {"t": "2026-11-11 14:10:34 WIB", "mint": "BXwgus8w5NPgxxWxTUUHiKUz3Jezn8RB6uqowcJxpump", "sym": "TRENCHER", "reason": "liq 6967<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-11 14:18:36 WIB", "mint": "7QpfCAVxAxvPStGwmYvzJ6eh9GTvPK2LjVEDYaFTpump", "sym": "GRAPES", "reason": "vol1h 4722<40k"}
 {"t": "2026-11-11 14:18:37 WIB", "mint": "8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump", "sym": "NIHAO", "reason": "score 0.486<0.6"}
 {"t": "2026-11-11 14:18:39 WIB", "mint": "GAV37UD3cvysYvvPSeKboFKwarG387RvznM3BBhBpump", "sym": "mihao", "reason": "score 0.415<0.6"}
+{"t": "2026-11-11 14:19:26 WIB", "mint": "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump", "sym": "Noiz ", "reason": "vol1h 1197<40k"}
+{"t": "2026-11-11 14:20:12 WIB", "mint": "DLjVQ4naEGR5ykUvfWNVggQMcyyuwQqX7ZYHGoaDpump", "sym": "Anu", "reason": "vol1h 28<40k"}
+{"t": "2026-11-11 14:21:44 WIB", "mint": "8Gat43toRunwqF398NK8s6MVA2CJzEzALGwj5or7pump", "sym": "FynShyt", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 14:21:46 WIB", "mint": "2tGBFNK5eo2Cfs1yKv41e81H42G9M8DdQpGCVSCkpump", "sym": "remus", "reason": "vol1h 7<40k"}
+{"t": "2026-11-11 14:21:47 WIB", "mint": "J9fM573qFyJJSJDbgnrPgQEry2ThPiLjTuBU5BUSpump", "sym": "hINU", "reason": "vol1h 0<40k"}
