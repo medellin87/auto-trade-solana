@@ -18252,3 +18252,9 @@
 {"t": "2026-11-12 02:16:44 WIB", "mint": "64J1MA6FoLWa6HWMpu4tbjjfDJuskZ5wFB4umRshxLsg", "sym": "CallCat", "reason": "liq 0<20k"}
 {"t": "2026-11-12 02:16:45 WIB", "mint": "5pFhx8LZsnoh17xoJibGtUPi5Cg4Ag1bUPqWqr8gpump", "sym": "RDM", "reason": "vol1h 875<40k"}
 {"t": "2026-11-12 02:16:47 WIB", "mint": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t", "sym": "texcat", "reason": "vol1h 3637<40k"}
+{"t": "2026-11-12 02:17:33 WIB", "mint": "octo2TrsXkN6ErP7Gz1T7Vn5fySnPgbUuT6cjovCB55", "sym": "SQUEEZE", "reason": "vol1h 1896<40k"}
+{"t": "2026-11-12 02:17:35 WIB", "mint": "8LmwjJs8kUe1K4xiBxYqR8mR2KNsKWnBwbRaoFBopump", "sym": "47", "reason": "vol1h 9864<40k"}
+{"t": "2026-11-12 02:18:22 WIB", "mint": "GnQqJffn6mg5qSkdf6rHTmjxfaMhYcqxgMDYTCVfpump", "sym": "BERNIE", "reason": "top10 47.2%>25"}
+{"t": "2026-11-12 02:18:23 WIB", "mint": "BDrvvYzzmJfDB3mFsFAzaGUp6SDBfdeKYSvBs3Gx348o", "sym": "Qi", "reason": "vol1h 122<40k"}
+{"t": "2026-11-12 02:19:55 WIB", "mint": "DpByrfTANBAyV3eiBoBwX17G5wSJiD4fxMNUy6C7pump", "sym": "MihaoWif", "reason": "liq 1605<20k"}
+{"t": "2026-11-12 02:19:57 WIB", "mint": "bn5DhJnkB8EVDoAgV9qCV3Kbv7XmEEp7mxW4npDpump", "sym": "GACHAZ", "reason": "risk:Low Liquidity"}
