@@ -18674,3 +18674,7 @@
 {"t": "2026-11-12 06:03:19 WIB", "mint": "E6WcQ88tfLY6xnJH9A9cAHoRTcKNDtwjsdYDCzbqpump", "sym": "sackson", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 06:04:50 WIB", "mint": "BK8ZXzXsVLJzsDdy1paM8Dbcd3qAhMQWcSWq3M6Ypump", "sym": "RWA", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 06:05:37 WIB", "mint": "7gKKy2p1SaMkRFPX7caF96YpfuMMpDj82ZpjaffuvaU5", "sym": "PARK", "reason": "vol1h 2578<40k"}
+{"t": "2026-11-12 06:06:23 WIB", "mint": "D3dztueGGYwCwghS4WriSwQN6TAov4cEnYYUVRUDpump", "sym": "SUDO", "reason": "vol1h 16<40k"}
+{"t": "2026-11-12 06:06:25 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 449<40k"}
+{"t": "2026-11-12 06:07:12 WIB", "mint": "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1", "sym": "BTC", "reason": "vol1h 5609<40k"}
+{"t": "2026-11-12 06:07:13 WIB", "mint": "FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump", "sym": "HAMSTER", "reason": "top10 27.4%>25"}
