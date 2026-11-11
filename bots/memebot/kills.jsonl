@@ -18200,3 +18200,10 @@
 {"t": "2026-11-12 01:46:00 WIB", "mint": "64J1MA6FoLWa6HWMpu4tbjjfDJuskZ5wFB4umRshxLsg", "sym": "CallCat", "reason": "liq 0<20k"}
 {"t": "2026-11-12 01:46:02 WIB", "mint": "5pFhx8LZsnoh17xoJibGtUPi5Cg4Ag1bUPqWqr8gpump", "sym": "RDM", "reason": "vol1h 2627<40k"}
 {"t": "2026-11-12 01:46:03 WIB", "mint": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t", "sym": "texcat", "reason": "vol1h 1108<40k"}
+{"t": "2026-11-12 01:46:50 WIB", "mint": "octo2TrsXkN6ErP7Gz1T7Vn5fySnPgbUuT6cjovCB55", "sym": "SQUEEZE", "reason": "vol1h 10719<40k"}
+{"t": "2026-11-12 01:46:51 WIB", "mint": "8LmwjJs8kUe1K4xiBxYqR8mR2KNsKWnBwbRaoFBopump", "sym": "47", "reason": "vol1h 27061<40k"}
+{"t": "2026-11-12 01:47:38 WIB", "mint": "BDrvvYzzmJfDB3mFsFAzaGUp6SDBfdeKYSvBs3Gx348o", "sym": "Qi", "reason": "vol1h 36336<40k"}
+{"t": "2026-11-12 01:47:39 WIB", "mint": "GYiLFfHeTgXiK5BKpHN6fvv68R6DKwK5rh3SGPvapump", "sym": "CHICAT", "reason": "liq 1654<20k"}
+{"t": "2026-11-12 01:47:41 WIB", "mint": "ExUXTUcpH4iMV2u3YdPPhUk5sgRJQ6iEva4Ki5Ndpump", "sym": "Squirrel", "reason": "vol1h 7890<40k"}
+{"t": "2026-11-12 01:49:13 WIB", "mint": "DpByrfTANBAyV3eiBoBwX17G5wSJiD4fxMNUy6C7pump", "sym": "MihaoWif", "reason": "top10 28.2%>25"}
+{"t": "2026-11-12 01:49:14 WIB", "mint": "bn5DhJnkB8EVDoAgV9qCV3Kbv7XmEEp7mxW4npDpump", "sym": "GACHAZ", "reason": "liq 3360<20k"}
