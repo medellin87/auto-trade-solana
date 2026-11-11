@@ -1,7 +1,3 @@
-{"t": "2026-11-11 21:24:21 WIB", "mint": "9VZerdNL1x6EjetDqRnh5bYcdmk1y8sLAGs1ybzGpump", "sym": "X", "reason": "vol1h 22309<40k"}
-{"t": "2026-11-11 21:24:23 WIB", "mint": "FP7NvFXQXoZL1nQC5QZtE1bzwgALdxj1TeA9J25epump", "sym": "CatFu", "reason": "vol1h 4818<40k"}
-{"t": "2026-11-11 21:25:09 WIB", "mint": "64tbhe6oprWwoaSMzNAHtZanzWGyaZhV8JLvuVQ6pump", "sym": "PACS", "reason": "vol1h 240<40k"}
-{"t": "2026-11-11 21:25:11 WIB", "mint": "HgvjNLpb2TVASAM2wgiAsnH5x9R9fYhDvw86P7oppump", "sym": "NiZhe", "reason": "liq 5412<20k"}
 {"t": "2026-11-11 21:25:12 WIB", "mint": "BfLXHZqJ97kNWeK54RpdCuhC8z4S3tXGUaB2qUWjpump", "sym": "happy", "reason": "vol1h 6438<40k"}
 {"t": "2026-11-11 21:25:14 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 34672<40k"}
 {"t": "2026-11-11 21:25:16 WIB", "mint": "HYXMzaNeuoBRFb9rcUcopKf4L3nSJDffMNmXKtovpump", "sym": "COMMUNITY", "reason": "vol1h 23128<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-11 21:37:52 WIB", "mint": "7tfmDHe21G7ebrEP1j52qNDNTuFWXiXsgCE4Epn1vzFE", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-11 21:38:38 WIB", "mint": "6iD8pzGWP3Hm8qWp5EbrSi8VtwYZ6pc1BeyK3jMrpump", "sym": "CHECK", "reason": "liq 0<20k"}
 {"t": "2026-11-11 21:39:25 WIB", "mint": "4qperWiuSvkn1r3T6ZZkWThzadoxttAeNbPdbDJTpump", "sym": "\u6708\u85aa\u55b5", "reason": "vol1h 5021<40k"}
+{"t": "2026-11-11 21:40:11 WIB", "mint": "HSpHbD2gGJ4DWpVndPnJdMacr1xpNUZuuzYpTmyZpump", "sym": "LCOUSINS", "reason": "liq 0<20k"}
+{"t": "2026-11-11 21:40:13 WIB", "mint": "2g23GpSneyx7Uqb25YKA6i66m8f1VDYwpGCVGXhdwK8h", "sym": "BINKY", "reason": "vol1h 35606<40k"}
+{"t": "2026-11-11 21:40:15 WIB", "mint": "BJ5UtMWWVsfJhAq2V7kZcb2t3Vx5CYUvVgzTokrBSPY", "sym": "NOT", "reason": "vol1h 23656<40k"}
+{"t": "2026-11-11 21:41:46 WIB", "mint": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t", "sym": "texcat", "reason": "vol1h 11101<40k"}
