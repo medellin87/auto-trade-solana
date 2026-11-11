@@ -17098,3 +17098,8 @@
 {"t": "2026-11-11 14:00:25 WIB", "mint": "DjpbrxEmGngpyMakynQorKW68XyAE1baw3s5MLGGpump", "sym": "ONODA", "reason": "liq 2948<20k"}
 {"t": "2026-11-11 14:01:57 WIB", "mint": "DTsqSzDbsKKFoEpMiGAdBwYSDm3QrDxhCN2JFpnoUpay", "sym": "PayLoan", "reason": "liq 0<20k"}
 {"t": "2026-11-11 14:01:59 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.573<0.6"}
+{"t": "2026-11-11 14:04:16 WIB", "mint": "5dReBkDjES5SyRuasNHytYDmCqdupyoWTRUSTRgtpump", "sym": "PayCat", "reason": "top10 37.4%>25"}
+{"t": "2026-11-11 14:05:03 WIB", "mint": "5QLHv9382yxtsnxeKPLxjznH5aP78Lcf6XLutwYXB6Vb", "sym": "SKT", "reason": "vol1h 8<40k"}
+{"t": "2026-11-11 14:05:49 WIB", "mint": "3FFhaqDgcGCP84tinaZMpQx18gndeEwAiQ7sxSydpump", "sym": "FOMO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 14:05:51 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 28122<40k"}
+{"t": "2026-11-11 14:06:37 WIB", "mint": "G49HhGLuaEU3knmv1ftiJ9mnB9jXhDgzgZST2kDipump", "sym": "HODL", "reason": "liq 0<20k"}
