@@ -18100,3 +18100,10 @@
 {"t": "2026-11-12 00:49:17 WIB", "mint": "zC2J3QDj7KwLrmgTBd1WY1Lxx3A4SUsV39wGonypump", "sym": "PAYOUT", "reason": "vol1h 35213<40k"}
 {"t": "2026-11-12 00:50:03 WIB", "mint": "9yAraWtFreAKKATh55SQLr98jNDRwAtDDNKDFnxPpump", "sym": "bagwork", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 00:50:50 WIB", "mint": "4AJrKrGwi38FFun3W8jkGTyttRvpTicB6B4zCXg5pump", "sym": "BAGWORK", "reason": "liq 2243<20k"}
+{"t": "2026-11-12 00:51:37 WIB", "mint": "CnS4PyuViH6vd2UcsYKqrF4T72nQHKL7WX4xQtvPpump", "sym": "Aircoin", "reason": "liq 2587<20k"}
+{"t": "2026-11-12 00:51:38 WIB", "mint": "Z5ijNneoDubKBEhzTumUgfm18m6PjUDred4gp7Xpump", "sym": "mihao", "reason": "score 0.526<0.6"}
+{"t": "2026-11-12 00:51:40 WIB", "mint": "DMhc8dWqN7knqbwvSnXYMworuGjc1YpKDVDy3bCHpump", "sym": "Percolator", "reason": "vol1h 9217<40k"}
+{"t": "2026-11-12 00:51:42 WIB", "mint": "82dtJko6zzyFvDBCUxQ13tCZejSFqkfdPbhTv2Rtpump", "sym": "woofu", "reason": "liq 0<20k"}
+{"t": "2026-11-12 00:52:28 WIB", "mint": "GLQdavjK9HvcuXYHriH1KcqQogGpjubQH8nzVzMPpump", "sym": "WONDER", "reason": "risk:Low Liquidity"}
+{"t": "2026-11-12 00:53:15 WIB", "mint": "74xFKmxYk33yFdnWHh6VbKECnBw2cEhEa1dBqnmDHPNX", "sym": "GTA$", "reason": "vol1h 7681<40k"}
+{"t": "2026-11-12 00:54:02 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 9072<40k"}
