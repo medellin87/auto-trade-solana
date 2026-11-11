@@ -17746,3 +17746,5 @@
 {"t": "2026-11-11 21:08:00 WIB", "mint": "6iD8pzGWP3Hm8qWp5EbrSi8VtwYZ6pc1BeyK3jMrpump", "sym": "CHECK", "reason": "vol1h 15526<40k"}
 {"t": "2026-11-11 21:08:46 WIB", "mint": "4qperWiuSvkn1r3T6ZZkWThzadoxttAeNbPdbDJTpump", "sym": "\u6708\u85aa\u55b5", "reason": "vol1h 8900<40k"}
 {"t": "2026-11-11 21:08:48 WIB", "mint": "4cmLTedcKhLgxXPPkg7H6HHiZHcRsHA8pC3gcgPGpump", "sym": "BOL", "reason": "vol1h 5<40k"}
+{"t": "2026-11-11 21:09:34 WIB", "mint": "BJ5UtMWWVsfJhAq2V7kZcb2t3Vx5CYUvVgzTokrBSPY", "sym": "NOT", "reason": "liq 3182<20k"}
+{"t": "2026-11-11 21:11:06 WIB", "mint": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t", "sym": "texcat", "reason": "vol1h 12004<40k"}
