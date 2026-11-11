@@ -1,7 +1,3 @@
-{"t": "2026-11-11 20:53:47 WIB", "mint": "9VZerdNL1x6EjetDqRnh5bYcdmk1y8sLAGs1ybzGpump", "sym": "X", "reason": "vol1h 16491<40k"}
-{"t": "2026-11-11 20:53:49 WIB", "mint": "FP7NvFXQXoZL1nQC5QZtE1bzwgALdxj1TeA9J25epump", "sym": "CatFu", "reason": "vol1h 3178<40k"}
-{"t": "2026-11-11 20:54:36 WIB", "mint": "HgvjNLpb2TVASAM2wgiAsnH5x9R9fYhDvw86P7oppump", "sym": "NiZhe", "reason": "liq 13652<20k"}
-{"t": "2026-11-11 20:54:37 WIB", "mint": "BfLXHZqJ97kNWeK54RpdCuhC8z4S3tXGUaB2qUWjpump", "sym": "happy", "reason": "vol1h 18381<40k"}
 {"t": "2026-11-11 20:54:39 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 33535<40k"}
 {"t": "2026-11-11 20:55:25 WIB", "mint": "BXQshCokDSmrsAdM1fj3da2z9XCqDjE9jvakjHjZ47U6", "sym": "Yuna", "reason": "liq 0<20k"}
 {"t": "2026-11-11 20:57:42 WIB", "mint": "2ExUXedCdWQJNZmkuEuEBUcUggyaMJjxFPJM4a4dpump", "sym": "Lazarus", "reason": "liq 2502<20k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-11 21:08:48 WIB", "mint": "4cmLTedcKhLgxXPPkg7H6HHiZHcRsHA8pC3gcgPGpump", "sym": "BOL", "reason": "vol1h 5<40k"}
 {"t": "2026-11-11 21:09:34 WIB", "mint": "BJ5UtMWWVsfJhAq2V7kZcb2t3Vx5CYUvVgzTokrBSPY", "sym": "NOT", "reason": "liq 3182<20k"}
 {"t": "2026-11-11 21:11:06 WIB", "mint": "BdXfLfcbDE8YvpbvvmmGTduqcDesaQVUm5xLxgUc2S5t", "sym": "texcat", "reason": "vol1h 12004<40k"}
+{"t": "2026-11-11 21:13:23 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 22331<40k"}
+{"t": "2026-11-11 21:13:24 WIB", "mint": "3FFhaqDgcGCP84tinaZMpQx18gndeEwAiQ7sxSydpump", "sym": "FOMO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-11 21:14:56 WIB", "mint": "BLVpn8ofkjnAzpWGaVpspZ5bHTeXDbXFgX4vn3fkpump", "sym": "woohao", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-11 21:14:58 WIB", "mint": "5jLj1jr2BtTBL8czd6xdpYoFkEqyG89W3bz5Jq6Mpump", "sym": "FLIPIF", "reason": "vol1h 4899<40k"}
