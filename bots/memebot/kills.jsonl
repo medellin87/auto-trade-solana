@@ -17820,3 +17820,7 @@
 {"t": "2026-11-11 21:55:48 WIB", "mint": "HYXMzaNeuoBRFb9rcUcopKf4L3nSJDffMNmXKtovpump", "sym": "COMMUNITY", "reason": "vol1h 0<40k"}
 {"t": "2026-11-11 21:57:20 WIB", "mint": "6hKXaedCmWeigKBkYxXdG8UPDo5atFR9Scb7DjFipump", "sym": "KLAUDIA", "reason": "vol1h 3617<40k"}
 {"t": "2026-11-11 21:57:21 WIB", "mint": "G9463SdTgSdKFpxq2pmtAEXdj2yJf64wGxQUYFefbonk", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-11 21:58:53 WIB", "mint": "HwZSULZAMKyFyLaSLVVAAKGvgbau2ScnWEX7ozF7pump", "sym": "pandacat", "reason": "liq 0<20k"}
+{"t": "2026-11-11 22:01:10 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 1902<40k"}
+{"t": "2026-11-11 22:01:11 WIB", "mint": "C493YhUFRt9zFgzLRm3SckCEXeouGse8iUoW3EeFpump", "sym": "Allin", "reason": "vol1h 7565<40k"}
+{"t": "2026-11-11 22:01:13 WIB", "mint": "Ffy3EDzKqP9vrgvL2WGygM1DvvFnkMR8YzxLPPyRpump", "sym": "SHEEN", "reason": "vol1h 10<40k"}
