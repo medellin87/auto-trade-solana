@@ -19089,3 +19089,8 @@
 {"t": "2026-11-12 10:10:29 WIB", "mint": "BkkYbdQC4iobBQs38ShdvqtAzhHcAhPHjQewZBj6BUhM", "sym": "Scamson", "reason": "liq 3757<20k"}
 {"t": "2026-11-12 10:10:30 WIB", "mint": "3meC8jieZdSsB9nrmPdmoFZDXf1822aKaohMqARmpump", "sym": "XomoPay", "reason": "liq 9156<20k"}
 {"t": "2026-11-12 10:10:32 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 164<40k"}
+{"t": "2026-11-12 10:12:04 WIB", "mint": "6mb1WzFveWXa9AeBwQ2mbyoxJhw8KCgmyQaDZziZBAGS", "sym": "X", "reason": "score 0.576<0.6"}
+{"t": "2026-11-12 10:13:36 WIB", "mint": "8DwAf1oQ11Ch86SNGcbBppFqf1RZJ74T7mdNuNBtpump", "sym": "VI", "reason": "vol1h 521<40k"}
+{"t": "2026-11-12 10:14:22 WIB", "mint": "22rWiyDiY9GgxSrFiWC2vX1GxNxjkvrRPmZJDzv9pq6X", "sym": "PARANOID", "reason": "vol1h 677<40k"}
+{"t": "2026-11-12 10:14:24 WIB", "mint": "GrVhtVS6jBY2pAUd6UWS6mrNF1XrP52Ad9E8bRXJpump", "sym": "MIMI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 10:14:26 WIB", "mint": "9Sunhg3DWCxnjcN1UzBY3X8W46v9DXhesBhuJLDtgrok", "sym": "GROKIE", "reason": "score 0.292<0.6"}
