@@ -15111,3 +15111,7 @@
 {"t": "2026-11-12 20:54:25 WIB", "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump", "sym": "AIB", "reason": "score 0.42<0.6"}
 {"t": "2026-11-12 20:54:26 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 796<40k"}
 {"t": "2026-11-12 20:55:13 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 1450<40k"}
+{"t": "2026-11-12 20:56:45 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 5<40k"}
+{"t": "2026-11-12 20:56:46 WIB", "mint": "642k1Nzoat9azqL87tmmRRuRbNjWX1jgNp2GzRQ1eUKf", "sym": "GONE", "reason": "liq 0<20k"}
+{"t": "2026-11-12 20:58:18 WIB", "mint": "45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump", "sym": "Tech", "reason": "liq 8894<20k"}
+{"t": "2026-11-12 20:59:05 WIB", "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump", "sym": "PAUL", "reason": "vol1h 22114<40k"}
