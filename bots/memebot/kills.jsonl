@@ -19043,3 +19043,8 @@
 {"t": "2026-11-12 09:39:50 WIB", "mint": "4XimtTw7ZEMDo6pRRL1FtV9SZTTAr5RgVQ63KeB1pump", "sym": "ChainChomp", "reason": "vol1h 76<40k"}
 {"t": "2026-11-12 09:39:51 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 104<40k"}
 {"t": "2026-11-12 09:40:38 WIB", "mint": "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1", "sym": "BTC", "reason": "vol1h 117<40k"}
+{"t": "2026-11-12 09:41:24 WIB", "mint": "6mb1WzFveWXa9AeBwQ2mbyoxJhw8KCgmyQaDZziZBAGS", "sym": "X", "reason": "liq 16320<20k"}
+{"t": "2026-11-12 09:42:56 WIB", "mint": "8DwAf1oQ11Ch86SNGcbBppFqf1RZJ74T7mdNuNBtpump", "sym": "VI", "reason": "vol1h 1011<40k"}
+{"t": "2026-11-12 09:43:43 WIB", "mint": "22rWiyDiY9GgxSrFiWC2vX1GxNxjkvrRPmZJDzv9pq6X", "sym": "PARANOID", "reason": "vol1h 542<40k"}
+{"t": "2026-11-12 09:43:44 WIB", "mint": "GrVhtVS6jBY2pAUd6UWS6mrNF1XrP52Ad9E8bRXJpump", "sym": "MIMI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 09:43:46 WIB", "mint": "9Sunhg3DWCxnjcN1UzBY3X8W46v9DXhesBhuJLDtgrok", "sym": "GROKIE", "reason": "score 0.353<0.6"}
