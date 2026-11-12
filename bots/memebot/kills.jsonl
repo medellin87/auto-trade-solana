@@ -15071,3 +15071,7 @@
 {"t": "2026-11-12 20:24:48 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 1824<40k"}
 {"t": "2026-11-12 20:26:19 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 3<40k"}
 {"t": "2026-11-12 20:27:51 WIB", "mint": "45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump", "sym": "Tech", "reason": "liq 0<20k"}
+{"t": "2026-11-12 20:28:38 WIB", "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump", "sym": "PAUL", "reason": "vol1h 12546<40k"}
+{"t": "2026-11-12 20:28:39 WIB", "mint": "61LEYPV3Rwhr15Ypw9CxZKfQzsNfT54voU8p2KVTsga1", "sym": "4chan", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 20:29:26 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.569<0.6"}
+{"t": "2026-11-12 20:30:13 WIB", "mint": "C5FZzEgtkydKztCMwD5FzfmDVhb7V6VjTzGjurLjpump", "sym": "GIGAPIG", "reason": "liq 1696<20k"}
