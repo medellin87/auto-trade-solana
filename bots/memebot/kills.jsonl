@@ -19191,3 +19191,8 @@
 {"t": "2026-11-12 11:11:47 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 45<40k"}
 {"t": "2026-11-12 11:11:49 WIB", "mint": "8XWd1xEKcQXTzvYJbCyvuStDfZzKv3j5FWvEoandpump", "sym": "AI", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 11:12:36 WIB", "mint": "DZYyPXuMdL74d7opqqLgFh2JYFGFz3LkeFZFAMjwUjUf", "sym": "DacityCoin", "reason": "vol1h 2062<40k"}
+{"t": "2026-11-12 11:14:07 WIB", "mint": "8DwAf1oQ11Ch86SNGcbBppFqf1RZJ74T7mdNuNBtpump", "sym": "VI", "reason": "vol1h 4682<40k"}
+{"t": "2026-11-12 11:14:54 WIB", "mint": "22rWiyDiY9GgxSrFiWC2vX1GxNxjkvrRPmZJDzv9pq6X", "sym": "PARANOID", "reason": "vol1h 279<40k"}
+{"t": "2026-11-12 11:14:56 WIB", "mint": "GrVhtVS6jBY2pAUd6UWS6mrNF1XrP52Ad9E8bRXJpump", "sym": "MIMI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 11:15:44 WIB", "mint": "7TmeeJxBF3PFsbgzuy23XpWJzQsqVXjvgLTb8S2zpump", "sym": "POPVAX", "reason": "liq 11616<20k"}
+{"t": "2026-11-12 11:15:46 WIB", "mint": "5EzA4hqXz6Dm5hfztwyhdoJuJCXgRZ2an5812kvdtora", "sym": "TORA", "reason": "vol1h 5350<40k"}
