@@ -19139,3 +19139,7 @@
 {"t": "2026-11-12 10:41:11 WIB", "mint": "3meC8jieZdSsB9nrmPdmoFZDXf1822aKaohMqARmpump", "sym": "XomoPay", "reason": "liq 8816<20k"}
 {"t": "2026-11-12 10:41:13 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 112<40k"}
 {"t": "2026-11-12 10:42:00 WIB", "mint": "DZYyPXuMdL74d7opqqLgFh2JYFGFz3LkeFZFAMjwUjUf", "sym": "DacityCoin", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 10:42:34 WIB", "mint": "6mb1WzFveWXa9AeBwQ2mbyoxJhw8KCgmyQaDZziZBAGS", "sym": "X", "reason": "liq 19108<20k"}
+{"t": "2026-11-12 10:44:06 WIB", "mint": "8DwAf1oQ11Ch86SNGcbBppFqf1RZJ74T7mdNuNBtpump", "sym": "VI", "reason": "vol1h 1436<40k"}
+{"t": "2026-11-12 10:44:53 WIB", "mint": "22rWiyDiY9GgxSrFiWC2vX1GxNxjkvrRPmZJDzv9pq6X", "sym": "PARANOID", "reason": "vol1h 308<40k"}
+{"t": "2026-11-12 10:44:54 WIB", "mint": "GrVhtVS6jBY2pAUd6UWS6mrNF1XrP52Ad9E8bRXJpump", "sym": "MIMI", "reason": "vol1h 0<40k"}
