@@ -15195,3 +15195,8 @@
 {"t": "2026-11-12 21:55:18 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 1346<40k"}
 {"t": "2026-11-12 21:56:05 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 976<40k"}
 {"t": "2026-11-12 21:57:37 WIB", "mint": "642k1Nzoat9azqL87tmmRRuRbNjWX1jgNp2GzRQ1eUKf", "sym": "GONE", "reason": "liq 4137<20k"}
+{"t": "2026-11-12 21:59:08 WIB", "mint": "ECsmzLHXriFZxsjB47UWZQuMxMWXfWiwchsx879vpump", "sym": "COCO", "reason": "liq 0<20k"}
+{"t": "2026-11-12 21:59:10 WIB", "mint": "13Cb7SGfxqrtMDU1JNANyTnTmQtbmH55QWXXzdwBmoon", "sym": "ZAGL", "reason": "vol1h 5018<40k"}
+{"t": "2026-11-12 21:59:11 WIB", "mint": "45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump", "sym": "Tech", "reason": "vol1h 13781<40k"}
+{"t": "2026-11-12 22:00:00 WIB", "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump", "sym": "PAUL", "reason": "vol1h 1364<40k"}
+{"t": "2026-11-12 22:00:48 WIB", "mint": "Bbh2kpPTxuf3DxcutYq3DofKmeJm5ptCZUUMAF6kpump", "sym": "blackswan", "reason": "liq 1933<20k"}
