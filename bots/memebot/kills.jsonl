@@ -19005,3 +19005,6 @@
 {"t": "2026-11-12 09:13:10 WIB", "mint": "GrVhtVS6jBY2pAUd6UWS6mrNF1XrP52Ad9E8bRXJpump", "sym": "MIMI", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 09:13:11 WIB", "mint": "9Sunhg3DWCxnjcN1UzBY3X8W46v9DXhesBhuJLDtgrok", "sym": "GROKIE", "reason": "liq 18538<20k"}
 {"t": "2026-11-12 09:14:45 WIB", "mint": "74dTmNukXtgSzbesgJNpTJoTt6cygyt8XgJVQRb8pump", "sym": "LOCK", "reason": "vol1h 56<40k"}
+{"t": "2026-11-12 09:16:18 WIB", "mint": "E95hPeJxo5ijMc9Dirhe6QdqaX7ogXtpjMDPKD8Dpump", "sym": "chuck", "reason": "vol1h 5162<40k"}
+{"t": "2026-11-12 09:17:05 WIB", "mint": "6Q4nkGYfowH4qThQ2dZuwaERNfjbf1dao6NNqaodpump", "sym": "PoS", "reason": "vol1h 25890<40k"}
+{"t": "2026-11-12 09:17:06 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 300<40k"}
