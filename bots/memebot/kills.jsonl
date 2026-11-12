@@ -18998,3 +18998,8 @@
 {"t": "2026-11-12 09:09:14 WIB", "mint": "4XimtTw7ZEMDo6pRRL1FtV9SZTTAr5RgVQ63KeB1pump", "sym": "ChainChomp", "reason": "vol1h 1764<40k"}
 {"t": "2026-11-12 09:09:15 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 121<40k"}
 {"t": "2026-11-12 09:10:02 WIB", "mint": "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1", "sym": "BTC", "reason": "vol1h 390<40k"}
+{"t": "2026-11-12 09:10:49 WIB", "mint": "6mb1WzFveWXa9AeBwQ2mbyoxJhw8KCgmyQaDZziZBAGS", "sym": "X", "reason": "liq 17438<20k"}
+{"t": "2026-11-12 09:12:20 WIB", "mint": "8DwAf1oQ11Ch86SNGcbBppFqf1RZJ74T7mdNuNBtpump", "sym": "VI", "reason": "vol1h 3153<40k"}
+{"t": "2026-11-12 09:13:07 WIB", "mint": "22rWiyDiY9GgxSrFiWC2vX1GxNxjkvrRPmZJDzv9pq6X", "sym": "PARANOID", "reason": "vol1h 391<40k"}
+{"t": "2026-11-12 09:13:08 WIB", "mint": "BQo18x16LuYdFwZHyq578qc5enqQW57LTE9Cgwzqpump", "sym": "CALLSCOUT", "reason": "vol1h 3100<40k"}
+{"t": "2026-11-12 09:13:10 WIB", "mint": "GrVhtVS6jBY2pAUd6UWS6mrNF1XrP52Ad9E8bRXJpump", "sym": "MIMI", "reason": "vol1h 0<40k"}
