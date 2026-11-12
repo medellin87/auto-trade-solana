@@ -1,9 +1,3 @@
-{"t": "2026-11-12 20:51:22 WIB", "mint": "A7MsvrYStawWBp9Ae2KFqAdMyka3B81Mtbi28vc4pump", "sym": "ARTIC", "reason": "vol1h 0<40k"}
-{"t": "2026-11-12 20:54:25 WIB", "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump", "sym": "AIB", "reason": "score 0.42<0.6"}
-{"t": "2026-11-12 20:54:26 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 796<40k"}
-{"t": "2026-11-12 20:55:13 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 1450<40k"}
-{"t": "2026-11-12 20:56:45 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 5<40k"}
-{"t": "2026-11-12 20:56:46 WIB", "mint": "642k1Nzoat9azqL87tmmRRuRbNjWX1jgNp2GzRQ1eUKf", "sym": "GONE", "reason": "liq 0<20k"}
 {"t": "2026-11-12 20:58:18 WIB", "mint": "45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump", "sym": "Tech", "reason": "liq 8894<20k"}
 {"t": "2026-11-12 20:59:05 WIB", "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump", "sym": "PAUL", "reason": "vol1h 22114<40k"}
 {"t": "2026-11-12 20:59:52 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.566<0.6"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-12 21:13:09 WIB", "mint": "8ZjzLerazSW2FBqaMZr4bSbB48wCfRLFcqy8TT2opump", "sym": "Saba", "reason": "vol1h 39114<40k"}
 {"t": "2026-11-12 21:13:10 WIB", "mint": "53ta1BvDf63JjXA5nW6EAhXDcMwngEE5AN5GPNbFPMRc", "sym": "SHIHAO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 21:13:57 WIB", "mint": "G3QRYBCRmsSjWdX16DTXme4siAfc6nDpyXCH8NNzpump", "sym": "CLAUDE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 21:14:44 WIB", "mint": "72a5r6XXpuWwHD7WxivCbHP1RGs1tYYUYkvDJoFZnL1R", "sym": "4pleb", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 21:15:30 WIB", "mint": "BmAt6895v6PczX3g8jguJheWCj4hYQK5MmnBYr8Yc948", "sym": "JAMAL", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 21:17:02 WIB", "mint": "53rP8UHBJTLNBqQ8W6peV5HNFHdwgkenQCYJH1Vwpump", "sym": "ACT: S", "reason": "vol1h 134<40k"}
+{"t": "2026-11-12 21:17:03 WIB", "mint": "9pvQmvGMXpZYxWgwLVKoQrA3yy22gbDLEmQDZgh9pump", "sym": "CAMERON", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 21:17:05 WIB", "mint": "89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump", "sym": "LuckyCoin", "reason": "vol1h 28233<40k"}
+{"t": "2026-11-12 21:17:06 WIB", "mint": "6BucbgqbTDpUfWiN8Zrc5Lsf7ru6uUEzEPLPhb5ppump", "sym": "nihaomax", "reason": "vol1h 30391<40k"}
