@@ -15332,3 +15332,7 @@
 {"t": "2026-11-12 23:28:32 WIB", "mint": "8pMUc522qUPHeSyCFw4MHR8mk2xhX7YMjcG7KbS7BAGS", "sym": "HUANG", "reason": "liq 10624<20k"}
 {"t": "2026-11-12 23:28:34 WIB", "mint": "6ujJowmQSnhmCip48b3syFD9e5JurLyY6AMaBEGSpump", "sym": "HEPE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 23:30:51 WIB", "mint": "13Cb7SGfxqrtMDU1JNANyTnTmQtbmH55QWXXzdwBmoon", "sym": "ZAGL", "reason": "vol1h 1105<40k"}
+{"t": "2026-11-12 23:31:39 WIB", "mint": "AWuUCEXwrCvbixzMY5sQfNEY7hf6j8aeiDubv5Hhpump", "sym": "jjaemu", "reason": "vol1h 18588<40k"}
+{"t": "2026-11-12 23:32:26 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 38447<40k"}
+{"t": "2026-11-12 23:32:28 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.592<0.6"}
+{"t": "2026-11-12 23:33:17 WIB", "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump", "sym": "POPPER", "reason": "liq 1796<20k"}
