@@ -15867,3 +15867,7 @@
 {"t": "2026-11-13 05:11:16 WIB", "mint": "7rvwHaqix5NqncNVqc92e4HT8J9mD7du7M9Ay4H6pump", "sym": "BagPay", "reason": "vol1h 12141<40k"}
 {"t": "2026-11-13 05:11:18 WIB", "mint": "7TmeeJxBF3PFsbgzuy23XpWJzQsqVXjvgLTb8S2zpump", "sym": "POPVAX", "reason": "vol1h 369<40k"}
 {"t": "2026-11-13 05:11:19 WIB", "mint": "2uBwYfuaU2juRuLG8dty56hzPpqcgejtQDwXqFBKQETg", "sym": "JENSWAN", "reason": "vol1h 32387<40k"}
+{"t": "2026-11-13 05:12:06 WIB", "mint": "HUtMfmWsjM2AcjsFvWH22zp7Bv1cvSv8wXiKoFGTpump", "sym": "cig", "reason": "liq 0<20k"}
+{"t": "2026-11-13 05:12:08 WIB", "mint": "5zH6fCd26PtJE1kjNU7iS5cegh8A5nV8P15V1PzEpump", "sym": "Jenpu", "reason": "vol1h 0<40k"}
+{"t": "2026-11-13 05:12:54 WIB", "mint": "6rApYxwXudiazSJmsQFAwwRonq2S4aUzpLLd2KEq6464", "sym": "64", "reason": "vol1h 96<40k"}
+{"t": "2026-11-13 05:12:56 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 4194<40k"}
