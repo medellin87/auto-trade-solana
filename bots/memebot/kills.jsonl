@@ -19256,3 +19256,6 @@
 {"t": "2026-11-12 11:49:00 WIB", "mint": "54hJjuw98ArKgoRUZ3HwbxdqnUmstUq5WpmkWPkipump", "sym": "MIHAOYO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 11:49:47 WIB", "mint": "Aud4kiq5SZyDJ9J5LNe68ECJ1EmQpwmMjYYnSMmypump", "sym": "ling", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 11:49:49 WIB", "mint": "J9Za1APMKGnABoo4Sryri5e5VVxyVnz4JRhazD5wpump", "sym": "BSD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 11:51:20 WIB", "mint": "AuRhMFYgi4G3AQCy3ZfzkArVYLvozD2cH1b6R1RHpump", "sym": "DCT", "reason": "vol1h 20480<40k"}
+{"t": "2026-11-12 11:52:08 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.596<0.6"}
+{"t": "2026-11-12 11:52:10 WIB", "mint": "AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump", "sym": "MAX", "reason": "score 0.39<0.6"}
