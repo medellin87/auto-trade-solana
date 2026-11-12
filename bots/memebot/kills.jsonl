@@ -15282,3 +15282,6 @@
 {"t": "2026-11-12 22:56:14 WIB", "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump", "sym": "AIB", "reason": "vol1h 19323<40k"}
 {"t": "2026-11-12 22:57:01 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 1778<40k"}
 {"t": "2026-11-12 22:57:02 WIB", "mint": "3SuUGFjZbjUfevMBFCnFYTxSb1qFqF6ZJmyyDE78pump", "sym": "UNEMPLOYED", "reason": "vol1h 14595<40k"}
+{"t": "2026-11-12 22:57:49 WIB", "mint": "8pMUc522qUPHeSyCFw4MHR8mk2xhX7YMjcG7KbS7BAGS", "sym": "HUANG", "reason": "liq 8935<20k"}
+{"t": "2026-11-12 22:57:51 WIB", "mint": "6ujJowmQSnhmCip48b3syFD9e5JurLyY6AMaBEGSpump", "sym": "HEPE", "reason": "liq 0<20k"}
+{"t": "2026-11-12 23:00:08 WIB", "mint": "ECsmzLHXriFZxsjB47UWZQuMxMWXfWiwchsx879vpump", "sym": "COCO", "reason": "vol1h 14919<40k"}
