@@ -1,7 +1,3 @@
-{"t": "2026-11-12 15:49:23 WIB", "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump", "sym": "AIB", "reason": "score 0.505<0.6"}
-{"t": "2026-11-12 15:49:25 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 1589<40k"}
-{"t": "2026-11-12 15:50:11 WIB", "mint": "A1xwre2K5WBQr5MwrBYDSHYjrvH8m8rbu1X3Nbg9pump", "sym": "\u5341\u4e03", "reason": "vol1h 13104<40k"}
-{"t": "2026-11-12 15:50:13 WIB", "mint": "F64i9ukyAWTRsnoWdyNN6RbULKNaDdGaVYtE6nT9pump", "sym": "NAP", "reason": "liq 0<20k"}
 {"t": "2026-11-12 15:50:14 WIB", "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump", "sym": "XomoPay", "reason": "vol1h 8782<40k"}
 {"t": "2026-11-12 15:51:46 WIB", "mint": "C2MEPrVQuWfW35J5oo4yBju2hKnrGQZDxjaLAPzwpump", "sym": "CLAUDE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 15:51:48 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 60<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-12 16:07:24 WIB", "mint": "Fkc9FKhK1K8FSPtKkcjfGkpeb4waa3DspRXHmwvvpump", "sym": "ape hao", "reason": "vol1h 8412<40k"}
 {"t": "2026-11-12 16:08:11 WIB", "mint": "EcCpMnjc3wJQrCKSsyrzyJiXRwY6AZPLzSaWR2bPpump", "sym": "GTAFY", "reason": "vol1h 1247<40k"}
 {"t": "2026-11-12 16:08:13 WIB", "mint": "53ta1BvDf63JjXA5nW6EAhXDcMwngEE5AN5GPNbFPMRc", "sym": "SHIHAO", "reason": "vol1h 314<40k"}
+{"t": "2026-11-12 16:09:44 WIB", "mint": "GWxceEVSTHLvhFi9z6pbwgUNYRgXBMrwCXTXcS1Upump", "sym": "Vicemas", "reason": "vol1h 65<40k"}
+{"t": "2026-11-12 16:12:01 WIB", "mint": "3m49CXQHzwa8F4ygAWNysJCWipPxdLehEV65PFPUpump", "sym": "LSTR", "reason": "vol1h 74<40k"}
+{"t": "2026-11-12 16:12:03 WIB", "mint": "89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump", "sym": "LuckyCoin", "reason": "vol1h 11851<40k"}
+{"t": "2026-11-12 16:12:04 WIB", "mint": "BMyfUiC2a1B4tqpPv9TJY5PmjQviMo4NfgzqMRGYpump", "sym": "GFAOL", "reason": "vol1h 10<40k"}
