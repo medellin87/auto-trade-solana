@@ -1,9 +1,3 @@
-{"t": "2026-11-12 12:51:28 WIB", "mint": "AuRhMFYgi4G3AQCy3ZfzkArVYLvozD2cH1b6R1RHpump", "sym": "DCT", "reason": "vol1h 2841<40k"}
-{"t": "2026-11-12 12:53:47 WIB", "mint": "7yLCJpWQvE2bnX3JZGbmmKrCkCSrSGbqTmgA8tMdpump", "sym": "FLC", "reason": "liq 16082<20k"}
-{"t": "2026-11-12 12:54:34 WIB", "mint": "FMUZQCGb1uFcyS2Axwh9DUawbu1EuwT3rYjKpfRRpump", "sym": "ling", "reason": "vol1h 3112<40k"}
-{"t": "2026-11-12 12:54:35 WIB", "mint": "8HksyeXg22MaH2jx1z1JpeX8cfpYNyJhu46a5QVvpump", "sym": "Max", "reason": "vol1h 0<40k"}
-{"t": "2026-11-12 12:54:37 WIB", "mint": "G89h1kFBfFMC18jfY26fQ6nMBmjH4u3jR8iNY3GmkCKC", "sym": "Hush", "reason": "vol1h 1180<40k"}
-{"t": "2026-11-12 12:55:24 WIB", "mint": "octo2TrsXkN6ErP7Gz1T7Vn5fySnPgbUuT6cjovCB55", "sym": "SQUEEZE", "reason": "vol1h 116<40k"}
 {"t": "2026-11-12 12:55:25 WIB", "mint": "Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump", "sym": "GABOON", "reason": "liq 14629<20k"}
 {"t": "2026-11-12 12:56:13 WIB", "mint": "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump", "sym": "NOBUSHIBA", "reason": "score 0.557<0.6"}
 {"t": "2026-11-12 12:56:59 WIB", "mint": "bn5DhJnkB8EVDoAgV9qCV3Kbv7XmEEp7mxW4npDpump", "sym": "GACHAZ", "reason": "vol1h 58<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-12 13:08:45 WIB", "mint": "BMyfUiC2a1B4tqpPv9TJY5PmjQviMo4NfgzqMRGYpump", "sym": "GFAOL", "reason": "vol1h 12007<40k"}
 {"t": "2026-11-12 13:09:32 WIB", "mint": "82xfuyn3e3grNAjxSYFD9WQvK4UqNVsjrdbmHgVZd4Ez", "sym": "epos", "reason": "vol1h 129<40k"}
 {"t": "2026-11-12 13:09:34 WIB", "mint": "6WrFRgPTkvA1U9vGX9mdbvTsne3AteJ9azvrGweUpump", "sym": "reatherjak", "reason": "vol1h 1553<40k"}
+{"t": "2026-11-12 13:10:20 WIB", "mint": "AWL7bYYUH3StCYySsyHPb5Gog5VC7SxWrbR3TTHspump", "sym": "M\u0101o", "reason": "vol1h 6829<40k"}
+{"t": "2026-11-12 13:11:07 WIB", "mint": "7gKKy2p1SaMkRFPX7caF96YpfuMMpDj82ZpjaffuvaU5", "sym": "PARK", "reason": "vol1h 247<40k"}
+{"t": "2026-11-12 13:11:09 WIB", "mint": "79NwRH1wFeVqd8Uz3LysqnNqseJgCmpmrLCdRsHkjZzU", "sym": "DacityCoin", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 13:11:55 WIB", "mint": "6zQBc25CDzoejMF1TQwNqYdP9rwcSHh3ZZSp2Nsmpump", "sym": "BASED", "reason": "liq 0<20k"}
+{"t": "2026-11-12 13:11:57 WIB", "mint": "7tLZtt1TmFzhAzMGiwCsS8uYAUrPQ5SAWQH1cCB7pump", "sym": "TOMMY", "reason": "vol1h 456<40k"}
+{"t": "2026-11-12 13:11:58 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 16<40k"}
