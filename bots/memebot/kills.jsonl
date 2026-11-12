@@ -19461,3 +19461,7 @@
 {"t": "2026-11-12 13:46:49 WIB", "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump", "sym": "AIB", "reason": "score 0.474<0.6"}
 {"t": "2026-11-12 13:46:50 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 3908<40k"}
 {"t": "2026-11-12 13:46:52 WIB", "mint": "74dTmNukXtgSzbesgJNpTJoTt6cygyt8XgJVQRb8pump", "sym": "LOCK", "reason": "vol1h 16<40k"}
+{"t": "2026-11-12 13:47:39 WIB", "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump", "sym": "XomoPay", "reason": "liq 11811<20k"}
+{"t": "2026-11-12 13:48:25 WIB", "mint": "8ZNHy9uBsxnpHbq5NFiRsqBtdBCWuN9KhK3fQCJDh4BV", "sym": "DacityCoin", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 13:49:12 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 49<40k"}
+{"t": "2026-11-12 13:49:59 WIB", "mint": "Bdhk6q29XgTWpn69Dqy4cZREu4D1MXF9NkMbzGJxpump", "sym": "deepfreak", "reason": "vol1h 2745<40k"}
