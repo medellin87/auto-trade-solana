@@ -1,8 +1,3 @@
-{"t": "2026-11-12 23:18:07 WIB", "mint": "5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump", "sym": "HUANG", "reason": "liq 2411<20k"}
-{"t": "2026-11-12 23:18:09 WIB", "mint": "5qicJh72YU36AvvATBTBJA8181QcVBpdhWCgN3kQpump", "sym": "DELCAB", "reason": "vol1h 1588<40k"}
-{"t": "2026-11-12 23:18:10 WIB", "mint": "9yn8ns4kLqMhTqtgR7DqfytrhEGjHA9ETQmRniazpump", "sym": "WOE", "reason": "vol1h 5942<40k"}
-{"t": "2026-11-12 23:18:58 WIB", "mint": "89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump", "sym": "LuckyCoin", "reason": "LP locked 0%<90"}
-{"t": "2026-11-12 23:19:44 WIB", "mint": "6oPyXufVVCWsqbHLS86ZdRY21q1jJb2jvbjsMHsdpump", "sym": "BRINELO", "reason": "vol1h 4012<40k"}
 {"t": "2026-11-12 23:19:46 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 24176<40k"}
 {"t": "2026-11-12 23:19:47 WIB", "mint": "9L9XBcrRaMWLb18T837fB1JP73MCD7ANdRrdkdSqpump", "sym": "USDEM", "reason": "vol1h 438<40k"}
 {"t": "2026-11-12 23:20:34 WIB", "mint": "2hyMwC4c11L32VsJwWznCmvfERBhaz19CFpGQyHMpump", "sym": "ZEN", "reason": "vol1h 847<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-12 23:32:26 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 38447<40k"}
 {"t": "2026-11-12 23:32:28 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.592<0.6"}
 {"t": "2026-11-12 23:33:17 WIB", "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump", "sym": "POPPER", "reason": "liq 1796<20k"}
+{"t": "2026-11-12 23:34:51 WIB", "mint": "7TmeeJxBF3PFsbgzuy23XpWJzQsqVXjvgLTb8S2zpump", "sym": "POPVAX", "reason": "vol1h 1419<40k"}
+{"t": "2026-11-12 23:35:37 WIB", "mint": "9rtFXFjNfrSBSPejCAvAcRkM6Knub9yncLedsxsLpump", "sym": "Justice ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 23:35:39 WIB", "mint": "2hVjgoesyZSbSGXEQY83hCjC19Grge8ud2kyTN2Rpump", "sym": "CRAWLY", "reason": "vol1h 23994<40k"}
+{"t": "2026-11-12 23:35:40 WIB", "mint": "2T9ueH6n9E4HHaWa7rCFjvPPhfNSPsSJPaQHGau7pump", "sym": "JHM", "reason": "liq 0<20k"}
+{"t": "2026-11-12 23:35:42 WIB", "mint": "GXxBdc6QRWu57af3U5edUxyYrHL6UJMCsFnUEE53pump", "sym": "LLM", "reason": "vol1h 29468<40k"}
