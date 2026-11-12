@@ -15468,3 +15468,7 @@
 {"t": "2026-11-13 00:57:46 WIB", "mint": "ABAodYixeMG3pmuyohdgNft51PncJiadDqBBZvxWpump", "sym": "DC", "reason": "liq 14359<20k"}
 {"t": "2026-11-13 00:58:33 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 945<40k"}
 {"t": "2026-11-13 01:00:52 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.586<0.6"}
+{"t": "2026-11-13 01:01:41 WIB", "mint": "13Cb7SGfxqrtMDU1JNANyTnTmQtbmH55QWXXzdwBmoon", "sym": "ZAGL", "reason": "vol1h 17<40k"}
+{"t": "2026-11-13 01:02:30 WIB", "mint": "9XV228VebVz7fBikQCEjJVCFNddgu1nGeAEEWZSwpump", "sym": "Osun-i", "reason": "vol1h 31255<40k"}
+{"t": "2026-11-13 01:03:16 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 7059<40k"}
+{"t": "2026-11-13 01:03:18 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.585<0.6"}
