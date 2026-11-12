@@ -15147,3 +15147,5 @@
 {"t": "2026-11-12 21:17:55 WIB", "mint": "9L9XBcrRaMWLb18T837fB1JP73MCD7ANdRrdkdSqpump", "sym": "USDEM", "reason": "vol1h 5496<40k"}
 {"t": "2026-11-12 21:18:41 WIB", "mint": "7rtrYEBfMhMPmPqCr4BZyY3zYRSLqUa7h6WR44Z7YWWF", "sym": "KRESS", "reason": "liq 18453<20k"}
 {"t": "2026-11-12 21:20:13 WIB", "mint": "4BmPe8LGK72S1yULdD5HG7aUYHHi8okboS2Nkufrpump", "sym": "Charl", "reason": "vol1h 318<40k"}
+{"t": "2026-11-12 21:21:45 WIB", "mint": "BetzJU2X9UEgG2qdo8UKbJ6q1iiFGs23axh8vRqEpump", "sym": "SKUNK", "reason": "vol1h 6099<40k"}
+{"t": "2026-11-12 21:21:46 WIB", "mint": "A7MsvrYStawWBp9Ae2KFqAdMyka3B81Mtbi28vc4pump", "sym": "ARTIC", "reason": "vol1h 0<40k"}
