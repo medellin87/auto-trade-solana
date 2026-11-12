@@ -1,8 +1,3 @@
-{"t": "2026-11-12 19:58:54 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.576<0.6"}
-{"t": "2026-11-12 19:58:55 WIB", "mint": "AVoRJQXdinoAyGdVCEczVogWGBXjuWtBuuzmcCs2pump", "sym": "DCAT", "reason": "vol1h 8<40k"}
-{"t": "2026-11-12 19:59:42 WIB", "mint": "C5FZzEgtkydKztCMwD5FzfmDVhb7V6VjTzGjurLjpump", "sym": "GIGAPIG", "reason": "liq 1746<20k"}
-{"t": "2026-11-12 20:00:28 WIB", "mint": "3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump", "sym": "Parrot", "reason": "liq 7272<20k"}
-{"t": "2026-11-12 20:04:17 WIB", "mint": "bn5DhJnkB8EVDoAgV9qCV3Kbv7XmEEp7mxW4npDpump", "sym": "GACHAZ", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 20:04:19 WIB", "mint": "8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump", "sym": "Shitcoin", "reason": "score 0.524<0.6"}
 {"t": "2026-11-12 20:06:36 WIB", "mint": "GNeL8vepuzWCdormGWDV3EQc8h9s7yNPjoFjTB23iUYN", "sym": "ray", "reason": "vol1h 1218<40k"}
 {"t": "2026-11-12 20:06:37 WIB", "mint": "Rv2EwtY2fMHALf9mv77GWmzaneNwZWyGcKDAGgmR5w3", "sym": "William", "reason": "vol1h 20136<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-12 20:13:09 WIB", "mint": "G3QRYBCRmsSjWdX16DTXme4siAfc6nDpyXCH8NNzpump", "sym": "CLAUDE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 20:13:55 WIB", "mint": "72a5r6XXpuWwHD7WxivCbHP1RGs1tYYUYkvDJoFZnL1R", "sym": "4pleb", "reason": "liq 0<20k"}
 {"t": "2026-11-12 20:14:42 WIB", "mint": "BmAt6895v6PczX3g8jguJheWCj4hYQK5MmnBYr8Yc948", "sym": "JAMAL", "reason": "vol1h 4<40k"}
+{"t": "2026-11-12 20:16:13 WIB", "mint": "53rP8UHBJTLNBqQ8W6peV5HNFHdwgkenQCYJH1Vwpump", "sym": "ACT: S", "reason": "liq 0<20k"}
+{"t": "2026-11-12 20:16:15 WIB", "mint": "89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump", "sym": "LuckyCoin", "reason": "vol1h 34559<40k"}
+{"t": "2026-11-12 20:16:16 WIB", "mint": "6BucbgqbTDpUfWiN8Zrc5Lsf7ru6uUEzEPLPhb5ppump", "sym": "nihaomax", "reason": "vol1h 4449<40k"}
+{"t": "2026-11-12 20:17:03 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 10871<40k"}
+{"t": "2026-11-12 20:17:04 WIB", "mint": "9L9XBcrRaMWLb18T837fB1JP73MCD7ANdRrdkdSqpump", "sym": "USDEM", "reason": "vol1h 16633<40k"}
