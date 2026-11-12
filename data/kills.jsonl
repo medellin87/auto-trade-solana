@@ -1,8 +1,3 @@
-{"t": "2026-11-13 02:16:22 WIB", "mint": "6MQGcPiDMusnHWXTBAfY7sRAHYRfgZmPjsmSPmPdpump", "sym": "IMG", "reason": "liq 5665<20k"}
-{"t": "2026-11-13 02:16:23 WIB", "mint": "F4uSZDuruqZU1zxpPTxakrxC2zLLARY6ffuuWCC6pump", "sym": "SNIFF", "reason": "liq 3502<20k"}
-{"t": "2026-11-13 02:16:25 WIB", "mint": "CLRScyywR3CQSZBTrQpvyy3U5FwajnR4Xa3h9Wisdoge", "sym": "AUTDOG", "reason": "vol1h 0<40k"}
-{"t": "2026-11-13 02:16:27 WIB", "mint": "E8qaeXz7CF2auJebXaQkLZyrFPfRQft3KrGgvRvwpump", "sym": "DOGGLE", "reason": "vol1h 36506<40k"}
-{"t": "2026-11-13 02:17:13 WIB", "mint": "8Gug6wcw7FacmrSNBGcquKi84ZrAvzJRzap9WuBqbkwA", "sym": "MAX", "reason": "vol1h 344<40k"}
 {"t": "2026-11-13 02:17:15 WIB", "mint": "GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump", "sym": "MAPLY", "reason": "liq 2253<20k"}
 {"t": "2026-11-13 02:18:01 WIB", "mint": "3tM2sPnYv5RytAUZHShFHzc9gUcSSDtfEemLWnhSpump", "sym": "21", "reason": "liq 9200<20k"}
 {"t": "2026-11-13 02:19:33 WIB", "mint": "7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump", "sym": "GOAT", "reason": "vol1h 11886<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-13 02:29:04 WIB", "mint": "DiCKhrU3jpUXk1UvxtPGTCZTx91Pfy1H4UALXY8diLdo", "sym": "GREENDILDO", "reason": "liq 18006<20k"}
 {"t": "2026-11-13 02:29:06 WIB", "mint": "88goaxvXBiSPVQEj47ZAEMDLycKt679dre6cCZWNpump", "sym": "GUI", "reason": "vol1h 4973<40k"}
 {"t": "2026-11-13 02:30:38 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 649<40k"}
+{"t": "2026-11-13 02:31:24 WIB", "mint": "3WcR58Ba1Z82bSK77DsTqXj3cG5sbR5WXemW6Bqppump", "sym": "AMD", "reason": "liq 1634<20k"}
+{"t": "2026-11-13 02:32:13 WIB", "mint": "J9t2LsAZLrNHocuvoyEKoiyS7RKXLJv2u9bnFJTCpump", "sym": "HENSEN", "reason": "liq 1951<20k"}
+{"t": "2026-11-13 02:33:00 WIB", "mint": "13Cb7SGfxqrtMDU1JNANyTnTmQtbmH55QWXXzdwBmoon", "sym": "ZAGL", "reason": "vol1h 11<40k"}
+{"t": "2026-11-13 02:33:01 WIB", "mint": "KMifrkYmDdAKtVXAVBEPEQxJ7qP2iLgUcfZjUZipump", "sym": "RAMBO", "reason": "vol1h 21511<40k"}
+{"t": "2026-11-13 02:33:48 WIB", "mint": "E19KsBsmkqWFL1k7byEF2rxrYn2Rn3bs8EVHKCF2pump", "sym": "AMC", "reason": "top10 37.5%>25"}
