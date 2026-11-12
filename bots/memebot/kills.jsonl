@@ -15466,3 +15466,5 @@
 {"t": "2026-11-13 00:55:28 WIB", "mint": "PjFXJg22oDaUri3t3zodk9gLhaqiHNdAwPCbx7rpump", "sym": "AMD", "reason": "liq 3850<20k"}
 {"t": "2026-11-13 00:57:45 WIB", "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump", "sym": "AIB", "reason": "vol1h 65<40k"}
 {"t": "2026-11-13 00:57:46 WIB", "mint": "ABAodYixeMG3pmuyohdgNft51PncJiadDqBBZvxWpump", "sym": "DC", "reason": "liq 14359<20k"}
+{"t": "2026-11-13 00:58:33 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 945<40k"}
+{"t": "2026-11-13 01:00:52 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.586<0.6"}
