@@ -19362,3 +19362,7 @@
 {"t": "2026-11-12 12:49:55 WIB", "mint": "Aud4kiq5SZyDJ9J5LNe68ECJ1EmQpwmMjYYnSMmypump", "sym": "ling", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 12:49:56 WIB", "mint": "J9Za1APMKGnABoo4Sryri5e5VVxyVnz4JRhazD5wpump", "sym": "BSD", "reason": "vol1h 0<40k"}
 {"t": "2026-11-12 12:51:28 WIB", "mint": "AuRhMFYgi4G3AQCy3ZfzkArVYLvozD2cH1b6R1RHpump", "sym": "DCT", "reason": "vol1h 2841<40k"}
+{"t": "2026-11-12 12:53:47 WIB", "mint": "7yLCJpWQvE2bnX3JZGbmmKrCkCSrSGbqTmgA8tMdpump", "sym": "FLC", "reason": "liq 16082<20k"}
+{"t": "2026-11-12 12:54:34 WIB", "mint": "FMUZQCGb1uFcyS2Axwh9DUawbu1EuwT3rYjKpfRRpump", "sym": "ling", "reason": "vol1h 3112<40k"}
+{"t": "2026-11-12 12:54:35 WIB", "mint": "8HksyeXg22MaH2jx1z1JpeX8cfpYNyJhu46a5QVvpump", "sym": "Max", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 12:54:37 WIB", "mint": "G89h1kFBfFMC18jfY26fQ6nMBmjH4u3jR8iNY3GmkCKC", "sym": "Hush", "reason": "vol1h 1180<40k"}
