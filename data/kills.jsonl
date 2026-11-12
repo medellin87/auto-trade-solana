@@ -1,9 +1,3 @@
-{"t": "2026-11-12 22:56:14 WIB", "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump", "sym": "AIB", "reason": "vol1h 19323<40k"}
-{"t": "2026-11-12 22:57:01 WIB", "mint": "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump", "sym": "CLMFND", "reason": "vol1h 1778<40k"}
-{"t": "2026-11-12 22:57:02 WIB", "mint": "3SuUGFjZbjUfevMBFCnFYTxSb1qFqF6ZJmyyDE78pump", "sym": "UNEMPLOYED", "reason": "vol1h 14595<40k"}
-{"t": "2026-11-12 22:57:49 WIB", "mint": "8pMUc522qUPHeSyCFw4MHR8mk2xhX7YMjcG7KbS7BAGS", "sym": "HUANG", "reason": "liq 8935<20k"}
-{"t": "2026-11-12 22:57:51 WIB", "mint": "6ujJowmQSnhmCip48b3syFD9e5JurLyY6AMaBEGSpump", "sym": "HEPE", "reason": "liq 0<20k"}
-{"t": "2026-11-12 23:00:08 WIB", "mint": "ECsmzLHXriFZxsjB47UWZQuMxMWXfWiwchsx879vpump", "sym": "COCO", "reason": "vol1h 14919<40k"}
 {"t": "2026-11-12 23:00:09 WIB", "mint": "13Cb7SGfxqrtMDU1JNANyTnTmQtbmH55QWXXzdwBmoon", "sym": "ZAGL", "reason": "vol1h 1130<40k"}
 {"t": "2026-11-12 23:00:58 WIB", "mint": "AWuUCEXwrCvbixzMY5sQfNEY7hf6j8aeiDubv5Hhpump", "sym": "jjaemu", "reason": "vol1h 747<40k"}
 {"t": "2026-11-12 23:01:45 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 26769<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-12 23:18:07 WIB", "mint": "5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump", "sym": "HUANG", "reason": "liq 2411<20k"}
 {"t": "2026-11-12 23:18:09 WIB", "mint": "5qicJh72YU36AvvATBTBJA8181QcVBpdhWCgN3kQpump", "sym": "DELCAB", "reason": "vol1h 1588<40k"}
 {"t": "2026-11-12 23:18:10 WIB", "mint": "9yn8ns4kLqMhTqtgR7DqfytrhEGjHA9ETQmRniazpump", "sym": "WOE", "reason": "vol1h 5942<40k"}
+{"t": "2026-11-12 23:18:58 WIB", "mint": "89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump", "sym": "LuckyCoin", "reason": "LP locked 0%<90"}
+{"t": "2026-11-12 23:19:44 WIB", "mint": "6oPyXufVVCWsqbHLS86ZdRY21q1jJb2jvbjsMHsdpump", "sym": "BRINELO", "reason": "vol1h 4012<40k"}
+{"t": "2026-11-12 23:19:46 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 24176<40k"}
+{"t": "2026-11-12 23:19:47 WIB", "mint": "9L9XBcrRaMWLb18T837fB1JP73MCD7ANdRrdkdSqpump", "sym": "USDEM", "reason": "vol1h 438<40k"}
+{"t": "2026-11-12 23:20:34 WIB", "mint": "2hyMwC4c11L32VsJwWznCmvfERBhaz19CFpGQyHMpump", "sym": "ZEN", "reason": "vol1h 847<40k"}
+{"t": "2026-11-12 23:21:20 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 2479<40k"}
