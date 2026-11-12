@@ -1,7 +1,3 @@
-{"t": "2026-11-13 04:39:51 WIB", "mint": "SmDoPh7u9PkXz2NkFVPhq1HK3EBPuHYZaXQ7wSvb31c", "sym": "REDACTED", "reason": "vol1h 1<40k"}
-{"t": "2026-11-13 04:39:52 WIB", "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump", "sym": "BOOP", "reason": "vol1h 3280<40k"}
-{"t": "2026-11-13 04:40:39 WIB", "mint": "CmC2H4bQHiCenc5FTD9o2E5vVJoP2eXdkUP33bpvpump", "sym": "AI", "reason": "liq 11390<20k"}
-{"t": "2026-11-13 04:40:41 WIB", "mint": "7TmeeJxBF3PFsbgzuy23XpWJzQsqVXjvgLTb8S2zpump", "sym": "POPVAX", "reason": "vol1h 530<40k"}
 {"t": "2026-11-13 04:40:42 WIB", "mint": "2uBwYfuaU2juRuLG8dty56hzPpqcgejtQDwXqFBKQETg", "sym": "JENSWAN", "reason": "vol1h 32732<40k"}
 {"t": "2026-11-13 04:42:14 WIB", "mint": "6rApYxwXudiazSJmsQFAwwRonq2S4aUzpLLd2KEq6464", "sym": "64", "reason": "vol1h 8628<40k"}
 {"t": "2026-11-13 04:44:31 WIB", "mint": "87e8w4G33sB6Nsmi8aSUUsYSYBXXAof8h38dKahNpump", "sym": "NekoNano", "reason": "vol1h 14060<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-13 04:58:38 WIB", "mint": "4BmPe8LGK72S1yULdD5HG7aUYHHi8okboS2Nkufrpump", "sym": "Charl", "reason": "vol1h 0<40k"}
 {"t": "2026-11-13 05:01:40 WIB", "mint": "EX4AHE8DSFC9xZgy3Xr8KaFuLLkcJWuWXhCyAdhrpump", "sym": "EXPOSER", "reason": "vol1h 14200<40k"}
 {"t": "2026-11-13 05:02:27 WIB", "mint": "2Dx1cXS8F9Ro2Qr9PCUxBKPZPfqKU7FxoFbTmzbKpump", "sym": "capitalist", "reason": "vol1h 25673<40k"}
+{"t": "2026-11-13 05:02:28 WIB", "mint": "9a13W5HdqE95g3YE8Dk9wCHPucrCH33h6BTfdFvRpump", "sym": "plumber", "reason": "liq 0<20k"}
+{"t": "2026-11-13 05:03:15 WIB", "mint": "FTu55MyigXns96jz4nTCDDiTCjYJjyrHSceCgG9Upump", "sym": "FOOD", "reason": "liq 0<20k"}
+{"t": "2026-11-13 05:03:17 WIB", "mint": "9SsTRKTqRLe88tnTFzupkdKL5t6fsg4SJmFtWk5gvpot", "sym": "memedepot", "reason": "vol1h 2324<40k"}
+{"t": "2026-11-13 05:04:03 WIB", "mint": "65q7e9mAe8sNG4y23A8ngy7dibUBet8Z3aYutBjgpump", "sym": "fineshyt", "reason": "vol1h 2173<40k"}
