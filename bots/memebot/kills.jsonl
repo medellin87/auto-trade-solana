@@ -18950,3 +18950,5 @@
 {"t": "2026-11-12 08:38:33 WIB", "mint": "4XimtTw7ZEMDo6pRRL1FtV9SZTTAr5RgVQ63KeB1pump", "sym": "ChainChomp", "reason": "vol1h 6516<40k"}
 {"t": "2026-11-12 08:38:35 WIB", "mint": "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC", "sym": "BTC", "reason": "vol1h 171<40k"}
 {"t": "2026-11-12 08:39:21 WIB", "mint": "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1", "sym": "BTC", "reason": "vol1h 549<40k"}
+{"t": "2026-11-12 08:40:08 WIB", "mint": "6mb1WzFveWXa9AeBwQ2mbyoxJhw8KCgmyQaDZziZBAGS", "sym": "X", "reason": "liq 19397<20k"}
+{"t": "2026-11-12 08:41:40 WIB", "mint": "8DwAf1oQ11Ch86SNGcbBppFqf1RZJ74T7mdNuNBtpump", "sym": "VI", "reason": "vol1h 3389<40k"}
