@@ -19752,3 +19752,10 @@
 {"t": "2026-11-12 16:50:34 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 2102<40k"}
 {"t": "2026-11-12 16:51:21 WIB", "mint": "A1xwre2K5WBQr5MwrBYDSHYjrvH8m8rbu1X3Nbg9pump", "sym": "\u5341\u4e03", "reason": "liq 9307<20k"}
 {"t": "2026-11-12 16:51:22 WIB", "mint": "F64i9ukyAWTRsnoWdyNN6RbULKNaDdGaVYtE6nT9pump", "sym": "NAP", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 16:52:54 WIB", "mint": "C2MEPrVQuWfW35J5oo4yBju2hKnrGQZDxjaLAPzwpump", "sym": "CLAUDE", "reason": "vol1h 23<40k"}
+{"t": "2026-11-12 16:52:56 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 14<40k"}
+{"t": "2026-11-12 16:53:42 WIB", "mint": "FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump", "sym": "CLAUDE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-12 16:53:44 WIB", "mint": "7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump", "sym": "CLAUDE", "reason": "liq 1658<20k"}
+{"t": "2026-11-12 16:54:30 WIB", "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump", "sym": "STC", "reason": "vol1h 12324<40k"}
+{"t": "2026-11-12 16:54:32 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 1868<40k"}
+{"t": "2026-11-12 16:54:33 WIB", "mint": "2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump", "sym": "Shiqi", "reason": "liq 19208<20k"}
