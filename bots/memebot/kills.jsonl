@@ -16612,3 +16612,7 @@
 {"t": "2026-11-13 12:49:44 WIB", "mint": "C94p8vSHWyKk7rTr6pNNBZomLhQsaBkradr41wvxpump", "sym": "LEAP", "reason": "vol1h 3<40k"}
 {"t": "2026-11-13 12:50:31 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 155<40k"}
 {"t": "2026-11-13 12:50:32 WIB", "mint": "6rApYxwXudiazSJmsQFAwwRonq2S4aUzpLLd2KEq6464", "sym": "64", "reason": "vol1h 4<40k"}
+{"t": "2026-11-13 12:52:04 WIB", "mint": "32Zz5kvbdbg4jNvnhJ5kJCqiDLnr8XVWH7Ye93uipump", "sym": "ZEPHYRON", "reason": "liq 16661<20k"}
+{"t": "2026-11-13 12:53:36 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 6910<40k"}
+{"t": "2026-11-13 12:54:22 WIB", "mint": "HBMys9Q55GXTXDLcjA7aNGNniR71MfSGjNY83Qxfpump", "sym": "USEFUL", "reason": "liq 12795<20k"}
+{"t": "2026-11-13 12:54:24 WIB", "mint": "AaJE4stHurrhiS6a7fP7tpNsEWqDjvzwM7pp2mTBpump", "sym": "EBT", "reason": "vol1h 0<40k"}
