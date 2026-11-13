@@ -17782,3 +17782,9 @@
 {"t": "2026-11-14 01:01:08 WIB", "mint": "3rT7GQU91EAG3yMhELgk8MghoSPdGtp2esPqmUc9pump", "sym": "coal", "reason": "liq 0<20k"}
 {"t": "2026-11-14 01:01:54 WIB", "mint": "vmUmykEVidvzcq8MGLjAeXe8tg5qGioC4ua8aQVpump", "sym": "WOOF", "reason": "liq 0<20k"}
 {"t": "2026-11-14 01:02:41 WIB", "mint": "2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump", "sym": "FASTMOON", "reason": "vol1h 20320<40k"}
+{"t": "2026-11-14 01:04:13 WIB", "mint": "7sGdNQSvUGpahh6qyXB3g5gsdK9FAzZM299KyCXspump", "sym": "https", "reason": "vol1h 516<40k"}
+{"t": "2026-11-14 01:04:14 WIB", "mint": "UNbT74tbUhtPM8YWmBTbWk9JxbAeNQCQP89jjWnpump", "sym": "SOLMAS", "reason": "vol1h 2424<40k"}
+{"t": "2026-11-14 01:05:01 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 17731<40k"}
+{"t": "2026-11-14 01:05:03 WIB", "mint": "BeLVQE2tK7fVvg6EpVgUzUWhSi95XpL7mqJM3nANpump", "sym": "WANTED", "reason": "score 0.534<0.6"}
+{"t": "2026-11-14 01:06:34 WIB", "mint": "HWcC2gJyYwoHimSoZBgffKwjGpTG8deCSAonwSkYpump", "sym": "GIVE", "reason": "liq 3920<20k"}
+{"t": "2026-11-14 01:06:36 WIB", "mint": "GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump", "sym": "rockstar", "reason": "vol1h 2291<40k"}
