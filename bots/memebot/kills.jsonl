@@ -18081,3 +18081,7 @@
 {"t": "2026-11-14 03:57:12 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 0<40k"}
 {"t": "2026-11-14 03:57:14 WIB", "mint": "9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump", "sym": "Ballfin", "reason": "liq 1783<20k"}
 {"t": "2026-11-14 03:57:15 WIB", "mint": "AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump", "sym": "GME", "reason": "liq 10297<20k"}
+{"t": "2026-11-14 03:58:03 WIB", "mint": "HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS", "sym": "Ansemmas", "reason": "top10 26.3%>25"}
+{"t": "2026-11-14 03:59:36 WIB", "mint": "MoR1whCWjcLiUqAan4GHLRcn8wK4Jktk2DyDryNmeta", "sym": "MORI", "reason": "vol1h 22762<40k"}
+{"t": "2026-11-14 03:59:38 WIB", "mint": "HqbtT1MBhoCaZBZ5byqXSZzJdhPNtoF8KrJ4ZZdepump", "sym": "GTA", "reason": "liq 0<20k"}
+{"t": "2026-11-14 04:00:25 WIB", "mint": "dotR7VdKhASuEAZ1hPNknXEt2oPALMZJ4bkKqLD7dot", "sym": "dot", "reason": "vol1h 18693<40k"}
