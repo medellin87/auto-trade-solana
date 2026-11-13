@@ -17763,3 +17763,6 @@
 {"t": "2026-11-14 00:50:52 WIB", "mint": "GcGRyFXUVEEFLz3tRpw7yUnxVdJkNAX6VMDqotTiZQGy", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-14 00:51:39 WIB", "mint": "Aov3BtQvrGXM5V9oiHu8PKJWeV8a2rFnr24fwWcNpump", "sym": "HNET", "reason": "vol1h 208<40k"}
 {"t": "2026-11-14 00:51:40 WIB", "mint": "9HrYC4PH4A3d5o7LUvwjDrxkWyZDjVQpvFvWVwbKpump", "sym": "Heisto", "reason": "vol1h 355<40k"}
+{"t": "2026-11-14 00:52:27 WIB", "mint": "BdgruXDnBP4v7MQ7t5475vy9n9FSQyWWMFMz6QZxpump", "sym": "HOMEBADGE", "reason": "liq 7613<20k"}
+{"t": "2026-11-14 00:53:58 WIB", "mint": "4Y8hiUura5Vmq6xTE8BbUB5UEnjvvNfaBTcj295Ypump", "sym": "SI", "reason": "liq 9588<20k"}
+{"t": "2026-11-14 00:54:45 WIB", "mint": "KfBK6h368ZpV6GS9FSyE4s17kUBXmFBSPz2BU8apump", "sym": "UNSAID", "reason": "vol1h 8133<40k"}
