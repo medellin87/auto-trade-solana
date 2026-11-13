@@ -18410,3 +18410,8 @@
 {"t": "2026-11-14 06:55:32 WIB", "mint": "6ecErXaEmQ1xb2NdPq6DkxQhJkMaFwzwDBBeki6zpump", "sym": "HANG", "reason": "vol1h 1357<40k"}
 {"t": "2026-11-14 06:56:19 WIB", "mint": "HJWMayjf5H6EzuNTbpk4uq9Dfp4P5CLnjZCpZvKHpump", "sym": "BLACKOUT", "reason": "score 0.473<0.6"}
 {"t": "2026-11-14 06:56:21 WIB", "mint": "DaL9WdYDa7pLf1eSHuGGwHtKWDpStUFpBpjudT9Hpump", "sym": "ADC", "reason": "vol1h 32<40k"}
+{"t": "2026-11-14 06:57:07 WIB", "mint": "DQPf7iyK3NoejBKkrXUvzqAeyodRdNtHNx9HByKFpump", "sym": "BREAD", "reason": "liq 2587<20k"}
+{"t": "2026-11-14 06:57:54 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 9<40k"}
+{"t": "2026-11-14 06:57:56 WIB", "mint": "EHVpQJ76sEKqm7VvtZzW5UGg362q9B8HcpQBNps7pump", "sym": "securititty", "reason": "liq 1501<20k"}
+{"t": "2026-11-14 06:58:42 WIB", "mint": "2Ak9SudAFSeVPR2gCwBUQMabKtz39hZMkWBiyZBxpump", "sym": "mihoe", "reason": "vol1h 1657<40k"}
+{"t": "2026-11-14 06:58:44 WIB", "mint": "HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS", "sym": "Ansemmas", "reason": "vol1h 28445<40k"}
