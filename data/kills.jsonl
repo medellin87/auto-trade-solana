@@ -1,9 +1,3 @@
-{"t": "2026-11-14 03:24:05 WIB", "mint": "GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump", "sym": "b", "reason": "liq 5263<20k"}
-{"t": "2026-11-14 03:27:07 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 0<40k"}
-{"t": "2026-11-14 03:27:11 WIB", "mint": "AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump", "sym": "GME", "reason": "liq 16423<20k"}
-{"t": "2026-11-14 03:27:58 WIB", "mint": "HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS", "sym": "Ansemmas", "reason": "top10 26.3%>25"}
-{"t": "2026-11-14 03:29:32 WIB", "mint": "95ppftpqXekBXyHv2u5qJ2y5QwTfHYkpet1uPudTpump", "sym": "kindpay", "reason": "vol1h 0<40k"}
-{"t": "2026-11-14 03:29:34 WIB", "mint": "MoR1whCWjcLiUqAan4GHLRcn8wK4Jktk2DyDryNmeta", "sym": "MORI", "reason": "top10 70.8%>25"}
 {"t": "2026-11-14 03:29:35 WIB", "mint": "ELqVDLQhvnc5GojT6ZKYvSehkpkkhV3GcmtSDGKNpump", "sym": "FU", "reason": "vol1h 3458<40k"}
 {"t": "2026-11-14 03:29:37 WIB", "mint": "HqbtT1MBhoCaZBZ5byqXSZzJdhPNtoF8KrJ4ZZdepump", "sym": "GTA", "reason": "liq 0<20k"}
 {"t": "2026-11-14 03:30:23 WIB", "mint": "dotR7VdKhASuEAZ1hPNknXEt2oPALMZJ4bkKqLD7dot", "sym": "dot", "reason": "vol1h 24518<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-14 03:39:56 WIB", "mint": "7jo5Ru47Edx3nT3vdcudQXADjWrRemzWF9nA4By1pump", "sym": "DCC", "reason": "vol1h 1538<40k"}
 {"t": "2026-11-14 03:39:58 WIB", "mint": "Ejkzd2vppjCGyoPs9Sdsvzt4x2qYz9JfndtMosJKpump", "sym": "GTAI", "reason": "liq 0<20k"}
 {"t": "2026-11-14 03:41:32 WIB", "mint": "3uYwQZ5CZX4Uo5TFEmSP2vg7Dm7YEc3c2U6sWDoUpump", "sym": "Bear", "reason": "vol1h 28118<40k"}
+{"t": "2026-11-14 03:43:03 WIB", "mint": "7uicYHeMCTHQwdrqhgtP1Mpi7BcUkf5Z22yKJNR1pump", "sym": "BAG", "reason": "vol1h 18451<40k"}
+{"t": "2026-11-14 03:43:05 WIB", "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump", "sym": "DOG", "reason": "vol1h 24103<40k"}
+{"t": "2026-11-14 03:43:07 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 9848<40k"}
+{"t": "2026-11-14 03:43:53 WIB", "mint": "Grby8aJfP58FGdgoh6tJoDknXUoJ5nXc3gsTBnTdF5dx", "sym": "FUCKYOUDEV", "reason": "vol1h 40<40k"}
+{"t": "2026-11-14 03:44:40 WIB", "mint": "Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump", "sym": "Bull", "reason": "liq 2076<20k"}
+{"t": "2026-11-14 03:44:41 WIB", "mint": "GABSPmXJZu9dnqBcATGDEkX5DNwTtB1tyA9g2hEhpump", "sym": "ballfin", "reason": "vol1h 23784<40k"}
