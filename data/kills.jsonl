@@ -1,8 +1,3 @@
-{"t": "2026-11-13 13:04:43 WIB", "mint": "6apvi5Cjkx7SHmvjpBCZ9rCdoSNYwjtuSmwyLufYpump", "sym": "SCCC", "reason": "vol1h 37003<40k"}
-{"t": "2026-11-13 13:05:30 WIB", "mint": "G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump", "sym": "CHARITY", "reason": "liq 17209<20k"}
-{"t": "2026-11-13 13:05:31 WIB", "mint": "32tfZ7z9fwLEv2ReyjpmMqH4MuFTpjACBCEaP8VLpump", "sym": "RiotDegen", "reason": "vol1h 0<40k"}
-{"t": "2026-11-13 13:06:18 WIB", "mint": "Eepyhiqr5sRPowsBfMSw5yL8agZWRUdhS3e6dMAKHx21", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-13 13:07:05 WIB", "mint": "dotZCUwYi1sp2hX64fZLvksMW9mhWSBZox35xAY8NWt", "sym": "dot", "reason": "vol1h 0<40k"}
 {"t": "2026-11-13 13:07:06 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 7841<40k"}
 {"t": "2026-11-13 13:07:08 WIB", "mint": "5ysJ3ogaQLe3LGZVNZyzD1aqsWnkEf4zG8JG383Ypump", "sym": "NEVER", "reason": "vol1h 22533<40k"}
 {"t": "2026-11-13 13:08:40 WIB", "mint": "Aov3BtQvrGXM5V9oiHu8PKJWeV8a2rFnr24fwWcNpump", "sym": "HNET", "reason": "vol1h 1410<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-13 13:19:42 WIB", "mint": "77RoiSTasJzDdAgS9cWbEdUKiSPbQdafKjyqdXWHpump", "sym": "CAT", "reason": "vol1h 38<40k"}
 {"t": "2026-11-13 13:21:13 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 633<40k"}
 {"t": "2026-11-13 13:21:15 WIB", "mint": "6rApYxwXudiazSJmsQFAwwRonq2S4aUzpLLd2KEq6464", "sym": "64", "reason": "vol1h 4<40k"}
+{"t": "2026-11-13 13:22:47 WIB", "mint": "AmEjzzKeLFEomcjEQDnLBxDdcrbYMcyCzqxupipWpump", "sym": "CHLOEAI", "reason": "vol1h 1794<40k"}
+{"t": "2026-11-13 13:22:48 WIB", "mint": "32Zz5kvbdbg4jNvnhJ5kJCqiDLnr8XVWH7Ye93uipump", "sym": "ZEPHYRON", "reason": "liq 14503<20k"}
+{"t": "2026-11-13 13:24:20 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 3057<40k"}
+{"t": "2026-11-13 13:25:06 WIB", "mint": "HBMys9Q55GXTXDLcjA7aNGNniR71MfSGjNY83Qxfpump", "sym": "USEFUL", "reason": "liq 8262<20k"}
+{"t": "2026-11-13 13:25:08 WIB", "mint": "AaJE4stHurrhiS6a7fP7tpNsEWqDjvzwM7pp2mTBpump", "sym": "EBT", "reason": "vol1h 16762<40k"}
