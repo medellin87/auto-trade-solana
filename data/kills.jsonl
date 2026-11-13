@@ -1,9 +1,3 @@
-{"t": "2026-11-13 16:07:32 WIB", "mint": "5vPz2s8NtkasmVRDz5ySz27V1E8UdSpzqc9xN678jups", "sym": "EXITP", "reason": "vol1h 267<40k"}
-{"t": "2026-11-13 16:07:33 WIB", "mint": "EnMwxx54cBqGrNP587Sdm9GEkrWCLnrMp3JxEX6spump", "sym": "Sakura", "reason": "vol1h 47<40k"}
-{"t": "2026-11-13 16:07:35 WIB", "mint": "13Cb7SGfxqrtMDU1JNANyTnTmQtbmH55QWXXzdwBmoon", "sym": "ZAGL", "reason": "vol1h 0<40k"}
-{"t": "2026-11-13 16:09:07 WIB", "mint": "G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump", "sym": "CHARITY", "reason": "vol1h 9368<40k"}
-{"t": "2026-11-13 16:09:55 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "rugcheck data unavailable"}
-{"t": "2026-11-13 16:09:56 WIB", "mint": "CmsVQy7fDFAEn9GnXWGUfUwQeZHbVs9JPP6WcaBDpump", "sym": "TREECOIN", "reason": "liq 3058<20k"}
 {"t": "2026-11-13 16:11:28 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 7160<40k"}
 {"t": "2026-11-13 16:12:15 WIB", "mint": "Aov3BtQvrGXM5V9oiHu8PKJWeV8a2rFnr24fwWcNpump", "sym": "HNET", "reason": "vol1h 118<40k"}
 {"t": "2026-11-13 16:13:01 WIB", "mint": "6hXYEBdfQwh57TfPBMs45s659uw2KJPHrdRQdVSNpump", "sym": "HOUSE", "reason": "vol1h 24<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-13 16:22:36 WIB", "mint": "77RoiSTasJzDdAgS9cWbEdUKiSPbQdafKjyqdXWHpump", "sym": "CAT", "reason": "vol1h 56<40k"}
 {"t": "2026-11-13 16:23:23 WIB", "mint": "ASPrRmpyS2ZwvsghdJjQMZpkQDFb4tdMyDiWAec8J1wN", "sym": "MINGO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-13 16:24:10 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 47<40k"}
+{"t": "2026-11-13 16:24:56 WIB", "mint": "DRGF3dQq81gtGKR6AQKhoyzgBah14AtJ3SY2rTwomonk", "sym": "MONK", "reason": "vol1h 30<40k"}
+{"t": "2026-11-13 16:25:43 WIB", "mint": "BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump", "sym": "Sakura", "reason": "liq 8367<20k"}
+{"t": "2026-11-13 16:26:30 WIB", "mint": "67Dgt5zyaFb4GvrnELcickzx9E8mrw5DL3DZUzofpump", "sym": "CHARITY", "reason": "vol1h 1<40k"}
+{"t": "2026-11-13 16:26:32 WIB", "mint": "45yf6UuhLUfkDKrNDUq4WSiLxb1e1NiggpyWjiRKpump", "sym": "WRENCHP", "reason": "score 0.504<0.6"}
+{"t": "2026-11-13 16:27:18 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 1739<40k"}
+{"t": "2026-11-13 16:27:20 WIB", "mint": "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump", "sym": "Huang", "reason": "vol1h 11784<40k"}
