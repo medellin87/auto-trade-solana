@@ -18248,3 +18248,7 @@
 {"t": "2026-11-14 05:25:18 WIB", "mint": "7tG7juY93T6CMn5xVzw5JXa9d8bCRSQP5SfesgGYpump", "sym": "KIWI", "reason": "liq 0<20k"}
 {"t": "2026-11-14 05:25:20 WIB", "mint": "6ecErXaEmQ1xb2NdPq6DkxQhJkMaFwzwDBBeki6zpump", "sym": "HANG", "reason": "vol1h 5536<40k"}
 {"t": "2026-11-14 05:26:07 WIB", "mint": "DaL9WdYDa7pLf1eSHuGGwHtKWDpStUFpBpjudT9Hpump", "sym": "ADC", "reason": "vol1h 1027<40k"}
+{"t": "2026-11-14 05:27:38 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 05:28:25 WIB", "mint": "2Ak9SudAFSeVPR2gCwBUQMabKtz39hZMkWBiyZBxpump", "sym": "mihoe", "reason": "vol1h 3315<40k"}
+{"t": "2026-11-14 05:28:26 WIB", "mint": "HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS", "sym": "Ansemmas", "reason": "vol1h 8247<40k"}
+{"t": "2026-11-14 05:29:13 WIB", "mint": "DoxBUm4K1yfBdyX4JSBKmgNxZ4e8dFqtZHebGNZFwFNc", "sym": "Dacity", "reason": "vol1h 0<40k"}
