@@ -16361,3 +16361,6 @@
 {"t": "2026-11-13 10:07:17 WIB", "mint": "CXvoRriW4Dzw9n4EzLR1gYeuY8J8wga6M2efzP8qpump", "sym": "zero", "reason": "liq 8893<20k"}
 {"t": "2026-11-13 10:08:03 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 14210<40k"}
 {"t": "2026-11-13 10:08:05 WIB", "mint": "ErTBzXHZ1Gqss99KEq4QwaBqHrUZt7dHzgd89t7TwU7d", "sym": "JewForce", "reason": "vol1h 5578<40k"}
+{"t": "2026-11-13 10:08:52 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 538<40k"}
+{"t": "2026-11-13 10:10:23 WIB", "mint": "7eETWYjUsb49xv87UoViovfdKKywo8keuDdqtFjDdium", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-13 10:11:10 WIB", "mint": "4CWicFTfu5vs7nZd649J81skDM6yBMi94mMxRuyJpump", "sym": "Work", "reason": "vol1h 87<40k"}
