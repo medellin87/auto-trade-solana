@@ -18109,3 +18109,8 @@
 {"t": "2026-11-14 04:10:04 WIB", "mint": "HcJGYDM5bS19fDSMUHNcH6wKP68kmHksNmXsTW2Wpump", "sym": "TOGO", "reason": "liq 1587<20k"}
 {"t": "2026-11-14 04:11:36 WIB", "mint": "3uYwQZ5CZX4Uo5TFEmSP2vg7Dm7YEc3c2U6sWDoUpump", "sym": "Bear", "reason": "liq 0<20k"}
 {"t": "2026-11-14 04:11:37 WIB", "mint": "EvFEmML8kyigRYULbRgDviTADfscyeVxLA3dP5jfpump", "sym": "Schwab", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 04:13:09 WIB", "mint": "7uicYHeMCTHQwdrqhgtP1Mpi7BcUkf5Z22yKJNR1pump", "sym": "BAG", "reason": "vol1h 26330<40k"}
+{"t": "2026-11-14 04:13:56 WIB", "mint": "Grby8aJfP58FGdgoh6tJoDknXUoJ5nXc3gsTBnTdF5dx", "sym": "FUCKYOUDEV", "reason": "vol1h 40<40k"}
+{"t": "2026-11-14 04:14:42 WIB", "mint": "Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump", "sym": "Bull", "reason": "vol1h 17545<40k"}
+{"t": "2026-11-14 04:15:29 WIB", "mint": "8wKxGgBLQYK2cy6bd273Luu3KW96Zq3aY2MZojcUpump", "sym": "BBTB", "reason": "liq 0<20k"}
+{"t": "2026-11-14 04:15:30 WIB", "mint": "4DQmFpadyHh3xvrkQwiGFSST9nDGTwdmDCKj4tzhpump", "sym": "$QUIT", "reason": "vol1h 426<40k"}
