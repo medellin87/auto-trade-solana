@@ -18390,3 +18390,5 @@
 {"t": "2026-11-14 06:39:56 WIB", "mint": "62MnzU6NVvGrVRLHyqKrwrSnCJsZGHm9bE8aHaB82ray", "sym": "DEFAULT", "reason": "vol1h 11354<40k"}
 {"t": "2026-11-14 06:39:58 WIB", "mint": "3kJoQ9Bi5UtNbmDn5zgP4mcpZjdAUmzGb2DrvjHTpump", "sym": "GENNY", "reason": "vol1h 111<40k"}
 {"t": "2026-11-14 06:40:45 WIB", "mint": "DnyM8ojRndhqLcptmELJj644N91gEDE6L2aFAfJ1ngEM", "sym": "Cloak", "reason": "vol1h 13<40k"}
+{"t": "2026-11-14 06:42:17 WIB", "mint": "BApgNbjD25PHFft8WNATeL6gwpFFucEn5VBg2VHDpump", "sym": "KOSMIK", "reason": "score 0.428<0.6"}
+{"t": "2026-11-14 06:42:18 WIB", "mint": "J4MsEuqfAnCFAE1E7zfN1MrK7X1msFHtGFTySXi2pump", "sym": "BC", "reason": "liq 15521<20k"}
