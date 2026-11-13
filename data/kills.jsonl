@@ -1,5 +1,3 @@
-{"t": "2026-11-13 11:27:24 WIB", "mint": "ACH7GW9TuyxrfHEACJs6NyHVbCRnNkRpvyt6cRHKpump", "sym": "HOPE", "reason": "vol1h 0<40k"}
-{"t": "2026-11-13 11:28:55 WIB", "mint": "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump", "sym": "CHOP", "reason": "vol1h 1<40k"}
 {"t": "2026-11-13 11:28:57 WIB", "mint": "6p4ZRmb36ggUCox9R8eJ9Jva22doySgk6QVNrTFnpump", "sym": "364", "reason": "vol1h 27881<40k"}
 {"t": "2026-11-13 11:30:29 WIB", "mint": "AqAZDJG6K886fXptReHRnXc1JUJePDPWr1x3dwHbpump", "sym": "Ape", "reason": "vol1h 33814<40k"}
 {"t": "2026-11-13 11:31:15 WIB", "mint": "9azVa2sxrvM1meRA2ixEyyYNcYMoYQYgjtjmFczUpump", "sym": "ODDME", "reason": "liq 16911<20k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-13 11:48:25 WIB", "mint": "C94p8vSHWyKk7rTr6pNNBZomLhQsaBkradr41wvxpump", "sym": "LEAP", "reason": "vol1h 1<40k"}
 {"t": "2026-11-13 11:49:12 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 1608<40k"}
 {"t": "2026-11-13 11:49:14 WIB", "mint": "6rApYxwXudiazSJmsQFAwwRonq2S4aUzpLLd2KEq6464", "sym": "64", "reason": "vol1h 1<40k"}
+{"t": "2026-11-13 11:50:46 WIB", "mint": "32Zz5kvbdbg4jNvnhJ5kJCqiDLnr8XVWH7Ye93uipump", "sym": "ZEPHYRON", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-13 11:52:18 WIB", "mint": "31HzUsjzTt7FBCGnDy68cBnELayVsnd3zYEBtsXXpump", "sym": "TrumpWars", "reason": "vol1h 18615<40k"}
