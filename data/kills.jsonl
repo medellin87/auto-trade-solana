@@ -1,8 +1,3 @@
-{"t": "2026-11-14 01:59:15 WIB", "mint": "ANYq8tELPCSTvEjWVpxzgvtHu2K5vXFZZEmnNJfQpump", "sym": "Sakura", "reason": "vol1h 31093<40k"}
-{"t": "2026-11-14 01:59:16 WIB", "mint": "ASPrRmpyS2ZwvsghdJjQMZpkQDFb4tdMyDiWAec8J1wN", "sym": "MINGO", "reason": "vol1h 0<40k"}
-{"t": "2026-11-14 02:00:03 WIB", "mint": "9oJk7eMccQchx3evoN5C5pKQD5Xodb4C1qkhemjjpump", "sym": "POOR", "reason": "liq 12959<20k"}
-{"t": "2026-11-14 02:00:04 WIB", "mint": "FgGY3F2H38NzqcFHfHdrWXabMPN8yHaWEQ67dGoWpump", "sym": "cashduck", "reason": "liq 1601<20k"}
-{"t": "2026-11-14 02:00:06 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 675<40k"}
 {"t": "2026-11-14 02:01:38 WIB", "mint": "CGNZwBcDLi2MRsDN89kZHUo9f6kRk4JFSzqjNRFkpump", "sym": "Billy-Jo", "reason": "liq 0<20k"}
 {"t": "2026-11-14 02:02:24 WIB", "mint": "3rT7GQU91EAG3yMhELgk8MghoSPdGtp2esPqmUc9pump", "sym": "coal", "reason": "vol1h 30165<40k"}
 {"t": "2026-11-14 02:02:26 WIB", "mint": "FtSzfXi3gG9eGBs9fs5oPNc6DcVnbBXKkd4dYBc2pump", "sym": "GTAhouse", "reason": "vol1h 4376<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-14 02:12:45 WIB", "mint": "Grby8aJfP58FGdgoh6tJoDknXUoJ5nXc3gsTBnTdF5dx", "sym": "FUCKYOUDEV", "reason": "vol1h 94<40k"}
 {"t": "2026-11-14 02:15:02 WIB", "mint": "4DQmFpadyHh3xvrkQwiGFSST9nDGTwdmDCKj4tzhpump", "sym": "$QUIT", "reason": "vol1h 888<40k"}
 {"t": "2026-11-14 02:15:04 WIB", "mint": "Eq2imLVZe7XvYbMXbowgPCbd86PXYMe8hkZj6FA5pump", "sym": "NEKINU", "reason": "vol1h 30223<40k"}
+{"t": "2026-11-14 02:15:50 WIB", "mint": "9uweD2GyeZNNYfeLgHbXfCiVpZGH1AvAfHaFcreppump", "sym": "GME", "reason": "liq 0<20k"}
+{"t": "2026-11-14 02:16:37 WIB", "mint": "FPXcxfcqHC5YsjcYSGgzC2aVixQLDMB1FYY59nmTpump", "sym": "ONE", "reason": "vol1h 119<40k"}
+{"t": "2026-11-14 02:17:23 WIB", "mint": "126eZsRhGoKz3GN4qoiP3STwoTnbAF1sYYwPyg2Tpump", "sym": "Community", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 02:18:10 WIB", "mint": "HBFXQ147s9VN62DmUvfWAkRApTPzaR8saHcCVCgrpump", "sym": "SIRIUS", "reason": "liq 1624<20k"}
+{"t": "2026-11-14 02:18:12 WIB", "mint": "31P9SpMYCa9t1gPnVmDjWm5ezViLKuo6fy5Wrxsbpump", "sym": "CoinShift", "reason": "vol1h 34008<40k"}
