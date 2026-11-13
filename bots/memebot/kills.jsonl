@@ -17593,3 +17593,8 @@
 {"t": "2026-11-13 23:03:36 WIB", "mint": "8xxs5Ye9zeKCbxun9oRQXtd8gyu3DN1YCKyz4d1gpump", "sym": "CLAWD", "reason": "liq 0<20k"}
 {"t": "2026-11-13 23:03:38 WIB", "mint": "CczMv6GBMyFgybUKgRrbUxPwYrju7vqJv5L9FR2Hpump", "sym": "RWA", "reason": "liq 1555<20k"}
 {"t": "2026-11-13 23:03:39 WIB", "mint": "2KbYJiBRLqWakPj5uvwnGsySA7VKxW4pSEidSkSHpump", "sym": "PILL", "reason": "vol1h 31686<40k"}
+{"t": "2026-11-13 23:04:28 WIB", "mint": "5Gugs1nJXPcfBLNT8JCpW658H5EcvWMcY2KHVc67pump", "sym": "BREAD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-13 23:04:33 WIB", "mint": "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump", "sym": "Huang", "reason": "score 0.336<0.6"}
+{"t": "2026-11-13 23:06:04 WIB", "mint": "ZEZr9GMaP65S7a4mYMmVgxJaQGtkdpxEW4hp3UQpump", "sym": "PEARL", "reason": "liq 0<20k"}
+{"t": "2026-11-13 23:06:06 WIB", "mint": "2hwaRQs4WqThnp26XLpch5MBZhAHqses3vSv1Bkupump", "sym": "GTA 6.0", "reason": "vol1h 1738<40k"}
+{"t": "2026-11-13 23:06:10 WIB", "mint": "D5iFK16YmcHH55K5Lywuu1aptfGvUNXf46DDrmKxpump", "sym": "WHEEL", "reason": "vol1h 33415<40k"}
