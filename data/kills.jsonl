@@ -1,9 +1,3 @@
-{"t": "2026-11-13 23:44:37 WIB", "mint": "FPXcxfcqHC5YsjcYSGgzC2aVixQLDMB1FYY59nmTpump", "sym": "ONE", "reason": "vol1h 26732<40k"}
-{"t": "2026-11-13 23:45:24 WIB", "mint": "5Byw32aMp2q9rLEdDqNhpbaSjoNQC2hVCZF7R5nxpump", "sym": "GTA", "reason": "score 0.486<0.6"}
-{"t": "2026-11-13 23:46:11 WIB", "mint": "DmjAMfGitYb5NwVrWwJLfFe5GWijYddDk4MTFhmYpump", "sym": "RINGER", "reason": "vol1h 38262<40k"}
-{"t": "2026-11-13 23:46:13 WIB", "mint": "F37BKMyLrJxpHAmLcsQxza4f1uwPyCAmMmaeA2C7pump", "sym": "JENSEN", "reason": "score 0.598<0.6"}
-{"t": "2026-11-13 23:46:59 WIB", "mint": "6S3iL67jVJc7PPPfcys1A2Pw5edoPBbYjaMZuJJipump", "sym": "BOOK", "reason": "vol1h 0<40k"}
-{"t": "2026-11-13 23:47:46 WIB", "mint": "CMYb1BRKQyJBVRkrFdATB14PM62JbULzHsgbozGs2Sqx", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-13 23:47:50 WIB", "mint": "AtNQd9BgiZKZAsQxSjCPwHwGSGEuAxUuwKuqUJ6cpump", "sym": "BREAD", "reason": "vol1h 35991<40k"}
 {"t": "2026-11-13 23:47:51 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 4099<40k"}
 {"t": "2026-11-13 23:48:40 WIB", "mint": "6QKGbXkrY1FuGc73whpjJgNxWjHA8NfcB2SiQ6kWpump", "sym": "XBT", "reason": "vol1h 4<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-14 00:00:28 WIB", "mint": "HuK6pCnAfahAPbHjS8fSPddCsmjLSV7mYahwpmZgpump", "sym": "PLEDGE", "reason": "liq 0<20k"}
 {"t": "2026-11-14 00:01:59 WIB", "mint": "2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump", "sym": "FASTMOON", "reason": "vol1h 37791<40k"}
 {"t": "2026-11-14 00:02:01 WIB", "mint": "BGdgAWDxZxBhb8CU8DrxchfnLmfpZq9kpZVSd1wupump", "sym": "TITTYVERSE", "reason": "liq 1614<20k"}
+{"t": "2026-11-14 00:03:32 WIB", "mint": "UNbT74tbUhtPM8YWmBTbWk9JxbAeNQCQP89jjWnpump", "sym": "SOLMAS", "reason": "vol1h 2234<40k"}
+{"t": "2026-11-14 00:04:19 WIB", "mint": "CczMv6GBMyFgybUKgRrbUxPwYrju7vqJv5L9FR2Hpump", "sym": "RWA", "reason": "vol1h 51<40k"}
+{"t": "2026-11-14 00:04:21 WIB", "mint": "8xxs5Ye9zeKCbxun9oRQXtd8gyu3DN1YCKyz4d1gpump", "sym": "CLAWD", "reason": "vol1h 123<40k"}
+{"t": "2026-11-14 00:04:22 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 10033<40k"}
+{"t": "2026-11-14 00:04:24 WIB", "mint": "BeLVQE2tK7fVvg6EpVgUzUWhSi95XpL7mqJM3nANpump", "sym": "WANTED", "reason": "score 0.594<0.6"}
+{"t": "2026-11-14 00:05:11 WIB", "mint": "5Gugs1nJXPcfBLNT8JCpW658H5EcvWMcY2KHVc67pump", "sym": "BREAD", "reason": "liq 0<20k"}
