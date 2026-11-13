@@ -16128,3 +16128,5 @@
 {"t": "2026-11-13 07:43:38 WIB", "mint": "3pM95aXnSDZXtSr5TUzk4wgMaviDH6ECHT311FaCpump", "sym": "man", "reason": "liq 0<20k"}
 {"t": "2026-11-13 07:45:57 WIB", "mint": "6rApYxwXudiazSJmsQFAwwRonq2S4aUzpLLd2KEq6464", "sym": "64", "reason": "vol1h 0<40k"}
 {"t": "2026-11-13 07:45:58 WIB", "mint": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k", "sym": "jeff", "reason": "vol1h 29830<40k"}
+{"t": "2026-11-13 07:48:15 WIB", "mint": "DgGtue9kwdwczN4Ri5MH6VfqQAmkXGQSpwee2s9qpump", "sym": "NEXUS", "reason": "liq 0<20k"}
+{"t": "2026-11-13 07:49:02 WIB", "mint": "86iWHJWYqM89SZmsGDz1tKpf3FmD1fqHm7rp6QDnpump", "sym": "ROCCO", "reason": "vol1h 5549<40k"}
