@@ -16364,3 +16364,9 @@
 {"t": "2026-11-13 10:08:52 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 538<40k"}
 {"t": "2026-11-13 10:10:23 WIB", "mint": "7eETWYjUsb49xv87UoViovfdKKywo8keuDdqtFjDdium", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-13 10:11:10 WIB", "mint": "4CWicFTfu5vs7nZd649J81skDM6yBMi94mMxRuyJpump", "sym": "Work", "reason": "vol1h 87<40k"}
+{"t": "2026-11-13 10:11:57 WIB", "mint": "EBreGKiKWYuaY54KsDJGKCTNuT2tSnYuU7MDPrDupump", "sym": "TaoTao", "reason": "vol1h 0<40k"}
+{"t": "2026-11-13 10:11:58 WIB", "mint": "8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump", "sym": "WEALTH", "reason": "vol1h 2502<40k"}
+{"t": "2026-11-13 10:12:00 WIB", "mint": "AukQsM7suj8GVrM8Ng7wJviTT1WvjMLVdv644oefpump", "sym": "SID", "reason": "liq 0<20k"}
+{"t": "2026-11-13 10:12:46 WIB", "mint": "DMiBmfbaBjzRNrjoFLdiu2eeK4b7CWQTjT35gM4rpump", "sym": "$MOONBEAR", "reason": "vol1h 5<40k"}
+{"t": "2026-11-13 10:13:33 WIB", "mint": "57t5RgLMkCNrLiKMihYQNGGxp2Nt1bkE3kNFfX98kDdz", "sym": "$BEAR", "reason": "vol1h 6<40k"}
+{"t": "2026-11-13 10:14:20 WIB", "mint": "2vtgUpKmwTMmiJomQPaXhoipyKvWJckDkyRNTcntwSSj", "sym": "Crack", "reason": "liq 5668<20k"}
