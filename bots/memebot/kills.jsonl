@@ -18206,3 +18206,10 @@
 {"t": "2026-11-14 05:02:19 WIB", "mint": "8HXgBHhhSbro7UuSSAvyQ6X6Sc14zvv4hBwcRx4iZTUY", "sym": "Together", "reason": "vol1h 3010<40k"}
 {"t": "2026-11-14 05:03:50 WIB", "mint": "HWfEjmhZKTxwSEr9dULePombTFJZwXtA3dft3jiNpump", "sym": "PPA", "reason": "liq 2476<20k"}
 {"t": "2026-11-14 05:04:37 WIB", "mint": "CGeqbrTESrLDDeCrkLMCpV6PZLJVUGsQpmANnLY7pump", "sym": "PP", "reason": "vol1h 1140<40k"}
+{"t": "2026-11-14 05:05:28 WIB", "mint": "2BoA4X8DzLC8m6Y2nKNakchgF6VaTAyQKwQEbDNYpump", "sym": "copycat", "reason": "liq 0<20k"}
+{"t": "2026-11-14 05:06:14 WIB", "mint": "7sGdNQSvUGpahh6qyXB3g5gsdK9FAzZM299KyCXspump", "sym": "https", "reason": "vol1h 1397<40k"}
+{"t": "2026-11-14 05:06:16 WIB", "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump", "sym": "GR00T2", "reason": "score 0.373<0.6"}
+{"t": "2026-11-14 05:06:18 WIB", "mint": "UNbT74tbUhtPM8YWmBTbWk9JxbAeNQCQP89jjWnpump", "sym": "SOLMAS", "reason": "vol1h 2168<40k"}
+{"t": "2026-11-14 05:07:05 WIB", "mint": "BeLVQE2tK7fVvg6EpVgUzUWhSi95XpL7mqJM3nANpump", "sym": "WANTED", "reason": "score 0.485<0.6"}
+{"t": "2026-11-14 05:07:06 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 12281<40k"}
+{"t": "2026-11-14 05:07:53 WIB", "mint": "6DN9qkg45N7GWvS46zYvUf6ADDYLc9FWYyWim28ut49X", "sym": "CWW", "reason": "liq 5734<20k"}
