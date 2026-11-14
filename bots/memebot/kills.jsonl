@@ -18426,3 +18426,11 @@
 {"t": "2026-11-14 07:04:15 WIB", "mint": "FuURNNJKHYwENbbiJ7ENLhgogPGh87w9ggrArgDtSCH", "sym": "SCH", "reason": "liq 11214<20k"}
 {"t": "2026-11-14 07:05:01 WIB", "mint": "CGeqbrTESrLDDeCrkLMCpV6PZLJVUGsQpmANnLY7pump", "sym": "PP", "reason": "vol1h 649<40k"}
 {"t": "2026-11-14 07:05:04 WIB", "mint": "HWya5CpQiQWLnJfJVRDF9o8AHaUPnPMRa3vfQRczpump", "sym": "AMC", "reason": "score 0.498<0.6"}
+{"t": "2026-11-14 07:05:50 WIB", "mint": "HTp4PKiZ6wwusNKDdDqJYhoP58bMDneME2E9z8cJpump", "sym": "IFO", "reason": "liq 12131<20k"}
+{"t": "2026-11-14 07:05:52 WIB", "mint": "FXUgyvd5zPa4vqjf4WTd1ig4c6VwrJJCF4Kw518bpump", "sym": "BAGS", "reason": "vol1h 20392<40k"}
+{"t": "2026-11-14 07:05:53 WIB", "mint": "GbeRhdFYmEcKM7QYvxTNNojiHgwWi5oPJd7od8gFpump", "sym": "DEFAULT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 07:05:55 WIB", "mint": "EGBjhLVAwVr1axmoAGaMdzphgny6Zcj3sd5XpZfSpump", "sym": "CYBERWAR", "reason": "vol1h 9621<40k"}
+{"t": "2026-11-14 07:06:41 WIB", "mint": "7sGdNQSvUGpahh6qyXB3g5gsdK9FAzZM299KyCXspump", "sym": "https", "reason": "vol1h 460<40k"}
+{"t": "2026-11-14 07:06:43 WIB", "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump", "sym": "GR00T2", "reason": "vol1h 24744<40k"}
+{"t": "2026-11-14 07:08:15 WIB", "mint": "BrU2k7BknyH7Tc1WttMHjkoDbG9X9znkBuR6X3CSv12q", "sym": "CLOUT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 07:08:16 WIB", "mint": "HqbtT1MBhoCaZBZ5byqXSZzJdhPNtoF8KrJ4ZZdepump", "sym": "GTA", "reason": "vol1h 4269<40k"}
