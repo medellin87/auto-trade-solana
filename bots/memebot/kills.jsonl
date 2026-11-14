@@ -19978,3 +19978,7 @@
 {"t": "2026-11-14 22:22:59 WIB", "mint": "6T8QbFuULVxy2BC9kPa7QAvJ5jQSi8xrjBFhzrfFpump", "sym": "Ballfin", "reason": "liq 1489<20k"}
 {"t": "2026-11-14 22:23:46 WIB", "mint": "B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump", "sym": "JENSEN", "reason": "score 0.446<0.6"}
 {"t": "2026-11-14 22:23:48 WIB", "mint": "8WLQAVQW1kr4q43nUBEQNZnfwCVxAbELMsc7ZsSbpump", "sym": "GTAVIME", "reason": "vol1h 6267<40k"}
+{"t": "2026-11-14 22:25:19 WIB", "mint": "HJWMayjf5H6EzuNTbpk4uq9Dfp4P5CLnjZCpZvKHpump", "sym": "BLACKOUT", "reason": "vol1h 13384<40k"}
+{"t": "2026-11-14 22:25:21 WIB", "mint": "3tjPCXfx3KrgMY53yo7pa67D2QQZMbLTRaqQckJmpump", "sym": "VTC", "reason": "vol1h 9683<40k"}
+{"t": "2026-11-14 22:26:08 WIB", "mint": "97o3Kb9R7hMjHW6o9BunWk4jF1dFLhCpydPmh64npump", "sym": "DYC", "reason": "vol1h 14624<40k"}
+{"t": "2026-11-14 22:26:09 WIB", "mint": "7x8HCyf5Z3JYWXmC7p6C4w11Hw6JAXFEiZy6PCDBpump", "sym": "SCRAP", "reason": "vol1h 1038<40k"}
