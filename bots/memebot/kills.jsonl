@@ -15483,3 +15483,10 @@
 {"t": "2026-11-15 03:26:19 WIB", "mint": "D4EuJvbpnD1vd6LT2DFackhBZRRMhc8ZBTEMbGjYpump", "sym": "Soly", "reason": "vol1h 126<40k"}
 {"t": "2026-11-15 03:26:21 WIB", "mint": "HJWMayjf5H6EzuNTbpk4uq9Dfp4P5CLnjZCpZvKHpump", "sym": "BLACKOUT", "reason": "vol1h 207<40k"}
 {"t": "2026-11-15 03:27:52 WIB", "mint": "F82MdJHkpFYW9kbokK9wq2xXYnB4BTkCYaWEi3WTpump", "sym": "vice", "reason": "liq 0<20k"}
+{"t": "2026-11-15 03:29:25 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.541<0.6"}
+{"t": "2026-11-15 03:30:11 WIB", "mint": "GEppMmnXswv1cqJBMUU2t8QkB2FCRrQUQb1v7K3xpump", "sym": "PROMETHEUS", "reason": "vol1h 16702<40k"}
+{"t": "2026-11-15 03:30:14 WIB", "mint": "B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump", "sym": "JENSEN", "reason": "score 0.47<0.6"}
+{"t": "2026-11-15 03:31:00 WIB", "mint": "8dbLrW3ZTTu4qeAKYYBjuuSSAPhMvABwUes3eWoXpump", "sym": "FiveM", "reason": "vol1h 3774<40k"}
+{"t": "2026-11-15 03:31:02 WIB", "mint": "Bv8gmCuYj6CuamVbaytzYRd9Ncgmc5dyoefLCknjpump", "sym": "\u308b\u30dd\u30c6\u30c1", "reason": "vol1h 6150<40k"}
+{"t": "2026-11-15 03:31:03 WIB", "mint": "7tmCCpf3TghHJpn9a6CXuD2L85T1JdMApyUDju5sJWhw", "sym": "#dat", "reason": "vol1h 2380<40k"}
+{"t": "2026-11-15 03:31:50 WIB", "mint": "27sDLLwdhfd4bAn3Lq8KfEoaie2924vRbQsyjdjjpump", "sym": "greg", "reason": "liq 13536<20k"}
