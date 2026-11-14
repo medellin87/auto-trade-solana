@@ -19585,3 +19585,8 @@
 {"t": "2026-11-14 18:26:33 WIB", "mint": "BfsASGT1JGN3aD3kjW8LEGpDFFFQMP5gNSLTqfLHpump", "sym": "ASCII", "reason": "liq 0<20k"}
 {"t": "2026-11-14 18:26:34 WIB", "mint": "Cmf39V6XDhnWf4C7VMwyACBZgJX8K3ztVJ4GeUF4pump", "sym": "COA", "reason": "vol1h 56<40k"}
 {"t": "2026-11-14 18:27:21 WIB", "mint": "GR1TVGf6nXVTdeKph5wwe9JcRtX78dwBKD8pjF6Upump", "sym": "Mymo", "reason": "vol1h 7282<40k"}
+{"t": "2026-11-14 18:28:53 WIB", "mint": "7S5t7eZqrfef2dGjTLBGDDYE57Secf1rJS7fM3Vzpump", "sym": "COINSIDE", "reason": "vol1h 598<40k"}
+{"t": "2026-11-14 18:30:24 WIB", "mint": "E1tUCdWjZLBqc3dQPuSiLrZN6YJDy7VPRSKBGZEfpump", "sym": "Miku", "reason": "vol1h 557<40k"}
+{"t": "2026-11-14 18:31:11 WIB", "mint": "3N2h8Ymfos5sn9bRmJj7HAihsDQVf1MjojUirVcwpump", "sym": "WAGMI ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 18:31:12 WIB", "mint": "5uLFMaUwyCny1XLAXYmtbm4zgiazEUVNXKkVXHoPpump", "sym": "SHARK", "reason": "liq 0<20k"}
+{"t": "2026-11-14 18:31:14 WIB", "mint": "DTvjmmYHBaBbFWexRBMwwyXxe2xPo6LjVjUBynd8pump", "sym": "MYRON", "reason": "vol1h 853<40k"}
