@@ -18989,3 +18989,6 @@
 {"t": "2026-11-14 12:28:32 WIB", "mint": "HJWMayjf5H6EzuNTbpk4uq9Dfp4P5CLnjZCpZvKHpump", "sym": "BLACKOUT", "reason": "vol1h 9972<40k"}
 {"t": "2026-11-14 12:29:18 WIB", "mint": "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump", "sym": "chudhaos", "reason": "vol1h 8784<40k"}
 {"t": "2026-11-14 12:30:05 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 2641<40k"}
+{"t": "2026-11-14 12:32:22 WIB", "mint": "m7SihqeaWimE1zpBzjHBwKJbbhuaczX5fHvGoNupump", "sym": "PEACEFROG", "reason": "vol1h 4016<40k"}
+{"t": "2026-11-14 12:32:24 WIB", "mint": "DCgYFfi7kwYW3xsXf7sbVcX6AwWbbpPqhBboGM3npump", "sym": "DWW", "reason": "liq 0<20k"}
+{"t": "2026-11-14 12:32:25 WIB", "mint": "4Z5ws6ZijX9vhjUoJZPjszbrwUWcawA18pPzTk2mpump", "sym": "Bear", "reason": "vol1h 18<40k"}
