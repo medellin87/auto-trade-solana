@@ -19527,3 +19527,8 @@
 {"t": "2026-11-14 17:48:10 WIB", "mint": "Aq38XaBAkzAtwbpvFKEzKg9hp1eZrEFV5W9H6XJjFUND", "sym": "FUND", "reason": "score 0.573<0.6"}
 {"t": "2026-11-14 17:48:12 WIB", "mint": "B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump", "sym": "JENSEN", "reason": "score 0.516<0.6"}
 {"t": "2026-11-14 17:48:14 WIB", "mint": "BRqhHDb5tvG6rw3TcrqPV9RpNKkARbUGjFR1AvUipump", "sym": "tinfoilcat", "reason": "vol1h 586<40k"}
+{"t": "2026-11-14 17:49:00 WIB", "mint": "Gc5xVFakyykCrMw1RyFUPqgTWBZf5YyHsSubxnNpump", "sym": "CYBEER", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 17:49:47 WIB", "mint": "HLNfRydLB2kMF8T6e2k2xdso5G3QnfD9Df5xtbmRpump", "sym": "OCC", "reason": "vol1h 4201<40k"}
+{"t": "2026-11-14 17:50:34 WIB", "mint": "Eu86dUctNwW5BvobkhBZ5oene9VqUw1DTmu163CXpump", "sym": "SWAMIS", "reason": "vol1h 1473<40k"}
+{"t": "2026-11-14 17:50:35 WIB", "mint": "7x8HCyf5Z3JYWXmC7p6C4w11Hw6JAXFEiZy6PCDBpump", "sym": "SCRAP", "reason": "vol1h 14304<40k"}
+{"t": "2026-11-14 17:51:22 WIB", "mint": "8Rw4eLpMLERvk8UbigacCKLMu7TapWrZ7qWRZHYYpump", "sym": "COP", "reason": "vol1h 498<40k"}
