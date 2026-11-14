@@ -1,6 +1,3 @@
-{"t": "2026-11-14 10:48:42 WIB", "mint": "B2ZEBWb7v3E5KZ9awtJhAWsxPiVptWCBUs4SztH9pump", "sym": "STABLE", "reason": "vol1h 24478<40k"}
-{"t": "2026-11-14 10:48:44 WIB", "mint": "43Lgs3sVLmSb9Gz5JrqmVtZYfu8hTwZeaqT3PT1wpump", "sym": "WILL", "reason": "liq 0<20k"}
-{"t": "2026-11-14 10:49:31 WIB", "mint": "DMiBmfbaBjzRNrjoFLdiu2eeK4b7CWQTjT35gM4rpump", "sym": "$MOONBEAR", "reason": "vol1h 267<40k"}
 {"t": "2026-11-14 10:50:18 WIB", "mint": "DYPRau89Eo4dzMeMKiy8RmhJ8xCJGSmVCDoP6j96pump", "sym": "JAMES", "reason": "liq 9249<20k"}
 {"t": "2026-11-14 10:51:49 WIB", "mint": "5coEpE53g1rt3XzDA2DCkCHmE8RaHodrrs1bUAPZpump", "sym": "pichu", "reason": "vol1h 7287<40k"}
 {"t": "2026-11-14 10:51:51 WIB", "mint": "5dAoziszcMe9GUhtTf4sSaD2z39CYsUENVGDyk22pump", "sym": "BRED", "reason": "vol1h 0<40k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-14 11:03:44 WIB", "mint": "DWsutTNJSjG5mkhGsPevvT8xbRtVYQBLZdxqxm2Upump", "sym": "ASTRALIS", "reason": "risk:Creator history of rugged tokens"}
 {"t": "2026-11-14 11:06:02 WIB", "mint": "5ZDiuBxCLuAjjxSKiBdumQJ36P7Jd9mh5HFLY94Ppump", "sym": "Chunkee", "reason": "score 0.42<0.6"}
 {"t": "2026-11-14 11:06:03 WIB", "mint": "CGeqbrTESrLDDeCrkLMCpV6PZLJVUGsQpmANnLY7pump", "sym": "PP", "reason": "vol1h 43<40k"}
+{"t": "2026-11-14 11:07:36 WIB", "mint": "4B1mCGeSjTadzH7okALwdFm8taxoHbZBFCTA1nZRpump", "sym": "WOHAIHAO", "reason": "score 0.584<0.6"}
+{"t": "2026-11-14 11:09:08 WIB", "mint": "NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump", "sym": "Punch", "reason": "vol1h 2263<40k"}
+{"t": "2026-11-14 11:09:09 WIB", "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump", "sym": "GR00T2", "reason": "vol1h 11864<40k"}
