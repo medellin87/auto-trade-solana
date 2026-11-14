@@ -1,9 +1,3 @@
-{"t": "2026-11-15 01:04:56 WIB", "mint": "Cmf39V6XDhnWf4C7VMwyACBZgJX8K3ztVJ4GeUF4pump", "sym": "COA", "reason": "vol1h 10<40k"}
-{"t": "2026-11-15 01:04:57 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 3573<40k"}
-{"t": "2026-11-15 01:05:44 WIB", "mint": "GR1TVGf6nXVTdeKph5wwe9JcRtX78dwBKD8pjF6Upump", "sym": "Mymo", "reason": "vol1h 53<40k"}
-{"t": "2026-11-15 01:06:30 WIB", "mint": "BTCmcoKg6J767Bum7nXVDPLsWAZs3ZdYwTQr7YnXpump", "sym": "SIRIUS", "reason": "vol1h 2415<40k"}
-{"t": "2026-11-15 01:06:32 WIB", "mint": "JBzKyqHsb4Lt4Sw3i1FHNAWqunMyeBZXo3vBZwf5pump", "sym": "CJ", "reason": "vol1h 278<40k"}
-{"t": "2026-11-15 01:06:33 WIB", "mint": "8yHPExxnmrXsbqSvmouMD5u829HuMgkTjpcvb4BUvWqb", "sym": "PEGGY", "reason": "vol1h 34892<40k"}
 {"t": "2026-11-15 01:07:20 WIB", "mint": "J1FzSK994tauaHKPWhZmiYxV6zpdtVP4zvPS1FCopump", "sym": "PCAT", "reason": "vol1h 6<40k"}
 {"t": "2026-11-15 01:07:21 WIB", "mint": "DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump", "sym": "1$", "reason": "liq 10114<20k"}
 {"t": "2026-11-15 01:08:08 WIB", "mint": "8QYvskUhq7VaZX2PwJaMKT2Lua1Kr9w4yva2fi1Bpump", "sym": "GR00T2", "reason": "vol1h 0<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-15 01:20:38 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 22<40k"}
 {"t": "2026-11-15 01:22:10 WIB", "mint": "8rhMpKF6anKBeX9Hd4PuB8HQ8uNkV8HtNEKKWEMXo4pR", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-15 01:22:11 WIB", "mint": "5bzT7x5nYZx3grnRaL6cDRQuSKxEWDVwh2WUxd91pump", "sym": "Angel", "reason": "liq 19096<20k"}
+{"t": "2026-11-15 01:22:58 WIB", "mint": "Bqi6MPNQYR1DchXBkxZT2RD3uY7DauXwFwtjB3Zbpump", "sym": "DYC", "reason": "vol1h 2068<40k"}
+{"t": "2026-11-15 01:23:44 WIB", "mint": "FwDis4L6X1WsdsjyAe6JZcwJHAjPnWELuaAn29evACTX", "sym": "ACTX", "reason": "vol1h 0<40k"}
+{"t": "2026-11-15 01:23:46 WIB", "mint": "6sZUjgnHTdezsZoMdbTcxsi58bXqnsz6mkj49Wgxpump", "sym": "SHIT", "reason": "score 0.401<0.6"}
+{"t": "2026-11-15 01:24:33 WIB", "mint": "m7SihqeaWimE1zpBzjHBwKJbbhuaczX5fHvGoNupump", "sym": "PEACEFROG", "reason": "vol1h 7521<40k"}
+{"t": "2026-11-15 01:24:34 WIB", "mint": "ChjHoRfhrzZzW5yLm2h61hPx2AeSZ3XCG8dvYRVpump", "sym": "Linus", "reason": "vol1h 1<40k"}
+{"t": "2026-11-15 01:24:36 WIB", "mint": "D9aauUXuGDVZBm1E5DCUuRWMDEBPhNBwujWeF8tApump", "sym": "Spike", "reason": "liq 1348<20k"}
