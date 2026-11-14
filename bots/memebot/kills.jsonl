@@ -15244,3 +15244,6 @@
 {"t": "2026-11-15 00:58:42 WIB", "mint": "92Uq2NGHAGt2AQQig8SdLPDuKgsP3nkodcybE41vpump", "sym": "PUMP2.0", "reason": "vol1h 558<40k"}
 {"t": "2026-11-15 00:58:44 WIB", "mint": "CCY5oqGFmbGGDyMC3bg6rHxy22yVrPQAsQDUMHoxpump", "sym": "Spike", "reason": "vol1h 26499<40k"}
 {"t": "2026-11-15 00:59:32 WIB", "mint": "7x8HCyf5Z3JYWXmC7p6C4w11Hw6JAXFEiZy6PCDBpump", "sym": "SCRAP", "reason": "vol1h 489<40k"}
+{"t": "2026-11-15 01:01:04 WIB", "mint": "GeJn12qReXsBZhH8XtLguMWguQeoNHER55uUQXyApump", "sym": "VCC", "reason": "vol1h 31438<40k"}
+{"t": "2026-11-15 01:01:06 WIB", "mint": "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK", "sym": "gtacoin", "reason": "score 0.478<0.6"}
+{"t": "2026-11-15 01:02:37 WIB", "mint": "7TpHN3dMcvXXDwcjFkyrGMyaP81QTtbnFBeBgqtzpump", "sym": "GTA7", "reason": "vol1h 1355<40k"}
