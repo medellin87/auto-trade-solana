@@ -19920,3 +19920,6 @@
 {"t": "2026-11-14 21:46:52 WIB", "mint": "EdbSgqJFTz1wEezEzdX9PiNoZUWi5H1rfXGnEyvZpump", "sym": "C", "reason": "liq 11032<20k"}
 {"t": "2026-11-14 21:46:54 WIB", "mint": "8JNcbK2bWFxQnZsR6xQtgB3en7DcFSXW5xSyh6fYpump", "sym": "SLIDES", "reason": "score 0.376<0.6"}
 {"t": "2026-11-14 21:46:55 WIB", "mint": "FCvVMgoevejxgheyHEQHbWiEZcpMwTSFLX6CMSAdpump", "sym": "TLR", "reason": "liq 0<20k"}
+{"t": "2026-11-14 21:49:12 WIB", "mint": "8azHd6ZpAdpyFzGAaNkofyKhr19RWNNquSC8bAGEpump", "sym": "ZAPZEKE", "reason": "liq 1880<20k"}
+{"t": "2026-11-14 21:49:13 WIB", "mint": "DaSQWTWPBJUiF7PWc6Ucu9AqseSWmTVN5xfmRZxXpump", "sym": "PI", "reason": "vol1h 37094<40k"}
+{"t": "2026-11-14 21:50:00 WIB", "mint": "m7SihqeaWimE1zpBzjHBwKJbbhuaczX5fHvGoNupump", "sym": "PEACEFROG", "reason": "vol1h 3972<40k"}
