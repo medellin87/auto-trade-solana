@@ -1,8 +1,3 @@
-{"t": "2026-11-14 07:32:01 WIB", "mint": "49VVQVn7BgEUzD8yKhSHBHa6CAQnbgaP5QVTMKrQpump", "sym": "TOPBLAST", "reason": "vol1h 54<40k"}
-{"t": "2026-11-14 07:33:33 WIB", "mint": "EJSqDHgDAM3MGoRjinmypwS7H2dwq2SUFd12qwJnpump", "sym": "DaCat", "reason": "vol1h 2084<40k"}
-{"t": "2026-11-14 07:34:19 WIB", "mint": "FuURNNJKHYwENbbiJ7ENLhgogPGh87w9ggrArgDtSCH", "sym": "SCH", "reason": "liq 11473<20k"}
-{"t": "2026-11-14 07:35:06 WIB", "mint": "CGeqbrTESrLDDeCrkLMCpV6PZLJVUGsQpmANnLY7pump", "sym": "PP", "reason": "vol1h 621<40k"}
-{"t": "2026-11-14 07:35:08 WIB", "mint": "HWya5CpQiQWLnJfJVRDF9o8AHaUPnPMRa3vfQRczpump", "sym": "AMC", "reason": "score 0.515<0.6"}
 {"t": "2026-11-14 07:35:55 WIB", "mint": "HTp4PKiZ6wwusNKDdDqJYhoP58bMDneME2E9z8cJpump", "sym": "IFO", "reason": "liq 5793<20k"}
 {"t": "2026-11-14 07:35:56 WIB", "mint": "FXUgyvd5zPa4vqjf4WTd1ig4c6VwrJJCF4Kw518bpump", "sym": "BAGS", "reason": "vol1h 32368<40k"}
 {"t": "2026-11-14 07:35:58 WIB", "mint": "GbeRhdFYmEcKM7QYvxTNNojiHgwWi5oPJd7od8gFpump", "sym": "DEFAULT", "reason": "vol1h 3108<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-14 07:43:15 WIB", "mint": "5dnrZPYhBnMt31zzapPk21hL8PRtbfMn1a8pPHospump", "sym": "KOKO", "reason": "liq 0<20k"}
 {"t": "2026-11-14 07:45:32 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 4098<40k"}
 {"t": "2026-11-14 07:45:33 WIB", "mint": "HEfH9FaC2q5uMmqVLWqcqxjTUdoSZohJx5uhKHPHpump", "sym": "BOOBILLIONS", "reason": "liq 1476<20k"}
+{"t": "2026-11-14 07:46:20 WIB", "mint": "4DQmFpadyHh3xvrkQwiGFSST9nDGTwdmDCKj4tzhpump", "sym": "$QUIT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 07:46:21 WIB", "mint": "HMTwjQPHbf82woGKMwDyPHAxgpwVj4boFQPMwk5Bpump", "sym": "Blackout", "reason": "vol1h 14108<40k"}
+{"t": "2026-11-14 07:47:08 WIB", "mint": "DMiBmfbaBjzRNrjoFLdiu2eeK4b7CWQTjT35gM4rpump", "sym": "$MOONBEAR", "reason": "vol1h 428<40k"}
+{"t": "2026-11-14 07:47:10 WIB", "mint": "E9CXuEFQKrmFJ7ZxyiqwFM5DZFqacDnRRspUUDhgpump", "sym": "TILT", "reason": "liq 14191<20k"}
+{"t": "2026-11-14 07:47:58 WIB", "mint": "ErZcPNM8Zh2cY6qdvtEagBSg79SLixNdsMewg6mmpump", "sym": "WWZ", "reason": "vol1h 5264<40k"}
