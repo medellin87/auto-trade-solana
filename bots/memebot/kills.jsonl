@@ -15289,3 +15289,10 @@
 {"t": "2026-11-15 01:27:41 WIB", "mint": "4tJkwfaL1zBqBVDHHduLKyjxP6RYZG1Zxr4Wj1mLpump", "sym": "COIN", "reason": "vol1h 29<40k"}
 {"t": "2026-11-15 01:28:29 WIB", "mint": "8dbLrW3ZTTu4qeAKYYBjuuSSAPhMvABwUes3eWoXpump", "sym": "FiveM", "reason": "vol1h 2944<40k"}
 {"t": "2026-11-15 01:28:31 WIB", "mint": "Bv8gmCuYj6CuamVbaytzYRd9Ncgmc5dyoefLCknjpump", "sym": "\u308b\u30dd\u30c6\u30c1", "reason": "vol1h 18255<40k"}
+{"t": "2026-11-15 01:29:08 WIB", "mint": "CCY5oqGFmbGGDyMC3bg6rHxy22yVrPQAsQDUMHoxpump", "sym": "Spike", "reason": "vol1h 9315<40k"}
+{"t": "2026-11-15 01:29:10 WIB", "mint": "92Uq2NGHAGt2AQQig8SdLPDuKgsP3nkodcybE41vpump", "sym": "PUMP2.0", "reason": "vol1h 550<40k"}
+{"t": "2026-11-15 01:29:56 WIB", "mint": "7x8HCyf5Z3JYWXmC7p6C4w11Hw6JAXFEiZy6PCDBpump", "sym": "SCRAP", "reason": "vol1h 200<40k"}
+{"t": "2026-11-15 01:29:58 WIB", "mint": "FBwLNTQwVwZK4jQak7aGVYiLe7WPg7JCsJfKSADKpump", "sym": "YoungBull", "reason": "liq 18476<20k"}
+{"t": "2026-11-15 01:30:46 WIB", "mint": "fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump", "sym": "capy", "reason": "liq 14075<20k"}
+{"t": "2026-11-15 01:31:33 WIB", "mint": "GeJn12qReXsBZhH8XtLguMWguQeoNHER55uUQXyApump", "sym": "VCC", "reason": "liq 0<20k"}
+{"t": "2026-11-15 01:31:35 WIB", "mint": "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK", "sym": "gtacoin", "reason": "risk:Large Amount of LP Unlocked"}
