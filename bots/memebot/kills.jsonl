@@ -15377,3 +15377,6 @@
 {"t": "2026-11-15 02:21:03 WIB", "mint": "BcaSxPgaQZDnC5XgHS2vgVtF5NyeSkX1W65NoxWppump", "sym": "LANDED", "reason": "liq 0<20k"}
 {"t": "2026-11-15 02:21:04 WIB", "mint": "F2NAcpANcfyNTavfqo6djGZvSnUi2dbeW4HGgxEpump", "sym": "poorcat", "reason": "liq 1450<20k"}
 {"t": "2026-11-15 02:21:06 WIB", "mint": "ukWSz1Bx9ZPeQCU5UcFmP1nuVuDw1YRXNkxEphRmHj4", "sym": "GTA6", "reason": "vol1h 4258<40k"}
+{"t": "2026-11-15 02:21:52 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 14267<40k"}
+{"t": "2026-11-15 02:23:24 WIB", "mint": "5bzT7x5nYZx3grnRaL6cDRQuSKxEWDVwh2WUxd91pump", "sym": "Angel", "reason": "liq 15998<20k"}
+{"t": "2026-11-15 02:24:11 WIB", "mint": "Bqi6MPNQYR1DchXBkxZT2RD3uY7DauXwFwtjB3Zbpump", "sym": "DYC", "reason": "vol1h 3727<40k"}
