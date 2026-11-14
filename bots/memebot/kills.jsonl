@@ -18825,3 +18825,7 @@
 {"t": "2026-11-14 10:56:35 WIB", "mint": "4HwfkLiQtJYGUCb6Na9KVy6c8ScHjaJmgRXYpbghpump", "sym": "SWJ", "reason": "liq 1800<20k"}
 {"t": "2026-11-14 10:56:36 WIB", "mint": "CgwGf5EjivsWMxut2zHdi4RXkdeEXgZQkAAdmeCnpump", "sym": "turd", "reason": "liq 4730<20k"}
 {"t": "2026-11-14 10:57:23 WIB", "mint": "9T9JyZtJQjYNfSYvhMB4uXkPJLUv6MTfVRBNRq5Spump", "sym": "SUNBUCK", "reason": "vol1h 10057<40k"}
+{"t": "2026-11-14 10:58:10 WIB", "mint": "HJWMayjf5H6EzuNTbpk4uq9Dfp4P5CLnjZCpZvKHpump", "sym": "BLACKOUT", "reason": "vol1h 12510<40k"}
+{"t": "2026-11-14 10:58:57 WIB", "mint": "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump", "sym": "chudhaos", "reason": "LP locked 0%<90"}
+{"t": "2026-11-14 10:59:44 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 1249<40k"}
+{"t": "2026-11-14 11:00:30 WIB", "mint": "HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS", "sym": "Ansemmas", "reason": "vol1h 3428<40k"}
