@@ -1,8 +1,3 @@
-{"t": "2026-11-14 22:48:01 WIB", "mint": "FCvVMgoevejxgheyHEQHbWiEZcpMwTSFLX6CMSAdpump", "sym": "TLR", "reason": "vol1h 29889<40k"}
-{"t": "2026-11-14 22:48:02 WIB", "mint": "EdbSgqJFTz1wEezEzdX9PiNoZUWi5H1rfXGnEyvZpump", "sym": "C", "reason": "vol1h 35044<40k"}
-{"t": "2026-11-14 22:48:04 WIB", "mint": "8JNcbK2bWFxQnZsR6xQtgB3en7DcFSXW5xSyh6fYpump", "sym": "SLIDES", "reason": "score 0.499<0.6"}
-{"t": "2026-11-14 22:48:51 WIB", "mint": "8rhMpKF6anKBeX9Hd4PuB8HQ8uNkV8HtNEKKWEMXo4pR", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-14 22:49:37 WIB", "mint": "672SeLzgGkHWNJ9zRLqxWe4KEgHKcFPvmcB4dtkSpump", "sym": "YOUNGIN$", "reason": "vol1h 37265<40k"}
 {"t": "2026-11-14 22:50:24 WIB", "mint": "DaSQWTWPBJUiF7PWc6Ucu9AqseSWmTVN5xfmRZxXpump", "sym": "PI", "reason": "vol1h 2470<40k"}
 {"t": "2026-11-14 22:52:41 WIB", "mint": "5wU7osGtkG6NP1Fxqv83mFL4uuDmjvggrkGwuZiYpump", "sym": "VI", "reason": "liq 18338<20k"}
 {"t": "2026-11-14 22:52:42 WIB", "mint": "HiL9dY7xkioe9SrrjHNNt4Rdka5YrDyTfjnheA7Cpump", "sym": "goyangi", "reason": "vol1h 6177<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-14 23:03:46 WIB", "mint": "BTCmcoKg6J767Bum7nXVDPLsWAZs3ZdYwTQr7YnXpump", "sym": "SIRIUS", "reason": "vol1h 1432<40k"}
 {"t": "2026-11-14 23:03:47 WIB", "mint": "JBzKyqHsb4Lt4Sw3i1FHNAWqunMyeBZXo3vBZwf5pump", "sym": "CJ", "reason": "vol1h 3712<40k"}
 {"t": "2026-11-14 23:03:49 WIB", "mint": "9UEtRHFkgCkMNZLbK6Z6QNmnmcpZ7rfZW3FhaLwupump", "sym": "WASTED", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 23:05:21 WIB", "mint": "8QYvskUhq7VaZX2PwJaMKT2Lua1Kr9w4yva2fi1Bpump", "sym": "GR00T2", "reason": "risk:Low Liquidity"}
+{"t": "2026-11-14 23:06:07 WIB", "mint": "3N2h8Ymfos5sn9bRmJj7HAihsDQVf1MjojUirVcwpump", "sym": "WAGMI ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-14 23:06:09 WIB", "mint": "FvQHUAqNV4U8X559sFmjqSm6juzprVJLxgimNrKDaray", "sym": "FLAG", "reason": "vol1h 9686<40k"}
+{"t": "2026-11-14 23:06:55 WIB", "mint": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump", "sym": "Anakin", "reason": "vol1h 2496<40k"}
+{"t": "2026-11-14 23:06:57 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 982<40k"}
