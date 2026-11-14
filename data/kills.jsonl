@@ -1,11 +1,3 @@
-{"t": "2026-11-14 08:05:06 WIB", "mint": "CGeqbrTESrLDDeCrkLMCpV6PZLJVUGsQpmANnLY7pump", "sym": "PP", "reason": "vol1h 337<40k"}
-{"t": "2026-11-14 08:05:08 WIB", "mint": "HWya5CpQiQWLnJfJVRDF9o8AHaUPnPMRa3vfQRczpump", "sym": "AMC", "reason": "score 0.546<0.6"}
-{"t": "2026-11-14 08:05:55 WIB", "mint": "HTp4PKiZ6wwusNKDdDqJYhoP58bMDneME2E9z8cJpump", "sym": "IFO", "reason": "liq 3828<20k"}
-{"t": "2026-11-14 08:05:57 WIB", "mint": "GbeRhdFYmEcKM7QYvxTNNojiHgwWi5oPJd7od8gFpump", "sym": "DEFAULT", "reason": "vol1h 11<40k"}
-{"t": "2026-11-14 08:07:28 WIB", "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump", "sym": "GR00T2", "reason": "vol1h 8527<40k"}
-{"t": "2026-11-14 08:07:30 WIB", "mint": "NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump", "sym": "Punch", "reason": "vol1h 9911<40k"}
-{"t": "2026-11-14 08:09:02 WIB", "mint": "BrU2k7BknyH7Tc1WttMHjkoDbG9X9znkBuR6X3CSv12q", "sym": "CLOUT", "reason": "vol1h 15<40k"}
-{"t": "2026-11-14 08:09:03 WIB", "mint": "HqbtT1MBhoCaZBZ5byqXSZzJdhPNtoF8KrJ4ZZdepump", "sym": "GTA", "reason": "vol1h 2347<40k"}
 {"t": "2026-11-14 08:09:50 WIB", "mint": "3ttAXdqca9Fz6PCDQAZWeXh5YQ8wicLMFvQvEEXLPwZr", "sym": "PKONG", "reason": "vol1h 701<40k"}
 {"t": "2026-11-14 08:09:51 WIB", "mint": "3dq3xBZHXD9wwUD2xjetwh2S9JXUUPhZ2AJD26zkpump", "sym": "Sanctum", "reason": "vol1h 28148<40k"}
 {"t": "2026-11-14 08:09:53 WIB", "mint": "GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump", "sym": "rockstar", "reason": "vol1h 308<40k"}
@@ -28,3 +20,11 @@
 {"t": "2026-11-14 08:17:53 WIB", "mint": "DMiBmfbaBjzRNrjoFLdiu2eeK4b7CWQTjT35gM4rpump", "sym": "$MOONBEAR", "reason": "vol1h 386<40k"}
 {"t": "2026-11-14 08:17:54 WIB", "mint": "E9CXuEFQKrmFJ7ZxyiqwFM5DZFqacDnRRspUUDhgpump", "sym": "TILT", "reason": "liq 11977<20k"}
 {"t": "2026-11-14 08:18:43 WIB", "mint": "ErZcPNM8Zh2cY6qdvtEagBSg79SLixNdsMewg6mmpump", "sym": "WWZ", "reason": "vol1h 4605<40k"}
+{"t": "2026-11-14 08:20:15 WIB", "mint": "5dAoziszcMe9GUhtTf4sSaD2z39CYsUENVGDyk22pump", "sym": "BRED", "reason": "vol1h 25180<40k"}
+{"t": "2026-11-14 08:21:01 WIB", "mint": "7S5t7eZqrfef2dGjTLBGDDYE57Secf1rJS7fM3Vzpump", "sym": "COINSIDE", "reason": "liq 14575<20k"}
+{"t": "2026-11-14 08:21:03 WIB", "mint": "416sPL5fqhQpAJVboEQC5Yq52kY4VXzVY6y2GdJhcGnz", "sym": "NIHAO", "reason": "vol1h 1108<40k"}
+{"t": "2026-11-14 08:21:50 WIB", "mint": "7W7GEwDT2DXanwd5tFQzUzY5SGsE5VeXzK6Q8vT4dXqL", "sym": "BALLDO", "reason": "vol1h 155<40k"}
+{"t": "2026-11-14 08:21:51 WIB", "mint": "9NMpXjw3jGpqxp4DsbxQy1WdzScWjSYssSoeqTWzpump", "sym": "Sakura", "reason": "vol1h 273<40k"}
+{"t": "2026-11-14 08:22:38 WIB", "mint": "4tXXXy5LysuU8SHhdvoHBj9TYhXC1z2B5eS91EoXpump", "sym": "CARD", "reason": "vol1h 23984<40k"}
+{"t": "2026-11-14 08:22:39 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 233<40k"}
+{"t": "2026-11-14 08:22:41 WIB", "mint": "55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump", "sym": "Gato", "reason": "vol1h 5003<40k"}
