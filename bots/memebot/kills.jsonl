@@ -18516,3 +18516,7 @@
 {"t": "2026-11-14 07:50:17 WIB", "mint": "416sPL5fqhQpAJVboEQC5Yq52kY4VXzVY6y2GdJhcGnz", "sym": "NIHAO", "reason": "vol1h 1136<40k"}
 {"t": "2026-11-14 07:51:48 WIB", "mint": "7W7GEwDT2DXanwd5tFQzUzY5SGsE5VeXzK6Q8vT4dXqL", "sym": "BALLDO", "reason": "vol1h 459<40k"}
 {"t": "2026-11-14 07:51:50 WIB", "mint": "9NMpXjw3jGpqxp4DsbxQy1WdzScWjSYssSoeqTWzpump", "sym": "Sakura", "reason": "vol1h 253<40k"}
+{"t": "2026-11-14 07:52:36 WIB", "mint": "4tXXXy5LysuU8SHhdvoHBj9TYhXC1z2B5eS91EoXpump", "sym": "CARD", "reason": "liq 1951<20k"}
+{"t": "2026-11-14 07:52:38 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 672<40k"}
+{"t": "2026-11-14 07:52:40 WIB", "mint": "55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump", "sym": "Gato", "reason": "vol1h 2597<40k"}
+{"t": "2026-11-14 07:53:26 WIB", "mint": "Cf9C7D54ikZVyM9Qgj8VFa15tq4qoBcDjthKXCo5SAME", "sym": "SAME", "reason": "vol1h 0<40k"}
