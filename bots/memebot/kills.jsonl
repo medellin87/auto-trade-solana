@@ -17286,3 +17286,6 @@
 {"t": "2026-11-15 21:34:51 WIB", "mint": "3q56CG96osWwHntEDTpwVzCpLDdU33VSZxaLX75bpump", "sym": "PEBL", "reason": "liq 8936<20k"}
 {"t": "2026-11-15 21:35:38 WIB", "mint": "J1sHNawTwQrRCga3w5uREEwTbrDZKT5j6WobLQKZSDEX", "sym": "SDEX", "reason": "top10 73.1%>25"}
 {"t": "2026-11-15 21:35:39 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 2498<40k"}
+{"t": "2026-11-15 21:37:11 WIB", "mint": "8LBTmVfJxpjBDeggCdABThUrL6k67Q5XaEgEcoDoPMsG", "sym": "Oli", "reason": "vol1h 0<40k"}
+{"t": "2026-11-15 21:38:43 WIB", "mint": "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump", "sym": "rockstar", "reason": "top10 25.1%>25"}
+{"t": "2026-11-15 21:38:45 WIB", "mint": "AtopRHDkSZeeL1TC1pPP3bGLNooZXjoMeTNgHCSHRtYE", "sym": "CATMAS", "reason": "vol1h 12<40k"}
