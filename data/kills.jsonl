@@ -1,8 +1,3 @@
-{"t": "2026-11-15 12:52:29 WIB", "mint": "F63zJ8AM4RnHHxnHzGAPgM8Amv8KTSqG9knPd7yvpump", "sym": "HODL", "reason": "liq 5300<20k"}
-{"t": "2026-11-15 12:54:54 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 1579<40k"}
-{"t": "2026-11-15 12:54:56 WIB", "mint": "82Z6CcE5g3o1jW3vgtcqr95jP4XFx8jg1SJe8ikepump", "sym": "PANICSELL", "reason": "vol1h 4348<40k"}
-{"t": "2026-11-15 12:54:57 WIB", "mint": "2tHPtosmh76mmJHeskid7nYUeHjGUQ4ZAYChwdGJpump", "sym": "TAIL", "reason": "vol1h 23834<40k"}
-{"t": "2026-11-15 12:57:14 WIB", "mint": "FWLVzNmfB93FufNySK47M7jRbbeMaNxxkMj9k4FXpump", "sym": "Begcat", "reason": "vol1h 17365<40k"}
 {"t": "2026-11-15 12:57:16 WIB", "mint": "FThkP96RFL7NnuxTrrbhQza3keGQ4pVh5qGtHJ9Npump", "sym": "BOWSER", "reason": "vol1h 18989<40k"}
 {"t": "2026-11-15 12:57:17 WIB", "mint": "5jZ8CwUSVAAu6gYHB7hoacmoqNmDJtmbbrx2QrKVifUZ", "sym": "CHILL", "reason": "vol1h 0<40k"}
 {"t": "2026-11-15 12:57:19 WIB", "mint": "CXiFtcydRwRXhDp6YgUkzvjUvASFdbxHNRQfMCBfpump", "sym": "Ignore", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-15 13:05:21 WIB", "mint": "73YNnB2DJfWxwG8pMtvzog1B5RG4hXC7RoZHvYDCpump", "sym": "JENSEN", "reason": "vol1h 1230<40k"}
 {"t": "2026-11-15 13:06:53 WIB", "mint": "FMi6H3bXjTQBQ8CYirFwwDng7SiyLszJf9zY6pF9pump", "sym": "BlkSwan", "reason": "vol1h 0<40k"}
 {"t": "2026-11-15 13:07:39 WIB", "mint": "7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump", "sym": "SQUISHY", "reason": "vol1h 21<40k"}
+{"t": "2026-11-15 13:10:41 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 33180<40k"}
+{"t": "2026-11-15 13:10:43 WIB", "mint": "ANYq8tELPCSTvEjWVpxzgvtHu2K5vXFZZEmnNJfQpump", "sym": "Sakura", "reason": "vol1h 1284<40k"}
+{"t": "2026-11-15 13:10:44 WIB", "mint": "FThytsibNJKocFnteV3mvFyNfmSNv9j8NNChDDVupump", "sym": "SantaHat", "reason": "vol1h 2198<40k"}
+{"t": "2026-11-15 13:11:31 WIB", "mint": "ArokAnvdAKYidzJaEqYT48kSmnTMJLWzo9F3nFAgpump", "sym": "gta", "reason": "vol1h 4071<40k"}
+{"t": "2026-11-15 13:12:18 WIB", "mint": "FWPMa5Z4iwtLbGDLpviBRcBoQkeWSabHYYK4HWUCpump", "sym": "afk", "reason": "liq 2003<20k"}
