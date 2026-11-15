@@ -17813,3 +17813,8 @@
 {"t": "2026-11-16 03:34:14 WIB", "mint": "5s9L2dSDuxAe7QmBcs6GZsy6PN5Wn3Hww3T7LCjBRKR", "sym": "BREAKER", "reason": "vol1h 0<40k"}
 {"t": "2026-11-16 03:35:01 WIB", "mint": "AS8ByXNzmtUqHDRshyUTxKeDuNkgNCWkRKWFUW3bpump", "sym": "MEIMEI", "reason": "liq 3257<20k"}
 {"t": "2026-11-16 03:36:33 WIB", "mint": "Ae6qahUoSbJTAwy3Qp9tNbbphawS5nyirQumfH8aBdDp", "sym": "SIGPE", "reason": "vol1h 2369<40k"}
+{"t": "2026-11-16 03:37:27 WIB", "mint": "BDPm9gPHCRyo2qjcRrYPsXexmbRwuuHQZo2qhhYXpump", "sym": "ANT", "reason": "liq 1429<20k"}
+{"t": "2026-11-16 03:37:29 WIB", "mint": "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump", "sym": "Emojis", "reason": "top10 59.1%>25"}
+{"t": "2026-11-16 03:38:16 WIB", "mint": "3GN46GsmAUQSpHXtY3oasJFYAbp9RBzVoR7X8ar1pump", "sym": "BEAR", "reason": "vol1h 14697<40k"}
+{"t": "2026-11-16 03:39:02 WIB", "mint": "Anw7pNWsHR4oRT5Mb5fYDghjhBD4wNtJ9xqT8uvopump", "sym": "UTYAN", "reason": "vol1h 7015<40k"}
+{"t": "2026-11-16 03:39:53 WIB", "mint": "CnXTC8NutHZq2zaPqYz6bxuLYnq775EnvUBHjRqxpump", "sym": "VICE", "reason": "top10 25.1%>25"}
