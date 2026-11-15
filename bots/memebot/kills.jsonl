@@ -17590,3 +17590,5 @@
 {"t": "2026-11-16 01:00:27 WIB", "mint": "5QLHv9382yxtsnxeKPLxjznH5aP78Lcf6XLutwYXB6Vb", "sym": "SKT", "reason": "vol1h 0<40k"}
 {"t": "2026-11-16 01:01:14 WIB", "mint": "CmUoTvE986qgTB1Kvo4NVbHXBH5Qa2PyGhe7GMDepump", "sym": "SI", "reason": "vol1h 1049<40k"}
 {"t": "2026-11-16 01:01:16 WIB", "mint": "6yiS8eHrCMmuajEXe2Z9pkrMKMJwtCFTrcNKNUYopump", "sym": "E-TARDS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 01:04:18 WIB", "mint": "Ae6qahUoSbJTAwy3Qp9tNbbphawS5nyirQumfH8aBdDp", "sym": "SIGPE", "reason": "vol1h 136<40k"}
+{"t": "2026-11-16 01:05:51 WIB", "mint": "8BMqmEFXDU6dWzU4we9Py5wRi8KpFQZSRPThQqLapump", "sym": "Pterodactyl", "reason": "liq 10072<20k"}
