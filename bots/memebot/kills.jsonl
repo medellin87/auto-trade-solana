@@ -16033,3 +16033,6 @@
 {"t": "2026-11-15 08:49:39 WIB", "mint": "G5JGkaRiMG2RhrZRCSSwY8EdXZLwipmEs4ZVwxYApump", "sym": "SDEV", "reason": "vol1h 4324<40k"}
 {"t": "2026-11-15 08:49:41 WIB", "mint": "7N2g5tHX2isAXyKmtUek72waREtNKSFuR6KW2xthpump", "sym": "DOJE", "reason": "score 0.575<0.6"}
 {"t": "2026-11-15 08:50:28 WIB", "mint": "4b3ypv8i8vKUfCfETpbbPSLtvvW39eQVt5M41PxCpump", "sym": "AMS", "reason": "top10 27.6%>25"}
+{"t": "2026-11-15 08:52:00 WIB", "mint": "6edJUFSC85CyyLFB1QcCvYu7uzqaD4kV9o5YUPxrpump", "sym": "RWA", "reason": "liq 1375<20k"}
+{"t": "2026-11-15 08:52:01 WIB", "mint": "3vhbd6FNaKCobuK2ZNfAEXffTEv2AcuoYbhTtHf1pump", "sym": "SWAN", "reason": "vol1h 140<40k"}
+{"t": "2026-11-15 08:52:48 WIB", "mint": "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump", "sym": "UM", "reason": "vol1h 9493<40k"}
