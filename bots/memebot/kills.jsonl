@@ -16695,3 +16695,6 @@
 {"t": "2026-11-15 15:25:08 WIB", "mint": "3xJUcnUzFwjhkibsAurfX28Kh8AbrraEo17p7pSqpump", "sym": "GATO", "reason": "liq 0<20k"}
 {"t": "2026-11-15 15:27:25 WIB", "mint": "8JCsa61htnPj2af7g1KSyU1UEncruHE1Ph9aNR6rpump", "sym": "FUTA", "reason": "vol1h 10505<40k"}
 {"t": "2026-11-15 15:27:26 WIB", "mint": "8T1t6MkXvmTaJdQwBjmyyM8aVsjouG61P1Lvvx5mpump", "sym": "MENTAT", "reason": "vol1h 5102<40k"}
+{"t": "2026-11-15 15:28:13 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 1860<40k"}
+{"t": "2026-11-15 15:29:45 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "score 0.587<0.6"}
+{"t": "2026-11-15 15:29:47 WIB", "mint": "27NgB1EUpXcaRqYQ2vcG4Zz9ryNtvCiYJAbpZ4cjpump", "sym": "BTC18YO", "reason": "vol1h 0<40k"}
