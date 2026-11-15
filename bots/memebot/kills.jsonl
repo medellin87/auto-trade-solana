@@ -16383,3 +16383,7 @@
 {"t": "2026-11-15 12:17:15 WIB", "mint": "3dkH6T8x1nGrp7tLiijcLfGFCiVT3k2A5pEHFNARpump", "sym": "invest", "reason": "vol1h 18<40k"}
 {"t": "2026-11-15 12:18:02 WIB", "mint": "DxNF3Qxd8XeUBdz7ReRdoiFzRmNDKbSz4c2oA7aRpump", "sym": "Ivy", "reason": "vol1h 1324<40k"}
 {"t": "2026-11-15 12:18:04 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 7476<40k"}
+{"t": "2026-11-15 12:20:20 WIB", "mint": "5gmCPpuktJ7Svjgr4PPJBTosAFKB8K6Z45EGfSUmpump", "sym": "penny", "reason": "liq 14090<20k"}
+{"t": "2026-11-15 12:21:07 WIB", "mint": "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump", "sym": "chudhaos", "reason": "vol1h 9672<40k"}
+{"t": "2026-11-15 12:21:08 WIB", "mint": "27sDLLwdhfd4bAn3Lq8KfEoaie2924vRbQsyjdjjpump", "sym": "greg", "reason": "vol1h 1627<40k"}
+{"t": "2026-11-15 12:21:55 WIB", "mint": "F63zJ8AM4RnHHxnHzGAPgM8Amv8KTSqG9knPd7yvpump", "sym": "HODL", "reason": "liq 11764<20k"}
