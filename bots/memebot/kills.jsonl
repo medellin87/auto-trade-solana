@@ -17954,3 +17954,7 @@
 {"t": "2026-11-16 05:05:36 WIB", "mint": "5s9L2dSDuxAe7QmBcs6GZsy6PN5Wn3Hww3T7LCjBRKR", "sym": "BREAKER", "reason": "vol1h 0<40k"}
 {"t": "2026-11-16 05:05:37 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 29284<40k"}
 {"t": "2026-11-16 05:06:24 WIB", "mint": "8Secg51vMXEEz1vXvbkS7ZvjHP4NLX22vSPLH4Zzpump", "sym": "GTA", "reason": "vol1h 4269<40k"}
+{"t": "2026-11-16 05:07:11 WIB", "mint": "Ae6qahUoSbJTAwy3Qp9tNbbphawS5nyirQumfH8aBdDp", "sym": "SIGPE", "reason": "vol1h 2859<40k"}
+{"t": "2026-11-16 05:07:57 WIB", "mint": "5yXxVaEA4mE9Xi5qJJwBqPNj192S2xaHrQBo3R3Xpump", "sym": "Emojis", "reason": "vol1h 37589<40k"}
+{"t": "2026-11-16 05:08:44 WIB", "mint": "3GN46GsmAUQSpHXtY3oasJFYAbp9RBzVoR7X8ar1pump", "sym": "BEAR", "reason": "vol1h 332<40k"}
+{"t": "2026-11-16 05:09:31 WIB", "mint": "Anw7pNWsHR4oRT5Mb5fYDghjhBD4wNtJ9xqT8uvopump", "sym": "UTYAN", "reason": "liq 7885<20k"}
