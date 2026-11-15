@@ -17690,3 +17690,6 @@
 {"t": "2026-11-16 02:07:49 WIB", "mint": "BrpQfMq536RNMe66PBq3H2saTanV5WH6VPUc2Bf8pump", "sym": "MEMEMAS", "reason": "vol1h 0<40k"}
 {"t": "2026-11-16 02:07:50 WIB", "mint": "mAWnfGt4EHpsicnZnynCuZbPcK7YmrN5dNjnVLipump", "sym": "ANSEM", "reason": "vol1h 32607<40k"}
 {"t": "2026-11-16 02:10:07 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 21799<40k"}
+{"t": "2026-11-16 02:11:39 WIB", "mint": "DockQT38ifhagGx95wfPjvW8qWrqJjdWapUv4oFDchip", "sym": "chip", "reason": "liq 0<20k"}
+{"t": "2026-11-16 02:11:40 WIB", "mint": "2tHPtosmh76mmJHeskid7nYUeHjGUQ4ZAYChwdGJpump", "sym": "TAIL", "reason": "vol1h 20326<40k"}
+{"t": "2026-11-16 02:12:32 WIB", "mint": "13EAww2eo8g1Xp9U7qrLNg1WoHFHKbs9xy2EQJjfpump", "sym": "SWJ", "reason": "score 0.363<0.6"}
