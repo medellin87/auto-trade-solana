@@ -16059,3 +16059,7 @@
 {"t": "2026-11-15 09:02:23 WIB", "mint": "HUKEX3ZCiqebAvKTHsdjg5nkBYmxz3iYPasof5Xopump", "sym": "STABLECOIN", "reason": "vol1h 2773<40k"}
 {"t": "2026-11-15 09:02:24 WIB", "mint": "FMi6H3bXjTQBQ8CYirFwwDng7SiyLszJf9zY6pF9pump", "sym": "BlkSwan", "reason": "vol1h 1646<40k"}
 {"t": "2026-11-15 09:03:11 WIB", "mint": "3k62fdCfbP9TsoWbdCUrUu21ExzKyxfPwJsZ2REYpump", "sym": "DUVAL", "reason": "liq 15317<20k"}
+{"t": "2026-11-15 09:03:57 WIB", "mint": "Gv7RZhha9hqEVV5x9FsQiFuEEs8ffyUwJ8YfGF31pump", "sym": "TOILET", "reason": "liq 1819<20k"}
+{"t": "2026-11-15 09:04:44 WIB", "mint": "HHoDt9mEET28qFFWtUPNTqGcmRQPh3TJChAWHmBopump", "sym": "HYGG", "reason": "top10 55.7%>25"}
+{"t": "2026-11-15 09:06:18 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.45<0.6"}
+{"t": "2026-11-15 09:06:19 WIB", "mint": "ANYq8tELPCSTvEjWVpxzgvtHu2K5vXFZZEmnNJfQpump", "sym": "Sakura", "reason": "vol1h 1565<40k"}
