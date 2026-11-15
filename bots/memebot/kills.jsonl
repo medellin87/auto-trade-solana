@@ -15981,3 +15981,7 @@
 {"t": "2026-11-15 08:18:12 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 1981<40k"}
 {"t": "2026-11-15 08:18:59 WIB", "mint": "G5JGkaRiMG2RhrZRCSSwY8EdXZLwipmEs4ZVwxYApump", "sym": "SDEV", "reason": "vol1h 12784<40k"}
 {"t": "2026-11-15 08:19:01 WIB", "mint": "7N2g5tHX2isAXyKmtUek72waREtNKSFuR6KW2xthpump", "sym": "DOJE", "reason": "score 0.529<0.6"}
+{"t": "2026-11-15 08:19:47 WIB", "mint": "4b3ypv8i8vKUfCfETpbbPSLtvvW39eQVt5M41PxCpump", "sym": "AMS", "reason": "liq 0<20k"}
+{"t": "2026-11-15 08:21:19 WIB", "mint": "6edJUFSC85CyyLFB1QcCvYu7uzqaD4kV9o5YUPxrpump", "sym": "RWA", "reason": "score 0.589<0.6"}
+{"t": "2026-11-15 08:21:21 WIB", "mint": "3vhbd6FNaKCobuK2ZNfAEXffTEv2AcuoYbhTtHf1pump", "sym": "SWAN", "reason": "vol1h 3262<40k"}
+{"t": "2026-11-15 08:22:07 WIB", "mint": "FL3LnVeZTtn7uvcpytRLyAYsqUJtznskjdE4p1HSpump", "sym": "UM", "reason": "vol1h 11172<40k"}
