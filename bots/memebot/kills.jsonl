@@ -17810,3 +17810,6 @@
 {"t": "2026-11-16 03:32:40 WIB", "mint": "8cWGfiHyKqxgLrLtkPt2NnLkSUV2JbcLBf4RN6Fapump", "sym": "Nyajira", "reason": "vol1h 16005<40k"}
 {"t": "2026-11-16 03:32:41 WIB", "mint": "CXiFtcydRwRXhDp6YgUkzvjUvASFdbxHNRQfMCBfpump", "sym": "Ignore", "reason": "vol1h 806<40k"}
 {"t": "2026-11-16 03:33:28 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 27693<40k"}
+{"t": "2026-11-16 03:34:14 WIB", "mint": "5s9L2dSDuxAe7QmBcs6GZsy6PN5Wn3Hww3T7LCjBRKR", "sym": "BREAKER", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 03:35:01 WIB", "mint": "AS8ByXNzmtUqHDRshyUTxKeDuNkgNCWkRKWFUW3bpump", "sym": "MEIMEI", "reason": "liq 3257<20k"}
+{"t": "2026-11-16 03:36:33 WIB", "mint": "Ae6qahUoSbJTAwy3Qp9tNbbphawS5nyirQumfH8aBdDp", "sym": "SIGPE", "reason": "vol1h 2369<40k"}
