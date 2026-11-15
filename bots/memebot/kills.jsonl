@@ -18093,3 +18093,12 @@
 {"t": "2026-11-16 06:34:30 WIB", "mint": "DQSHcUsHEKKz5gXzpj4Xp3ioEjmfNB5obb3saDFMpump", "sym": "Retire", "reason": "liq 1439<20k"}
 {"t": "2026-11-16 06:35:17 WIB", "mint": "9WGvvKDQSkzwmPoGmDCx42C8t1xyvrV3hFExCgkrpump", "sym": "Brian", "reason": "vol1h 22569<40k"}
 {"t": "2026-11-16 06:35:19 WIB", "mint": "CzuZYgmaTJF6MCM6vVwGYgVKzqPX2YiVSyNzzxMXpump", "sym": "NYX", "reason": "vol1h 13<40k"}
+{"t": "2026-11-16 06:36:05 WIB", "mint": "8cWGfiHyKqxgLrLtkPt2NnLkSUV2JbcLBf4RN6Fapump", "sym": "Nyajira", "reason": "vol1h 10074<40k"}
+{"t": "2026-11-16 06:36:07 WIB", "mint": "5peJLZQnBkXtydYYMunbT4QutSyd9eA474MqxcmEpump", "sym": "SENDER", "reason": "liq 0<20k"}
+{"t": "2026-11-16 06:36:08 WIB", "mint": "CXiFtcydRwRXhDp6YgUkzvjUvASFdbxHNRQfMCBfpump", "sym": "Ignore", "reason": "vol1h 708<40k"}
+{"t": "2026-11-16 06:36:55 WIB", "mint": "EdfepRX29FHVdnqpBMkUFQBHWWzYd8M7rSaUC8zYpump", "sym": "GTAMAS", "reason": "vol1h 506<40k"}
+{"t": "2026-11-16 06:36:57 WIB", "mint": "6Sc8jZcQT8zeM6j1v5bKbfyxY2Kn8j7EmrCXgmuZpump", "sym": "LittleGuy", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 06:36:58 WIB", "mint": "6XGN3oMrjLuWvDyvHL1VZNNPN5d7dTspD9N7LKjAnime", "sym": "ANIME", "reason": "liq 14654<20k"}
+{"t": "2026-11-16 06:37:00 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 269<40k"}
+{"t": "2026-11-16 06:37:46 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 19493<40k"}
+{"t": "2026-11-16 06:38:33 WIB", "mint": "8Secg51vMXEEz1vXvbkS7ZvjHP4NLX22vSPLH4Zzpump", "sym": "GTA", "reason": "vol1h 771<40k"}
