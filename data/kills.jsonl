@@ -1,9 +1,3 @@
-{"t": "2026-11-15 23:49:31 WIB", "mint": "3CKF2wDmfeywbTtYuGSG6DfNtbWMM4C4kSPKKWWppump", "sym": "sOHM", "reason": "liq 0<20k"}
-{"t": "2026-11-15 23:49:33 WIB", "mint": "5XasjCnMPTczL9VZTDHgbK5sQzwkjnu41oLeHf5Wpump", "sym": "CateGiving", "reason": "vol1h 0<40k"}
-{"t": "2026-11-15 23:51:05 WIB", "mint": "Dmu3V57XrEGbVAQScf56SVVQrXgQTsEkgD1SbNwfLoat", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-15 23:51:51 WIB", "mint": "8FfbSYvgjFkPDw3crLRpQis1en5aQieybNMbyMYvpump", "sym": "NIHAOMAS", "reason": "vol1h 25525<40k"}
-{"t": "2026-11-15 23:52:38 WIB", "mint": "9aJAybSJMJUyNVuneNQdc6rDc8iXRMbXarLpGDrpump", "sym": "Helicat", "reason": "vol1h 10398<40k"}
-{"t": "2026-11-15 23:54:10 WIB", "mint": "3unDHbPUsLqQtoHgvuCsRSArnuhVjhsn11vRht5Xpump", "sym": "FIX6900", "reason": "vol1h 0<40k"}
 {"t": "2026-11-15 23:54:56 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2306<40k"}
 {"t": "2026-11-15 23:56:28 WIB", "mint": "AJioyoixuytgtjmiXd6Wu9qs4enKxuGC5JrASSTr8hrX", "sym": "Star", "reason": "liq 0<20k"}
 {"t": "2026-11-15 23:56:30 WIB", "mint": "5e3UxCBJqiTd9HtRgUUKAgTFv4j9zag5fJDvQQjKpump", "sym": "CARDPAD", "reason": "vol1h 37287<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-16 00:13:31 WIB", "mint": "FbLyuVG6qsdV7SiZBH5iJF6hXEko3sMJysEFwqWPpump", "sym": "ANKLE ", "reason": "vol1h 1774<40k"}
 {"t": "2026-11-16 00:13:33 WIB", "mint": "H32xctVzxwiSTZ4vg7BgW5jZRAdfbC7aw2tXmqjwpump", "sym": "SI", "reason": "vol1h 1867<40k"}
 {"t": "2026-11-16 00:13:34 WIB", "mint": "9qbQuJQtMQpLD2HZQebGcn9uRLRzfSyCf7pdvHLwpump", "sym": "THE PULL", "reason": "vol1h 1<40k"}
+{"t": "2026-11-16 00:14:21 WIB", "mint": "4JhX8T75P9z4gk91SBnQeAb7h7qCe7iWAiVgucVypump", "sym": "Dollar", "reason": "liq 12958<20k"}
+{"t": "2026-11-16 00:14:23 WIB", "mint": "8cF5TrfQTQb1wtQosNPkRRPhfie2xKu8fGNMJuLdpump", "sym": "HELL", "reason": "vol1h 1<40k"}
+{"t": "2026-11-16 00:14:24 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 1910<40k"}
+{"t": "2026-11-16 00:15:11 WIB", "mint": "8JNcbK2bWFxQnZsR6xQtgB3en7DcFSXW5xSyh6fYpump", "sym": "SLIDES", "reason": "vol1h 17305<40k"}
+{"t": "2026-11-16 00:15:12 WIB", "mint": "HDjBoJ1vuUKjR4XmPfHcDK4JNVhN3JKQdCR3Gh1Epump", "sym": "anthropig", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 00:15:59 WIB", "mint": "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK", "sym": "gtacoin", "reason": "vol1h 2707<40k"}
