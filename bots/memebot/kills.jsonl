@@ -15924,3 +15924,7 @@
 {"t": "2026-11-15 07:42:07 WIB", "mint": "6akHw4LmWibB1uGhrr4vUf3FKkiK1NVfXVxucEuqmine", "sym": "mine", "reason": "liq 5847<20k"}
 {"t": "2026-11-15 07:42:08 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 1184<40k"}
 {"t": "2026-11-15 07:42:10 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 7569<40k"}
+{"t": "2026-11-15 07:42:56 WIB", "mint": "BTCmcoKg6J767Bum7nXVDPLsWAZs3ZdYwTQr7YnXpump", "sym": "SIRIUS", "reason": "vol1h 822<40k"}
+{"t": "2026-11-15 07:45:13 WIB", "mint": "513YLzsTSHaqXidg6bgDs8LCk5LGixFWcMUTheQVpump", "sym": "Lucia", "reason": "liq 1312<20k"}
+{"t": "2026-11-15 07:45:15 WIB", "mint": "4W7BNgGspH3YFbLsP5T7AnKAzr6REGMMBGK9xDZKpump", "sym": "chudhaos", "reason": "vol1h 8963<40k"}
+{"t": "2026-11-15 07:45:16 WIB", "mint": "27sDLLwdhfd4bAn3Lq8KfEoaie2924vRbQsyjdjjpump", "sym": "greg", "reason": "vol1h 11154<40k"}
