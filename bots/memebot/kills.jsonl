@@ -17228,3 +17228,9 @@
 {"t": "2026-11-15 20:58:42 WIB", "mint": "9G1M7BHLufXsJFfogC92dfNVSivYFC2hdSv4iotkpump", "sym": "DOGEMAS", "reason": "liq 0<20k"}
 {"t": "2026-11-15 21:00:13 WIB", "mint": "5gmCPpuktJ7Svjgr4PPJBTosAFKB8K6Z45EGfSUmpump", "sym": "penny", "reason": "vol1h 5086<40k"}
 {"t": "2026-11-15 21:01:00 WIB", "mint": "3Ev32Ns2fkfEppgYnskq6rDL5TfXfjhtEXWkPz2Vpump", "sym": "pls", "reason": "liq 2115<20k"}
+{"t": "2026-11-15 21:03:17 WIB", "mint": "HV6uSHm6hx8Epm1iXGwp7s8Ckb6Bt1oawiJ1AS2xZToK", "sym": "TOK", "reason": "vol1h 0<40k"}
+{"t": "2026-11-15 21:03:19 WIB", "mint": "Dtobp85WKE4sU1wSjC3m5eftCAKBojpsJjQWqUU1pump", "sym": "GTACOIN", "reason": "vol1h 23<40k"}
+{"t": "2026-11-15 21:04:05 WIB", "mint": "8JCsa61htnPj2af7g1KSyU1UEncruHE1Ph9aNR6rpump", "sym": "FUTA", "reason": "vol1h 2664<40k"}
+{"t": "2026-11-15 21:04:07 WIB", "mint": "3q56CG96osWwHntEDTpwVzCpLDdU33VSZxaLX75bpump", "sym": "PEBL", "reason": "vol1h 21343<40k"}
+{"t": "2026-11-15 21:04:55 WIB", "mint": "J1sHNawTwQrRCga3w5uREEwTbrDZKT5j6WobLQKZSDEX", "sym": "SDEX", "reason": "top10 76.8%>25"}
+{"t": "2026-11-15 21:04:57 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 4632<40k"}
