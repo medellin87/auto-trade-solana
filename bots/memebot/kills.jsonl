@@ -19348,3 +19348,7 @@
 {"t": "2026-11-17 00:42:10 WIB", "mint": "3yjHj9s9MukEHr7b7qhMiUfH5fSUz97Eb5J8SRjdpump", "sym": "VI", "reason": "vol1h 30008<40k"}
 {"t": "2026-11-17 00:44:27 WIB", "mint": "H7Q8tXdq65p5btVNaRH75YmBXikYF1Gt9zRz984ypump", "sym": "LEOSTAR", "reason": "vol1h 152<40k"}
 {"t": "2026-11-17 00:45:14 WIB", "mint": "6tKRXYxyfwKbsQUfE5HhTTesySVigqPeaFrHaqTbpump", "sym": "XAUCAT", "reason": "vol1h 3506<40k"}
+{"t": "2026-11-17 00:47:30 WIB", "mint": "5cWEsjkrgYAZaoJ5nDAHgzJC5SULGM2AQUeiTauxyYvq", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-17 00:47:32 WIB", "mint": "3P2eu9tnwzyP7WbHagZ9XHnRoP2DaXVWoBo6Rq1Mpump", "sym": "GTA6IRL", "reason": "vol1h 20176<40k"}
+{"t": "2026-11-17 00:47:33 WIB", "mint": "4Mz1Fy65difgJE5zFaTpo82vqNqHsxMpQr9aaC9JoGGQ", "sym": "MooManao", "reason": "liq 5260<20k"}
+{"t": "2026-11-17 00:49:06 WIB", "mint": "2hg559PqkbnfaprUE3V5dSFAaDNjURnmvGs79kqepump", "sym": "GTAHUB", "reason": "top10 25.7%>25"}
