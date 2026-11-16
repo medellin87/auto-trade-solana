@@ -19857,3 +19857,6 @@
 {"t": "2026-11-17 06:01:20 WIB", "mint": "2H2AbKQff1GjLRmnCaRsVT6c8TYbn9cbMUFvozJwpump", "sym": "NAMI", "reason": "vol1h 0<40k"}
 {"t": "2026-11-17 06:01:22 WIB", "mint": "6UcvWd4hHYz6FUE8LqDrrXvz6uXbvNtsp9LudEmnpump", "sym": "VICE", "reason": "liq 1390<20k"}
 {"t": "2026-11-17 06:02:08 WIB", "mint": "8WbGtXbT4vSbdjtbZJRuXKaxzXcnrJKzZy8s59Lgpump", "sym": "Wanted", "reason": "vol1h 32795<40k"}
+{"t": "2026-11-17 06:03:42 WIB", "mint": "G128WcDRks1y5gsEpYdHbrre5Wc5ERw2D4Wp5HpdDc72", "sym": "GROYPERS", "reason": "liq 4261<20k"}
+{"t": "2026-11-17 06:04:29 WIB", "mint": "RH1n2W6MuAJuSJaww1um4zLS4X1XSZTLPnR5X8KG7cW", "sym": "VICEBERG", "reason": "vol1h 375<40k"}
+{"t": "2026-11-17 06:05:15 WIB", "mint": "DnAbkueg3Mbs9DrTMQMxCM2goeMhkgByRd3ofKofLoat", "sym": "FLOTI", "reason": "vol1h 135<40k"}
