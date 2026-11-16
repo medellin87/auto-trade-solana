@@ -19415,3 +19415,6 @@
 {"t": "2026-11-17 01:20:48 WIB", "mint": "GQjTPFGvSwJbLc3Qc5iW7aFbQhhxZicqWJWno46spump", "sym": "COGE", "reason": "liq 14364<20k"}
 {"t": "2026-11-17 01:21:35 WIB", "mint": "7QA9qofMpX6waip4fzVd74zKgJEMjBuEUddJtkj2CAmC", "sym": "RINGPIECE", "reason": "vol1h 6429<40k"}
 {"t": "2026-11-17 01:22:21 WIB", "mint": "HmSMUXGrXT3FsSyaNb2RZUPSfMzLo7WMW1iNoLRTpump", "sym": "VICE", "reason": "vol1h 1571<40k"}
+{"t": "2026-11-17 01:24:38 WIB", "mint": "3EDLvS4PMWXmN5oj7aGWwR16yC3zgZSdWL2BeVK8sent", "sym": "SENT", "reason": "liq 0<20k"}
+{"t": "2026-11-17 01:24:40 WIB", "mint": "41rcvc2JymJAuQWY1rfx5XStrLdN1EMfSL8k3qq4pump", "sym": "GTA", "reason": "vol1h 26738<40k"}
+{"t": "2026-11-17 01:25:26 WIB", "mint": "8PoxWcu3dB6ha2hXC5JWcBw4MMNKtQtdy7Ttuf4opump", "sym": "SOLHERO", "reason": "vol1h 5744<40k"}
