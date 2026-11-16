@@ -1,8 +1,3 @@
-{"t": "2026-11-17 01:02:32 WIB", "mint": "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump", "sym": "bill", "reason": "vol1h 10294<40k"}
-{"t": "2026-11-17 01:02:34 WIB", "mint": "7jGdREhmTaGj6EVkrhmiadSSiNSvE5w6qfGccud5pump", "sym": "NINU", "reason": "vol1h 107<40k"}
-{"t": "2026-11-17 01:02:35 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 36888<40k"}
-{"t": "2026-11-17 01:02:37 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 716<40k"}
-{"t": "2026-11-17 01:02:38 WIB", "mint": "BRDgmG7hnK8f8ggVJuk4kUzXg4biCN8eQGEVDPVSpump", "sym": "PCAT", "reason": "vol1h 0<40k"}
 {"t": "2026-11-17 01:02:40 WIB", "mint": "FUrKeKgxQibFv3s6vGLZaYsUPFVY3Sj3YZtc3ApMpump", "sym": "GATSBY", "reason": "vol1h 0<40k"}
 {"t": "2026-11-17 01:02:41 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 17220<40k"}
 {"t": "2026-11-17 01:03:28 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 9937<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-17 01:16:48 WIB", "mint": "ApBjDAxWeDRveeqU1nsfy43vkBhTKxswchtwz9Qgpump", "sym": "GOOD", "reason": "vol1h 0<40k"}
 {"t": "2026-11-17 01:16:50 WIB", "mint": "6CbA5PpjHHrFtUgeYfHWwo2wkQF1a9tneyHZwJXFpump", "sym": "PINCO", "reason": "vol1h 13561<40k"}
 {"t": "2026-11-17 01:16:52 WIB", "mint": "BQ9fTrZwg5E9BY6nxbD7p5sv8uCWfxRUg9TLG6Xqpump", "sym": "LUCIA", "reason": "top10 49.2%>25"}
+{"t": "2026-11-17 01:17:39 WIB", "mint": "5cWEsjkrgYAZaoJ5nDAHgzJC5SULGM2AQUeiTauxyYvq", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-17 01:17:40 WIB", "mint": "3P2eu9tnwzyP7WbHagZ9XHnRoP2DaXVWoBo6Rq1Mpump", "sym": "GTA6IRL", "reason": "vol1h 28197<40k"}
+{"t": "2026-11-17 01:17:42 WIB", "mint": "4Mz1Fy65difgJE5zFaTpo82vqNqHsxMpQr9aaC9JoGGQ", "sym": "MooManao", "reason": "liq 5090<20k"}
+{"t": "2026-11-17 01:19:13 WIB", "mint": "2hg559PqkbnfaprUE3V5dSFAaDNjURnmvGs79kqepump", "sym": "GTAHUB", "reason": "liq 1353<20k"}
+{"t": "2026-11-17 01:20:00 WIB", "mint": "BEivETeJfF2tLkuTc5dNMcpMH6vGGcwtZchw1J3vpump", "sym": "MAYA", "reason": "liq 13598<20k"}
