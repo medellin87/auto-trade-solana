@@ -19067,3 +19067,7 @@
 {"t": "2026-11-16 15:50:23 WIB", "mint": "7sEL1yzHQDnF2C3AoLxq6j7WoskZwWsmwMtfJbp9fund", "sym": "FUND", "reason": "vol1h 68<40k"}
 {"t": "2026-11-16 15:51:09 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 550<40k"}
 {"t": "2026-11-16 15:51:11 WIB", "mint": "2SrwDzWfp2eLbYMLfgdDR1ECvmgLQ1Nqy4bXVN2Npump", "sym": "CHEMO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 15:51:57 WIB", "mint": "FzCC7cK9T37mZTMkqu6TtVFRMLg2xq9ncQ81KGibpump", "sym": "capytrade", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 15:53:29 WIB", "mint": "CNqsVZXiEspYizDtg8SbC2MjikCKF3XCLxyJbfGMpump", "sym": "nut", "reason": "vol1h 92<40k"}
+{"t": "2026-11-16 15:54:16 WIB", "mint": "BTCmcoKg6J767Bum7nXVDPLsWAZs3ZdYwTQr7YnXpump", "sym": "SIRIUS", "reason": "vol1h 1765<40k"}
+{"t": "2026-11-16 15:54:17 WIB", "mint": "2fj37tQcLEbLAcmAGWGzMAAUfteJaC9wdVnWdhWopump", "sym": "afk", "reason": "liq 13753<20k"}
