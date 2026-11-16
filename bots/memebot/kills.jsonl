@@ -19145,3 +19145,6 @@
 {"t": "2026-11-16 22:36:52 WIB", "mint": "FNfDMp7taQAbm6aecp7VeFQGRFV9wHgUsrKBeYPapump", "sym": "BLOCKDESK", "reason": "vol1h 30992<40k"}
 {"t": "2026-11-16 22:39:09 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 8830<40k"}
 {"t": "2026-11-16 22:39:11 WIB", "mint": "mYEySCnWCTnoZ7YUJ8Tv4ensNoxwg4XDssnPRKCpump", "sym": "NEOGO", "reason": "vol1h 26122<40k"}
+{"t": "2026-11-16 22:39:57 WIB", "mint": "8CRquEv63JGHQMwnaXnmtkN7HjkkNfQ3Aj3GFnBapump", "sym": "GRID", "reason": "vol1h 3200<40k"}
+{"t": "2026-11-16 22:39:59 WIB", "mint": "3yjHj9s9MukEHr7b7qhMiUfH5fSUz97Eb5J8SRjdpump", "sym": "VI", "reason": "liq 14388<20k"}
+{"t": "2026-11-16 22:40:45 WIB", "mint": "7aCKwFfcB7vmYAtonfpPxq4usSB9Y1GT9jxn7tEjpump", "sym": "PAPERDEV", "reason": "vol1h 29494<40k"}
