@@ -19192,3 +19192,8 @@
 {"t": "2026-11-16 17:04:17 WIB", "mint": "3iJuDkTMZS5MfdWrot3uG9B25pLzntx5t685kGaQpump", "sym": "PACK", "reason": "liq 0<20k"}
 {"t": "2026-11-16 17:04:18 WIB", "mint": "6pPBZPzyFJZs8wfwACmZgLZ8p5JzguJYaYgx78acpump", "sym": "CHIMP", "reason": "vol1h 0<40k"}
 {"t": "2026-11-16 17:05:07 WIB", "mint": "G9ZMir6uh66Y7viPkXAy7myA9jjE4T1YgheVUmGDpump", "sym": "GTA", "reason": "vol1h 23312<40k"}
+{"t": "2026-11-16 17:05:53 WIB", "mint": "G3aDdJLXfz1YEp6rv9FY9TC1XWZi6iGbxyAze3Ngpump", "sym": "DADDY", "reason": "liq 7835<20k"}
+{"t": "2026-11-16 17:05:55 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 141<40k"}
+{"t": "2026-11-16 17:05:56 WIB", "mint": "2o3EYGuP4xUPb7hNkmjZiYW47mpNYmTHiw2YZG3hvBF6", "sym": "dog", "reason": "vol1h 242<40k"}
+{"t": "2026-11-16 17:06:43 WIB", "mint": "BRDgmG7hnK8f8ggVJuk4kUzXg4biCN8eQGEVDPVSpump", "sym": "PCAT", "reason": "vol1h 2656<40k"}
+{"t": "2026-11-16 17:06:44 WIB", "mint": "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump", "sym": "bill", "reason": "vol1h 10833<40k"}
