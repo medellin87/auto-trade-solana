@@ -19549,3 +19549,7 @@
 {"t": "2026-11-17 02:43:29 WIB", "mint": "p8nDohoNjAZCXriH4MacnD8BYZ8Njqj1nMDHQXcpump", "sym": "POTS", "reason": "vol1h 30485<40k"}
 {"t": "2026-11-17 02:43:30 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 6836<40k"}
 {"t": "2026-11-17 02:43:33 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.465<0.6"}
+{"t": "2026-11-17 02:44:19 WIB", "mint": "3yjHj9s9MukEHr7b7qhMiUfH5fSUz97Eb5J8SRjdpump", "sym": "VI", "reason": "vol1h 22392<40k"}
+{"t": "2026-11-17 02:45:06 WIB", "mint": "Bif12nPNy7gHCj823yk2h7WKprgedG3q855RrVaYpump", "sym": "CATCCORDION", "reason": "vol1h 448<40k"}
+{"t": "2026-11-17 02:45:07 WIB", "mint": "6kMJnn5XUGZ8QvRD6cDCuEXhwnXhwPLibRA9ryMS3X3w", "sym": "ASTON", "reason": "liq 0<20k"}
+{"t": "2026-11-17 02:45:55 WIB", "mint": "Ugp1hEeDscu8RXkzd2teXLACYB4wrxVEht5mghDpump", "sym": "GTA", "reason": "top10 25.0%>25"}
