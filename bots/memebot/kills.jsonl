@@ -18972,3 +18972,6 @@
 {"t": "2026-11-16 20:28:59 WIB", "mint": "tmZXn6N9rmPqh6LnU49jmAARqnmsPhyUKKNbvvkpump", "sym": "GIFT", "reason": "liq 0<20k"}
 {"t": "2026-11-16 20:29:01 WIB", "mint": "Got25oeW6J2dNy7G5KzCp2JwKeZLg76kU5sz6AS6pump", "sym": "SIPHON", "reason": "vol1h 313<40k"}
 {"t": "2026-11-16 20:29:02 WIB", "mint": "Cs97sYqkr5XA55StyukictSGsLLWcXiFZaB8Fc94bCtR", "sym": "VIRUS", "reason": "vol1h 20045<40k"}
+{"t": "2026-11-16 20:29:49 WIB", "mint": "83GtPpfNSau1mtDZZ7Vx6YCf8gA5eBxniWCoDsvK2avy", "sym": "Stumpy", "reason": "liq 13200<20k"}
+{"t": "2026-11-16 20:29:51 WIB", "mint": "AjwGKNr7L2cQSVQ9kxihVCWqTPkRe1Sqsm2G3nXzent", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-16 20:29:52 WIB", "mint": "C6GK5h6yzohr9ER81c9uYSCVfKbdmVKcn8wFXYjvpump", "sym": "BIGSMOKE", "reason": "vol1h 18216<40k"}
