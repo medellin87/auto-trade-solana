@@ -19201,3 +19201,6 @@
 {"t": "2026-11-16 23:11:00 WIB", "mint": "7aCKwFfcB7vmYAtonfpPxq4usSB9Y1GT9jxn7tEjpump", "sym": "PAPERDEV", "reason": "vol1h 34001<40k"}
 {"t": "2026-11-16 23:14:04 WIB", "mint": "J8LutktxwPYxMi37b6h3sEyRioUiir8DPSwkKjXRpump", "sym": "HELLO", "reason": "vol1h 14039<40k"}
 {"t": "2026-11-16 23:15:37 WIB", "mint": "2Lw9FQA1iAwg5Wo1NTh8GTs3zmVQc7XHGBbexqZgqtWJ", "sym": "hello", "reason": "score 0.435<0.6"}
+{"t": "2026-11-16 23:17:53 WIB", "mint": "FYtY5KpMRBHSiCMAqkWWrY2GtNVXs1h8jubbnno7pump", "sym": "\ud83d\udc60", "reason": "liq 19778<20k"}
+{"t": "2026-11-16 23:18:40 WIB", "mint": "4r1ZJUx7iQtsVcM9NJz3DbqZfBAHLcb1EMCSasyapump", "sym": "MEE", "reason": "liq 0<20k"}
+{"t": "2026-11-16 23:19:27 WIB", "mint": "FV23gQJYmnqSZtEkVCzVAzwS5YmSQcp7UuYSLVepump", "sym": "WATER", "reason": "vol1h 15268<40k"}
