@@ -18961,3 +18961,7 @@
 {"t": "2026-11-16 14:45:59 WIB", "mint": "D1LWAKzbZ7W1ZQjbuJEo7WeCEbgnWfzTVSgYsnn2pump", "sym": "PASSED", "reason": "vol1h 0<40k"}
 {"t": "2026-11-16 14:46:46 WIB", "mint": "BARobVaVawPxpjaHLsvrdLn2SpVJQDFYx4BY2R5Kpump", "sym": "RESPECT", "reason": "vol1h 12686<40k"}
 {"t": "2026-11-16 14:49:03 WIB", "mint": "7sEL1yzHQDnF2C3AoLxq6j7WoskZwWsmwMtfJbp9fund", "sym": "FUND", "reason": "vol1h 748<40k"}
+{"t": "2026-11-16 14:49:49 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 803<40k"}
+{"t": "2026-11-16 14:49:51 WIB", "mint": "2SrwDzWfp2eLbYMLfgdDR1ECvmgLQ1Nqy4bXVN2Npump", "sym": "CHEMO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 14:50:37 WIB", "mint": "FzCC7cK9T37mZTMkqu6TtVFRMLg2xq9ncQ81KGibpump", "sym": "capytrade", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 14:52:09 WIB", "mint": "CNqsVZXiEspYizDtg8SbC2MjikCKF3XCLxyJbfGMpump", "sym": "nut", "reason": "vol1h 26<40k"}
