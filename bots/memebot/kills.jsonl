@@ -19148,3 +19148,5 @@
 {"t": "2026-11-16 22:39:57 WIB", "mint": "8CRquEv63JGHQMwnaXnmtkN7HjkkNfQ3Aj3GFnBapump", "sym": "GRID", "reason": "vol1h 3200<40k"}
 {"t": "2026-11-16 22:39:59 WIB", "mint": "3yjHj9s9MukEHr7b7qhMiUfH5fSUz97Eb5J8SRjdpump", "sym": "VI", "reason": "liq 14388<20k"}
 {"t": "2026-11-16 22:40:45 WIB", "mint": "7aCKwFfcB7vmYAtonfpPxq4usSB9Y1GT9jxn7tEjpump", "sym": "PAPERDEV", "reason": "vol1h 29494<40k"}
+{"t": "2026-11-16 22:43:47 WIB", "mint": "J8LutktxwPYxMi37b6h3sEyRioUiir8DPSwkKjXRpump", "sym": "HELLO", "reason": "vol1h 5140<40k"}
+{"t": "2026-11-16 22:45:19 WIB", "mint": "2Lw9FQA1iAwg5Wo1NTh8GTs3zmVQc7XHGBbexqZgqtWJ", "sym": "hello", "reason": "score 0.479<0.6"}
