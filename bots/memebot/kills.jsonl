@@ -19766,3 +19766,9 @@
 {"t": "2026-11-17 05:09:13 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "liq 0<20k"}
 {"t": "2026-11-17 05:09:15 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.382<0.6"}
 {"t": "2026-11-17 05:09:17 WIB", "mint": "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump", "sym": "HOLDMAS", "reason": "liq 13189<20k"}
+{"t": "2026-11-17 05:10:03 WIB", "mint": "GrRyXcKfXcZo1yYWsH4kckxCuu3QSL5vYoJFEQTppump", "sym": "RDIFF", "reason": "vol1h 0<40k"}
+{"t": "2026-11-17 05:10:05 WIB", "mint": "FVugTPW5CG2gvGthnaeDhJyBdwdQqcuzgFEFEAfhpump", "sym": "EPIC", "reason": "vol1h 4<40k"}
+{"t": "2026-11-17 05:10:06 WIB", "mint": "BS21cGFz9dYgwD4N4J3ejFbtevmx2ZKGQDxrZKqwpump", "sym": "RING", "reason": "vol1h 0<40k"}
+{"t": "2026-11-17 05:10:08 WIB", "mint": "23GBezAJzK8fJNZzgA5LWLyz2WxDNTBfMKtgTQNPpump", "sym": "COGE", "reason": "vol1h 462<40k"}
+{"t": "2026-11-17 05:10:54 WIB", "mint": "HrVrPuiccywXYvXRGemHxztdeHQRgr2V8qA5BkquAy6o", "sym": "VIBED", "reason": "vol1h 3762<40k"}
+{"t": "2026-11-17 05:10:56 WIB", "mint": "BCYna43j14JadnjM36RRZUcHQzVdcT6qoesFC2Jzpump", "sym": "KOL", "reason": "vol1h 21641<40k"}
