@@ -18222,3 +18222,6 @@
 {"t": "2026-11-16 07:46:29 WIB", "mint": "EwLANuSwR7z9QNTXGwdsW7mFzXPiaucUBZjiXfw6pump", "sym": "PercPools", "reason": "liq 8317<20k"}
 {"t": "2026-11-16 07:47:16 WIB", "mint": "BTCmcoKg6J767Bum7nXVDPLsWAZs3ZdYwTQr7YnXpump", "sym": "SIRIUS", "reason": "vol1h 1822<40k"}
 {"t": "2026-11-16 07:49:33 WIB", "mint": "APMrRKcbSC5VKGhqaBBqZEtShh7ZpRexzJXr3mwmpump", "sym": "SCC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-16 07:50:20 WIB", "mint": "FbLyuVG6qsdV7SiZBH5iJF6hXEko3sMJysEFwqWPpump", "sym": "ANKLE ", "reason": "vol1h 258<40k"}
+{"t": "2026-11-16 07:51:06 WIB", "mint": "66eAjoi4Wc7G38QbmE2eoqmQxiKGkSuaAAduN66Xpump", "sym": "SPUD", "reason": "vol1h 34<40k"}
+{"t": "2026-11-16 07:51:53 WIB", "mint": "HekGWhw6s7r8bC5F3ieeaqfV9UDu2JQMkpJCYJ5rpump", "sym": "WAGMI", "reason": "liq 0<20k"}
