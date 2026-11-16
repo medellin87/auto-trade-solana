@@ -18845,3 +18845,7 @@
 {"t": "2026-11-16 13:37:30 WIB", "mint": "5qCoiRAxPBWQ6P1DpEGFA8DWXAkn5QUUBRotubiWpump", "sym": "SWARM", "reason": "liq 6130<20k"}
 {"t": "2026-11-16 13:37:31 WIB", "mint": "CzuZYgmaTJF6MCM6vVwGYgVKzqPX2YiVSyNzzxMXpump", "sym": "NYX", "reason": "vol1h 0<40k"}
 {"t": "2026-11-16 13:37:33 WIB", "mint": "DvMUHy72G8JTExfYdv7K92B3cL4ULWWit7tzrhhFpump", "sym": "CRIME", "reason": "vol1h 2<40k"}
+{"t": "2026-11-16 13:38:19 WIB", "mint": "CXiFtcydRwRXhDp6YgUkzvjUvASFdbxHNRQfMCBfpump", "sym": "Ignore", "reason": "vol1h 416<40k"}
+{"t": "2026-11-16 13:39:51 WIB", "mint": "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump", "sym": "Anthropig", "reason": "score 0.444<0.6"}
+{"t": "2026-11-16 13:39:53 WIB", "mint": "9iaXwjVAtRQmDKuYuxMmT5GBKiVJ3dQ4ji1vWkEXY1Jz", "sym": "iFruit", "reason": "vol1h 1275<40k"}
+{"t": "2026-11-16 13:40:40 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 15829<40k"}
