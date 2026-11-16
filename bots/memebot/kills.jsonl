@@ -18748,3 +18748,5 @@
 {"t": "2026-11-16 18:11:40 WIB", "mint": "6doZXcywhwpfAva7xQvfS3n1xhM9GGctNfS562W2pump", "sym": "Rent", "reason": "vol1h 0<40k"}
 {"t": "2026-11-16 18:13:12 WIB", "mint": "EnrLgY3pVYGDUjpeK53SZjQZibtUPdTcR89zKLdKypay", "sym": "PAYOUT", "reason": "vol1h 29813<40k"}
 {"t": "2026-11-16 18:15:29 WIB", "mint": "3hjVx3FXziXQqw4aJDgabgzThdccJMaaZEaAkDsVpump", "sym": "FEAR", "reason": "vol1h 10361<40k"}
+{"t": "2026-11-16 18:20:01 WIB", "mint": "G569daWj4hBCMJDXg26YgfiDij3wBkBfXswPwRMFpump", "sym": "1NU", "reason": "liq 4069<20k"}
+{"t": "2026-11-16 18:22:17 WIB", "mint": "8dbLrW3ZTTu4qeAKYYBjuuSSAPhMvABwUes3eWoXpump", "sym": "FiveM", "reason": "vol1h 2980<40k"}
