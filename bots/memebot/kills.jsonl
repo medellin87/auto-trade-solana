@@ -19762,3 +19762,7 @@
 {"t": "2026-11-17 05:03:49 WIB", "mint": "FJbyUWahiRMtLnExTDJ1HzhKHjJzMTbZJL27S2NVpump", "sym": "ROCCO", "reason": "vol1h 175<40k"}
 {"t": "2026-11-17 05:03:51 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 683<40k"}
 {"t": "2026-11-17 05:06:08 WIB", "mint": "4hMJnZ7u65V4V3AyTBAShwTGn3J5NYsy5SjLVShspump", "sym": "ORNIE ", "reason": "vol1h 1303<40k"}
+{"t": "2026-11-17 05:08:26 WIB", "mint": "F4vEFNoH9H2oLYRabaQQ2Z6jAAi2AhRVdTdVH6Nn2J1q", "sym": "CJ", "reason": "vol1h 4930<40k"}
+{"t": "2026-11-17 05:09:13 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "liq 0<20k"}
+{"t": "2026-11-17 05:09:15 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.382<0.6"}
+{"t": "2026-11-17 05:09:17 WIB", "mint": "G4ZhpCN3v2tohaAF8jx3DHf3YvEtGKD9yRTa7Fskpump", "sym": "HOLDMAS", "reason": "liq 13189<20k"}
