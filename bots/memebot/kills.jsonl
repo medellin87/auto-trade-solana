@@ -16925,3 +16925,7 @@
 {"t": "2026-11-18 04:06:57 WIB", "mint": "4z7LXmQewWk5LLDTbTZEeGpeUhTFR1dHGvg7ckhbpump", "sym": "CSI", "reason": "liq 1457<20k"}
 {"t": "2026-11-18 04:08:29 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 19014<40k"}
 {"t": "2026-11-18 04:08:30 WIB", "mint": "5p9G6DiiG1ffqqsvxeGhyTY5Gqe2d5J6yCx1qaqNpump", "sym": "MOONVALE", "reason": "vol1h 256<40k"}
+{"t": "2026-11-18 04:10:02 WIB", "mint": "G71iRHbh9FYPqVF5zDy3Zb4HRZkJV31Sg2MHpm3tpump", "sym": "obema", "reason": "liq 0<20k"}
+{"t": "2026-11-18 04:10:49 WIB", "mint": "AmhZx5CPGgGFVMs7k8Esm1msPrnzeqonFFJTA7xAdx1b", "sym": "FDNY", "reason": "vol1h 2542<40k"}
+{"t": "2026-11-18 04:11:37 WIB", "mint": "CnMw618DCiTVFx8vE1h7Deedrkb1GcYERy9r4rCzpump", "sym": "YUMS", "reason": "vol1h 29012<40k"}
+{"t": "2026-11-18 04:12:24 WIB", "mint": "FhXFkvstc7F5tUaa6rheFtjEDZQaqKb3YP3tgERXpump", "sym": "\tSTOP", "reason": "vol1h 2065<40k"}
