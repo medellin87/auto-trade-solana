@@ -15788,3 +15788,6 @@
 {"t": "2026-11-17 15:31:04 WIB", "mint": "BRf3SXRk8BdXmBZDJfKyEhbYmqBVf8843ctEMcD4pump", "sym": "COGE", "reason": "vol1h 7101<40k"}
 {"t": "2026-11-17 15:31:51 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.377<0.6"}
 {"t": "2026-11-17 15:31:52 WIB", "mint": "97Hd2j1tABpQvi2CDf8qtCEZgWiuQWD8yUZQXDDHpump", "sym": "BIGFLOAT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-17 15:32:39 WIB", "mint": "GbMhqLhHi6t33mG5H5cPQnPw96a8q6z4vF8nLzSKpump", "sym": "MILLY", "reason": "vol1h 10677<40k"}
+{"t": "2026-11-17 15:32:41 WIB", "mint": "A9RkWBfUTmkuwdefUwYHQLLSoKN673g9uEBV4uHEpump", "sym": "Whoa", "reason": "liq 0<20k"}
+{"t": "2026-11-17 15:34:12 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 3210<40k"}
