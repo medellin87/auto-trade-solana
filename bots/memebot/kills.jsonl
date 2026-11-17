@@ -15981,3 +15981,6 @@
 {"t": "2026-11-17 17:34:10 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 31135<40k"}
 {"t": "2026-11-17 17:35:42 WIB", "mint": "3bndENAdZ876r4RaGAZP3LEoMgkPzMuxPZZTpFXGpump", "sym": "GTA5", "reason": "liq 0<20k"}
 {"t": "2026-11-17 17:35:44 WIB", "mint": "HkBSWFbCRHChJsYctSLGKcHYF9uAnPvWtJUwhYRapump", "sym": "FEET", "reason": "vol1h 24311<40k"}
+{"t": "2026-11-17 17:36:30 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 3952<40k"}
+{"t": "2026-11-17 17:36:32 WIB", "mint": "6KRRYt4irf4FVJX7dCYmMfkN9BckaLntvV4ZZwkwpump", "sym": "JOB", "reason": "liq 5798<20k"}
+{"t": "2026-11-17 17:38:03 WIB", "mint": "CDMbeCvHyAiypmiqHN6a1N59MeXizQooKfEJMPZzpump", "sym": "FAILED", "reason": "liq 0<20k"}
