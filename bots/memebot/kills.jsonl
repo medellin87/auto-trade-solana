@@ -16176,3 +16176,7 @@
 {"t": "2026-11-17 19:38:52 WIB", "mint": "MadLXWNW9bcxwh4Zc9AwXu4d5Z7Pr4mM1KK7YY1pump", "sym": "SOYOUARE", "reason": "liq 3496<20k"}
 {"t": "2026-11-17 19:38:54 WIB", "mint": "6KRRYt4irf4FVJX7dCYmMfkN9BckaLntvV4ZZwkwpump", "sym": "JOB", "reason": "vol1h 590<40k"}
 {"t": "2026-11-17 19:38:55 WIB", "mint": "9WcYJegbsMSzvtFUEGmJoGhZjCGBEcKqXpdkNDoMR5pN", "sym": "RYANAIR", "reason": "vol1h 26587<40k"}
+{"t": "2026-11-17 19:39:42 WIB", "mint": "DnGZ2SqmEtuNcVPo3QMpu4y8CLRKEM5foaxPaywDpump", "sym": "ADA", "reason": "liq 0<20k"}
+{"t": "2026-11-17 19:40:29 WIB", "mint": "CDMbeCvHyAiypmiqHN6a1N59MeXizQooKfEJMPZzpump", "sym": "FAILED", "reason": "liq 12367<20k"}
+{"t": "2026-11-17 19:40:30 WIB", "mint": "5vcxCvcJXe9Avb9QyAeGJTJMhbevw7i4A4vFvVLWpump", "sym": "GTAPad", "reason": "vol1h 1978<40k"}
+{"t": "2026-11-17 19:41:17 WIB", "mint": "8YbobEkphtLmhpnsZhbxrMckfecHnVXbdScWLTeDpump", "sym": "$GTASA", "reason": "vol1h 16446<40k"}
