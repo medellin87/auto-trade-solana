@@ -17174,3 +17174,6 @@
 {"t": "2026-11-18 06:30:44 WIB", "mint": "4NeYgyo5fssLD6rMWt1bFqE8NXfSEatVBbeprY95z4ym", "sym": "WANTED", "reason": "liq 0<20k"}
 {"t": "2026-11-18 06:30:46 WIB", "mint": "EBCpGdXuS34WZuX13thrku2KmuLSe3Tf2gMtMKndpump", "sym": "maxi", "reason": "liq 0<20k"}
 {"t": "2026-11-18 06:31:33 WIB", "mint": "Bou6ektoGVHZJehde4iuSWmKPDe3AAw2iHGsYfuQpump", "sym": "KURNIATIAE", "reason": "vol1h 19251<40k"}
+{"t": "2026-11-18 06:32:19 WIB", "mint": "6AJASJJi16YncPgRofq5Evixk7Ws2ardShBnPArtpump", "sym": "BI", "reason": "liq 11465<20k"}
+{"t": "2026-11-18 06:34:36 WIB", "mint": "5gmCPpuktJ7Svjgr4PPJBTosAFKB8K6Z45EGfSUmpump", "sym": "penny", "reason": "vol1h 537<40k"}
+{"t": "2026-11-18 06:34:38 WIB", "mint": "BnUWwckMJNJQycRskNM77Hn1yZp31fWsxY1bckqfpump", "sym": "OFFLINE", "reason": "liq 0<20k"}
