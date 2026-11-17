@@ -16623,3 +16623,7 @@
 {"t": "2026-11-18 00:42:53 WIB", "mint": "8E3cajfQ9E28gBD2bR52FyebMjKk7aycH1MWN1oqpump", "sym": "SP500", "reason": "liq 0<20k"}
 {"t": "2026-11-18 00:42:55 WIB", "mint": "7YDiT1pxbazfzx6rkaUSSMEptJEwcWV2G8x9puSxpump", "sym": "VIBESTACK", "reason": "vol1h 1647<40k"}
 {"t": "2026-11-18 00:44:27 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 18150<40k"}
+{"t": "2026-11-18 00:45:58 WIB", "mint": "6GcoiRmCwT1rRmRbwXFSrtLJhnbZaCSLn82jJZxSpump", "sym": "NSA", "reason": "vol1h 4186<40k"}
+{"t": "2026-11-18 00:47:30 WIB", "mint": "9AhHRV5UWdz8MJgP97LczfrVBB2No9u1vse992mQpump", "sym": "Cyber", "reason": "liq 7620<20k"}
+{"t": "2026-11-18 00:47:32 WIB", "mint": "EULWnfX3hvnuod8wARSVFPyU1VnJxTB8YBaJFDvrpump", "sym": "Mischio", "reason": "vol1h 54<40k"}
+{"t": "2026-11-18 00:48:18 WIB", "mint": "FvtMW1b2LpKXFJY9jLA4dTfMhNmQ6tjRgo4jWpWspump", "sym": "Tracora", "reason": "vol1h 17791<40k"}
