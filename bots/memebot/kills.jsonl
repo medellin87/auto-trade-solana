@@ -16323,3 +16323,6 @@
 {"t": "2026-11-17 21:17:37 WIB", "mint": "96cvLuetKWmecDVjanNAiFCjS9oyuXLJa6amqLsUpump", "sym": "SHORT", "reason": "liq 3727<20k"}
 {"t": "2026-11-17 21:19:09 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 4711<40k"}
 {"t": "2026-11-17 21:19:55 WIB", "mint": "2FcsqRrhvgSfYxJWh32xW873vyqBZ9jmMyXqYSPgNtuZ", "sym": "Lucia", "reason": "vol1h 5939<40k"}
+{"t": "2026-11-17 21:21:27 WIB", "mint": "FHRn5sW7RLW4Gndd2nCD1t5erYCD17fbNogb2ZUjpump", "sym": "RYANAIR", "reason": "vol1h 35996<40k"}
+{"t": "2026-11-17 21:22:14 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 1583<40k"}
+{"t": "2026-11-17 21:23:47 WIB", "mint": "GbGzZQugMJtZnhcnNyHUamXg2xGZw4C4RWy1uSvVpump", "sym": "SOYOUARE", "reason": "liq 13785<20k"}
