@@ -16501,3 +16501,7 @@
 {"t": "2026-11-17 23:21:25 WIB", "mint": "6RuyAkZaaZf1PNLoCHdoPu2EhTm8Tq26Y1C1H7Hwpump", "sym": "what", "reason": "vol1h 8830<40k"}
 {"t": "2026-11-17 23:21:26 WIB", "mint": "4UrU21fWAn64MH4yXvzadR9kocntgEiXv8Xq3rnepump", "sym": "\u54c8\u5409\u54aa", "reason": "vol1h 25483<40k"}
 {"t": "2026-11-17 23:21:28 WIB", "mint": "6ZbWPYxFf8XyQ6dncrPAef1yz4W9nRF6rX3CYuE7pump", "sym": "\u6500\u8c79\u8c79", "reason": "liq 11898<20k"}
+{"t": "2026-11-17 23:22:15 WIB", "mint": "2FcsqRrhvgSfYxJWh32xW873vyqBZ9jmMyXqYSPgNtuZ", "sym": "Lucia", "reason": "vol1h 5428<40k"}
+{"t": "2026-11-17 23:22:16 WIB", "mint": "H19cCxKL2wzv9pwmk37G25QWQaMjJqtrn3tHwVPZpump", "sym": "GM", "reason": "liq 1358<20k"}
+{"t": "2026-11-17 23:24:33 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.579<0.6"}
+{"t": "2026-11-17 23:24:35 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 807<40k"}
