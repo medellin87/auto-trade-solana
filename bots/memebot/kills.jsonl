@@ -15297,3 +15297,6 @@
 {"t": "2026-11-17 10:22:20 WIB", "mint": "Gg5aWvfucyMwihDzyfCEaLgyeeNE2dkob2LTwWfHpump", "sym": "ETF", "reason": "score 0.376<0.6"}
 {"t": "2026-11-17 10:23:07 WIB", "mint": "DNuQrFj6qRnL8ajmh1u8nkfdsQ7Nf2voK9vdKcaQpump", "sym": "Mihaomas", "reason": "vol1h 39290<40k"}
 {"t": "2026-11-17 10:23:54 WIB", "mint": "8WvWwttzaLfW1nbjx6wmYL5jozWpvy95WktAg5cipump", "sym": "twert", "reason": "vol1h 5789<40k"}
+{"t": "2026-11-17 10:25:25 WIB", "mint": "Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv", "sym": "bul", "reason": "vol1h 0<40k"}
+{"t": "2026-11-17 10:25:27 WIB", "mint": "Ts2yi5FhTDAmhwTKH6ab6unWeoCMzzjz4JCPtBDRiLL", "sym": "DRILL", "reason": "liq 0<20k"}
+{"t": "2026-11-17 10:25:29 WIB", "mint": "BRf3SXRk8BdXmBZDJfKyEhbYmqBVf8843ctEMcD4pump", "sym": "COGE", "reason": "vol1h 11268<40k"}
