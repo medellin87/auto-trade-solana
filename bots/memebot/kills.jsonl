@@ -15019,3 +15019,11 @@
 {"t": "2026-11-17 07:38:25 WIB", "mint": "2qCT7TjUa1HFd79vK4zbEvoMgBb6hvmcg7BSLaAhpump", "sym": "Epstein", "reason": "liq 2536<20k"}
 {"t": "2026-11-17 07:38:27 WIB", "mint": "Q9kYktMbrdEt7oXwC4AqK9Jqyqjqax2VE6j5wwjpump", "sym": "BINDER", "reason": "vol1h 9257<40k"}
 {"t": "2026-11-17 07:38:29 WIB", "mint": "A4tdsso9PYcgrnENgnbtF1LBGFTZ4LREfSCjn4Jbs6N3", "sym": "MAZE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-17 07:40:45 WIB", "mint": "7Uyko7dmpxh95vVqeoXeGjasVRXV31JEAqcN2jEkpump", "sym": "AgentPaid", "reason": "liq 14293<20k"}
+{"t": "2026-11-17 07:41:32 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 30816<40k"}
+{"t": "2026-11-17 07:41:33 WIB", "mint": "HgDyiDQ2hfcPiYoSgzfu7848Aw4iFyPt6sWpmXnSpump", "sym": "LUCIA", "reason": "liq 18445<20k"}
+{"t": "2026-11-17 07:42:20 WIB", "mint": "FVugTPW5CG2gvGthnaeDhJyBdwdQqcuzgFEFEAfhpump", "sym": "EPIC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-17 07:42:22 WIB", "mint": "23GBezAJzK8fJNZzgA5LWLyz2WxDNTBfMKtgTQNPpump", "sym": "COGE", "reason": "vol1h 166<40k"}
+{"t": "2026-11-17 07:43:09 WIB", "mint": "2cMcMEX3Eqo86tUrVe5dgHp5GZNwqQ6crqm22UeZpump", "sym": "LEOSTAR", "reason": "score 0.563<0.6"}
+{"t": "2026-11-17 07:43:10 WIB", "mint": "Cza8qQwR659D6j9rHdxJvHmuwEJg81QZGMCQz43Kpump", "sym": "BLACKOUT", "reason": "vol1h 36740<40k"}
+{"t": "2026-11-17 07:43:12 WIB", "mint": "A27dLc33GGKULs5d8jz7iEkS6wKkCBdB1gnzkyxmPEQ7", "sym": "BURGER", "reason": "vol1h 0<40k"}
