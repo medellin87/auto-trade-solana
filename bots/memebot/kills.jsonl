@@ -16034,3 +16034,4 @@
 {"t": "2026-11-17 18:07:08 WIB", "mint": "9WcYJegbsMSzvtFUEGmJoGhZjCGBEcKqXpdkNDoMR5pN", "sym": "RYANAIR", "reason": "liq 0<20k"}
 {"t": "2026-11-17 18:08:40 WIB", "mint": "CDMbeCvHyAiypmiqHN6a1N59MeXizQooKfEJMPZzpump", "sym": "FAILED", "reason": "vol1h 31369<40k"}
 {"t": "2026-11-17 18:08:41 WIB", "mint": "5vcxCvcJXe9Avb9QyAeGJTJMhbevw7i4A4vFvVLWpump", "sym": "GTAPad", "reason": "vol1h 19615<40k"}
+{"t": "2026-11-17 18:12:28 WIB", "mint": "GkMfy66mLHzyXFKBw4feG8dXtoXuphQVSJQYMQb4pump", "sym": "FROGE", "reason": "vol1h 6730<40k"}
