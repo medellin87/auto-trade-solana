@@ -15840,3 +15840,7 @@
 {"t": "2026-11-17 16:03:13 WIB", "mint": "A9RkWBfUTmkuwdefUwYHQLLSoKN673g9uEBV4uHEpump", "sym": "Whoa", "reason": "liq 0<20k"}
 {"t": "2026-11-17 16:04:00 WIB", "mint": "HkBSWFbCRHChJsYctSLGKcHYF9uAnPvWtJUwhYRapump", "sym": "FEET", "reason": "liq 0<20k"}
 {"t": "2026-11-17 16:04:46 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 2899<40k"}
+{"t": "2026-11-17 16:06:18 WIB", "mint": "3ghMZsrHkWKzigd2pxvuLMGMcVYJt1JjDcatsfMhpump", "sym": "SUPERPLUMB", "reason": "liq 18791<20k"}
+{"t": "2026-11-17 16:07:50 WIB", "mint": "2FcsqRrhvgSfYxJWh32xW873vyqBZ9jmMyXqYSPgNtuZ", "sym": "Lucia", "reason": "vol1h 2849<40k"}
+{"t": "2026-11-17 16:07:51 WIB", "mint": "Gv6eUu4C4JNmJh1mFrp7Hth7ySpt1Rp51MUiqBGDpump", "sym": "PUMPMAS", "reason": "vol1h 1<40k"}
+{"t": "2026-11-17 16:08:38 WIB", "mint": "Aj7eKsqwMRXxBJDhx1vrtujGifnzxuhvrokMfeQm9cHh", "sym": "USEF", "reason": "vol1h 121<40k"}
