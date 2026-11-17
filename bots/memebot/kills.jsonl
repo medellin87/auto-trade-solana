@@ -16355,3 +16355,6 @@
 {"t": "2026-11-17 21:38:48 WIB", "mint": "7iD8uMHVEckuqxTKUD7DHCn6uC6Ref5bDC6xqa2Dpump", "sym": "MM", "reason": "liq 0<20k"}
 {"t": "2026-11-17 21:38:50 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.339<0.6"}
 {"t": "2026-11-17 21:38:51 WIB", "mint": "ANNzAQ2ADnquKGoKMsMt3ByLASo93pFnA23D8KW7pump", "sym": "JVOLT", "reason": "liq 1533<20k"}
+{"t": "2026-11-17 21:39:38 WIB", "mint": "41rcvc2JymJAuQWY1rfx5XStrLdN1EMfSL8k3qq4pump", "sym": "GTA", "reason": "vol1h 1845<40k"}
+{"t": "2026-11-17 21:39:39 WIB", "mint": "7ZtYrD7TLYnj5z1qMVEepJqzPTK4HaqPofoHeFQ1pump", "sym": "KATIA", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-17 21:41:11 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 14866<40k"}
