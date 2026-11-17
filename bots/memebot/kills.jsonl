@@ -15174,3 +15174,11 @@
 {"t": "2026-11-17 09:09:46 WIB", "mint": "Q9kYktMbrdEt7oXwC4AqK9Jqyqjqax2VE6j5wwjpump", "sym": "BINDER", "reason": "vol1h 13388<40k"}
 {"t": "2026-11-17 09:09:48 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 887<40k"}
 {"t": "2026-11-17 09:09:50 WIB", "mint": "A4tdsso9PYcgrnENgnbtF1LBGFTZ4LREfSCjn4Jbs6N3", "sym": "MAZE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-17 09:10:36 WIB", "mint": "CTsD5kMoPcwG8AYZQoaRZjbLmeC9xYtHib5u38Wmpump", "sym": "SHARE", "reason": "liq 2039<20k"}
+{"t": "2026-11-17 09:11:23 WIB", "mint": "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump", "sym": "GTA", "reason": "score 0.539<0.6"}
+{"t": "2026-11-17 09:12:10 WIB", "mint": "GtAUtApvLbYu3xwowergGfcFXy3JiWyBHJjY6k1dCash", "sym": "GTA$", "reason": "vol1h 3267<40k"}
+{"t": "2026-11-17 09:12:11 WIB", "mint": "7Uyko7dmpxh95vVqeoXeGjasVRXV31JEAqcN2jEkpump", "sym": "AgentPaid", "reason": "vol1h 2246<40k"}
+{"t": "2026-11-17 09:12:58 WIB", "mint": "9k2nqjUrSh9p2ZBnWxNE3QRWYiLocrWZfoDm3Vdxpump", "sym": "CHAR", "reason": "liq 19995<20k"}
+{"t": "2026-11-17 09:12:59 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 18567<40k"}
+{"t": "2026-11-17 09:13:01 WIB", "mint": "HgDyiDQ2hfcPiYoSgzfu7848Aw4iFyPt6sWpmXnSpump", "sym": "LUCIA", "reason": "liq 1441<20k"}
+{"t": "2026-11-17 09:13:02 WIB", "mint": "9nxtkTZzMuukme6LN4orxCfVoujAZPKfCoin6zSupump", "sym": "ROCCO", "reason": "vol1h 8380<40k"}
