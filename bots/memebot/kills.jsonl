@@ -16810,3 +16810,6 @@
 {"t": "2026-11-18 02:44:31 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.308<0.6"}
 {"t": "2026-11-18 02:45:18 WIB", "mint": "41rcvc2JymJAuQWY1rfx5XStrLdN1EMfSL8k3qq4pump", "sym": "GTA", "reason": "vol1h 3575<40k"}
 {"t": "2026-11-18 02:45:19 WIB", "mint": "7YDiT1pxbazfzx6rkaUSSMEptJEwcWV2G8x9puSxpump", "sym": "VIBESTACK", "reason": "vol1h 145<40k"}
+{"t": "2026-11-18 02:46:06 WIB", "mint": "ERiM8NiCanarGEnWMnURAoxTuTvUXZbtJsPTirnHpump", "sym": "GTAVI", "reason": "LP locked 0%<90"}
+{"t": "2026-11-18 02:46:08 WIB", "mint": "CnsTAGfBVKbasoNbFP36bb52R1KzjTTMMX1rqxzSpump", "sym": "GTA6", "reason": "vol1h 4858<40k"}
+{"t": "2026-11-18 02:46:56 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 23341<40k"}
