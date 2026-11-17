@@ -16148,3 +16148,6 @@
 {"t": "2026-11-17 19:19:19 WIB", "mint": "FHRn5sW7RLW4Gndd2nCD1t5erYCD17fbNogb2ZUjpump", "sym": "RYANAIR", "reason": "liq 0<20k"}
 {"t": "2026-11-17 19:20:05 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 865<40k"}
 {"t": "2026-11-17 19:20:07 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.442<0.6"}
+{"t": "2026-11-17 19:20:54 WIB", "mint": "4cXN5CMEd9einVMRKeSv8yz28LjP7459R9XBwx3ipump", "sym": "tomte", "reason": "vol1h 1529<40k"}
+{"t": "2026-11-17 19:21:41 WIB", "mint": "GbGzZQugMJtZnhcnNyHUamXg2xGZw4C4RWy1uSvVpump", "sym": "SOYOUARE", "reason": "liq 19726<20k"}
+{"t": "2026-11-17 19:22:27 WIB", "mint": "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump", "sym": "GTA", "reason": "score 0.337<0.6"}
