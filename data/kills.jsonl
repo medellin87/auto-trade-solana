@@ -1,8 +1,3 @@
-{"t": "2026-11-17 19:01:10 WIB", "mint": "dtoj8Ay4CuXA2dRVkvpBmp1quoy6MHi1n5Zc4DJpump", "sym": "MERT", "reason": "vol1h 0<40k"}
-{"t": "2026-11-17 19:01:57 WIB", "mint": "3yjHj9s9MukEHr7b7qhMiUfH5fSUz97Eb5J8SRjdpump", "sym": "VI", "reason": "vol1h 8263<40k"}
-{"t": "2026-11-17 19:01:59 WIB", "mint": "4HePbdXuZG7wLue1LAZnxCd3rS1yzXd91dhGmY59pump", "sym": "CM", "reason": "vol1h 1<40k"}
-{"t": "2026-11-17 19:02:00 WIB", "mint": "7i1tsQG5YM8oE9PSifyDn91rC7LZZNuan9FGyKPGpump", "sym": "bye", "reason": "vol1h 1135<40k"}
-{"t": "2026-11-17 19:02:47 WIB", "mint": "CMHDMepwM1pAuNr3YXFkMvyLT3J8GCq2RafufpKypump", "sym": "Millionaires", "reason": "liq 8443<20k"}
 {"t": "2026-11-17 19:02:48 WIB", "mint": "CEDu2rFVxpkWVjeKXu2h2DadCe3PVRZDocSR41xpump", "sym": "KAI", "reason": "vol1h 18959<40k"}
 {"t": "2026-11-17 19:02:50 WIB", "mint": "DNuQrFj6qRnL8ajmh1u8nkfdsQ7Nf2voK9vdKcaQpump", "sym": "Mihaomas", "reason": "vol1h 2<40k"}
 {"t": "2026-11-17 19:03:36 WIB", "mint": "9k2nqjUrSh9p2ZBnWxNE3QRWYiLocrWZfoDm3Vdxpump", "sym": "CHAR", "reason": "vol1h 31268<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-17 19:15:26 WIB", "mint": "BMWQ4UGZNG8amBJkpnxq3QVGoVWMVJ4ji7SpMdB8SgJw", "sym": "HUGO", "reason": "vol1h 1787<40k"}
 {"t": "2026-11-17 19:16:57 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 5922<40k"}
 {"t": "2026-11-17 19:16:59 WIB", "mint": "EmWKmZkT6GJ45LcBEVXRpkZCfTHUGxVYyHvN2mJ8n8gy", "sym": "LEVELS", "reason": "vol1h 18218<40k"}
+{"t": "2026-11-17 19:17:45 WIB", "mint": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump", "sym": "RICO", "reason": "vol1h 3<40k"}
+{"t": "2026-11-17 19:18:32 WIB", "mint": "5SZ1RvZN1TM3C9dQGa8CDmFfcFGdMbynzdYiyF5npump", "sym": "Rex", "reason": "vol1h 10907<40k"}
+{"t": "2026-11-17 19:19:19 WIB", "mint": "FHRn5sW7RLW4Gndd2nCD1t5erYCD17fbNogb2ZUjpump", "sym": "RYANAIR", "reason": "liq 0<20k"}
+{"t": "2026-11-17 19:20:05 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 865<40k"}
+{"t": "2026-11-17 19:20:07 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.442<0.6"}
