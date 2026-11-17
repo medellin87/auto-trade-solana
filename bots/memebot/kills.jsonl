@@ -16839,3 +16839,7 @@
 {"t": "2026-11-18 03:02:38 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 52<40k"}
 {"t": "2026-11-18 03:02:40 WIB", "mint": "4ULpYvaTGRq1KnaCiPhz52nyQFx86wN1vqqX3ny8refu", "sym": "REFU", "reason": "score 0.262<0.6"}
 {"t": "2026-11-18 03:04:57 WIB", "mint": "3dmAQnhtADFkMMJGyc9HR9mNwdvAWHEE7KG7YNXApump", "sym": "CALLING", "reason": "liq 0<20k"}
+{"t": "2026-11-18 03:07:15 WIB", "mint": "5p9G6DiiG1ffqqsvxeGhyTY5Gqe2d5J6yCx1qaqNpump", "sym": "MOONVALE", "reason": "vol1h 175<40k"}
+{"t": "2026-11-18 03:07:17 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 4132<40k"}
+{"t": "2026-11-18 03:09:35 WIB", "mint": "2K9m8LFzEC7qusof6yNdhUjRacqySWm9LVXe7yEEpump", "sym": "Fede", "reason": "vol1h 2024<40k"}
+{"t": "2026-11-18 03:09:37 WIB", "mint": "AmhZx5CPGgGFVMs7k8Esm1msPrnzeqonFFJTA7xAdx1b", "sym": "FDNY", "reason": "vol1h 5956<40k"}
