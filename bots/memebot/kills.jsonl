@@ -15742,3 +15742,8 @@
 {"t": "2026-11-17 15:01:18 WIB", "mint": "97Hd2j1tABpQvi2CDf8qtCEZgWiuQWD8yUZQXDDHpump", "sym": "BIGFLOAT", "reason": "vol1h 2<40k"}
 {"t": "2026-11-17 15:03:34 WIB", "mint": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump", "sym": "GLITCH", "reason": "vol1h 2501<40k"}
 {"t": "2026-11-17 15:03:36 WIB", "mint": "4xYLY4PLLapVcTwvUPRTnSraoPZgXzXYGtAKw7ogpump", "sym": "Tuff", "reason": "vol1h 147<40k"}
+{"t": "2026-11-17 15:05:07 WIB", "mint": "3ghMZsrHkWKzigd2pxvuLMGMcVYJt1JjDcatsfMhpump", "sym": "SUPERPLUMB", "reason": "liq 15611<20k"}
+{"t": "2026-11-17 15:05:09 WIB", "mint": "GRJSiFU1SBhm6kDSBjK4T7vdiGZ3gG4W7EFH38popump", "sym": "GC", "reason": "vol1h 255<40k"}
+{"t": "2026-11-17 15:06:41 WIB", "mint": "2FcsqRrhvgSfYxJWh32xW873vyqBZ9jmMyXqYSPgNtuZ", "sym": "Lucia", "reason": "vol1h 7904<40k"}
+{"t": "2026-11-17 15:06:42 WIB", "mint": "Gv6eUu4C4JNmJh1mFrp7Hth7ySpt1Rp51MUiqBGDpump", "sym": "PUMPMAS", "reason": "vol1h 19804<40k"}
+{"t": "2026-11-17 15:06:44 WIB", "mint": "2uqeze8xT3SnxRHioM5MKwqb23e4Z3cuaRzUntimpump", "sym": "CLOUT", "reason": "liq 0<20k"}
