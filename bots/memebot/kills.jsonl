@@ -16593,3 +16593,9 @@
 {"t": "2026-11-18 00:24:01 WIB", "mint": "5hbEJQVHNRL7n7ZbCbHtMYREjwv5C6ymURKUeThMpump", "sym": "GCP", "reason": "liq 0<20k"}
 {"t": "2026-11-18 00:25:35 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 1257<40k"}
 {"t": "2026-11-18 00:25:36 WIB", "mint": "D6HmZYxcWaDkJE9jCjLWFCTUSBJpRixVqdDVBK12CaLL", "sym": "call", "reason": "liq 0<20k"}
+{"t": "2026-11-18 00:27:08 WIB", "mint": "GbGzZQugMJtZnhcnNyHUamXg2xGZw4C4RWy1uSvVpump", "sym": "SOYOUARE", "reason": "vol1h 24364<40k"}
+{"t": "2026-11-18 00:27:09 WIB", "mint": "AtiGZto9Ui3kvpQDofHg5Pb1SpffYbdHRF5a17JEpump", "sym": "ong", "reason": "vol1h 23131<40k"}
+{"t": "2026-11-18 00:27:56 WIB", "mint": "G7VZLX1SGGPzVkJeLJDswtSWtFhwqpn7vXfiH5C5pump", "sym": "HONK", "reason": "vol1h 7048<40k"}
+{"t": "2026-11-18 00:27:59 WIB", "mint": "9os8t7T6yrzFMMFWkw9hu1MdNVstMoLymAsJDB6Tpump", "sym": "EVE", "reason": "vol1h 17<40k"}
+{"t": "2026-11-18 00:28:45 WIB", "mint": "F3dM6GnKZJXCXrSUrhsmxyZ1w9dQroEJPGERrv8pump", "sym": "Momo", "reason": "vol1h 22304<40k"}
+{"t": "2026-11-18 00:29:32 WIB", "mint": "9hcGkiESMMLXJjMv9ktJjDDQpt5SyKJDZ5CKAt2Qpump", "sym": "Rex", "reason": "vol1h 0<40k"}
