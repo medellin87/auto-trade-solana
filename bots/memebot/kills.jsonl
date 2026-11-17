@@ -17140,3 +17140,9 @@
 {"t": "2026-11-18 06:13:59 WIB", "mint": "CXQQXeXRsCSKVQzqN7nP7du3tuQjFrUZYb6cudFBpump", "sym": "BLACKOUT", "reason": "liq 0<20k"}
 {"t": "2026-11-18 06:14:46 WIB", "mint": "79nXeeVi2DyfMfHEMbyb9xBHbUy5KEtkFBTXfh6Vpump", "sym": "$SG", "reason": "vol1h 0<40k"}
 {"t": "2026-11-18 06:15:33 WIB", "mint": "DX1Kmb8QiQhwR6cncj15JRnzfGhpceWq3t2iur2epump", "sym": "LUCIA", "reason": "vol1h 32<40k"}
+{"t": "2026-11-18 06:17:05 WIB", "mint": "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump", "sym": "Huang", "reason": "vol1h 5518<40k"}
+{"t": "2026-11-18 06:17:06 WIB", "mint": "DXdAXgG4RqYJqrR3FU2J3RVBQFFgPtae8Se4ydBepump", "sym": "FAIRCAT", "reason": "liq 0<20k"}
+{"t": "2026-11-18 06:17:08 WIB", "mint": "DKZ5rfVwLyJ452ewsUa3zBva4d64KoVBKWBqVSXgFLCA", "sym": "FLEECA", "reason": "vol1h 30667<40k"}
+{"t": "2026-11-18 06:18:39 WIB", "mint": "453edF32x8aS8MXHBg2t6vtKLWyK7D7NKRyybcskpump", "sym": "GTA", "reason": "liq 2277<20k"}
+{"t": "2026-11-18 06:18:41 WIB", "mint": "2ChuZVeETepzUiimNZLp9LrWwaHabq5pJ1S6tVkLpump", "sym": "BOWL", "reason": "liq 0<20k"}
+{"t": "2026-11-18 06:18:43 WIB", "mint": "6MjDb45kzriv6cpW6oaDjZGw1rujmpA185dHcvZzpump", "sym": "Rex", "reason": "vol1h 18<40k"}
