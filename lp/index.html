@@ -1,17 +1,20 @@
-<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>LP Simulasi</title>
+<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>LP Simulasi USDC/USDT</title>
 <style>body{font-family:sans-serif;margin:10px;font-size:14px}h3{margin:12px 0 4px}.b{background:#fd0;padding:6px;font-weight:bold}div.r{border-bottom:1px solid #ddd;padding:3px 0;word-break:break-all}td{padding:2px 6px;border-bottom:1px solid #eee}</style></head><body>
-<div class=b>PAPER / SIMULASI LP - data pool asli</div><p><a href="../">&larr; Auto Trade Solana</a></p><div id=o>Memuat...</div>
-<p style="font-size:12px;color:#555">Fee = estimasi: (kenaikan feeGrowthGlobal on-chain pool per unit likuiditas) x likuiditas virtual kita, hanya saat harga di dalam range. Rebalance jika di luar range &gt;30 menit (biaya: fee pool + 0,1% slippage + $0,01). Halt jika USDC menyimpang &gt;0,5% dari $1. Tanpa wallet, tanpa uang nyata.</p>
+<div class=b>PAPER / SIMULASI LP USDC/USDT - data pool asli</div><p><a href="../">&larr; Auto Trade Solana</a></p><div id=o>Memuat...</div>
+<p style="font-size:12px;color:#555">Forward test $1.000 virtual (pasangan A dari backtest LP-V3): LP 50/50 USDC/USDT di Orca Whirlpool (tick spacing 1, fee 0,01%), range tetap 0,995&ndash;1,005 USDT per USDC, tidak di-recenter. Fee = estimasi: (kenaikan feeGrowthGlobal on-chain pool per unit likuiditas) x likuiditas virtual kita, hanya saat harga di dalam range. Penjaga depeg: jika harga pool keluar 0,99&ndash;1,01 atau USDC/USDT menyimpang &gt;1% dari $1 (Jupiter), keluar semua ke USDC; masuk lagi setelah aman 6 jam dan harga kembali di range. Biaya: $0,01 per transaksi + swap 0,01%. Pembanding: tahan USDC (0%). Semua nilai dalam USDC pada harga pool. Hasil backtest (proxy fee): ~3,6&ndash;7,4%/tahun = ~$36&ndash;74/tahun pada $1.000. Tanpa wallet, tanpa uang nyata.<br>Hasil v1 (Sempit &plusmn;10% / Lebar &plusmn;25% SOL/USDC, 31 Okt&ndash;17 Nov 2026) diarsipkan: <a href="data/archive/v1_latest.json">v1_latest.json</a> &middot; <a href="data/archive/v1_events.jsonl">v1_events.jsonl</a></p>
 <script>
 const g=async f=>{try{let r=await fetch('data/'+f+'?'+Date.now());return r.ok?await r.text():''}catch(e){return ''}};
 const L=t=>t.trim().split('\n').filter(x=>x).map(x=>{try{return JSON.parse(x)}catch(e){return null}}).filter(x=>x);
-const f=x=>(x>=0?'+':'')+'$'+(+x).toFixed(2);
-async function u(){let j={};try{j=JSON.parse(await g('latest.json'))}catch(e){}let s=j.state||{},r=j.row||{};
-let h=`<p>Pool: <b>Orca Whirlpool SOL/USDC (fee ${(r.fee_rate*100).toFixed(2)}%)</b><br><a href="https://www.orca.so/pools/${s.pool}">${s.pool}</a> · <a href="https://solscan.io/account/${s.pool}">Solscan</a><br>Mulai: ${s.start} @ $${(+s.P0).toFixed(2)}<br>Update: <b>${r.t}</b> · Harga SOL: <b>$${r.price}</b> · USDC $${(+r.usdc).toFixed(4)} ${r.halted?'<b style=color:red>HALT</b>':''}<br>TVL $${(+r.tvl).toLocaleString()} · Vol 24j $${(+r.vol24h).toLocaleString()}</p><table><tr><td></td><td><b>Sempit ±10%</b></td><td><b>Lebar ±25%</b></td></tr>`;
-const k=['narrow','wide'],row=(n,fn)=>h+=`<tr><td>${n}</td>${k.map(x=>`<td>${r[x]?fn(r[x]):'-'}</td>`).join('')}</tr>`;
-row('Range',p=>'$'+p.range[0]+'–$'+p.range[1]);row('Di range?',p=>p.in_range?'YA':'<b style=color:red>TIDAK</b>');
-row('Fee didapat',p=>'$'+p.fees.toFixed(4));row('Nilai posisi',p=>'$'+p.value.toFixed(2));row('HODL 50/50',p=>'$'+p.hodl.toFixed(2));
-row('IL (vs HODL)',p=>f(p.il));row('Rebalance',p=>p.rebal+'x, biaya $'+p.rebal_cost.toFixed(2));row('<b>PnL bersih</b>',p=>'<b>'+f(p.net_pnl)+'</b>');row('LP vs HODL',p=>f(p.vs_hodl));
+const f=(x,n=2)=>x==null?'-':(x>=0?'+':'')+'$'+(+x).toFixed(n);
+async function u(){let j={};try{j=JSON.parse(await g('latest.json'))}catch(e){}let s=j.state,r=j.row;
+if(!s||!r){document.getElementById('o').innerHTML='<p>Menunggu tick pertama bot...</p>';return}
+let h=`<p>Pool: <b>Orca Whirlpool USDC/USDT (fee ${(r.fee_rate*100).toFixed(2)}%, tick spacing ${s.tick_spacing})</b><br><a href="https://www.orca.so/pools/${s.pool}">${s.pool}</a> · <a href="https://solscan.io/account/${s.pool}">Solscan</a><br>Mulai: ${s.start} @ ${(+s.P0).toFixed(5)}<br>Update: <b>${r.t}</b> · Harga: <b>${r.price}</b> USDT/USDC · USDC $${r.usdc_usd!=null?(+r.usdc_usd).toFixed(4):'-'} · USDT $${r.usdt_usd!=null?(+r.usdt_usd).toFixed(4):'-'} ${r.guard_bad?'<b style=color:red>DEPEG GUARD</b>':''}<br>TVL $${(+r.tvl).toLocaleString()} · Vol 24j $${(+r.vol24h).toLocaleString()}</p><table>`;
+const row=(n,v)=>h+=`<tr><td>${n}</td><td>${v}</td></tr>`;
+row('Range',s.range[0]+'–'+s.range[1]+' (guard '+s.guard[0]+'–'+s.guard[1]+')');row('Mode',r.mode=='lp'?'LP':'<b style=color:red>USDC (keluar)</b>');
+row('Di range?',r.in_range?'YA':'<b style=color:red>TIDAK</b>');row('Waktu di range',r.in_range_pct!=null?(r.in_range_pct*100).toFixed(1)+'%':'-');
+row('Isi posisi',r.usdc.toFixed(2)+' USDC + '+r.usdt.toFixed(2)+' USDT');row('Nilai posisi (USDC)',''+r.value.toFixed(2));row('Fee didapat','$'+r.fees.toFixed(4));
+row('Biaya (gas+swap)','$'+r.cost.toFixed(4)+' ('+r.tx+' tx, keluar '+r.exits+'x)');row('<b>PnL bersih</b>','<b>'+f(r.net_pnl,4)+'</b> ('+r.days.toFixed(2)+' hari)');
+row('APR bersih (tahunan)',r.apr!=null?(r.apr*100).toFixed(2)+'%':'- (butuh &ge;1 hari)');row('Tahan USDC',''+r.hold_usdc.toFixed(2));row('LP vs tahan USDC',f(r.vs_hold,4));
 h+='</table><h3>Event</h3>'+L(await g('events.jsonl')).slice(-15).reverse().map(e=>`<div class=r>${JSON.stringify(e)}</div>`).join('');
 document.getElementById('o').innerHTML=h}
 u();setInterval(u,60000);
