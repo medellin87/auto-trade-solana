@@ -17452,3 +17452,6 @@
 {"t": "2026-11-18 09:03:19 WIB", "mint": "4owiqSSaq97Dy9eECDzSBYHNxk6FNMsfodcttidHcRr8", "sym": "VCFUND", "reason": "liq 0<20k"}
 {"t": "2026-11-18 09:03:21 WIB", "mint": "6wDvbw7y6vtzcG6yCCSFUZ79BoYWq6DLz4rR1LLpump", "sym": "GTAPAY", "reason": "vol1h 16048<40k"}
 {"t": "2026-11-18 09:03:22 WIB", "mint": "EWsZgwW3md4vfiqX4Z1L95e4ToJ7r1tLHxVDnaozpump", "sym": "Loaf", "reason": "liq 6393<20k"}
+{"t": "2026-11-18 09:05:39 WIB", "mint": "5gmCPpuktJ7Svjgr4PPJBTosAFKB8K6Z45EGfSUmpump", "sym": "penny", "reason": "vol1h 324<40k"}
+{"t": "2026-11-18 09:06:26 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 0<40k"}
+{"t": "2026-11-18 09:06:27 WIB", "mint": "4ULpYvaTGRq1KnaCiPhz52nyQFx86wN1vqqX3ny8refu", "sym": "REFU", "reason": "vol1h 14452<40k"}
