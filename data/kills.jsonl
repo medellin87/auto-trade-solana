@@ -1,8 +1,3 @@
-{"t": "2026-11-18 19:11:16 WIB", "mint": "GUiDVqedXqkTvLNZJhidHHyaNgRuvytrpwVLME7xpump", "sym": "WANTED", "reason": "vol1h 8267<40k"}
-{"t": "2026-11-18 19:13:33 WIB", "mint": "EVbsBwxqdbMqadwAsVZ6KP9SJiaNmLSHAAb4W2mUpump", "sym": "LUNO", "reason": "vol1h 5112<40k"}
-{"t": "2026-11-18 19:16:35 WIB", "mint": "FWf3moravJukwmqgPYbq6v55DDrbV4svrYbuZFa3moon", "sym": "GTA6", "reason": "vol1h 40<40k"}
-{"t": "2026-11-18 19:16:36 WIB", "mint": "6MidA49VWEJaYoyDGTcDKxmFFxrq3ohyCYgZQWfbpump", "sym": "BOOBIE", "reason": "vol1h 40<40k"}
-{"t": "2026-11-18 19:16:38 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 9505<40k"}
 {"t": "2026-11-18 19:16:39 WIB", "mint": "2FcsqRrhvgSfYxJWh32xW873vyqBZ9jmMyXqYSPgNtuZ", "sym": "Lucia", "reason": "vol1h 6505<40k"}
 {"t": "2026-11-18 19:17:26 WIB", "mint": "78Bwk2uc4t2tFwc9uY5HCiStz5Hdm6VWijGQeBWapump", "sym": "BUSTED", "reason": "vol1h 462<40k"}
 {"t": "2026-11-18 19:17:27 WIB", "mint": "FfsmhbvkTZ2TBYTuLgYCWiwhqeosVyH3imuUtWWypump", "sym": "clipping", "reason": "liq 12273<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-18 19:30:49 WIB", "mint": "9HvcdB9SGRY1qCYFXhTtdgcF6C7SGR1PZH1KjzV8BAGS", "sym": "PARTY", "reason": "vol1h 0<40k"}
 {"t": "2026-11-18 19:30:51 WIB", "mint": "wKy6tEDZj6jS1GUMmnSSTrR1bXJQa35s7VHcWHxhNbA", "sym": "JASON", "reason": "vol1h 947<40k"}
 {"t": "2026-11-18 19:31:37 WIB", "mint": "3dF7QJEkhuVshbdgcVe227XvsbBc3cCoPTcHXw7Fpump", "sym": "BUCKZ", "reason": "liq 16179<20k"}
+{"t": "2026-11-18 19:33:09 WIB", "mint": "3D6RBYX6M7xrVSawqXnVgEDFhoCFFmf3eHg8MTSUpump", "sym": "DacityCoin", "reason": "liq 11681<20k"}
+{"t": "2026-11-18 19:33:56 WIB", "mint": "Hsjw2z1TS4YGp3ELikbNm1eqFMCoGMF18swmPsr4pump", "sym": "smugcat", "reason": "vol1h 27500<40k"}
+{"t": "2026-11-18 19:33:57 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 23146<40k"}
+{"t": "2026-11-18 19:33:59 WIB", "mint": "HricrxBN3QXC3SN5VLtNhaEzoGrYea5ZtaTxQDfKSTNK", "sym": "VI", "reason": "liq 18565<20k"}
+{"t": "2026-11-18 19:35:30 WIB", "mint": "9UKo9XNm5bF2AUb1jpjw2GoeiPFUng9HKczmVyZ9Ny5s", "sym": "Shockcat", "reason": "vol1h 9691<40k"}
