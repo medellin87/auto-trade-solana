@@ -19545,3 +19545,7 @@
 {"t": "2026-11-19 06:21:20 WIB", "mint": "EzL6hy8z79dv674kGipoL8VnEokQ5931iMk6Hj2zcN15", "sym": "GTA", "reason": "vol1h 1921<40k"}
 {"t": "2026-11-19 06:21:21 WIB", "mint": "3hdXmQqZHmm7gWWweFKGdkjnxyWQZ2SWVNt1Jty5pump", "sym": "SECOND", "reason": "vol1h 1774<40k"}
 {"t": "2026-11-19 06:22:53 WIB", "mint": "EadD2LMp6EbH9PrbXUFWcrZKMhoKVrZN1gpwRhH5pump", "sym": "ANT", "reason": "vol1h 26201<40k"}
+{"t": "2026-11-19 06:24:25 WIB", "mint": "7wkPPoNPfrp3qVZCAme7wEXd6XhwP3G6xxrWeu8GTA6", "sym": "PolyGTA", "reason": "liq 16159<20k"}
+{"t": "2026-11-19 06:25:56 WIB", "mint": "GSfFkc7Bkz8RRRTFgCwasMhn48PWhKm1ehDcxaHdi6ea", "sym": "GTAMOD", "reason": "vol1h 19799<40k"}
+{"t": "2026-11-19 06:26:43 WIB", "mint": "pp6SutEifuohJtxBDduiuKja1SbBChg9ohrT7Ukpump", "sym": "LGTA6", "reason": "liq 9132<20k"}
+{"t": "2026-11-19 06:26:45 WIB", "mint": "2NgujgoiTB4rYYBdyYVhfKyBFGUA2r7GSM6inUAipump", "sym": "Mandy", "reason": "top10 52.4%>25"}
