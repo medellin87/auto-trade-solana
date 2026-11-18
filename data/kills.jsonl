@@ -1,8 +1,3 @@
-{"t": "2026-11-18 15:29:39 WIB", "mint": "3yxsNufZSWNrvMXw8gwCJFCuUkuTDsb1a55aR7evpump", "sym": "SHARK", "reason": "liq 0<20k"}
-{"t": "2026-11-18 15:31:11 WIB", "mint": "5e3dLUoPcodT9JdCqnhwzemeWnBNexL317BY7Rv4pump", "sym": "Hedgehog", "reason": "vol1h 1647<40k"}
-{"t": "2026-11-18 15:31:58 WIB", "mint": "6MjDb45kzriv6cpW6oaDjZGw1rujmpA185dHcvZzpump", "sym": "Rex", "reason": "vol1h 0<40k"}
-{"t": "2026-11-18 15:32:44 WIB", "mint": "CxgVW6RHKUgycS47HLXzBhYZFdH82VuUeksHnJDtpump", "sym": "Gamooor", "reason": "vol1h 10658<40k"}
-{"t": "2026-11-18 15:32:46 WIB", "mint": "6xKfWEJ76r5PzXwMpMnd8jiV5gArjkRcTsVXU7ujpump", "sym": "controller", "reason": "liq 19014<20k"}
 {"t": "2026-11-18 15:32:47 WIB", "mint": "DY2ZAaZrt27b3PpXjxH8qqDBZwrEoFoSqb83t7VNpump", "sym": "B4GTA6", "reason": "vol1h 2<40k"}
 {"t": "2026-11-18 15:33:34 WIB", "mint": "GtAUtApvLbYu3xwowergGfcFXy3JiWyBHJjY6k1dCash", "sym": "GTA$", "reason": "vol1h 612<40k"}
 {"t": "2026-11-18 15:33:36 WIB", "mint": "HCNhQCu5nrmWhSE3mo7fRU9eGiGLmi2fnE8omgLpump", "sym": "DCI", "reason": "score 0.567<0.6"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-18 15:44:38 WIB", "mint": "8m6YmC1dDW5iF3Kc7rEsay2ZbKcZ133KSoyj3ASFpump", "sym": "Sharkcards", "reason": "liq 12178<20k"}
 {"t": "2026-11-18 15:45:24 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 11790<40k"}
 {"t": "2026-11-18 15:45:26 WIB", "mint": "5zQxXRcsip2ViGsWjvbw1q2fQuv3JtizLhivM7topump", "sym": "NEGRO", "reason": "vol1h 45<40k"}
+{"t": "2026-11-18 15:46:12 WIB", "mint": "FhXFkvstc7F5tUaa6rheFtjEDZQaqKb3YP3tgERXpump", "sym": "\tSTOP", "reason": "vol1h 0<40k"}
+{"t": "2026-11-18 15:47:44 WIB", "mint": "8utEAA7sbciRdCmAiTgACEr8uzbeoGmKyWbMmuwipump", "sym": "CLIP", "reason": "vol1h 70<40k"}
+{"t": "2026-11-18 15:48:31 WIB", "mint": "9k2nqjUrSh9p2ZBnWxNE3QRWYiLocrWZfoDm3Vdxpump", "sym": "CHAR", "reason": "vol1h 3621<40k"}
+{"t": "2026-11-18 15:48:32 WIB", "mint": "A4zQMT7ZFC2mM8fZDDQEqCs5bLFifA9XhDAJtHc3Lzbm", "sym": "GROKIA", "reason": "vol1h 9228<40k"}
+{"t": "2026-11-18 15:48:34 WIB", "mint": "HQhr9AHhkjtGbmPZyQkU8Es7DQMezhZBFpFHX7Uqpump", "sym": "eepy", "reason": "liq 0<20k"}
