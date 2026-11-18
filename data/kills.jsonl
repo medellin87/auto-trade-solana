@@ -1,9 +1,3 @@
-{"t": "2026-11-18 22:32:10 WIB", "mint": "EvbFwhoCdvLWoTeJJwiUsBSGzWoZvNw9X89NDPvhpump", "sym": "DCM", "reason": "liq 0<20k"}
-{"t": "2026-11-18 22:32:56 WIB", "mint": "5vbzq7NwZ5fEHANiCQ2hFY79KsQT5GEjqJL1VKWFpump", "sym": "GrandPump", "reason": "vol1h 25<40k"}
-{"t": "2026-11-18 22:32:59 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.466<0.6"}
-{"t": "2026-11-18 22:33:00 WIB", "mint": "HPcZuJQNnZZwu47XVZJH6XSuZKMGkm2fbT85upRAcCju", "sym": "SHROUD", "reason": "vol1h 826<40k"}
-{"t": "2026-11-18 22:33:47 WIB", "mint": "HTkJVLVT6xszdCoWvhPHPZVrn69FpwbZQgjSfwLWpump", "sym": "Makenzi", "reason": "liq 8990<20k"}
-{"t": "2026-11-18 22:33:48 WIB", "mint": "4yAzRChxNxPsMy1oDi9LRn7jhVcQfjigp4cqNxj6pump", "sym": "PUMPIX", "reason": "vol1h 9<40k"}
 {"t": "2026-11-18 22:33:50 WIB", "mint": "5cA8cwfznLdpHLy4yU66TZZh2kZDF1AxFGAD9oS5pump", "sym": "SC", "reason": "vol1h 10196<40k"}
 {"t": "2026-11-18 22:33:51 WIB", "mint": "wKy6tEDZj6jS1GUMmnSSTrR1bXJQa35s7VHcWHxhNbA", "sym": "JASON", "reason": "vol1h 76<40k"}
 {"t": "2026-11-18 22:35:23 WIB", "mint": "BJX7FZdwcvDrqdr1ZMUcmHSpUpQ1quXVVedrHE2Gpump", "sym": "IMG", "reason": "liq 0<20k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-18 22:51:50 WIB", "mint": "78Bwk2uc4t2tFwc9uY5HCiStz5Hdm6VWijGQeBWapump", "sym": "BUSTED", "reason": "vol1h 0<40k"}
 {"t": "2026-11-18 22:51:51 WIB", "mint": "3ZYMcXEfq1nqEYE9VVdCgSqkwRCqhYVpKpQRFKkhTTVA", "sym": "CC", "reason": "vol1h 37161<40k"}
 {"t": "2026-11-18 22:53:23 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 2080<40k"}
+{"t": "2026-11-18 22:54:10 WIB", "mint": "28ZWcdz63SkczUskZq9h7GTYM2nZFc7hG13u7rT1qH5A", "sym": "BROWNIE", "reason": "vol1h 73<40k"}
+{"t": "2026-11-18 22:54:11 WIB", "mint": "veUeZzn3P8Sjy2NhSSkjQsAbRR2nPG8NqBZdQghpump", "sym": "AEXGTA", "reason": "vol1h 1685<40k"}
+{"t": "2026-11-18 22:54:58 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 2052<40k"}
+{"t": "2026-11-18 22:55:00 WIB", "mint": "8DVEh2yo3iTqQThHp5Twnhf9Tq4M3SQG2ZdVPcu1pump", "sym": "$THC", "reason": "vol1h 316<40k"}
+{"t": "2026-11-18 22:55:01 WIB", "mint": "DZQbBPFpTeeyGyvCwXxYQDZFGGHad2bY6sWZuviuX8MN", "sym": "Altruists", "reason": "vol1h 1584<40k"}
+{"t": "2026-11-18 22:55:50 WIB", "mint": "AXVowhHHiw1vdcWg8eSrdbTp7jDTLdqmtP9PibDipump", "sym": "RESPECT+", "reason": "vol1h 6310<40k"}
