@@ -17290,3 +17290,7 @@
 {"t": "2026-11-18 07:35:27 WIB", "mint": "BnUWwckMJNJQycRskNM77Hn1yZp31fWsxY1bckqfpump", "sym": "OFFLINE", "reason": "liq 0<20k"}
 {"t": "2026-11-18 07:36:14 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 0<40k"}
 {"t": "2026-11-18 07:36:15 WIB", "mint": "4ULpYvaTGRq1KnaCiPhz52nyQFx86wN1vqqX3ny8refu", "sym": "REFU", "reason": "vol1h 14675<40k"}
+{"t": "2026-11-18 07:37:02 WIB", "mint": "DikZFRoEHSAAhghzxeGUrK3n5r4sTPXCZBt27SFDzimg", "sym": "IMG", "reason": "vol1h 0<40k"}
+{"t": "2026-11-18 07:37:03 WIB", "mint": "EVbsBwxqdbMqadwAsVZ6KP9SJiaNmLSHAAb4W2mUpump", "sym": "LUNO", "reason": "vol1h 17086<40k"}
+{"t": "2026-11-18 07:37:05 WIB", "mint": "5SKUBjuVxrSppDUDCGNDxrEPcXWqQ6DETWo9ijEzpump", "sym": "wof", "reason": "vol1h 55<40k"}
+{"t": "2026-11-18 07:37:52 WIB", "mint": "8nuBEGk8zMCwSxRPRNHdPLwSHDzayPDeE8bzEizRpump", "sym": "BI", "reason": "vol1h 8<40k"}
