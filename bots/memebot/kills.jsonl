@@ -18935,3 +18935,6 @@
 {"t": "2026-11-18 23:34:39 WIB", "mint": "8KjwftywJxP1C6e8dL8aUzYB62xH2fQU3Nxeid4FETCH", "sym": "ALPACA", "reason": "vol1h 657<40k"}
 {"t": "2026-11-18 23:35:26 WIB", "mint": "BJX7FZdwcvDrqdr1ZMUcmHSpUpQ1quXVVedrHE2Gpump", "sym": "IMG", "reason": "vol1h 1239<40k"}
 {"t": "2026-11-18 23:35:27 WIB", "mint": "Fjoubg2YKS1qfc4sxRQaEH3odaCXQjGVizcDgW2Ppump", "sym": "DCTY", "reason": "liq 4474<20k"}
+{"t": "2026-11-18 23:38:31 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-18 23:38:32 WIB", "mint": "HricrxBN3QXC3SN5VLtNhaEzoGrYea5ZtaTxQDfKSTNK", "sym": "VI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-18 23:39:19 WIB", "mint": "DcR4Ev9EjXPqwCvwRWL12t5uZ64Ab9qqDAM1sG4zpump", "sym": "XTA", "reason": "vol1h 4659<40k"}
