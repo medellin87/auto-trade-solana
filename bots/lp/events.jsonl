@@ -1,0 +1,2 @@
+{"t": "2026-11-18 16:04:27 WIB", "ev": "start USDC/USDT forward test", "price": 1.0009289175774787, "range": [0.995, 1.005], "cost": 0.0794, "note": "v1 Narrow/Wide SOL/USDC archived"}
+{"t": "2026-11-18 16:04:27 WIB", "ev": "in range", "price": 1.0009289175774787}
