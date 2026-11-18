@@ -19414,3 +19414,6 @@
 {"t": "2026-11-19 04:55:03 WIB", "mint": "pp6SutEifuohJtxBDduiuKja1SbBChg9ohrT7Ukpump", "sym": "LGTA6", "reason": "liq 0<20k"}
 {"t": "2026-11-19 04:56:35 WIB", "mint": "Z2mNryhqfdGLHnkrBLbX57m5LgzobZcwBdxvpm7GTA6", "sym": "FLAMINGO", "reason": "liq 19744<20k"}
 {"t": "2026-11-19 04:56:37 WIB", "mint": "79QjDainx3coswjB3qk8PijgDeBBN258n1qv272ipump", "sym": "FOUNDER", "reason": "vol1h 3722<40k"}
+{"t": "2026-11-19 04:58:56 WIB", "mint": "8HXsCMy8ma8QP2yVZXG5SZYyaTZw5AUrUDha1G4upump", "sym": "Founder", "reason": "top10 25.8%>25"}
+{"t": "2026-11-19 04:59:43 WIB", "mint": "pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump", "sym": "FLC", "reason": "vol1h 14469<40k"}
+{"t": "2026-11-19 05:00:29 WIB", "mint": "3Usc8eEuk6gMFryRoCGBhEFCKLMHRfNc4EnrDpRfpump", "sym": "GTA", "reason": "vol1h 15<40k"}
