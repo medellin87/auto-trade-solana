@@ -17401,3 +17401,7 @@
 {"t": "2026-11-18 08:36:21 WIB", "mint": "4ULpYvaTGRq1KnaCiPhz52nyQFx86wN1vqqX3ny8refu", "sym": "REFU", "reason": "vol1h 15098<40k"}
 {"t": "2026-11-18 08:37:08 WIB", "mint": "EVbsBwxqdbMqadwAsVZ6KP9SJiaNmLSHAAb4W2mUpump", "sym": "LUNO", "reason": "vol1h 14715<40k"}
 {"t": "2026-11-18 08:37:55 WIB", "mint": "47mUZNAjSFA3nmxnRa1y7P9Jmi5WPWpVP1ACPQZqpump", "sym": "Spud", "reason": "liq 17376<20k"}
+{"t": "2026-11-18 08:40:12 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2555<40k"}
+{"t": "2026-11-18 08:40:13 WIB", "mint": "5p9G6DiiG1ffqqsvxeGhyTY5Gqe2d5J6yCx1qaqNpump", "sym": "MOONVALE", "reason": "vol1h 133<40k"}
+{"t": "2026-11-18 08:40:15 WIB", "mint": "7SQ8zSwZ7mBJDX44kbo4VvTaj1Q8mwztwYA7eWfapump", "sym": "Long", "reason": "vol1h 31531<40k"}
+{"t": "2026-11-18 08:41:01 WIB", "mint": "5fMcXE1Pvwp4WaQUgYNDSeb9JLF22C3VtdLDQkWTpump", "sym": "BANDANA", "reason": "liq 0<20k"}
