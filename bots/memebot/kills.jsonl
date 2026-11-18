@@ -18853,3 +18853,6 @@
 {"t": "2026-11-18 22:42:30 WIB", "mint": "HMdJzGtSqENEDYRouQ7S9Hdg6JT7wj5G7LovbHCypump", "sym": "YUKON", "reason": "score 0.42<0.6"}
 {"t": "2026-11-18 22:43:17 WIB", "mint": "CuBcKa4zTYqWoSzmLjoBphqHbcbRXm9qAjZ1hFG2pump", "sym": "HALCYRA", "reason": "vol1h 20273<40k"}
 {"t": "2026-11-18 22:44:03 WIB", "mint": "9X65BD1D258zVeSJMvsANqackQQh1v4xKzBqBhfVpump", "sym": "YUKON", "reason": "liq 8210<20k"}
+{"t": "2026-11-18 22:44:52 WIB", "mint": "6TQmsU3XkLBPaFTRRML183Kd3J7NtxcGGtGLE7WKpump", "sym": "BOGE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-18 22:46:26 WIB", "mint": "7smnsneWsBMPZ4PDftadFBLf62SsH921BstHiM9wpump", "sym": "GTAKID", "reason": "top10 30.9%>25"}
+{"t": "2026-11-18 22:47:13 WIB", "mint": "JAB2R4mEK7uV4nKd3zL3qHh7ULUvzrpMvL6jv8AV6Rfc", "sym": "Pengis", "reason": "vol1h 8957<40k"}
