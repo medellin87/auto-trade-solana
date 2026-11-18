@@ -1,8 +1,3 @@
-{"t": "2026-11-18 07:33:08 WIB", "mint": "6AJASJJi16YncPgRofq5Evixk7Ws2ardShBnPArtpump", "sym": "BI", "reason": "vol1h 27722<40k"}
-{"t": "2026-11-18 07:35:25 WIB", "mint": "5gmCPpuktJ7Svjgr4PPJBTosAFKB8K6Z45EGfSUmpump", "sym": "penny", "reason": "vol1h 678<40k"}
-{"t": "2026-11-18 07:35:27 WIB", "mint": "BnUWwckMJNJQycRskNM77Hn1yZp31fWsxY1bckqfpump", "sym": "OFFLINE", "reason": "liq 0<20k"}
-{"t": "2026-11-18 07:36:14 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 0<40k"}
-{"t": "2026-11-18 07:36:15 WIB", "mint": "4ULpYvaTGRq1KnaCiPhz52nyQFx86wN1vqqX3ny8refu", "sym": "REFU", "reason": "vol1h 14675<40k"}
 {"t": "2026-11-18 07:37:02 WIB", "mint": "DikZFRoEHSAAhghzxeGUrK3n5r4sTPXCZBt27SFDzimg", "sym": "IMG", "reason": "vol1h 0<40k"}
 {"t": "2026-11-18 07:37:03 WIB", "mint": "EVbsBwxqdbMqadwAsVZ6KP9SJiaNmLSHAAb4W2mUpump", "sym": "LUNO", "reason": "vol1h 17086<40k"}
 {"t": "2026-11-18 07:37:05 WIB", "mint": "5SKUBjuVxrSppDUDCGNDxrEPcXWqQ6DETWo9ijEzpump", "sym": "wof", "reason": "vol1h 55<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-18 07:47:25 WIB", "mint": "B1vuiGpA9mAZxBFmtXoLcadnTNdX8LcaS4Amrt4Qpump", "sym": "CLIPS", "reason": "liq 0<20k"}
 {"t": "2026-11-18 07:47:26 WIB", "mint": "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump", "sym": "Huang", "reason": "vol1h 816<40k"}
 {"t": "2026-11-18 07:48:58 WIB", "mint": "6MjDb45kzriv6cpW6oaDjZGw1rujmpA185dHcvZzpump", "sym": "Rex", "reason": "vol1h 5<40k"}
+{"t": "2026-11-18 07:50:30 WIB", "mint": "rizF5PvLP9pTBT9L1pHJwLEip1BZTG5Q6wzYeWGpump", "sym": "PATTINSON", "reason": "vol1h 14575<40k"}
+{"t": "2026-11-18 07:50:32 WIB", "mint": "CBgp4Un7pbR3Q1LqNSMEnEBEtpeSNavBDE6KxgSP8AJj", "sym": "NOTICE", "reason": "vol1h 33<40k"}
+{"t": "2026-11-18 07:52:03 WIB", "mint": "6cNAAcFacBRM57vUR5C7K6atfvrV3aqC27qXVpeMcNet", "sym": "AFTERNET", "reason": "vol1h 0<40k"}
+{"t": "2026-11-18 07:52:05 WIB", "mint": "7pZ5HMPTFQsLP6D8Zg6VfgjbKRycitG3H4Dq7cmBpump", "sym": "DPRF", "reason": "vol1h 1467<40k"}
+{"t": "2026-11-18 07:52:07 WIB", "mint": "6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump", "sym": "GTAVI", "reason": "top10 38.2%>25"}
