@@ -1,8 +1,3 @@
-{"t": "2026-11-18 17:05:12 WIB", "mint": "6xKfWEJ76r5PzXwMpMnd8jiV5gArjkRcTsVXU7ujpump", "sym": "controller", "reason": "vol1h 179<40k"}
-{"t": "2026-11-18 17:05:14 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 36432<40k"}
-{"t": "2026-11-18 17:05:15 WIB", "mint": "9VFnFMJChvMQ9fKCK9hT38aDf86xSFMkEj4rvzVvpump", "sym": "GTA$", "reason": "vol1h 371<40k"}
-{"t": "2026-11-18 17:05:17 WIB", "mint": "9nxtkTZzMuukme6LN4orxCfVoujAZPKfCoin6zSupump", "sym": "ROCCO", "reason": "vol1h 192<40k"}
-{"t": "2026-11-18 17:05:18 WIB", "mint": "3yxsNufZSWNrvMXw8gwCJFCuUkuTDsb1a55aR7evpump", "sym": "SHARK", "reason": "liq 9731<20k"}
 {"t": "2026-11-18 17:05:20 WIB", "mint": "6MjDb45kzriv6cpW6oaDjZGw1rujmpA185dHcvZzpump", "sym": "Rex", "reason": "vol1h 5<40k"}
 {"t": "2026-11-18 17:05:21 WIB", "mint": "Geee1viZh4HpVJFaHB8ev5BZNdtUR4Dy2PDS5iBB7cLz", "sym": "Poopcoin", "reason": "vol1h 26256<40k"}
 {"t": "2026-11-18 17:05:25 WIB", "mint": "B4bx7adNETE5EWPQRmNVkEW8NruT3Z148msKPnjKpump", "sym": "FAILE", "reason": "liq 0<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-18 17:16:26 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 3917<40k"}
 {"t": "2026-11-18 17:16:28 WIB", "mint": "8m6YmC1dDW5iF3Kc7rEsay2ZbKcZ133KSoyj3ASFpump", "sym": "Sharkcards", "reason": "vol1h 3886<40k"}
 {"t": "2026-11-18 17:17:14 WIB", "mint": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump", "sym": "Leonida", "reason": "vol1h 8689<40k"}
+{"t": "2026-11-18 17:18:01 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 2681<40k"}
+{"t": "2026-11-18 17:20:18 WIB", "mint": "A4zQMT7ZFC2mM8fZDDQEqCs5bLFifA9XhDAJtHc3Lzbm", "sym": "GROKIA", "reason": "score 0.502<0.6"}
+{"t": "2026-11-18 17:20:20 WIB", "mint": "HQhr9AHhkjtGbmPZyQkU8Es7DQMezhZBFpFHX7Uqpump", "sym": "eepy", "reason": "vol1h 24222<40k"}
+{"t": "2026-11-18 17:20:21 WIB", "mint": "yEQ1Xsz6hLobNoZux6ZnP3w9nngXfWX2WZX51oNpump", "sym": "MAKENZI", "reason": "vol1h 32517<40k"}
+{"t": "2026-11-18 17:20:23 WIB", "mint": "CtiVDQupybzJbfdUJmhVYpcp1232KWjB42QWNKZMHk39", "sym": "CHUD", "reason": "vol1h 21003<40k"}
