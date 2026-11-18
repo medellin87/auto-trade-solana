@@ -1,5 +1,3 @@
-{"t": "2026-11-18 10:03:35 WIB", "mint": "4owiqSSaq97Dy9eECDzSBYHNxk6FNMsfodcttidHcRr8", "sym": "VCFUND", "reason": "vol1h 1572<40k"}
-{"t": "2026-11-18 10:05:52 WIB", "mint": "5gmCPpuktJ7Svjgr4PPJBTosAFKB8K6Z45EGfSUmpump", "sym": "penny", "reason": "vol1h 88<40k"}
 {"t": "2026-11-18 10:06:38 WIB", "mint": "4ULpYvaTGRq1KnaCiPhz52nyQFx86wN1vqqX3ny8refu", "sym": "REFU", "reason": "vol1h 10725<40k"}
 {"t": "2026-11-18 10:06:40 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 0<40k"}
 {"t": "2026-11-18 10:07:27 WIB", "mint": "EVbsBwxqdbMqadwAsVZ6KP9SJiaNmLSHAAb4W2mUpump", "sym": "LUNO", "reason": "vol1h 21033<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-18 10:17:06 WIB", "mint": "GZr3WfwSzJA1FFMbxXKFvroVCxvaYcrNCTET7kxfpump", "sym": "GMS", "reason": "vol1h 22574<40k"}
 {"t": "2026-11-18 10:17:53 WIB", "mint": "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump", "sym": "Huang", "reason": "vol1h 3209<40k"}
 {"t": "2026-11-18 10:17:55 WIB", "mint": "8n5K8Uw5e9S9dBBnkyrWsf4xRXFH717frpesRyfppump", "sym": "CYBER", "reason": "liq 0<20k"}
+{"t": "2026-11-18 10:20:14 WIB", "mint": "J3L6zfraT8wbzcgZv8eXTsgvcLZBys6Z63HpHTpmpump", "sym": "phone ", "reason": "liq 0<20k"}
+{"t": "2026-11-18 10:20:16 WIB", "mint": "7KBFymfGAe8MmKEuNersoM59TvpiHzZ76jP7rSLrpump", "sym": "GTA", "reason": "top10 35.7%>25"}
