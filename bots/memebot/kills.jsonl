@@ -19506,3 +19506,11 @@
 {"t": "2026-11-19 05:57:00 WIB", "mint": "GuWTYfqDxzaLU3APRPcm7fHwWYJYPcrUXeZELCUopump", "sym": "Glarzanon", "reason": "liq 0<20k"}
 {"t": "2026-11-19 05:57:02 WIB", "mint": "ERWEzZGZv1wk2QihbtEUUURVLrJJiQMjRCYzrV3Fpump", "sym": "NAP", "reason": "liq 1658<20k"}
 {"t": "2026-11-19 05:57:48 WIB", "mint": "Z2mNryhqfdGLHnkrBLbX57m5LgzobZcwBdxvpm7GTA6", "sym": "FLAMINGO", "reason": "liq 10531<20k"}
+{"t": "2026-11-19 06:00:06 WIB", "mint": "8HXsCMy8ma8QP2yVZXG5SZYyaTZw5AUrUDha1G4upump", "sym": "Founder", "reason": "LP locked 0%<90"}
+{"t": "2026-11-19 06:00:53 WIB", "mint": "pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump", "sym": "FLC", "reason": "vol1h 14385<40k"}
+{"t": "2026-11-19 06:00:54 WIB", "mint": "jJmtC1o13HTjUQRYVc7TFeQymkheiu2QP3AcibPpump", "sym": "SLOT1", "reason": "vol1h 29310<40k"}
+{"t": "2026-11-19 06:01:41 WIB", "mint": "3Usc8eEuk6gMFryRoCGBhEFCKLMHRfNc4EnrDpRfpump", "sym": "GTA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 06:01:42 WIB", "mint": "ChgNJMqb5hTzKThbbTVd5iyH9SvsPRESfkKX51dKpump", "sym": "NASDUCK", "reason": "liq 9073<20k"}
+{"t": "2026-11-19 06:02:29 WIB", "mint": "8c7H8pkxtMnN675PHa4ZLGb5s7uuM2BQM3J6NT3Mpump", "sym": "AdPaid", "reason": "vol1h 1<40k"}
+{"t": "2026-11-19 06:02:31 WIB", "mint": "DZQbBPFpTeeyGyvCwXxYQDZFGGHad2bY6sWZuviuX8MN", "sym": "Altruists", "reason": "vol1h 310<40k"}
+{"t": "2026-11-19 06:02:32 WIB", "mint": "8DVEh2yo3iTqQThHp5Twnhf9Tq4M3SQG2ZdVPcu1pump", "sym": "$THC", "reason": "vol1h 26<40k"}
