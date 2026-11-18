@@ -17234,3 +17234,7 @@
 {"t": "2026-11-18 07:00:53 WIB", "mint": "EBCpGdXuS34WZuX13thrku2KmuLSe3Tf2gMtMKndpump", "sym": "maxi", "reason": "liq 5731<20k"}
 {"t": "2026-11-18 07:01:40 WIB", "mint": "Bou6ektoGVHZJehde4iuSWmKPDe3AAw2iHGsYfuQpump", "sym": "KURNIATIAE", "reason": "vol1h 22894<40k"}
 {"t": "2026-11-18 07:02:27 WIB", "mint": "6AJASJJi16YncPgRofq5Evixk7Ws2ardShBnPArtpump", "sym": "BI", "reason": "vol1h 35484<40k"}
+{"t": "2026-11-18 07:04:44 WIB", "mint": "5gmCPpuktJ7Svjgr4PPJBTosAFKB8K6Z45EGfSUmpump", "sym": "penny", "reason": "vol1h 524<40k"}
+{"t": "2026-11-18 07:04:45 WIB", "mint": "BnUWwckMJNJQycRskNM77Hn1yZp31fWsxY1bckqfpump", "sym": "OFFLINE", "reason": "liq 0<20k"}
+{"t": "2026-11-18 07:05:32 WIB", "mint": "FZn8EVhWY4vMdHRA1hkc5TvVtdWv32KjiebFTdmLoE6B", "sym": "FGOB", "reason": "vol1h 0<40k"}
+{"t": "2026-11-18 07:05:33 WIB", "mint": "4ULpYvaTGRq1KnaCiPhz52nyQFx86wN1vqqX3ny8refu", "sym": "REFU", "reason": "vol1h 11086<40k"}
