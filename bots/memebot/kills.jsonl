@@ -18630,3 +18630,7 @@
 {"t": "2026-11-18 20:09:13 WIB", "mint": "9nxtkTZzMuukme6LN4orxCfVoujAZPKfCoin6zSupump", "sym": "ROCCO", "reason": "vol1h 1540<40k"}
 {"t": "2026-11-18 20:09:15 WIB", "mint": "GtAUtApvLbYu3xwowergGfcFXy3JiWyBHJjY6k1dCash", "sym": "GTA$", "reason": "vol1h 456<40k"}
 {"t": "2026-11-18 20:09:17 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "score 0.414<0.6"}
+{"t": "2026-11-18 20:10:03 WIB", "mint": "2mw94n7WKE33uyKSRio2x4qhja7eur7u6dsCwEJ3pump", "sym": "Billy", "reason": "liq 0<20k"}
+{"t": "2026-11-18 20:10:50 WIB", "mint": "278HsFJuwNyGDV2hUBkDnLkkEDm4Xop1gYUJCMrEpump", "sym": "GTA", "reason": "vol1h 22430<40k"}
+{"t": "2026-11-18 20:11:37 WIB", "mint": "tMhpF2j6zGBNyuFSh2qffeGMcmcWuLXNscn8LCipump", "sym": "AC", "reason": "liq 16987<20k"}
+{"t": "2026-11-18 20:12:23 WIB", "mint": "6TQmsU3XkLBPaFTRRML183Kd3J7NtxcGGtGLE7WKpump", "sym": "BOGE", "reason": "liq 18543<20k"}
