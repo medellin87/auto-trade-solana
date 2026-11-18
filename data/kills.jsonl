@@ -1,4 +1,3 @@
-{"t": "2026-11-19 01:33:58 WIB", "mint": "7no4DN8bKbbEYnaa9h4LgobGoeT4HGk8fjQ5ZPMCpump", "sym": "DCTY", "reason": "liq 0<20k"}
 {"t": "2026-11-19 01:34:47 WIB", "mint": "8rZA685NgxMn1FQbMbSCQy9nczzjSpt7PC4j7Drpump", "sym": "GTAVI", "reason": "vol1h 16487<40k"}
 {"t": "2026-11-19 01:35:35 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.515<0.6"}
 {"t": "2026-11-19 01:36:21 WIB", "mint": "HYoh4Dh7B9UGKLi8GjjHMdww8ZkqJkwTPS52xeRGpump", "sym": "ARTIFICIAL", "reason": "vol1h 0<40k"}
@@ -28,3 +27,4 @@
 {"t": "2026-11-19 01:55:04 WIB", "mint": "78Bwk2uc4t2tFwc9uY5HCiStz5Hdm6VWijGQeBWapump", "sym": "BUSTED", "reason": "vol1h 843<40k"}
 {"t": "2026-11-19 01:55:06 WIB", "mint": "9FpF8u2VoX8FySuu9fJnVSAwjkpVswTfLbkdoRaKy9is", "sym": "HEIST", "reason": "vol1h 12261<40k"}
 {"t": "2026-11-19 01:55:08 WIB", "mint": "348S93Yzx5zKcA5aMtthXa6ipRmEzLiRLHrLpgKMpump", "sym": "LUCIASS", "reason": "top10 45.0%>25"}
+{"t": "2026-11-19 01:58:10 WIB", "mint": "B6WrSLSVbF5iG5CTaRLp6U8yy8b9cspUXithjda3REAL", "sym": "MASKED", "reason": "vol1h 7442<40k"}
