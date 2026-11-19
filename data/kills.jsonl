@@ -1,8 +1,3 @@
-{"t": "2026-11-19 10:48:03 WIB", "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "sym": "PUMP", "reason": "mint not revoked"}
-{"t": "2026-11-19 10:48:50 WIB", "mint": "BM5wUne5TCtqVn6QTwrQCZ6LAgY7pgVr7KSMzV1Gpump", "sym": "DCTC", "reason": "liq 12125<20k"}
-{"t": "2026-11-19 10:50:22 WIB", "mint": "DzKbm41ZuztSpwjddZJ9LnKfPm8fgHEheiqQBxKK2PCn", "sym": "\u306b\u304f\u307e\u308b", "reason": "vol1h 0<40k"}
-{"t": "2026-11-19 10:51:08 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 86<40k"}
-{"t": "2026-11-19 10:51:10 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2010<40k"}
 {"t": "2026-11-19 10:52:42 WIB", "mint": "47f8bEDWs6VDpnnmxegyL4A3GbBVVcssrMQeBjPvpump", "sym": "DCTC", "reason": "top10 26.0%>25"}
 {"t": "2026-11-19 10:53:32 WIB", "mint": "8CuPLa1GMedPBFcMJy7bkvjuywCkqjtHofHimjXFpump", "sym": "Everglades", "reason": "liq 8181<20k"}
 {"t": "2026-11-19 10:53:33 WIB", "mint": "MpDUcrRiTPU7twcPHTcfcJyXjSbt6rz4PnRjJY6pump", "sym": "GTA", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-19 11:09:52 WIB", "mint": "E6n7iPhiVx1aej3Ld3KxPqjUQgxogyYoaBhX7XMVpump", "sym": "MACCA", "reason": "vol1h 47<40k"}
 {"t": "2026-11-19 11:09:53 WIB", "mint": "G9UUj2zSddRYzmQ98i9thLdXkDmxRTaGuXXAAQsEpump", "sym": "MOOHAN", "reason": "vol1h 80<40k"}
 {"t": "2026-11-19 11:09:55 WIB", "mint": "CyfdugHk3PT44hEUxpnU25CXAJsVQ9EdipKWCHEBKSdS", "sym": "GRAND", "reason": "vol1h 8294<40k"}
+{"t": "2026-11-19 11:10:42 WIB", "mint": "2XjNoVMEhKYzen9Ut6bm6w6SxHCWieozgK4DB6Mrpump", "sym": "SYRUP", "reason": "vol1h 18226<40k"}
+{"t": "2026-11-19 11:11:29 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "score 0.411<0.6"}
+{"t": "2026-11-19 11:11:31 WIB", "mint": "8zHjeXjf5zs3v9cQ116GGfbTqAP6BYkkucNF1f8Hpump", "sym": "MAGACITY", "reason": "score 0.446<0.6"}
+{"t": "2026-11-19 11:11:32 WIB", "mint": "5a4KfzA3k3kGVKDcJtLP8StCeNctTVauprvz6Va7pump", "sym": "vicestream", "reason": "vol1h 93<40k"}
+{"t": "2026-11-19 11:12:20 WIB", "mint": "7qgvmEdQSp5xhAss5efBRgCgywe1PRGMgb9ZAJsBpump", "sym": "NASDUCK", "reason": "score 0.322<0.6"}
