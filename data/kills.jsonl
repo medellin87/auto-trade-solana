@@ -1,9 +1,3 @@
-{"t": "2026-11-19 20:47:42 WIB", "mint": "DD9YaiEC1cyrztQ5aGSbwZZkRGxRm7Mh3Y7b2kfFpump", "sym": "WIF", "reason": "liq 0<20k"}
-{"t": "2026-11-19 20:49:58 WIB", "mint": "BhSbMZTeeDxAigHdrSSWRpMPHycj3HRY9kibwXx8pump", "sym": "GTA", "reason": "vol1h 0<40k"}
-{"t": "2026-11-19 20:50:45 WIB", "mint": "8CnvwZJLRpQazvn6LszkzmXJxkmMY2bTQ4Q3NN4fpump", "sym": "GTA", "reason": "vol1h 117<40k"}
-{"t": "2026-11-19 20:50:46 WIB", "mint": "Ew9Q1e5PseiQ1QmvKc8vdX1aYz4X6ZM5fcFgW8krpump", "sym": "SDOG", "reason": "vol1h 309<40k"}
-{"t": "2026-11-19 20:50:48 WIB", "mint": "EkTfN4Pb7K3NXzxsbzkn3AA4MGbsdTniFJ3G2RsVpump", "sym": "MANDY", "reason": "vol1h 0<40k"}
-{"t": "2026-11-19 20:51:35 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "score 0.366<0.6"}
 {"t": "2026-11-19 20:51:37 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1455<40k"}
 {"t": "2026-11-19 20:51:38 WIB", "mint": "62Rz2BfhJknPZAuuZsVmA65f6QZprYXGwr7jjYhCpump", "sym": "Papadacity", "reason": "vol1h 0<40k"}
 {"t": "2026-11-19 20:52:25 WIB", "mint": "7no4DN8bKbbEYnaa9h4LgobGoeT4HGk8fjQ5ZPMCpump", "sym": "DCTY", "reason": "vol1h 4452<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-19 21:05:47 WIB", "mint": "DUZrwdjEthcJ99ZiRXr31UuqTohoTg7VjTEyfGdBpump", "sym": "jingyu", "reason": "vol1h 20189<40k"}
 {"t": "2026-11-19 21:07:19 WIB", "mint": "FEaD7gWYkkuZMWtsgThbsjTZqFeNHu3L8W9ze6mNpump", "sym": "AFTERGTA6", "reason": "vol1h 981<40k"}
 {"t": "2026-11-19 21:07:20 WIB", "mint": "8MU9UNSTvFxfxttvmaQoVR2DDs9F9kKNbdXMd6hQRGTA", "sym": "GTAFUN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 21:07:22 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 1801<40k"}
+{"t": "2026-11-19 21:07:23 WIB", "mint": "3w1k6AtiBSVutEojtETPAQ5SFCuZy1iH68oz2Umbpump", "sym": "IPO", "reason": "vol1h 58<40k"}
+{"t": "2026-11-19 21:08:10 WIB", "mint": "3bBAb871XgcuNZxs9R3VH5AZQuDUbMaJHKCXzbYMpump", "sym": "SI", "reason": "liq 0<20k"}
+{"t": "2026-11-19 21:08:56 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 8946<40k"}
+{"t": "2026-11-19 21:08:58 WIB", "mint": "9go9xwxzaznUUqRnjhRUGFfmGjtTsNrmwJPmnMoPpump", "sym": "VIcards", "reason": "vol1h 1<40k"}
+{"t": "2026-11-19 21:10:31 WIB", "mint": "FJSga8VWXAUHvQCb2gBzn7xc2EQ7wdGKw764Hdespump", "sym": "DCTY", "reason": "vol1h 2582<40k"}
