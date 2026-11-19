@@ -15227,3 +15227,8 @@
 {"t": "2026-11-19 14:31:07 WIB", "mint": "9JngoeaZHbV4f5EyRR3oDLNPH7VUGw1PYQC4s6j2pump", "sym": "CATCOIN", "reason": "vol1h 1537<40k"}
 {"t": "2026-11-19 14:31:54 WIB", "mint": "9GgsHTYtP9b4ZtUg2yNngJLYVrtHAsYJJ16gwLmXpump", "sym": "SICKNOTE", "reason": "vol1h 3<40k"}
 {"t": "2026-11-19 14:32:41 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 1584<40k"}
+{"t": "2026-11-19 14:34:12 WIB", "mint": "FJSga8VWXAUHvQCb2gBzn7xc2EQ7wdGKw764Hdespump", "sym": "DCTY", "reason": "vol1h 34952<40k"}
+{"t": "2026-11-19 14:34:14 WIB", "mint": "DtgzbnAKZtqgxTy7cFek3aifcNeSyXBsJCJy9ie4jhNa", "sym": "STICKS", "reason": "vol1h 2218<40k"}
+{"t": "2026-11-19 14:35:46 WIB", "mint": "HoDcoNfXxi3BExgBXtP9UfLmDq7M5gwjcoYZrPwspump", "sym": "DRE", "reason": "liq 0<20k"}
+{"t": "2026-11-19 14:35:47 WIB", "mint": "79AtKwmb6qDsb3VL2xNRB8jFYWemJ3gsdUmtRioxpump", "sym": "princess", "reason": "vol1h 3186<40k"}
+{"t": "2026-11-19 14:35:49 WIB", "mint": "D1eUhSH1jubEKACFQk2oPZxna4V5pqZQb3sxjhLypump", "sym": "DCA", "reason": "liq 6004<20k"}
