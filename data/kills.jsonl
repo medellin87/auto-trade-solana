@@ -1,8 +1,3 @@
-{"t": "2026-11-19 12:58:51 WIB", "mint": "Eyo1o3QYKQwdvP6UtK9dQLTZj2BBtoJdN4tMWB2Dpump", "sym": "GOODTIME", "reason": "vol1h 29401<40k"}
-{"t": "2026-11-19 12:59:38 WIB", "mint": "FEaD7gWYkkuZMWtsgThbsjTZqFeNHu3L8W9ze6mNpump", "sym": "AFTERGTA6", "reason": "vol1h 29200<40k"}
-{"t": "2026-11-19 12:59:40 WIB", "mint": "EadD2LMp6EbH9PrbXUFWcrZKMhoKVrZN1gpwRhH5pump", "sym": "ANT", "reason": "vol1h 32231<40k"}
-{"t": "2026-11-19 12:59:41 WIB", "mint": "8MU9UNSTvFxfxttvmaQoVR2DDs9F9kKNbdXMd6hQRGTA", "sym": "GTAFUN", "reason": "vol1h 181<40k"}
-{"t": "2026-11-19 12:59:43 WIB", "mint": "CaVJi7Nu6eqcARcEQ8BJDCCwAUmZJeE2AU5LoWBmpump", "sym": "DROP", "reason": "vol1h 0<40k"}
 {"t": "2026-11-19 12:59:44 WIB", "mint": "9JngoeaZHbV4f5EyRR3oDLNPH7VUGw1PYQC4s6j2pump", "sym": "CATCOIN", "reason": "liq 5462<20k"}
 {"t": "2026-11-19 13:00:31 WIB", "mint": "9GgsHTYtP9b4ZtUg2yNngJLYVrtHAsYJJ16gwLmXpump", "sym": "SICKNOTE", "reason": "vol1h 56<40k"}
 {"t": "2026-11-19 13:01:18 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 11465<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-19 13:20:40 WIB", "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "sym": "PUMP", "reason": "mint not revoked"}
 {"t": "2026-11-19 13:20:41 WIB", "mint": "7fZK84wYShNUXKJnBkfXkeu5h2edduNkZV3p2B2LBCgC", "sym": "APCY", "reason": "vol1h 37205<40k"}
 {"t": "2026-11-19 13:20:43 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.41<0.6"}
+{"t": "2026-11-19 13:22:16 WIB", "mint": "DEgAkPNxz3dtMsesD2FDkNA2S6sch5YWfGUDT7R2pump", "sym": "BUCKME", "reason": "score 0.557<0.6"}
+{"t": "2026-11-19 13:23:02 WIB", "mint": "DzKbm41ZuztSpwjddZJ9LnKfPm8fgHEheiqQBxKK2PCn", "sym": "\u306b\u304f\u307e\u308b", "reason": "vol1h 1<40k"}
+{"t": "2026-11-19 13:23:04 WIB", "mint": "SeTgMnAvCCYqzXdCwgFWX6u52vjwR9gCe8ccvNVpump", "sym": "ONLINE", "reason": "vol1h 973<40k"}
+{"t": "2026-11-19 13:23:51 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 374<40k"}
+{"t": "2026-11-19 13:23:52 WIB", "mint": "4NShmh1AkwX2PMA8KSJDbbp8ExLUuHXbYBmzRjNNpump", "sym": "GTA6IRL", "reason": "vol1h 9094<40k"}
