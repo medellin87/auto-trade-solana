@@ -15105,3 +15105,7 @@
 {"t": "2026-11-19 12:59:43 WIB", "mint": "CaVJi7Nu6eqcARcEQ8BJDCCwAUmZJeE2AU5LoWBmpump", "sym": "DROP", "reason": "vol1h 0<40k"}
 {"t": "2026-11-19 12:59:44 WIB", "mint": "9JngoeaZHbV4f5EyRR3oDLNPH7VUGw1PYQC4s6j2pump", "sym": "CATCOIN", "reason": "liq 5462<20k"}
 {"t": "2026-11-19 13:00:31 WIB", "mint": "9GgsHTYtP9b4ZtUg2yNngJLYVrtHAsYJJ16gwLmXpump", "sym": "SICKNOTE", "reason": "vol1h 56<40k"}
+{"t": "2026-11-19 13:01:18 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 11465<40k"}
+{"t": "2026-11-19 13:02:04 WIB", "mint": "4oduvmdiWGDv33kDvKHiGTX1UFseMNoB8g9yZ1h4pump", "sym": "DATITTY", "reason": "vol1h 52<40k"}
+{"t": "2026-11-19 13:02:51 WIB", "mint": "FJSga8VWXAUHvQCb2gBzn7xc2EQ7wdGKw764Hdespump", "sym": "DCTY", "reason": "vol1h 13917<40k"}
+{"t": "2026-11-19 13:02:53 WIB", "mint": "DtgzbnAKZtqgxTy7cFek3aifcNeSyXBsJCJy9ie4jhNa", "sym": "STICKS", "reason": "top10 44.3%>25"}
