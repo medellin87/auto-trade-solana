@@ -16532,3 +16532,7 @@
 {"t": "2026-11-20 05:19:47 WIB", "mint": "HpYT5BHv4nb8ZEXoc7YG5zLSqwtFx9nRtR3puAZ9pump", "sym": "FIN", "reason": "liq 0<20k"}
 {"t": "2026-11-20 05:20:34 WIB", "mint": "22Rh3HSAmmdLwr5qP7ULgXEDD86zpd3w8zZ8SMzrpump", "sym": "LUCIA", "reason": "vol1h 30233<40k"}
 {"t": "2026-11-20 05:20:35 WIB", "mint": "jqwPWmUCeBZHFmQHxza6fsPcf44JkQp7esVnJ3qpump", "sym": "BM", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 05:21:22 WIB", "mint": "81ZjCbykvWdPv4ciE2qyYmr4ryi9FrnySgr2bZR8pump", "sym": "Player", "reason": "liq 0<20k"}
+{"t": "2026-11-20 05:22:55 WIB", "mint": "C418akYyeeqphD6uPwjyq7U8j1fGXQT4sYo1kQiYpump", "sym": "HARAMBE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 05:23:42 WIB", "mint": "BxpmBqQNRYoJXoP6F9abvcLfp1fgYJzafsyDEFEppump", "sym": "GTABANK", "reason": "vol1h 6279<40k"}
+{"t": "2026-11-20 05:23:44 WIB", "mint": "894dAQeZV1zSrveLtqnJUQXop453ZLuq8bzhd1VZpump", "sym": "GTAPEPE", "reason": "vol1h 24<40k"}
