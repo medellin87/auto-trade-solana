@@ -19918,3 +19918,7 @@
 {"t": "2026-11-19 10:47:14 WIB", "mint": "C3wV4mGYwi1SQhbHmFPEhyE9rUw1gV5qY6CTBSA8pump", "sym": "GTASTR", "reason": "vol1h 1<40k"}
 {"t": "2026-11-19 10:47:16 WIB", "mint": "5p9G6DiiG1ffqqsvxeGhyTY5Gqe2d5J6yCx1qaqNpump", "sym": "MOONVALE", "reason": "vol1h 415<40k"}
 {"t": "2026-11-19 10:48:03 WIB", "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "sym": "PUMP", "reason": "mint not revoked"}
+{"t": "2026-11-19 10:48:50 WIB", "mint": "BM5wUne5TCtqVn6QTwrQCZ6LAgY7pgVr7KSMzV1Gpump", "sym": "DCTC", "reason": "liq 12125<20k"}
+{"t": "2026-11-19 10:50:22 WIB", "mint": "DzKbm41ZuztSpwjddZJ9LnKfPm8fgHEheiqQBxKK2PCn", "sym": "\u306b\u304f\u307e\u308b", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 10:51:08 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 86<40k"}
+{"t": "2026-11-19 10:51:10 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2010<40k"}
