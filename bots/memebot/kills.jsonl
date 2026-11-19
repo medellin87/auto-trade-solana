@@ -19852,3 +19852,6 @@
 {"t": "2026-11-19 09:58:43 WIB", "mint": "4oduvmdiWGDv33kDvKHiGTX1UFseMNoB8g9yZ1h4pump", "sym": "DATITTY", "reason": "liq 0<20k"}
 {"t": "2026-11-19 09:59:30 WIB", "mint": "FJSga8VWXAUHvQCb2gBzn7xc2EQ7wdGKw764Hdespump", "sym": "DCTY", "reason": "vol1h 10208<40k"}
 {"t": "2026-11-19 09:59:31 WIB", "mint": "2WJdJv2kXo7uXXrmoWboe43GP2uBhigc3JxCDZQ7pump", "sym": "GT", "reason": "liq 0<20k"}
+{"t": "2026-11-19 10:01:04 WIB", "mint": "64Uf4fkAWepSjBF8QKWdftHjtgKb2FG6gZsgmx6Fpump", "sym": "FNDR", "reason": "score 0.584<0.6"}
+{"t": "2026-11-19 10:01:05 WIB", "mint": "6YBCUHCDAQH8JofVU3hbGXg52YxewTs89u2AcjuEpump", "sym": "Mabel", "reason": "liq 6555<20k"}
+{"t": "2026-11-19 10:02:37 WIB", "mint": "EMJ6cTH93XZGi2n2TBU4vgQHHx6pp2vAg8rjDZppump", "sym": "VICE", "reason": "vol1h 0<40k"}
