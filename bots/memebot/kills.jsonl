@@ -15169,3 +15169,7 @@
 {"t": "2026-11-19 13:51:10 WIB", "mint": "7fZK84wYShNUXKJnBkfXkeu5h2edduNkZV3p2B2LBCgC", "sym": "APCY", "reason": "score 0.251<0.6"}
 {"t": "2026-11-19 13:51:12 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.428<0.6"}
 {"t": "2026-11-19 13:52:44 WIB", "mint": "DEgAkPNxz3dtMsesD2FDkNA2S6sch5YWfGUDT7R2pump", "sym": "BUCKME", "reason": "score 0.301<0.6"}
+{"t": "2026-11-19 13:53:31 WIB", "mint": "DzKbm41ZuztSpwjddZJ9LnKfPm8fgHEheiqQBxKK2PCn", "sym": "\u306b\u304f\u307e\u308b", "reason": "vol1h 26362<40k"}
+{"t": "2026-11-19 13:53:33 WIB", "mint": "SeTgMnAvCCYqzXdCwgFWX6u52vjwR9gCe8ccvNVpump", "sym": "ONLINE", "reason": "vol1h 757<40k"}
+{"t": "2026-11-19 13:54:19 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 110<40k"}
+{"t": "2026-11-19 13:54:21 WIB", "mint": "4NShmh1AkwX2PMA8KSJDbbp8ExLUuHXbYBmzRjNNpump", "sym": "GTA6IRL", "reason": "vol1h 30301<40k"}

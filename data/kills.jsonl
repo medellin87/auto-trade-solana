@@ -1,7 +1,3 @@
-{"t": "2026-11-19 13:30:06 WIB", "mint": "FEaD7gWYkkuZMWtsgThbsjTZqFeNHu3L8W9ze6mNpump", "sym": "AFTERGTA6", "reason": "vol1h 39290<40k"}
-{"t": "2026-11-19 13:30:08 WIB", "mint": "EadD2LMp6EbH9PrbXUFWcrZKMhoKVrZN1gpwRhH5pump", "sym": "ANT", "reason": "vol1h 23183<40k"}
-{"t": "2026-11-19 13:30:09 WIB", "mint": "8MU9UNSTvFxfxttvmaQoVR2DDs9F9kKNbdXMd6hQRGTA", "sym": "GTAFUN", "reason": "vol1h 18<40k"}
-{"t": "2026-11-19 13:30:11 WIB", "mint": "9JngoeaZHbV4f5EyRR3oDLNPH7VUGw1PYQC4s6j2pump", "sym": "CATCOIN", "reason": "liq 4022<20k"}
 {"t": "2026-11-19 13:30:57 WIB", "mint": "9GgsHTYtP9b4ZtUg2yNngJLYVrtHAsYJJ16gwLmXpump", "sym": "SICKNOTE", "reason": "vol1h 37<40k"}
 {"t": "2026-11-19 13:31:44 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 4647<40k"}
 {"t": "2026-11-19 13:33:16 WIB", "mint": "FJSga8VWXAUHvQCb2gBzn7xc2EQ7wdGKw764Hdespump", "sym": "DCTY", "reason": "vol1h 13104<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-19 13:51:10 WIB", "mint": "7fZK84wYShNUXKJnBkfXkeu5h2edduNkZV3p2B2LBCgC", "sym": "APCY", "reason": "score 0.251<0.6"}
 {"t": "2026-11-19 13:51:12 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.428<0.6"}
 {"t": "2026-11-19 13:52:44 WIB", "mint": "DEgAkPNxz3dtMsesD2FDkNA2S6sch5YWfGUDT7R2pump", "sym": "BUCKME", "reason": "score 0.301<0.6"}
+{"t": "2026-11-19 13:53:31 WIB", "mint": "DzKbm41ZuztSpwjddZJ9LnKfPm8fgHEheiqQBxKK2PCn", "sym": "\u306b\u304f\u307e\u308b", "reason": "vol1h 26362<40k"}
+{"t": "2026-11-19 13:53:33 WIB", "mint": "SeTgMnAvCCYqzXdCwgFWX6u52vjwR9gCe8ccvNVpump", "sym": "ONLINE", "reason": "vol1h 757<40k"}
+{"t": "2026-11-19 13:54:19 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 110<40k"}
+{"t": "2026-11-19 13:54:21 WIB", "mint": "4NShmh1AkwX2PMA8KSJDbbp8ExLUuHXbYBmzRjNNpump", "sym": "GTA6IRL", "reason": "vol1h 30301<40k"}
