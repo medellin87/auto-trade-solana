@@ -16208,3 +16208,6 @@
 {"t": "2026-11-20 01:58:40 WIB", "mint": "8s65iEf6SQLbQcAxCsqWJenvAVsbrNiUUb9XgeHhpump", "sym": "GME", "reason": "liq 3885<20k"}
 {"t": "2026-11-20 01:59:26 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 5869<40k"}
 {"t": "2026-11-20 01:59:28 WIB", "mint": "BuTecYZ8eytFGVHgs1VtiRNfrVM1PhDih6BKrLNpump", "sym": "Sub", "reason": "vol1h 10700<40k"}
+{"t": "2026-11-20 02:00:59 WIB", "mint": "6GTDzJNqDfJ7v4kpmbs4aupxQZnVwgRqTD4WFU7fpump", "sym": "DCTY", "reason": "vol1h 11243<40k"}
+{"t": "2026-11-20 02:01:46 WIB", "mint": "9N9bb4RfTzGS11Vixf4hrAxLfkjo8t9DLhvEFMutpump", "sym": "jason", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 02:01:48 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 339<40k"}
