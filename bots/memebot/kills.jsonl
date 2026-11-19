@@ -19855,3 +19855,5 @@
 {"t": "2026-11-19 10:01:04 WIB", "mint": "64Uf4fkAWepSjBF8QKWdftHjtgKb2FG6gZsgmx6Fpump", "sym": "FNDR", "reason": "score 0.584<0.6"}
 {"t": "2026-11-19 10:01:05 WIB", "mint": "6YBCUHCDAQH8JofVU3hbGXg52YxewTs89u2AcjuEpump", "sym": "Mabel", "reason": "liq 6555<20k"}
 {"t": "2026-11-19 10:02:37 WIB", "mint": "EMJ6cTH93XZGi2n2TBU4vgQHHx6pp2vAg8rjDZppump", "sym": "VICE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 10:04:10 WIB", "mint": "8HXsCMy8ma8QP2yVZXG5SZYyaTZw5AUrUDha1G4upump", "sym": "Founder", "reason": "top10 31.7%>25"}
+{"t": "2026-11-19 10:04:56 WIB", "mint": "pcDL74F9AYQ8ConwemryWMHQX5LWbPHyAEbULGNpump", "sym": "FLC", "reason": "vol1h 3251<40k"}
