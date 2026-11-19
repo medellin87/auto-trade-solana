@@ -19819,3 +19819,8 @@
 {"t": "2026-11-19 09:36:40 WIB", "mint": "FrW3hfF9ViuMcsTMq4zZDiTKjuT7rZwX3v87qmqYpump", "sym": "Mandy", "reason": "liq 1435<20k"}
 {"t": "2026-11-19 09:38:12 WIB", "mint": "E6n7iPhiVx1aej3Ld3KxPqjUQgxogyYoaBhX7XMVpump", "sym": "MACCA", "reason": "liq 0<20k"}
 {"t": "2026-11-19 09:38:14 WIB", "mint": "G9UUj2zSddRYzmQ98i9thLdXkDmxRTaGuXXAAQsEpump", "sym": "MOOHAN", "reason": "vol1h 2959<40k"}
+{"t": "2026-11-19 09:38:15 WIB", "mint": "CyfdugHk3PT44hEUxpnU25CXAJsVQ9EdipKWCHEBKSdS", "sym": "GRAND", "reason": "vol1h 5240<40k"}
+{"t": "2026-11-19 09:38:17 WIB", "mint": "3ZhsX6y2aEYoiwRFCu7mtwuMWSFH654dhyR2aGRVpump", "sym": "LUCIA", "reason": "score 0.552<0.6"}
+{"t": "2026-11-19 09:39:49 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 27068<40k"}
+{"t": "2026-11-19 09:39:53 WIB", "mint": "5a4KfzA3k3kGVKDcJtLP8StCeNctTVauprvz6Va7pump", "sym": "vicestream", "reason": "vol1h 131<40k"}
+{"t": "2026-11-19 09:40:40 WIB", "mint": "7qgvmEdQSp5xhAss5efBRgCgywe1PRGMgb9ZAJsBpump", "sym": "NASDUCK", "reason": "score 0.421<0.6"}
