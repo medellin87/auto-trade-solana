@@ -16545,3 +16545,7 @@
 {"t": "2026-11-20 05:29:56 WIB", "mint": "8sCLrDo6tS9zQoC1qsb13KhGUHEWyLx3j7JebBYnpump", "sym": "FIONA", "reason": "liq 17007<20k"}
 {"t": "2026-11-20 05:29:58 WIB", "mint": "3Cc9wjDGyaqwdipFW1Ldydou8X5GJHfftHdyFrERpump", "sym": "RCTY", "reason": "vol1h 29245<40k"}
 {"t": "2026-11-20 05:30:00 WIB", "mint": "GJVKc1AZi7MMGPuht4kwLnZX9cJwLRBUXjEGUF6twpfx", "sym": "FIONA", "reason": "liq 11847<20k"}
+{"t": "2026-11-20 05:30:46 WIB", "mint": "7no4DN8bKbbEYnaa9h4LgobGoeT4HGk8fjQ5ZPMCpump", "sym": "DCTY", "reason": "vol1h 70<40k"}
+{"t": "2026-11-20 05:31:33 WIB", "mint": "8s65iEf6SQLbQcAxCsqWJenvAVsbrNiUUb9XgeHhpump", "sym": "GME", "reason": "vol1h 13<40k"}
+{"t": "2026-11-20 05:32:22 WIB", "mint": "GoAEnVJTYKe5amkcbnuNHWzxrKh3f5Kec9ZxSc82pump", "sym": "FQ", "reason": "vol1h 1055<40k"}
+{"t": "2026-11-20 05:33:08 WIB", "mint": "GjPatzszbsUzQmaPxMUh7YDSRUXQDogUqfZugpxwpump", "sym": "Mancy", "reason": "vol1h 20<40k"}
