@@ -15086,3 +15086,8 @@
 {"t": "2026-11-19 12:50:10 WIB", "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "sym": "PUMP", "reason": "mint not revoked"}
 {"t": "2026-11-19 12:50:12 WIB", "mint": "7fZK84wYShNUXKJnBkfXkeu5h2edduNkZV3p2B2LBCgC", "sym": "APCY", "reason": "vol1h 30926<40k"}
 {"t": "2026-11-19 12:50:14 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.413<0.6"}
+{"t": "2026-11-19 12:51:46 WIB", "mint": "DEgAkPNxz3dtMsesD2FDkNA2S6sch5YWfGUDT7R2pump", "sym": "BUCKME", "reason": "score 0.475<0.6"}
+{"t": "2026-11-19 12:52:33 WIB", "mint": "DzKbm41ZuztSpwjddZJ9LnKfPm8fgHEheiqQBxKK2PCn", "sym": "\u306b\u304f\u307e\u308b", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 12:52:34 WIB", "mint": "SeTgMnAvCCYqzXdCwgFWX6u52vjwR9gCe8ccvNVpump", "sym": "ONLINE", "reason": "vol1h 756<40k"}
+{"t": "2026-11-19 12:53:21 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 357<40k"}
+{"t": "2026-11-19 12:53:23 WIB", "mint": "4NShmh1AkwX2PMA8KSJDbbp8ExLUuHXbYBmzRjNNpump", "sym": "GTA6IRL", "reason": "vol1h 4699<40k"}
