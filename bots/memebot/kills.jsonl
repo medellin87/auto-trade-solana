@@ -15517,3 +15517,6 @@
 {"t": "2026-11-19 17:55:07 WIB", "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "sym": "PUMP", "reason": "vol1h 29322<40k"}
 {"t": "2026-11-19 17:55:09 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.377<0.6"}
 {"t": "2026-11-19 17:55:11 WIB", "mint": "7fZK84wYShNUXKJnBkfXkeu5h2edduNkZV3p2B2LBCgC", "sym": "APCY", "reason": "vol1h 17987<40k"}
+{"t": "2026-11-19 17:57:28 WIB", "mint": "6dy9DhP5wCSb5uf1m9WPaTA1xjzVNR6uskCUVQnEpump", "sym": "APOCRYCOIN", "reason": "liq 19338<20k"}
+{"t": "2026-11-19 17:57:29 WIB", "mint": "DzKbm41ZuztSpwjddZJ9LnKfPm8fgHEheiqQBxKK2PCn", "sym": "\u306b\u304f\u307e\u308b", "reason": "vol1h 1594<40k"}
+{"t": "2026-11-19 17:58:16 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 26<40k"}
