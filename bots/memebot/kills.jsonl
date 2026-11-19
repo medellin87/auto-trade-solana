@@ -19763,3 +19763,5 @@
 {"t": "2026-11-19 08:56:10 WIB", "mint": "BQ5cdJJUb2EHzoEoEvFGpnT1sz6j2Hp3dG1EJ5yaRTHu", "sym": "UNKNOWN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-19 08:56:12 WIB", "mint": "9GgsHTYtP9b4ZtUg2yNngJLYVrtHAsYJJ16gwLmXpump", "sym": "SICKNOTE", "reason": "vol1h 4820<40k"}
 {"t": "2026-11-19 08:56:14 WIB", "mint": "BG3U5XcUYZ3MyeCTUTSMd1sgHFAcmeg2Unvvfx1spump", "sym": "BJ", "reason": "vol1h 25428<40k"}
+{"t": "2026-11-19 09:00:01 WIB", "mint": "7FLVxmwpp2yNZHvDdZmPwopXqFD4ovjdWdnebrN9pump", "sym": "LUCIA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 09:00:04 WIB", "mint": "6YBCUHCDAQH8JofVU3hbGXg52YxewTs89u2AcjuEpump", "sym": "Mabel", "reason": "liq 12014<20k"}
