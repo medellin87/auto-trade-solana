@@ -15319,3 +15319,7 @@
 {"t": "2026-11-19 15:38:45 WIB", "mint": "79vKSHwFD7Cpq2dj7xw3QBDHtA1g3YGdCBxV3dCYpump", "sym": "DI", "reason": "liq 0<20k"}
 {"t": "2026-11-19 15:38:47 WIB", "mint": "2L26JxjWAWxa13MjNpHrXpXp8BJ6ykz2qNWHN2zupump", "sym": "WKTT", "reason": "vol1h 5537<40k"}
 {"t": "2026-11-19 15:40:19 WIB", "mint": "BAdf49p4ukgDsVfwD8wxtHgq3PpCEEx7AhSM19Ljpump", "sym": "AD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 15:41:50 WIB", "mint": "BjWGfDd1wPa1VJUxwg9x2ENEzdC7yLJG6ywthBjRpump", "sym": "GTAify", "reason": "vol1h 5<40k"}
+{"t": "2026-11-19 15:41:52 WIB", "mint": "Db2s6iVvenVhJkj96P4UbZWEAYX4nUhgXhSVbQrwpump", "sym": "After", "reason": "liq 17354<20k"}
+{"t": "2026-11-19 15:42:39 WIB", "mint": "6NPRWpoBksfoPbcoM3PEm4zbqk9VexAQhFkgWigpump", "sym": "LALA", "reason": "vol1h 15<40k"}
+{"t": "2026-11-19 15:43:25 WIB", "mint": "J29VvqbVQ9fpt4Md1uAzJzfETzaFdQrZLq13CPYfpump", "sym": "Sloth", "reason": "vol1h 15779<40k"}
