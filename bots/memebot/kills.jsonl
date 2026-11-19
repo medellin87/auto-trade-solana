@@ -15123,3 +15123,8 @@
 {"t": "2026-11-19 13:14:31 WIB", "mint": "CFGYvBq76em5ViQ6sNAgdG7dKk1WNHxyNdqzNLpXpump", "sym": "CDOG", "reason": "liq 18652<20k"}
 {"t": "2026-11-19 13:16:48 WIB", "mint": "EmoGtdNBJjVgEBEUtGtxZo5Da5P3prLgL3yJLQTgpump", "sym": "SkunkApe", "reason": "vol1h 420<40k"}
 {"t": "2026-11-19 13:17:34 WIB", "mint": "Gyt5Dfm35A8hvGGL7kAK3omz439qTXNDPssMLMyNpump", "sym": "CASHPARROT", "reason": "vol1h 1229<40k"}
+{"t": "2026-11-19 13:19:51 WIB", "mint": "C3wV4mGYwi1SQhbHmFPEhyE9rUw1gV5qY6CTBSA8pump", "sym": "GTASTR", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 13:19:53 WIB", "mint": "5p9G6DiiG1ffqqsvxeGhyTY5Gqe2d5J6yCx1qaqNpump", "sym": "MOONVALE", "reason": "vol1h 1360<40k"}
+{"t": "2026-11-19 13:20:40 WIB", "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "sym": "PUMP", "reason": "mint not revoked"}
+{"t": "2026-11-19 13:20:41 WIB", "mint": "7fZK84wYShNUXKJnBkfXkeu5h2edduNkZV3p2B2LBCgC", "sym": "APCY", "reason": "vol1h 37205<40k"}
+{"t": "2026-11-19 13:20:43 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.41<0.6"}

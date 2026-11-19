@@ -1,8 +1,3 @@
-{"t": "2026-11-19 12:55:43 WIB", "mint": "MpDUcrRiTPU7twcPHTcfcJyXjSbt6rz4PnRjJY6pump", "sym": "GTA", "reason": "vol1h 0<40k"}
-{"t": "2026-11-19 12:57:15 WIB", "mint": "QDsTBqfFEt4yrpqfU7edcc9E6u7nHrbz15eqY8jpump", "sym": "GMGM", "reason": "vol1h 5218<40k"}
-{"t": "2026-11-19 12:57:17 WIB", "mint": "AP77Ja9RP2EqTtau8rAzwb8b1yGUonk7cbv4hSv3pump", "sym": "IRL", "reason": "vol1h 1<40k"}
-{"t": "2026-11-19 12:58:03 WIB", "mint": "92m4S52bu3dZyqzPmPStu8Krz6JcpzHdsG4D5QBqpump", "sym": "GTA Strategy ", "reason": "vol1h 2976<40k"}
-{"t": "2026-11-19 12:58:05 WIB", "mint": "YcdDVw6UteEmQn9DcEEcPNvWcr66jTYzD8MaNq9pump", "sym": "GTAVI", "reason": "vol1h 1<40k"}
 {"t": "2026-11-19 12:58:51 WIB", "mint": "Eyo1o3QYKQwdvP6UtK9dQLTZj2BBtoJdN4tMWB2Dpump", "sym": "GOODTIME", "reason": "vol1h 29401<40k"}
 {"t": "2026-11-19 12:59:38 WIB", "mint": "FEaD7gWYkkuZMWtsgThbsjTZqFeNHu3L8W9ze6mNpump", "sym": "AFTERGTA6", "reason": "vol1h 29200<40k"}
 {"t": "2026-11-19 12:59:40 WIB", "mint": "EadD2LMp6EbH9PrbXUFWcrZKMhoKVrZN1gpwRhH5pump", "sym": "ANT", "reason": "vol1h 32231<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-19 13:14:31 WIB", "mint": "CFGYvBq76em5ViQ6sNAgdG7dKk1WNHxyNdqzNLpXpump", "sym": "CDOG", "reason": "liq 18652<20k"}
 {"t": "2026-11-19 13:16:48 WIB", "mint": "EmoGtdNBJjVgEBEUtGtxZo5Da5P3prLgL3yJLQTgpump", "sym": "SkunkApe", "reason": "vol1h 420<40k"}
 {"t": "2026-11-19 13:17:34 WIB", "mint": "Gyt5Dfm35A8hvGGL7kAK3omz439qTXNDPssMLMyNpump", "sym": "CASHPARROT", "reason": "vol1h 1229<40k"}
+{"t": "2026-11-19 13:19:51 WIB", "mint": "C3wV4mGYwi1SQhbHmFPEhyE9rUw1gV5qY6CTBSA8pump", "sym": "GTASTR", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 13:19:53 WIB", "mint": "5p9G6DiiG1ffqqsvxeGhyTY5Gqe2d5J6yCx1qaqNpump", "sym": "MOONVALE", "reason": "vol1h 1360<40k"}
+{"t": "2026-11-19 13:20:40 WIB", "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "sym": "PUMP", "reason": "mint not revoked"}
+{"t": "2026-11-19 13:20:41 WIB", "mint": "7fZK84wYShNUXKJnBkfXkeu5h2edduNkZV3p2B2LBCgC", "sym": "APCY", "reason": "vol1h 37205<40k"}
+{"t": "2026-11-19 13:20:43 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.41<0.6"}
