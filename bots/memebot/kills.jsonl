@@ -15422,3 +15422,7 @@
 {"t": "2026-11-19 16:47:03 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 701<40k"}
 {"t": "2026-11-19 16:47:49 WIB", "mint": "CFGYvBq76em5ViQ6sNAgdG7dKk1WNHxyNdqzNLpXpump", "sym": "CDOG", "reason": "vol1h 0<40k"}
 {"t": "2026-11-19 16:49:21 WIB", "mint": "3aDbctZQfBBBPHNbjbYVXyTreTYcYLuUawHJiJ6Ppump", "sym": "GTA", "reason": "vol1h 7511<40k"}
+{"t": "2026-11-19 16:51:38 WIB", "mint": "3ZJYbe14NSiK1G3kwQiCasMNPcq3Zw9qcGahphAUpump", "sym": "AUDADUDE", "reason": "vol1h 1<40k"}
+{"t": "2026-11-19 16:53:57 WIB", "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v", "sym": "PUMP", "reason": "mint not revoked"}
+{"t": "2026-11-19 16:53:59 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.34<0.6"}
+{"t": "2026-11-19 16:54:01 WIB", "mint": "7fZK84wYShNUXKJnBkfXkeu5h2edduNkZV3p2B2LBCgC", "sym": "APCY", "reason": "vol1h 17701<40k"}
