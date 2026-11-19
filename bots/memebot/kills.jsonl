@@ -15037,3 +15037,6 @@
 {"t": "2026-11-19 12:12:37 WIB", "mint": "8zHjeXjf5zs3v9cQ116GGfbTqAP6BYkkucNF1f8Hpump", "sym": "MAGACITY", "reason": "liq 19486<20k"}
 {"t": "2026-11-19 12:12:39 WIB", "mint": "5a4KfzA3k3kGVKDcJtLP8StCeNctTVauprvz6Va7pump", "sym": "vicestream", "reason": "vol1h 39<40k"}
 {"t": "2026-11-19 12:13:26 WIB", "mint": "7qgvmEdQSp5xhAss5efBRgCgywe1PRGMgb9ZAJsBpump", "sym": "NASDUCK", "reason": "score 0.243<0.6"}
+{"t": "2026-11-19 12:14:58 WIB", "mint": "7no4DN8bKbbEYnaa9h4LgobGoeT4HGk8fjQ5ZPMCpump", "sym": "DCTY", "reason": "vol1h 10717<40k"}
+{"t": "2026-11-19 12:15:44 WIB", "mint": "EmoGtdNBJjVgEBEUtGtxZo5Da5P3prLgL3yJLQTgpump", "sym": "SkunkApe", "reason": "vol1h 5233<40k"}
+{"t": "2026-11-19 12:16:31 WIB", "mint": "Gyt5Dfm35A8hvGGL7kAK3omz439qTXNDPssMLMyNpump", "sym": "CASHPARROT", "reason": "liq 3490<20k"}
