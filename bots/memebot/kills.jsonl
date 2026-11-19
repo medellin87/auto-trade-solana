@@ -19966,3 +19966,6 @@
 {"t": "2026-11-19 11:20:56 WIB", "mint": "SeTgMnAvCCYqzXdCwgFWX6u52vjwR9gCe8ccvNVpump", "sym": "ONLINE", "reason": "liq 0<20k"}
 {"t": "2026-11-19 11:21:42 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 0<40k"}
 {"t": "2026-11-19 11:21:44 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1280<40k"}
+{"t": "2026-11-19 11:23:16 WIB", "mint": "47f8bEDWs6VDpnnmxegyL4A3GbBVVcssrMQeBjPvpump", "sym": "DCTC", "reason": "top10 25.8%>25"}
+{"t": "2026-11-19 11:24:05 WIB", "mint": "8CuPLa1GMedPBFcMJy7bkvjuywCkqjtHofHimjXFpump", "sym": "Everglades", "reason": "liq 3500<20k"}
+{"t": "2026-11-19 11:24:06 WIB", "mint": "MpDUcrRiTPU7twcPHTcfcJyXjSbt6rz4PnRjJY6pump", "sym": "GTA", "reason": "vol1h 1<40k"}
