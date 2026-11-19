@@ -15869,3 +15869,7 @@
 {"t": "2026-11-19 22:08:23 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 2350<40k"}
 {"t": "2026-11-19 22:09:09 WIB", "mint": "3bBAb871XgcuNZxs9R3VH5AZQuDUbMaJHKCXzbYMpump", "sym": "SI", "reason": "liq 11815<20k"}
 {"t": "2026-11-19 22:10:41 WIB", "mint": "HXT1UpmDkHmphFDrs3JWR3WHpsnoueCyABArTo7Apump", "sym": "OGTA", "reason": "score 0.596<0.6"}
+{"t": "2026-11-19 22:12:58 WIB", "mint": "AzPo1QCb9WiFtsC4RKAarcQd5qaHsAZuncYnNPVNpump", "sym": "YTCD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-19 22:12:59 WIB", "mint": "EE6CRsqqpvHwkCYK8hF15RmNccdq32vdbcQdX4afLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-19 22:13:01 WIB", "mint": "8kbjC6s8NagnuHUdimmzdNSqkwjk3utw7zAXRthBGTA6", "sym": "ROCKSTAR", "reason": "vol1h 24777<40k"}
+{"t": "2026-11-19 22:14:33 WIB", "mint": "CUc3ZHbs3dXnQqVWByjU5v7MiDC93dw1BWdTwuP5pump", "sym": "GOONER", "reason": "vol1h 439<40k"}
