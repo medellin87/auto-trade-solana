@@ -17638,3 +17638,9 @@
 {"t": "2026-11-20 16:48:15 WIB", "mint": "EtJD6hSPf8W82WW6r3eHfjistaUQMHhGsa1uBUqmpump", "sym": "MNUT", "reason": "vol1h 370<40k"}
 {"t": "2026-11-20 16:49:02 WIB", "mint": "HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENTpump", "sym": "LOOSY", "reason": "score 0.491<0.6"}
 {"t": "2026-11-20 16:49:04 WIB", "mint": "Eh2zcpFTKQkH2ivAzyMCg2CuVBW8mx4bkWKRDSmcEray", "sym": "DOOMSDAY", "reason": "vol1h 463<40k"}
+{"t": "2026-11-20 16:50:35 WIB", "mint": "9MZiGiBiFA6vLkqJ8kk7MsniLgrU6VrtiWripZFMmain", "sym": "MAIN", "reason": "vol1h 14632<40k"}
+{"t": "2026-11-20 16:50:37 WIB", "mint": "CbimMoJm98zAzma6tX7trUaVmbyPg2E3ZpZNn9XEpump", "sym": "Azuke", "reason": "liq 0<20k"}
+{"t": "2026-11-20 16:51:23 WIB", "mint": "5kkuDNTNNCF1rQbsmTsc5BErTTKvDacAtQdRG6QGpump", "sym": "Predict", "reason": "liq 0<20k"}
+{"t": "2026-11-20 16:52:10 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 2923<40k"}
+{"t": "2026-11-20 16:52:11 WIB", "mint": "FwDXX1R5B61VsxmLffU5cGcH2XuoX9QHSaiGrCAkpump", "sym": "GI", "reason": "liq 0<20k"}
+{"t": "2026-11-20 16:52:13 WIB", "mint": "7bCiddGLe5aM8HE2pigT9jsqkmC1HSPxyXN6GkHEpump", "sym": "OGTA", "reason": "score 0.55<0.6"}
