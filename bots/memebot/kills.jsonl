@@ -17710,3 +17710,7 @@
 {"t": "2026-11-20 17:37:29 WIB", "mint": "8mnJZnxaNLqVwkaWWGH7dKmoEzyYzGJx5pHaCp7spump", "sym": "PATRICK", "reason": "liq 16593<20k"}
 {"t": "2026-11-20 17:40:31 WIB", "mint": "7xumDqxh6AfkPov41c2R6SdCiPrZdWJJTsbogiSepump", "sym": "MF", "reason": "vol1h 4051<40k"}
 {"t": "2026-11-20 17:40:33 WIB", "mint": "5kpHB8xoruKHJRigE6FHTG2gZcrPSWWn8u4N7uS9pump", "sym": "FIONA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 17:41:19 WIB", "mint": "FXAHj7mqmSBEpUuVnfJABqB51MgaZHFX8D6Ue85Mpump", "sym": "Jimmy", "reason": "vol1h 26622<40k"}
+{"t": "2026-11-20 17:42:06 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 487<40k"}
+{"t": "2026-11-20 17:42:53 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "score 0.548<0.6"}
+{"t": "2026-11-20 17:42:54 WIB", "mint": "7aDRucezAQVE82P6kRQ9zrbPqJwW8qhSDKMQVyuW4mqm", "sym": "PIPI", "reason": "vol1h 0<40k"}
