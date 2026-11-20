@@ -1,8 +1,3 @@
-{"t": "2026-11-20 13:18:44 WIB", "mint": "6H1NXyP24T8SU1uRvbYi1tKcAQAESqgHoBebTEUpump", "sym": "PTB", "reason": "vol1h 98<40k"}
-{"t": "2026-11-20 13:18:45 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 2305<40k"}
-{"t": "2026-11-20 13:20:17 WIB", "mint": "Bg4Q8a2Nkxr8XcAs4dRkCqFXoEX6TCZxtaoYoDSypump", "sym": "NeonCrime", "reason": "vol1h 196<40k"}
-{"t": "2026-11-20 13:20:18 WIB", "mint": "fRxGeXTCXLPQyChrq5sanfUWAe2vseLBiGdDE7k4S1M", "sym": "SIM", "reason": "vol1h 831<40k"}
-{"t": "2026-11-20 13:21:05 WIB", "mint": "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump", "sym": "iAgent", "reason": "score 0.562<0.6"}
 {"t": "2026-11-20 13:21:52 WIB", "mint": "FjyaDGxFqZ8spQ6ivbz2Y4Lf8R1ukG6xBZ1i4sYBpump", "sym": "Turkey", "reason": "vol1h 18095<40k"}
 {"t": "2026-11-20 13:22:38 WIB", "mint": "3xYAF6iZM8a5Bw6Fvopf4mVq5cN7iea5YUM85kbFENCE", "sym": "FENCE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-20 13:22:40 WIB", "mint": "A6tuVRQaWWkXoPzE7SQry3YK995tJVt4NdgduQuBpump", "sym": "SANTA", "reason": "vol1h 895<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-20 13:32:58 WIB", "mint": "BxpmBqQNRYoJXoP6F9abvcLfp1fgYJzafsyDEFEppump", "sym": "GTABANK", "reason": "vol1h 206<40k"}
 {"t": "2026-11-20 13:33:44 WIB", "mint": "8VvT87FRAZY9m2VsvpvVA5zhHSZGXd5eC2SrPDHbpump", "sym": "ANTCAP", "reason": "liq 15827<20k"}
 {"t": "2026-11-20 13:34:31 WIB", "mint": "D8X2jxmTmyeRwphBEMn7pc3heNLXRomcywSmor5qe8nc", "sym": "Gino", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 13:36:03 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 3952<40k"}
+{"t": "2026-11-20 13:36:49 WIB", "mint": "7xumDqxh6AfkPov41c2R6SdCiPrZdWJJTsbogiSepump", "sym": "MF", "reason": "vol1h 8758<40k"}
+{"t": "2026-11-20 13:36:51 WIB", "mint": "5kpHB8xoruKHJRigE6FHTG2gZcrPSWWn8u4N7uS9pump", "sym": "FIONA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 13:38:22 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 872<40k"}
+{"t": "2026-11-20 13:38:24 WIB", "mint": "FC8CkjiVJxKe5uUEx3SVLHLEcVARAMGCfnSoBaZgpump", "sym": "iCat", "reason": "vol1h 0<40k"}
