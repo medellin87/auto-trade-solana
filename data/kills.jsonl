@@ -1,8 +1,3 @@
-{"t": "2026-11-20 08:59:36 WIB", "mint": "7q3j8jkgGzVuk7pcQ2uQqWaFwyYzJiCanoRdBtHHpump", "sym": "COOKIE", "reason": "liq 19330<20k"}
-{"t": "2026-11-20 09:00:22 WIB", "mint": "C5eGEXJZYvXEbKdyvPtasksjGNV4xvMowpKM92bVv47f", "sym": "MACCA", "reason": "vol1h 9474<40k"}
-{"t": "2026-11-20 09:00:24 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 11860<40k"}
-{"t": "2026-11-20 09:00:25 WIB", "mint": "4q1PmmvWDsrz8YrHTo116KX2J1tQQVMoanVSQwXUpump", "sym": "INU", "reason": "liq 5833<20k"}
-{"t": "2026-11-20 09:01:57 WIB", "mint": "GiNDGcqc7xk9F88sgE9KF7Bo5migm4Bh8Y8CJVM7pump", "sym": "COOKIE", "reason": "liq 1747<20k"}
 {"t": "2026-11-20 09:02:44 WIB", "mint": "2NFsBCVWG7CsGXQtmkFQaDLJCLHbM7wbMo9xhAo1Di1U", "sym": "I", "reason": "vol1h 8418<40k"}
 {"t": "2026-11-20 09:03:30 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 16722<40k"}
 {"t": "2026-11-20 09:03:32 WIB", "mint": "7aDRucezAQVE82P6kRQ9zrbPqJwW8qhSDKMQVyuW4mqm", "sym": "PIPI", "reason": "vol1h 1014<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-20 09:15:22 WIB", "mint": "fRxGeXTCXLPQyChrq5sanfUWAe2vseLBiGdDE7k4S1M", "sym": "SIM", "reason": "vol1h 1239<40k"}
 {"t": "2026-11-20 09:16:11 WIB", "mint": "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump", "sym": "iAgent", "reason": "top10 25.0%>25"}
 {"t": "2026-11-20 09:17:43 WIB", "mint": "A6tuVRQaWWkXoPzE7SQry3YK995tJVt4NdgduQuBpump", "sym": "SANTA", "reason": "vol1h 2932<40k"}
+{"t": "2026-11-20 09:19:14 WIB", "mint": "47ubrZhhuahv1DDouJCSEkWxJim3yzQBh1FKyKcvpump", "sym": "SI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 09:20:01 WIB", "mint": "61TdpYA4SzBiV3DoRbG2rFHA84mVFXPHxbmpchLCqhKk", "sym": "GTA6", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 09:20:02 WIB", "mint": "8nq3Jmgd1tpbroiuVMehQyC266ZUZJU2BTad8Nigpump", "sym": "STANK", "reason": "vol1h 6996<40k"}
+{"t": "2026-11-20 09:20:04 WIB", "mint": "DNZpNGgc25ka2CLJq7dn46urgPCJDsAvH7XHNxFQpump", "sym": "MANDY", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 09:20:50 WIB", "mint": "4jfRNGVvZCCe98hWLPtizGxMAGrCDCVgLzdBHgM2pump", "sym": "XMAS", "reason": "vol1h 1413<40k"}
