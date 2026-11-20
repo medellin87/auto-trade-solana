@@ -17828,3 +17828,7 @@
 {"t": "2026-11-20 18:59:31 WIB", "mint": "GMGgW3FGXKgPHmjiv3Pdd66dC7vXvpX8U9t4UG4tpBk6", "sym": "MARK", "reason": "vol1h 512<40k"}
 {"t": "2026-11-20 19:00:18 WIB", "mint": "6BBKkeEDeSSKhngh3hR7kE3cr5nhvDBp3QZtq5M9pump", "sym": "Bagwork", "reason": "liq 0<20k"}
 {"t": "2026-11-20 19:00:19 WIB", "mint": "EX4Uj8zQoT3tr7Ysbpnf7eQHy5Joh67LUb2Hhcsfpump", "sym": "Anton", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 19:01:06 WIB", "mint": "5QL7dsjpQn1mRXmH4ZbGErBYDEHz1mQcqgYmqEdspump", "sym": "buckme", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 19:01:52 WIB", "mint": "EhBC9qujofnUest7sLbmvvks4o5wW3jZPMBDiMJopump", "sym": "STF", "reason": "vol1h 290<40k"}
+{"t": "2026-11-20 19:03:24 WIB", "mint": "AuN2cbjPYRrjcWwHHwHNLYjUy4NoK5zZhfQDNJX5pump", "sym": "CatCoin", "reason": "vol1h 7748<40k"}
+{"t": "2026-11-20 19:03:26 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.587<0.6"}
