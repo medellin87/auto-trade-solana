@@ -16852,3 +16852,6 @@
 {"t": "2026-11-20 08:32:58 WIB", "mint": "7aDRucezAQVE82P6kRQ9zrbPqJwW8qhSDKMQVyuW4mqm", "sym": "PIPI", "reason": "vol1h 1002<40k"}
 {"t": "2026-11-20 08:33:45 WIB", "mint": "6MLXACPntZ74yoYErw5dBLeqPZu9X3dtEP5EPNQbpump", "sym": "GTA", "reason": "vol1h 5288<40k"}
 {"t": "2026-11-20 08:34:31 WIB", "mint": "8s65iEf6SQLbQcAxCsqWJenvAVsbrNiUUb9XgeHhpump", "sym": "GME", "reason": "vol1h 137<40k"}
+{"t": "2026-11-20 08:35:18 WIB", "mint": "GoAEnVJTYKe5amkcbnuNHWzxrKh3f5Kec9ZxSc82pump", "sym": "FQ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 08:36:04 WIB", "mint": "5AwnCWbvq64i9f5cbXJdFzhBZ3EpEWjk3Kp68582pump", "sym": "RUGPULL", "reason": "liq 0<20k"}
+{"t": "2026-11-20 08:37:38 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 47<40k"}
