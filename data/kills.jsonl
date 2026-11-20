@@ -1,8 +1,3 @@
-{"t": "2026-11-20 22:49:53 WIB", "mint": "H4BpLUZm4r9269UXJziP9bUetMgJv5fWWPBsUP2bpump", "sym": "APCY", "reason": "vol1h 1417<40k"}
-{"t": "2026-11-20 22:51:25 WIB", "mint": "JAB2R4mEK7uV4nKd3zL3qHh7ULUvzrpMvL6jv8AV6Rfc", "sym": "Pengis", "reason": "vol1h 564<40k"}
-{"t": "2026-11-20 22:51:27 WIB", "mint": "4hFU5ir5r9aimDdAZwFusXAEudNsyYG4Y2CHWJBppump", "sym": "Bobo", "reason": "liq 3258<20k"}
-{"t": "2026-11-20 22:51:28 WIB", "mint": "5ekqGuwRQR573sw6RdXnyj4AJhYwGgG1qDxWsMGBKB9p", "sym": "ACRES", "reason": "vol1h 32245<40k"}
-{"t": "2026-11-20 22:51:30 WIB", "mint": "3admXvh8WZRuoo9Zk1qum72ByZWumABQi1zh5Z9gpump", "sym": "BOBO", "reason": "vol1h 26667<40k"}
 {"t": "2026-11-20 22:52:17 WIB", "mint": "HoqJaoes6yfL8YEsHGfENwVKT7LrAPy97ZDg9hmBu4Ep", "sym": "THUG", "reason": "vol1h 3733<40k"}
 {"t": "2026-11-20 22:52:18 WIB", "mint": "BfNcetwXyxFJjsnmMboPpHqpZg19ez1ueQGPGE9upump", "sym": "Mo\u0301m", "reason": "vol1h 7497<40k"}
 {"t": "2026-11-20 22:52:20 WIB", "mint": "BR3TZmbCPtyTpgLBtUvJocMbxPt2pw3CBSUJ5oq6pump", "sym": "Catnomics", "reason": "liq 13594<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-20 23:07:57 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "score 0.502<0.6"}
 {"t": "2026-11-20 23:08:44 WIB", "mint": "29hwhb4j1cn9GZVhDKyiMpeQJtRaXURuYmb5Wuerpump", "sym": "Catalyst", "reason": "vol1h 466<40k"}
 {"t": "2026-11-20 23:09:30 WIB", "mint": "9WCtqYWNUmRqndzUKLpkTzUg4PCeiQt7TCUSRgGpump", "sym": "Toku", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 23:10:17 WIB", "mint": "HyL1cML86cR1v6timkM83sx2fQtLdKLqGD91sJsfpump", "sym": "DCAT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 23:10:18 WIB", "mint": "7ycjv7RnffKDdLifHuRUDRhBbe3oQk9qp7EvViGshcMr", "sym": "Raja", "reason": "vol1h 17969<40k"}
+{"t": "2026-11-20 23:11:05 WIB", "mint": "Gfp85xdMSLf5dxbx2ivsNkhK3xzmAVtvoZ8BQrEwpump", "sym": "HEDGE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 23:11:52 WIB", "mint": "DeXXt9HopHa28msm4iATCvrQBer1FScmkpnt73Dgpump", "sym": "GAYTA", "reason": "vol1h 1138<40k"}
+{"t": "2026-11-20 23:12:38 WIB", "mint": "5GPqN4He3VUzMPh3sZ7Bq7GANSMnpa4cipLDq7PJjdpy", "sym": "SI", "reason": "vol1h 0<40k"}
