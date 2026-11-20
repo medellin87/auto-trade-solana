@@ -17325,3 +17325,6 @@
 {"t": "2026-11-20 13:25:04 WIB", "mint": "CAwfVJ5p5UCogGSVDaF4b6AJfE8mB1WocbUcqXN4pump", "sym": "PALS", "reason": "liq 0<20k"}
 {"t": "2026-11-20 13:25:06 WIB", "mint": "8nq3Jmgd1tpbroiuVMehQyC266ZUZJU2BTad8Nigpump", "sym": "STANK", "reason": "vol1h 683<40k"}
 {"t": "2026-11-20 13:25:07 WIB", "mint": "J5Fqkvmj5rMmhzP8cLHGraESYBpT7BYQaVuRygPMpump", "sym": "ARTIFICIAL", "reason": "vol1h 9921<40k"}
+{"t": "2026-11-20 13:27:24 WIB", "mint": "fDAeRE3bkFAK2KxK9btry4oDgU8NcxeWzW6n59mpump", "sym": "COGE", "reason": "vol1h 250<40k"}
+{"t": "2026-11-20 13:27:25 WIB", "mint": "7vopTwpLzPVCvQrkWB5trbh1qzzkASLaiMhaoS3jpump", "sym": "dagger", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 13:27:27 WIB", "mint": "BzLRo9cRvi7KL9XJ9EGAEi4oGCKLFkBEKvJx9D6Apump", "sym": "utm ", "reason": "vol1h 5143<40k"}
