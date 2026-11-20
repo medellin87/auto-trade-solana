@@ -1,8 +1,3 @@
-{"t": "2026-11-20 22:15:22 WIB", "mint": "5kpHB8xoruKHJRigE6FHTG2gZcrPSWWn8u4N7uS9pump", "sym": "FIONA", "reason": "vol1h 0<40k"}
-{"t": "2026-11-20 22:15:23 WIB", "mint": "7xumDqxh6AfkPov41c2R6SdCiPrZdWJJTsbogiSepump", "sym": "MF", "reason": "vol1h 127<40k"}
-{"t": "2026-11-20 22:16:10 WIB", "mint": "EYX45DKQCMyCf7PtMyD9kKpokE9PVThVRbtUKPQvpump", "sym": "h\u25e1sh", "reason": "vol1h 5<40k"}
-{"t": "2026-11-20 22:16:12 WIB", "mint": "cpdTa5F3Trz2h5vvFfHT7jSM7F5CGvzxfQQRnaQpump", "sym": "DOCTORDOOM", "reason": "vol1h 3358<40k"}
-{"t": "2026-11-20 22:16:58 WIB", "mint": "8g3cA4yMK4CaFMtMrk8Bip5V8HmYe8dagyUEYyajpump", "sym": "RIEMANN", "reason": "liq 6397<20k"}
 {"t": "2026-11-20 22:17:00 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 683<40k"}
 {"t": "2026-11-20 22:17:47 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 9249<40k"}
 {"t": "2026-11-20 22:18:33 WIB", "mint": "BjCRkoV3Ksd6bukFUyuF9pdPWTAoeAizFXXZ8qDJpump", "sym": "\u5c0f\u9762\u5305", "reason": "liq 12285<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-20 22:30:24 WIB", "mint": "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump", "sym": "iAgent", "reason": "liq 2091<20k"}
 {"t": "2026-11-20 22:31:11 WIB", "mint": "hT9xKkj6dPMz97zcxEEE5T5fFdm6x31P6FodwT8pump", "sym": "TOP", "reason": "liq 3053<20k"}
 {"t": "2026-11-20 22:31:12 WIB", "mint": "CJsKL1cL5pCVxjQdkKhtiXn2AfCMBeVsnsN8R9PaXFx2", "sym": "\u72d7", "reason": "vol1h 13676<40k"}
+{"t": "2026-11-20 22:33:29 WIB", "mint": "J6vWYq5UDTNrv5ufPPes2iD8kRAtMRBqwiJdYFQZpump", "sym": "Huss", "reason": "liq 1712<20k"}
+{"t": "2026-11-20 22:33:31 WIB", "mint": "GMGgW3FGXKgPHmjiv3Pdd66dC7vXvpX8U9t4UG4tpBk6", "sym": "MARK", "reason": "vol1h 34<40k"}
+{"t": "2026-11-20 22:35:48 WIB", "mint": "baQxEuzMJ69RExbkCGLSrdSueWXCfp4tbi4nKZQpvoy", "sym": "VOYNICH", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 22:35:49 WIB", "mint": "EhBC9qujofnUest7sLbmvvks4o5wW3jZPMBDiMJopump", "sym": "STF", "reason": "vol1h 169<40k"}
+{"t": "2026-11-20 22:35:51 WIB", "mint": "532iaQrhFCD3QKFHsAtFAQ1mQZMjMdNrPXLeCS6cpump", "sym": "STICK", "reason": "vol1h 158<40k"}

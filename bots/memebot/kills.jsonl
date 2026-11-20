@@ -18139,3 +18139,8 @@
 {"t": "2026-11-20 22:30:24 WIB", "mint": "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump", "sym": "iAgent", "reason": "liq 2091<20k"}
 {"t": "2026-11-20 22:31:11 WIB", "mint": "hT9xKkj6dPMz97zcxEEE5T5fFdm6x31P6FodwT8pump", "sym": "TOP", "reason": "liq 3053<20k"}
 {"t": "2026-11-20 22:31:12 WIB", "mint": "CJsKL1cL5pCVxjQdkKhtiXn2AfCMBeVsnsN8R9PaXFx2", "sym": "\u72d7", "reason": "vol1h 13676<40k"}
+{"t": "2026-11-20 22:33:29 WIB", "mint": "J6vWYq5UDTNrv5ufPPes2iD8kRAtMRBqwiJdYFQZpump", "sym": "Huss", "reason": "liq 1712<20k"}
+{"t": "2026-11-20 22:33:31 WIB", "mint": "GMGgW3FGXKgPHmjiv3Pdd66dC7vXvpX8U9t4UG4tpBk6", "sym": "MARK", "reason": "vol1h 34<40k"}
+{"t": "2026-11-20 22:35:48 WIB", "mint": "baQxEuzMJ69RExbkCGLSrdSueWXCfp4tbi4nKZQpvoy", "sym": "VOYNICH", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 22:35:49 WIB", "mint": "EhBC9qujofnUest7sLbmvvks4o5wW3jZPMBDiMJopump", "sym": "STF", "reason": "vol1h 169<40k"}
+{"t": "2026-11-20 22:35:51 WIB", "mint": "532iaQrhFCD3QKFHsAtFAQ1mQZMjMdNrPXLeCS6cpump", "sym": "STICK", "reason": "vol1h 158<40k"}
