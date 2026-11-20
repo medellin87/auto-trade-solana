@@ -18756,3 +18756,6 @@
 {"t": "2026-11-21 05:10:03 WIB", "mint": "GUtHGr6xcn9e78ew6qY7Jg7foyuAhf67mNBNntn5pump", "sym": "Singularity", "reason": "liq 1381<20k"}
 {"t": "2026-11-21 05:10:05 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 1886<40k"}
 {"t": "2026-11-21 05:10:51 WIB", "mint": "Eh2zcpFTKQkH2ivAzyMCg2CuVBW8mx4bkWKRDSmcEray", "sym": "DOOMSDAY", "reason": "vol1h 6646<40k"}
+{"t": "2026-11-21 05:13:08 WIB", "mint": "EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump", "sym": "Bust", "reason": "vol1h 0<40k"}
+{"t": "2026-11-21 05:15:25 WIB", "mint": "CM65K38bqGePYkNQBjGRRDYMhyxgh9xTQg2HPQTFpump", "sym": "Pois", "reason": "vol1h 2735<40k"}
+{"t": "2026-11-21 05:15:27 WIB", "mint": "AfE7Z2zQ5kma1ZWovtm3g1Rgx8ng1ZYvTA3VDtQ9pump", "sym": "Fox", "reason": "vol1h 0<40k"}
