@@ -17598,3 +17598,12 @@
 {"t": "2026-11-20 16:20:12 WIB", "mint": "9MZiGiBiFA6vLkqJ8kk7MsniLgrU6VrtiWripZFMmain", "sym": "MAIN", "reason": "vol1h 25926<40k"}
 {"t": "2026-11-20 16:20:14 WIB", "mint": "CbimMoJm98zAzma6tX7trUaVmbyPg2E3ZpZNn9XEpump", "sym": "Azuke", "reason": "liq 0<20k"}
 {"t": "2026-11-20 16:21:00 WIB", "mint": "5kkuDNTNNCF1rQbsmTsc5BErTTKvDacAtQdRG6QGpump", "sym": "Predict", "reason": "liq 0<20k"}
+{"t": "2026-11-20 16:21:47 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 2404<40k"}
+{"t": "2026-11-20 16:21:48 WIB", "mint": "FwDXX1R5B61VsxmLffU5cGcH2XuoX9QHSaiGrCAkpump", "sym": "GI", "reason": "liq 0<20k"}
+{"t": "2026-11-20 16:21:50 WIB", "mint": "7bCiddGLe5aM8HE2pigT9jsqkmC1HSPxyXN6GkHEpump", "sym": "OGTA", "reason": "score 0.579<0.6"}
+{"t": "2026-11-20 16:21:52 WIB", "mint": "J7bLsZcpkfky92ir8k36Munz91nHKtcDNhDy8d3Qpump", "sym": "AMC ", "reason": "top10 25.9%>25"}
+{"t": "2026-11-20 16:21:53 WIB", "mint": "6H1NXyP24T8SU1uRvbYi1tKcAQAESqgHoBebTEUpump", "sym": "PTB", "reason": "vol1h 4<40k"}
+{"t": "2026-11-20 16:22:40 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 3014<40k"}
+{"t": "2026-11-20 16:24:12 WIB", "mint": "6pRwreRTz3ffZyYZsgu7eNo3cS19rgLjYgz5hqRwpump", "sym": "CLAUDE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 16:24:14 WIB", "mint": "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump", "sym": "iAgent", "reason": "score 0.515<0.6"}
+{"t": "2026-11-20 16:24:15 WIB", "mint": "DUZrwdjEthcJ99ZiRXr31UuqTohoTg7VjTEyfGdBpump", "sym": "jingyu", "reason": "vol1h 9423<40k"}
