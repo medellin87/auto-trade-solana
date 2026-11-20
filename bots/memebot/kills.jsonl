@@ -18643,3 +18643,7 @@
 {"t": "2026-11-21 04:00:42 WIB", "mint": "HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENTpump", "sym": "LOOSY", "reason": "score 0.429<0.6"}
 {"t": "2026-11-21 04:00:43 WIB", "mint": "H8BevoVvtuhUJzwQBrJzWvBxcpKaJw19HXzvUh9upump", "sym": " \u5c3c\u5e93\u6234", "reason": "vol1h 17<40k"}
 {"t": "2026-11-21 04:01:30 WIB", "mint": "F2ma2Po86RZPcbnFffDtdemC6bNKPHzpELdWGhepuNCH", "sym": "punch", "reason": "vol1h 13013<40k"}
+{"t": "2026-11-21 04:02:17 WIB", "mint": "FBKkoVcXaHzpLHheCRnPk3zvLgiqhugbwGcegc9Ykvxx", "sym": "Singularity", "reason": "vol1h 34595<40k"}
+{"t": "2026-11-21 04:03:48 WIB", "mint": "FBRC7k7epGZ27XEmC1BiSrX7X5mq46rjQmqvsuGFpump", "sym": "PETITION", "reason": "vol1h 4<40k"}
+{"t": "2026-11-21 04:03:50 WIB", "mint": "GEGHRUrLiQQ3wfK5YG1r7K5AW8rVFGVYocf3EY7pump", "sym": "MSPEREZ", "reason": "vol1h 294<40k"}
+{"t": "2026-11-21 04:04:37 WIB", "mint": "7bCiddGLe5aM8HE2pigT9jsqkmC1HSPxyXN6GkHEpump", "sym": "OGTA", "reason": "liq 2765<20k"}
