@@ -17504,3 +17504,7 @@
 {"t": "2026-11-20 15:17:43 WIB", "mint": "HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENTpump", "sym": "LOOSY", "reason": "score 0.527<0.6"}
 {"t": "2026-11-20 15:17:44 WIB", "mint": "Eh2zcpFTKQkH2ivAzyMCg2CuVBW8mx4bkWKRDSmcEray", "sym": "DOOMSDAY", "reason": "vol1h 276<40k"}
 {"t": "2026-11-20 15:19:16 WIB", "mint": "9MZiGiBiFA6vLkqJ8kk7MsniLgrU6VrtiWripZFMmain", "sym": "MAIN", "reason": "vol1h 12302<40k"}
+{"t": "2026-11-20 15:20:47 WIB", "mint": "5EpUkeRekk1uzWKoJz9fyYYA3Vwt6bTtdRNpVtkMpump", "sym": "scat", "reason": "vol1h 230<40k"}
+{"t": "2026-11-20 15:20:49 WIB", "mint": "7bCiddGLe5aM8HE2pigT9jsqkmC1HSPxyXN6GkHEpump", "sym": "OGTA", "reason": "score 0.409<0.6"}
+{"t": "2026-11-20 15:20:51 WIB", "mint": "6H1NXyP24T8SU1uRvbYi1tKcAQAESqgHoBebTEUpump", "sym": "PTB", "reason": "vol1h 44<40k"}
+{"t": "2026-11-20 15:23:07 WIB", "mint": "6pRwreRTz3ffZyYZsgu7eNo3cS19rgLjYgz5hqRwpump", "sym": "CLAUDE", "reason": "vol1h 0<40k"}
