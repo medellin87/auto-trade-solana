@@ -17732,3 +17732,7 @@
 {"t": "2026-11-20 17:53:06 WIB", "mint": "7bCiddGLe5aM8HE2pigT9jsqkmC1HSPxyXN6GkHEpump", "sym": "OGTA", "reason": "score 0.556<0.6"}
 {"t": "2026-11-20 17:53:08 WIB", "mint": "CdRvPpbLJdVCp9QZoVRB2dix6uf6XirarUe2sDmnpump", "sym": "PASSTHEHAT", "reason": "liq 12077<20k"}
 {"t": "2026-11-20 17:53:11 WIB", "mint": "6H1NXyP24T8SU1uRvbYi1tKcAQAESqgHoBebTEUpump", "sym": "PTB", "reason": "vol1h 149<40k"}
+{"t": "2026-11-20 17:53:58 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 3569<40k"}
+{"t": "2026-11-20 17:55:29 WIB", "mint": "6pRwreRTz3ffZyYZsgu7eNo3cS19rgLjYgz5hqRwpump", "sym": "CLAUDE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-20 17:55:31 WIB", "mint": "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump", "sym": "iAgent", "reason": "score 0.576<0.6"}
+{"t": "2026-11-20 17:55:33 WIB", "mint": "DUZrwdjEthcJ99ZiRXr31UuqTohoTg7VjTEyfGdBpump", "sym": "jingyu", "reason": "vol1h 5576<40k"}
