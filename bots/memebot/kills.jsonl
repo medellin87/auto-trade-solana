@@ -15575,3 +15575,6 @@
 {"t": "2026-11-22 01:12:47 WIB", "mint": "AETa8UDpWknf34AH2p57sEiPmpvcqYz6yEtHnqc5fWUd", "sym": "OVER", "reason": "vol1h 197<40k"}
 {"t": "2026-11-22 01:13:34 WIB", "mint": "D5D2ieKCyhBToJjKJWWM3HeakiH8DPAVoCYkfd38pump", "sym": "Mochi", "reason": "vol1h 237<40k"}
 {"t": "2026-11-22 01:13:35 WIB", "mint": "JaB8P85aP2sJd5prcmrqHqQXAUS8mp4JSfbM9Yhpump", "sym": "PICCOLA", "reason": "vol1h 8599<40k"}
+{"t": "2026-11-22 01:14:22 WIB", "mint": "BSSkzYSfpYCiZt39CqkAYeTwWmuttdHCAg48V6GZpump", "sym": "GloryCoin", "reason": "vol1h 54<40k"}
+{"t": "2026-11-22 01:15:09 WIB", "mint": "Fb4u75SCxDmQ2Vgq5eyo8tGpaULfqMMExvpvJYyJpump", "sym": "UNI", "reason": "liq 0<20k"}
+{"t": "2026-11-22 01:15:55 WIB", "mint": "6E8hG4V3aHjgTXLR2qrXkQFri5KFZXfoxCrgjmx2pump", "sym": "GCM", "reason": "vol1h 52<40k"}
