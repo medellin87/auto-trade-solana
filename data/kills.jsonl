@@ -1,8 +1,3 @@
-{"t": "2026-11-21 16:15:58 WIB", "mint": "Cx9AudXU3UxELzni13L6qZ56cyGKgfoQHK7XQaB8pump", "sym": "RED", "reason": "vol1h 0<40k"}
-{"t": "2026-11-21 16:16:45 WIB", "mint": "7M7yAQmtvo9jJ6TgrMPEj5eXbxFiJCJjqWfQyMQrpump", "sym": "tittcoin", "reason": "vol1h 2<40k"}
-{"t": "2026-11-21 16:19:01 WIB", "mint": "EZih8uh6nRK6PqBVQEVZkkJLsz6wU9G4W1BcrxWLpump", "sym": "GTAVI", "reason": "liq 3293<20k"}
-{"t": "2026-11-21 16:19:03 WIB", "mint": "3CWkDb26djytFU6tMwPNuqLNu2TJm5c9PcfLha5tpump", "sym": "crapto", "reason": "vol1h 0<40k"}
-{"t": "2026-11-21 16:19:04 WIB", "mint": "3kQUtCkr5UbSQ3hZBoWWkNrD4EkbL8TycJU2bGMZpump", "sym": "DENARIUS", "reason": "vol1h 48<40k"}
 {"t": "2026-11-21 16:19:07 WIB", "mint": "DkHsZ1kjd2Fua8sgKE6PhHhyCdXYscbDVN7mAfiGpump", "sym": "JENSEN", "reason": "score 0.511<0.6"}
 {"t": "2026-11-21 16:19:53 WIB", "mint": "H9yG3dirMGTpV7hPiHavXYVbX7gzF5MnrvrboFTopump", "sym": "KYS", "reason": "vol1h 3781<40k"}
 {"t": "2026-11-21 16:19:55 WIB", "mint": "2GiS8L6jzveE7cQ61bjGN6wVn5MS9FcBjarSAMFppump", "sym": "SI", "reason": "vol1h 22831<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-21 16:28:42 WIB", "mint": "F5kvpUYbbMsvk7zLtjqu3oiRyrmbCntBFFZHiWuapump", "sym": "JINGLE", "reason": "vol1h 9<40k"}
 {"t": "2026-11-21 16:29:28 WIB", "mint": "AJnaFi9YKgNWzi3aEqJXVbH6puHdNi4FuTr6to7Tpump", "sym": "pointless", "reason": "vol1h 21974<40k"}
 {"t": "2026-11-21 16:29:30 WIB", "mint": "DMdiFFgxVRsuwYhNBUTbE7rEnujQrFefVBZ81urCBnqs", "sym": "DCTY", "reason": "vol1h 0<40k"}
+{"t": "2026-11-21 16:30:16 WIB", "mint": "92Gyw45mc8ULLfgxjSBLNABhp9DBp7aZK36b7PdGoray", "sym": "Robotik", "reason": "vol1h 434<40k"}
+{"t": "2026-11-21 16:30:18 WIB", "mint": "7i8AXjBdKGjGpRo4Ex5aDKUaX55xed5Hrgoww1G9pump", "sym": "LRS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-21 16:31:50 WIB", "mint": "9fdXUWzmCXG5awmc11FNPWDthTngcqU9kd1whEPPXiJ6", "sym": "SINGULARITY", "reason": "vol1h 250<40k"}
+{"t": "2026-11-21 16:31:51 WIB", "mint": "78g2qqHVJCAhEpPCUoaoHmYVakzXevd5ELJt1bi5Gov2", "sym": "cracken", "reason": "liq 5935<20k"}
+{"t": "2026-11-21 16:32:38 WIB", "mint": "B3y5kmGACtQG2aD6ApgQVaP2hJhDz9K1t3WUiX1Hpump", "sym": "CRASHOUT", "reason": "vol1h 7876<40k"}
