@@ -19210,3 +19210,7 @@
 {"t": "2026-11-21 10:14:09 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2297<40k"}
 {"t": "2026-11-21 10:14:10 WIB", "mint": "5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW", "sym": "CoT", "reason": "vol1h 573<40k"}
 {"t": "2026-11-21 10:14:12 WIB", "mint": "GwRU4wwh6A9njT2QPDHtmxBrQnkVogBBLdU7eAXqpump", "sym": "SBS", "reason": "liq 1460<20k"}
+{"t": "2026-11-21 10:15:00 WIB", "mint": "9YDVuxvVHQmUpxX86HJLQrUzbhmaAGGwyD32c3PPpump", "sym": "WHALLET", "reason": "vol1h 0<40k"}
+{"t": "2026-11-21 10:15:47 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 110<40k"}
+{"t": "2026-11-21 10:15:48 WIB", "mint": "ACVkPjBRHWMZEKExATPQaw6PwMZ7ED4wobxomeWGpump", "sym": "S&P500", "reason": "vol1h 27<40k"}
+{"t": "2026-11-21 10:16:35 WIB", "mint": "9iNRBbcNh6sMoGSxbe7AdfVUSQm7vDckEVJeDhSCpump", "sym": "B&B", "reason": "vol1h 0<40k"}
