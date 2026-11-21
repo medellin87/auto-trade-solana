@@ -1,7 +1,3 @@
-{"t": "2026-11-21 12:32:23 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 23184<40k"}
-{"t": "2026-11-21 12:32:24 WIB", "mint": "Ad3yfRjzGMgw2hKSo9cNbzHcqRrRV68JJoqVBeC8pump", "sym": "Offlinu", "reason": "vol1h 12<40k"}
-{"t": "2026-11-21 12:32:26 WIB", "mint": "2S4e8Lv5kMqzXumeWrXMMwANUVtFLazeezUorfG9pump", "sym": "OnlyCats", "reason": "liq 1291<20k"}
-{"t": "2026-11-21 12:33:58 WIB", "mint": "FQNz7BKQejsQR3aFyCY746Km2smesUS9DWYsU9nopump", "sym": "VAREXON", "reason": "liq 18710<20k"}
 {"t": "2026-11-21 12:33:59 WIB", "mint": "7pq9QyFN1cPmC2Sdr3v4CxMcPM9vfNrbKMhxtpXNpump", "sym": "Cyber", "reason": "vol1h 18173<40k"}
 {"t": "2026-11-21 12:35:31 WIB", "mint": "CUfphqswgDK3VP3FX7CiShVCTdGQneFusYRFViABpump", "sym": "BTC", "reason": "vol1h 36217<40k"}
 {"t": "2026-11-21 12:35:32 WIB", "mint": "JAB2R4mEK7uV4nKd3zL3qHh7ULUvzrpMvL6jv8AV6Rfc", "sym": "Pengis", "reason": "vol1h 181<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-21 12:48:15 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 803<40k"}
 {"t": "2026-11-21 12:48:16 WIB", "mint": "8ofj2Msyrouvke16bLgVc4kVi3xcXRLv1RM3f9Ktpump", "sym": "Spongebob", "reason": "vol1h 0<40k"}
 {"t": "2026-11-21 12:49:03 WIB", "mint": "6DkJawEZE7m1tnXi7WqdhoKrANfuMRPQwirXLyGKpump", "sym": "AI", "reason": "vol1h 6715<40k"}
+{"t": "2026-11-21 12:50:35 WIB", "mint": "H6AoDjpzE8pj7KdsqRKbtWsJk7jYAVEcrTWGLVQTpump", "sym": "DODO", "reason": "liq 1609<20k"}
+{"t": "2026-11-21 12:50:36 WIB", "mint": "C2nrwWDQ72yjtLiCCpJDBpzv1Se5eniAVqadTvAdpump", "sym": "PENNY", "reason": "liq 1490<20k"}
+{"t": "2026-11-21 12:51:23 WIB", "mint": "FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump", "sym": "MAYA", "reason": "top10 28.8%>25"}
+{"t": "2026-11-21 12:52:10 WIB", "mint": "GwSkMEy1pRgNuMSdrApdX6DaexBopgLm5KU32VP9pump", "sym": "GIRAFFE", "reason": "vol1h 32484<40k"}
