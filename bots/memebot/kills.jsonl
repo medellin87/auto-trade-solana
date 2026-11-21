@@ -19257,3 +19257,6 @@
 {"t": "2026-11-21 10:44:41 WIB", "mint": "5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW", "sym": "CoT", "reason": "vol1h 942<40k"}
 {"t": "2026-11-21 10:44:42 WIB", "mint": "GwRU4wwh6A9njT2QPDHtmxBrQnkVogBBLdU7eAXqpump", "sym": "SBS", "reason": "liq 1430<20k"}
 {"t": "2026-11-21 10:45:29 WIB", "mint": "HK64kGr5Pqonta3rijg2hxHCGfNfbPSF2wcY47WVpump", "sym": "Cyber", "reason": "liq 1386<20k"}
+{"t": "2026-11-21 10:46:16 WIB", "mint": "3yrPGBFyWAey1tFKBKJtwBsxXjfyhZmZ3nkW9xggpump", "sym": "cheatcode", "reason": "vol1h 19<40k"}
+{"t": "2026-11-21 10:46:17 WIB", "mint": "ACVkPjBRHWMZEKExATPQaw6PwMZ7ED4wobxomeWGpump", "sym": "S&P500", "reason": "vol1h 21<40k"}
+{"t": "2026-11-21 10:47:04 WIB", "mint": "9iNRBbcNh6sMoGSxbe7AdfVUSQm7vDckEVJeDhSCpump", "sym": "B&B", "reason": "vol1h 0<40k"}
