@@ -15105,3 +15105,7 @@
 {"t": "2026-11-21 19:52:45 WIB", "mint": "C77wTNSwkorDNDhQTujY39xJJNzG3q78MMRx4EDzpump", "sym": "will", "reason": "liq 5757<20k"}
 {"t": "2026-11-21 19:52:47 WIB", "mint": "DkHsZ1kjd2Fua8sgKE6PhHhyCdXYscbDVN7mAfiGpump", "sym": "JENSEN", "reason": "score 0.504<0.6"}
 {"t": "2026-11-21 19:52:49 WIB", "mint": "6M8bCzSP4MvrhVQHnQK693ZQUFkHJwTCEBpaJNnvpump", "sym": "RYLD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-21 19:53:36 WIB", "mint": "EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump", "sym": "Bust", "reason": "vol1h 2687<40k"}
+{"t": "2026-11-21 19:54:22 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 17837<40k"}
+{"t": "2026-11-21 19:55:09 WIB", "mint": "5kqi4kDq56H9UfHq14jXtmy189zpyxaYdXCQ4qHvDtHW", "sym": "CoT", "reason": "vol1h 410<40k"}
+{"t": "2026-11-21 19:55:10 WIB", "mint": "3akirsQnDij9R6h4fZFxdxrYUjQy32JNWBv4FCNBpump", "sym": "FTL", "reason": "vol1h 31389<40k"}
