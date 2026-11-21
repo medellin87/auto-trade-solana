@@ -15102,3 +15102,6 @@
 {"t": "2026-11-21 19:48:55 WIB", "mint": "FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump", "sym": "Socks", "reason": "vol1h 368<40k"}
 {"t": "2026-11-21 19:49:42 WIB", "mint": "KMifrkYmDdAKtVXAVBEPEQxJ7qP2iLgUcfZjUZipump", "sym": "RAMBO", "reason": "vol1h 2170<40k"}
 {"t": "2026-11-21 19:49:43 WIB", "mint": "7VtNjQu7GGPX5A1CowMxJjfFsPkZsuJ3AoSQdzHTpump", "sym": "Lazarus", "reason": "vol1h 113<40k"}
+{"t": "2026-11-21 19:52:45 WIB", "mint": "C77wTNSwkorDNDhQTujY39xJJNzG3q78MMRx4EDzpump", "sym": "will", "reason": "liq 5757<20k"}
+{"t": "2026-11-21 19:52:47 WIB", "mint": "DkHsZ1kjd2Fua8sgKE6PhHhyCdXYscbDVN7mAfiGpump", "sym": "JENSEN", "reason": "score 0.504<0.6"}
+{"t": "2026-11-21 19:52:49 WIB", "mint": "6M8bCzSP4MvrhVQHnQK693ZQUFkHJwTCEBpaJNnvpump", "sym": "RYLD", "reason": "vol1h 0<40k"}
