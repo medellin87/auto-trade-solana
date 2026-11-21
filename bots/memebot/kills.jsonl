@@ -19129,3 +19129,6 @@
 {"t": "2026-11-21 09:14:53 WIB", "mint": "ACVkPjBRHWMZEKExATPQaw6PwMZ7ED4wobxomeWGpump", "sym": "S&P500", "reason": "liq 1642<20k"}
 {"t": "2026-11-21 09:15:39 WIB", "mint": "9iNRBbcNh6sMoGSxbe7AdfVUSQm7vDckEVJeDhSCpump", "sym": "B&B", "reason": "vol1h 0<40k"}
 {"t": "2026-11-21 09:16:26 WIB", "mint": "Av2hQvRdZsunonVxwm8Jorm2qKxrjmeSwKc2eWvpump", "sym": "Hedge", "reason": "vol1h 0<40k"}
+{"t": "2026-11-21 09:17:57 WIB", "mint": "2g3NFpebwCV6Abz7AhmVC4xmsaczQXbqxHV4Khy4pump", "sym": "SHELF", "reason": "vol1h 20504<40k"}
+{"t": "2026-11-21 09:17:59 WIB", "mint": "6gfWBUx3bxGndsgHM5cUUiSzGNdpDLpQVBaA2oMppump", "sym": "GPU", "reason": "vol1h 1638<40k"}
+{"t": "2026-11-21 09:18:45 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 1525<40k"}
