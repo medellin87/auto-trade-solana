@@ -1,6 +1,3 @@
-{"t": "2026-11-21 11:16:52 WIB", "mint": "ACVkPjBRHWMZEKExATPQaw6PwMZ7ED4wobxomeWGpump", "sym": "S&P500", "reason": "vol1h 5<40k"}
-{"t": "2026-11-21 11:19:08 WIB", "mint": "C2nrwWDQ72yjtLiCCpJDBpzv1Se5eniAVqadTvAdpump", "sym": "PENNY", "reason": "liq 18360<20k"}
-{"t": "2026-11-21 11:20:40 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 2155<40k"}
 {"t": "2026-11-21 11:21:27 WIB", "mint": "CM65K38bqGePYkNQBjGRRDYMhyxgh9xTQg2HPQTFpump", "sym": "Pois", "reason": "vol1h 2457<40k"}
 {"t": "2026-11-21 11:23:43 WIB", "mint": "8h9efkPdguVC3sRKahtihT5RZFd6tHNUEzPdrPEPpump", "sym": "MP", "reason": "vol1h 0<40k"}
 {"t": "2026-11-21 11:23:45 WIB", "mint": "B1svmpY7ExxMiRJ9x79vptyi6wizQGK4t6TweEhxpump", "sym": "CYBERPANDEMIC", "reason": "vol1h 0<40k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-21 11:37:07 WIB", "mint": "2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump", "sym": "PUNANI", "reason": "top10 43.3%>25"}
 {"t": "2026-11-21 11:37:09 WIB", "mint": "GKFSuSc9nYioKCjgUPFy2J5K6K2Ur7ZnpXH9XEiQH63R", "sym": "CC131", "reason": "liq 18926<20k"}
 {"t": "2026-11-21 11:37:56 WIB", "mint": "HdXKvYk7eDD1YoT5vvmdU46v7ZoyfhZWfTtg4Mhvpump", "sym": "CAT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-21 11:37:57 WIB", "mint": "DbMPw1vSRtE93EK5Sqw23xHuDtkD569RpqANLvdqpump", "sym": "MARS", "reason": "liq 0<20k"}
+{"t": "2026-11-21 11:37:59 WIB", "mint": "CktHFigNyDjkk1GesqUXkLM9zm5gXaYJAY8UEbhqpump", "sym": "Lebrain", "reason": "vol1h 4080<40k"}
+{"t": "2026-11-21 11:40:15 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 20610<40k"}
