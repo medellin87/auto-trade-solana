@@ -17258,3 +17258,6 @@
 {"t": "2026-11-22 19:41:46 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.432<0.6"}
 {"t": "2026-11-22 19:42:33 WIB", "mint": "vxG5uciceD6c92HFS3wuSgc1ZLKovWwZbntMM24pump", "sym": "PEPECLAUS", "reason": "vol1h 56<40k"}
 {"t": "2026-11-22 19:43:20 WIB", "mint": "HrkugCbWtaZ5Kf6eb7ejRSPtfrJxBqJEwTQSHQQgpump", "sym": "DUMB", "reason": "vol1h 16586<40k"}
+{"t": "2026-11-22 19:44:07 WIB", "mint": "3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump", "sym": "PushCoin", "reason": "score 0.556<0.6"}
+{"t": "2026-11-22 19:46:24 WIB", "mint": "ANBAQMHE2SgmQaho4xoPoikooGYB6Tm8PubPL8xBpump", "sym": "wishbone", "reason": "liq 0<20k"}
+{"t": "2026-11-22 19:46:25 WIB", "mint": "GteMECck21MiLVdsxSjP2kHJWoPHHyBmGrKQY4AFpump", "sym": "GTABABY", "reason": "vol1h 0<40k"}
