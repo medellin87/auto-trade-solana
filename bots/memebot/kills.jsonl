@@ -18075,3 +18075,6 @@
 {"t": "2026-11-23 05:15:41 WIB", "mint": "FuKY3dk7QmpbDdQRjzbjB3G6PiCuqKNvN4dAWDpwpump", "sym": "OpenIndex", "reason": "score 0.526<0.6"}
 {"t": "2026-11-23 05:15:43 WIB", "mint": "fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump", "sym": "BTC", "reason": "top10 32.5%>25"}
 {"t": "2026-11-23 05:16:29 WIB", "mint": "GpNdHv2HUqW4LvB6oCC7aFMi1f8bzJ92vFp1Aw9fpump", "sym": "STABULL", "reason": "liq 0<20k"}
+{"t": "2026-11-23 05:18:48 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 9514<40k"}
+{"t": "2026-11-23 05:18:50 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 185<40k"}
+{"t": "2026-11-23 05:18:51 WIB", "mint": "BcRsL1rWC4FTovmdnu9AQFb8q8XCoqHAkrD5wwm55yfF", "sym": "PushCoin", "reason": "vol1h 6<40k"}
