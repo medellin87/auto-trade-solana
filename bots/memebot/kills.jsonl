@@ -17953,3 +17953,6 @@
 {"t": "2026-11-23 03:53:36 WIB", "mint": "HxpiqQCPnNX6ZnCzJriLUzmWsASoeC916kWtJYPnpump", "sym": "SI2SI", "reason": "vol1h 12395<40k"}
 {"t": "2026-11-23 03:54:23 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1474<40k"}
 {"t": "2026-11-23 03:55:09 WIB", "mint": "Et13xumwzoFRfFAnvji17zWpEF8mPJN9xmPUBLaFpump", "sym": "PUMP", "reason": "vol1h 217<40k"}
+{"t": "2026-11-23 03:58:12 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.334<0.6"}
+{"t": "2026-11-23 03:58:13 WIB", "mint": "23vu8bnWQuLvsRLTiTcxt3i3YWTdxqCqamTi2gTCU4pz", "sym": "HIDDEN", "reason": "vol1h 28784<40k"}
+{"t": "2026-11-23 03:58:15 WIB", "mint": "BEcNCmXWhf4A42ZnPHv4Yctw5tL1jAJjPDW8BKdjpump", "sym": "retire", "reason": "liq 2524<20k"}
