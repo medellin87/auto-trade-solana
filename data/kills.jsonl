@@ -1,8 +1,3 @@
-{"t": "2026-11-22 10:57:46 WIB", "mint": "4sYBDAjAiFm2kJDJExyWjPEW5rth9riExqtyRDmhpump", "sym": "CI", "reason": "vol1h 0<40k"}
-{"t": "2026-11-22 10:57:47 WIB", "mint": "9GQhJ7t7Gy8DyeMVxjJZuTsHvmoZro5sVDxzNxsFpump", "sym": "MASCOIN", "reason": "liq 11382<20k"}
-{"t": "2026-11-22 10:57:49 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 663<40k"}
-{"t": "2026-11-22 10:59:21 WIB", "mint": "4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu", "sym": "SBS", "reason": "vol1h 4013<40k"}
-{"t": "2026-11-22 11:00:52 WIB", "mint": "8NfRaCzVoBiyXJ7VcJ4oNKz45Et2WtEgLoGZuskpump", "sym": "Winter Arc 2", "reason": "vol1h 2652<40k"}
 {"t": "2026-11-22 11:00:54 WIB", "mint": "7rRgxeCnZJxBW6yi9CSQZ6yFX8vgudjY45NmBQ1AHPPo", "sym": "HIPPO", "reason": "vol1h 9027<40k"}
 {"t": "2026-11-22 11:01:41 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 930<40k"}
 {"t": "2026-11-22 11:02:27 WIB", "mint": "CDuXeDYprkrpY8CyTFq3CJ6j2Ksh7d7tGfcDjiwRpump", "sym": "Santa", "reason": "vol1h 36302<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-22 11:16:40 WIB", "mint": "AN1acsfrRhSaToxihrbEjs5oHXGzvFuC9xXKLtompump", "sym": "FRIEND", "reason": "liq 1449<20k"}
 {"t": "2026-11-22 11:17:27 WIB", "mint": "p5Npysmyvz9uc6FC4mW8vta65AnDd8Hx7tMoLYrpump", "sym": "MAS", "reason": "liq 1946<20k"}
 {"t": "2026-11-22 11:18:59 WIB", "mint": "DRTd5btKUwgwSACMvE7KEZQEDtvpXe6pa7VRoL61pump", "sym": "apemas", "reason": "vol1h 11671<40k"}
+{"t": "2026-11-22 11:19:45 WIB", "mint": "DTvEhHnxwochMvWwx3zmwUySJhvD9omQrWWhzM7cQ4fy", "sym": "GTL", "reason": "vol1h 28379<40k"}
+{"t": "2026-11-22 11:20:32 WIB", "mint": "3QcYNgx6tNRK8V8n1rS3xD2bjMkbFeEpg3qEGY7npump", "sym": "GabeHorn", "reason": "vol1h 902<40k"}
+{"t": "2026-11-22 11:21:18 WIB", "mint": "tokG3Pz4abDMxzMevFfvH2h4LcYrzZ7zxDrMF47pump", "sym": "DOGGITTY", "reason": "vol1h 695<40k"}
+{"t": "2026-11-22 11:22:05 WIB", "mint": "FwSy225GBhQ9M29r8tHQELYEFpmT79tXzDEUb78fpump", "sym": "CATEGIVING", "reason": "vol1h 37333<40k"}
+{"t": "2026-11-22 11:22:06 WIB", "mint": "48tDqrzNnEg3No94vUXvpCG24CQCgAjFV9Vf3bZwpump", "sym": "SANTA", "reason": "vol1h 14456<40k"}
