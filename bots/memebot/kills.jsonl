@@ -18116,3 +18116,9 @@
 {"t": "2026-11-23 05:46:10 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 2179<40k"}
 {"t": "2026-11-23 05:46:12 WIB", "mint": "FuKY3dk7QmpbDdQRjzbjB3G6PiCuqKNvN4dAWDpwpump", "sym": "OpenIndex", "reason": "score 0.58<0.6"}
 {"t": "2026-11-23 05:46:14 WIB", "mint": "fZz5uVNxjzJjUDRFho9efrQD2qcdYcsv4rWhuWbpump", "sym": "BTC", "reason": "liq 18995<20k"}
+{"t": "2026-11-23 05:47:01 WIB", "mint": "ADs7gnpeYvkBLthYhqRcrVTeGSFQuqfYnv3PbS6Bpump", "sym": "XMAS", "reason": "score 0.546<0.6"}
+{"t": "2026-11-23 05:47:02 WIB", "mint": "GpNdHv2HUqW4LvB6oCC7aFMi1f8bzJ92vFp1Aw9fpump", "sym": "STABULL", "reason": "liq 0<20k"}
+{"t": "2026-11-23 05:47:51 WIB", "mint": "DmmpWvKgipQwQTBdeouWq59XpppNjCip2dFoDQQwpump", "sym": "ZCAT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 05:49:23 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 4885<40k"}
+{"t": "2026-11-23 05:49:24 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 473<40k"}
+{"t": "2026-11-23 05:49:26 WIB", "mint": "BcRsL1rWC4FTovmdnu9AQFb8q8XCoqHAkrD5wwm55yfF", "sym": "PushCoin", "reason": "vol1h 0<40k"}
