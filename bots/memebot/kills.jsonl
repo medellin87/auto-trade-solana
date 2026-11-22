@@ -17926,3 +17926,9 @@
 {"t": "2026-11-23 03:38:39 WIB", "mint": "EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump", "sym": "Bust", "reason": "vol1h 2434<40k"}
 {"t": "2026-11-23 03:38:40 WIB", "mint": "8U9611BhPXG8ubN77wkeN7Gs1ooAXQLy65KQDZr9pump", "sym": "ASS", "reason": "liq 0<20k"}
 {"t": "2026-11-23 03:38:42 WIB", "mint": "HELio3Xy1xAJhbMA9fWZMpeNDjoeiM5LrmCJrrrxZ5zM", "sym": "Heliogram", "reason": "liq 0<20k"}
+{"t": "2026-11-23 03:40:58 WIB", "mint": "CdWFddWqGndr4miRc1rgVMzJxUygJSBVU7FSixrepump", "sym": "pump-chan", "reason": "vol1h 13371<40k"}
+{"t": "2026-11-23 03:41:45 WIB", "mint": "8Y6GQsN7FnZ9ygvUYY6C7ybiHVUomcwwhWFbR61Jpump", "sym": "SIGIL", "reason": "liq 1658<20k"}
+{"t": "2026-11-23 03:41:46 WIB", "mint": "6RE3WnDYmkKquontjFXD2me6vuqjan45EHVCtL3kpump", "sym": "MIKEDYSON", "reason": "vol1h 317<40k"}
+{"t": "2026-11-23 03:42:33 WIB", "mint": "smJ8bHgekWZUwQRvQgAymAvN8kpcxgmnAX3erZybonk", "sym": "GUI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 03:42:34 WIB", "mint": "BW2pMhQQSwGui8bW1iW1AJUUhYtEAYMDhBAkVHDmSrcX", "sym": "TARE", "reason": "vol1h 36443<40k"}
+{"t": "2026-11-23 03:42:36 WIB", "mint": "GMGpmQBZf43nHVqaKezZKBxEFQzc5rtrMUFWuZRxpump", "sym": "LIQUID", "reason": "vol1h 10457<40k"}
