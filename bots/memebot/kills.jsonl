@@ -18052,3 +18052,7 @@
 {"t": "2026-11-23 05:00:47 WIB", "mint": "6aZ8h9su1ta8bBFCJNuzQVAkcxPHEDy3nevZtgCCpump", "sym": "$TURBO", "reason": "vol1h 248<40k"}
 {"t": "2026-11-23 05:03:04 WIB", "mint": "3eJ4Ww7Z2eMbNMFPrDcn4cv7WD6CQgGWXNj41eCBpump", "sym": "Incidents", "reason": "vol1h 2118<40k"}
 {"t": "2026-11-23 05:03:05 WIB", "mint": "Ex4qQDnV7LXeLFymQZZebrohCn3dxqr9NXDYxavfLoat", "sym": "COCKROACH", "reason": "score 0.394<0.6"}
+{"t": "2026-11-23 05:03:52 WIB", "mint": "4pccdU3KnLxfbey63BhQB4xJMLHbP3mdZWiXwN6epump", "sym": "BOT", "reason": "vol1h 20<40k"}
+{"t": "2026-11-23 05:03:54 WIB", "mint": "8nq3Jmgd1tpbroiuVMehQyC266ZUZJU2BTad8Nigpump", "sym": "STANK", "reason": "vol1h 1160<40k"}
+{"t": "2026-11-23 05:04:40 WIB", "mint": "BwgcBr42Zw5GsYQTiepwTng1pU2FRDK9oMvgj3tipump", "sym": "murph", "reason": "vol1h 21342<40k"}
+{"t": "2026-11-23 05:06:12 WIB", "mint": "5eiLc9r79PkJquiFvYWdXJYtGNRjTpzot8MR7Z4Ppump", "sym": "Wojak", "reason": "liq 15881<20k"}
