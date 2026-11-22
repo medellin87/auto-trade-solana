@@ -17997,3 +17997,8 @@
 {"t": "2026-11-23 04:24:38 WIB", "mint": "Gfcr8eAkCEvqPfTLqG6HTumNZtBzHNB9dKTwhrFpook", "sym": "POOK", "reason": "vol1h 24302<40k"}
 {"t": "2026-11-23 04:24:40 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1350<40k"}
 {"t": "2026-11-23 04:25:26 WIB", "mint": "HL4pJL7WhXWXJKDRCG7yqQiS2Um3XQQnUntp5Aftpump", "sym": "SURREAL", "reason": "liq 0<20k"}
+{"t": "2026-11-23 04:28:28 WIB", "mint": "23vu8bnWQuLvsRLTiTcxt3i3YWTdxqCqamTi2gTCU4pz", "sym": "HIDDEN", "reason": "vol1h 20727<40k"}
+{"t": "2026-11-23 04:28:30 WIB", "mint": "BEcNCmXWhf4A42ZnPHv4Yctw5tL1jAJjPDW8BKdjpump", "sym": "retire", "reason": "liq 2053<20k"}
+{"t": "2026-11-23 04:28:31 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.377<0.6"}
+{"t": "2026-11-23 04:29:18 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 66<40k"}
+{"t": "2026-11-23 04:29:20 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 26512<40k"}
