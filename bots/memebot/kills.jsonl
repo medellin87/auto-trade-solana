@@ -17436,3 +17436,7 @@
 {"t": "2026-11-22 21:59:44 WIB", "mint": "47YCrfUmSQUF9vnPsPGSzrmTcxttdRAWejCMkhrrpump", "sym": "KYC", "reason": "liq 10271<20k"}
 {"t": "2026-11-22 21:59:45 WIB", "mint": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-22 22:01:17 WIB", "mint": "3b7WvfRxRaoMuq4j6JWJzrL5mym3Km3QzfX5dqCopump", "sym": "Bigfoot", "reason": "vol1h 8151<40k"}
+{"t": "2026-11-22 22:02:51 WIB", "mint": "EoV9JQYi57tqjyQbWLdXVarYpEu82FsP8SDnkbFmpump", "sym": "Bust", "reason": "vol1h 518<40k"}
+{"t": "2026-11-22 22:02:52 WIB", "mint": "95NAbTyZopHGJK9TuisJZUHKAZSqRoSB3JPfqAqHpump", "sym": "HIPPO", "reason": "vol1h 27822<40k"}
+{"t": "2026-11-22 22:02:54 WIB", "mint": "9WB75GUzmTT1P3bvX9WYCHaGdKdZrKiWz7LDBujLpump", "sym": "SI", "reason": "vol1h 165<40k"}
+{"t": "2026-11-22 22:03:41 WIB", "mint": "3NLPK4MtmJXgpFxhgyxth3Vmf7VmhdDAvnk6G6XYpump", "sym": "Plurality", "reason": "vol1h 2900<40k"}
