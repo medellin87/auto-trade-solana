@@ -16941,3 +16941,7 @@
 {"t": "2026-11-22 15:44:32 WIB", "mint": "BCbZNrEM26rXPT3YC8MQDxaBEpjB2C7HCqJmj5wVpump", "sym": "MAXXMAS", "reason": "vol1h 14767<40k"}
 {"t": "2026-11-22 15:45:19 WIB", "mint": "3XsFunPdji9U1EgJXokZysw8SB3t74un89b6KLEVpump", "sym": "MIHAOMAS", "reason": "vol1h 2000<40k"}
 {"t": "2026-11-22 15:45:20 WIB", "mint": "9ZG9qoTzKzNgcnn7y7D62eZ44cSPiLsmwuUsyY85pump", "sym": "SINGU", "reason": "vol1h 15644<40k"}
+{"t": "2026-11-22 15:46:52 WIB", "mint": "EhPBT7BbWL1r74PvQQU3GVfusDoecqHBug1dgKfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-22 15:46:53 WIB", "mint": "3K6EUFoAE8zngTFMfPavqcMFhDqYTRemoaXYAjNPpump", "sym": "GIFTER", "reason": "liq 0<20k"}
+{"t": "2026-11-22 15:46:55 WIB", "mint": "Bpn115UDyJR7Mjo7H9jyByHo4cfLKQ9zrmEE54FSpump", "sym": "MC", "reason": "vol1h 1<40k"}
+{"t": "2026-11-22 15:49:12 WIB", "mint": "2bBTwzgb6shcvaHXV8zSAxNCsj74Q9Bfzmz5Vd1mpump", "sym": "RARE", "reason": "vol1h 0<40k"}
