@@ -17554,3 +17554,9 @@
 {"t": "2026-11-22 23:18:19 WIB", "mint": "DxBsDjY8xYwfHkSUky6auBJ3MG69AtWbpAwB5HnDpump", "sym": "GEVRA", "reason": "vol1h 10372<40k"}
 {"t": "2026-11-22 23:18:20 WIB", "mint": "8eyeL2ndAM1r3bShu8LLkAma8FkgzsFg1LMMCbjHpump", "sym": "FRANK", "reason": "liq 6392<20k"}
 {"t": "2026-11-22 23:20:37 WIB", "mint": "ACHRgAkH9qoRXhi7grXLDoJN3QjwR3Kp1UnJN7uwEwFa", "sym": "ANCHOR", "reason": "liq 0<20k"}
+{"t": "2026-11-22 23:22:53 WIB", "mint": "3P7FLAbXeu7Mjc8SnyfLet8vwNCuk8HaXbjdxHgMpump", "sym": "FSDV15", "reason": "vol1h 11<40k"}
+{"t": "2026-11-22 23:22:55 WIB", "mint": "AsyzWyW4zYFZELB15kbayK4R2oFVC8Zu6dKP59RPpump", "sym": "RING", "reason": "vol1h 0<40k"}
+{"t": "2026-11-22 23:22:57 WIB", "mint": "v4GK8f24ZJJa5qLoTJ4mJ5d6jsNUXHScwGaRHdfpump", "sym": "MCAT", "reason": "score 0.4<0.6"}
+{"t": "2026-11-22 23:23:44 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.356<0.6"}
+{"t": "2026-11-22 23:24:31 WIB", "mint": "37dRkSVpirqLLh2m8jdx2JXBFcNqFi7pdBgqDodppump", "sym": "MengLan", "reason": "liq 3017<20k"}
+{"t": "2026-11-22 23:24:32 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 395<40k"}
