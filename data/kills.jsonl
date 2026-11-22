@@ -1,11 +1,3 @@
-{"t": "2026-11-22 11:11:57 WIB", "mint": "2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump", "sym": "PUNANI", "reason": "vol1h 0<40k"}
-{"t": "2026-11-22 11:13:29 WIB", "mint": "8HusqhhyrYwNSbxqtK56tucqMXhLx4EatWkYD3sQpump", "sym": "Tiger", "reason": "vol1h 38308<40k"}
-{"t": "2026-11-22 11:13:30 WIB", "mint": "FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump", "sym": "MAYA", "reason": "vol1h 61<40k"}
-{"t": "2026-11-22 11:15:02 WIB", "mint": "GhyDsXC52uPcXfPfUypV2KZ7MbuvtpWtA7EdzPE2pump", "sym": "der", "reason": "liq 0<20k"}
-{"t": "2026-11-22 11:15:03 WIB", "mint": "9msk9ehERMECbvsp3mvNabSXy2k7GNcrxJgdWfh7pump", "sym": "win", "reason": "vol1h 8895<40k"}
-{"t": "2026-11-22 11:15:05 WIB", "mint": "5sZCi2s5MA9X8MBxT9AgmZTEm1QMUY2xZvh3cyrfpump", "sym": "COAL", "reason": "vol1h 3647<40k"}
-{"t": "2026-11-22 11:15:54 WIB", "mint": "3JqV4LuKVqzCpWsDAsBnTLg2mKik22hLeyyPyfW3pump", "sym": "MANDY", "reason": "vol1h 0<40k"}
-{"t": "2026-11-22 11:16:40 WIB", "mint": "AN1acsfrRhSaToxihrbEjs5oHXGzvFuC9xXKLtompump", "sym": "FRIEND", "reason": "liq 1449<20k"}
 {"t": "2026-11-22 11:17:27 WIB", "mint": "p5Npysmyvz9uc6FC4mW8vta65AnDd8Hx7tMoLYrpump", "sym": "MAS", "reason": "liq 1946<20k"}
 {"t": "2026-11-22 11:18:59 WIB", "mint": "DRTd5btKUwgwSACMvE7KEZQEDtvpXe6pa7VRoL61pump", "sym": "apemas", "reason": "vol1h 11671<40k"}
 {"t": "2026-11-22 11:19:45 WIB", "mint": "DTvEhHnxwochMvWwx3zmwUySJhvD9omQrWWhzM7cQ4fy", "sym": "GTL", "reason": "vol1h 28379<40k"}
@@ -28,3 +20,11 @@
 {"t": "2026-11-22 11:29:58 WIB", "mint": "4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu", "sym": "SBS", "reason": "vol1h 5898<40k"}
 {"t": "2026-11-22 11:31:30 WIB", "mint": "8NfRaCzVoBiyXJ7VcJ4oNKz45Et2WtEgLoGZuskpump", "sym": "Winter Arc 2", "reason": "vol1h 23<40k"}
 {"t": "2026-11-22 11:31:32 WIB", "mint": "7rRgxeCnZJxBW6yi9CSQZ6yFX8vgudjY45NmBQ1AHPPo", "sym": "HIPPO", "reason": "vol1h 7143<40k"}
+{"t": "2026-11-22 11:32:18 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 855<40k"}
+{"t": "2026-11-22 11:32:20 WIB", "mint": "7jAwMth6o7pkdXxz1YYRtvCALw4pSBPMLWqBzPqcpump", "sym": "PigGPT", "reason": "vol1h 32099<40k"}
+{"t": "2026-11-22 11:32:21 WIB", "mint": "EVzi6YUvF8nrmSmHEd9LktV42xG9fwBWeeKcano7pump", "sym": "ELF", "reason": "vol1h 3225<40k"}
+{"t": "2026-11-22 11:33:08 WIB", "mint": "GVXSVJVHqdRWZhD8U22TtWkrCgEkjTPMeBBgxd7Zpump", "sym": "PUMPMAS", "reason": "vol1h 97<40k"}
+{"t": "2026-11-22 11:33:09 WIB", "mint": "CDuXeDYprkrpY8CyTFq3CJ6j2Ksh7d7tGfcDjiwRpump", "sym": "Santa", "reason": "liq 0<20k"}
+{"t": "2026-11-22 11:33:11 WIB", "mint": "5vdhKfRpwUeGgt87YKPydyDNh9jJ2U4jrcWVGQ4Dpump", "sym": "Chewy", "reason": "vol1h 147<40k"}
+{"t": "2026-11-22 11:33:57 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 7723<40k"}
+{"t": "2026-11-22 11:34:00 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.528<0.6"}
