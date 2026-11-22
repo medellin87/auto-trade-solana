@@ -1,9 +1,3 @@
-{"t": "2026-11-23 05:33:38 WIB", "mint": "Ex4qQDnV7LXeLFymQZZebrohCn3dxqr9NXDYxavfLoat", "sym": "COCKROACH", "reason": "score 0.544<0.6"}
-{"t": "2026-11-23 05:34:25 WIB", "mint": "4pccdU3KnLxfbey63BhQB4xJMLHbP3mdZWiXwN6epump", "sym": "BOT", "reason": "vol1h 18<40k"}
-{"t": "2026-11-23 05:34:26 WIB", "mint": "8nq3Jmgd1tpbroiuVMehQyC266ZUZJU2BTad8Nigpump", "sym": "STANK", "reason": "vol1h 1586<40k"}
-{"t": "2026-11-23 05:35:13 WIB", "mint": "BwgcBr42Zw5GsYQTiepwTng1pU2FRDK9oMvgj3tipump", "sym": "murph", "reason": "vol1h 15120<40k"}
-{"t": "2026-11-23 05:36:45 WIB", "mint": "5eiLc9r79PkJquiFvYWdXJYtGNRjTpzot8MR7Z4Ppump", "sym": "Wojak", "reason": "liq 9180<20k"}
-{"t": "2026-11-23 05:38:16 WIB", "mint": "8J7yeYsBzozSQ67Ji4kpun2gdfTFp8o9g6rNkYR3pump", "sym": "Hold", "reason": "liq 2389<20k"}
 {"t": "2026-11-23 05:38:18 WIB", "mint": "BkQjetCCLtsRjJUa3jD47WpwXy7oncZ5TzdjHHKERz7T", "sym": "Normie", "reason": "liq 0<20k"}
 {"t": "2026-11-23 05:39:05 WIB", "mint": "3b7WvfRxRaoMuq4j6JWJzrL5mym3Km3QzfX5dqCopump", "sym": "Bigfoot", "reason": "vol1h 931<40k"}
 {"t": "2026-11-23 05:39:51 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 29277<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-23 05:49:26 WIB", "mint": "BcRsL1rWC4FTovmdnu9AQFb8q8XCoqHAkrD5wwm55yfF", "sym": "PushCoin", "reason": "vol1h 0<40k"}
 {"t": "2026-11-23 05:50:13 WIB", "mint": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump", "sym": "cateball", "reason": "score 0.561<0.6"}
 {"t": "2026-11-23 05:52:31 WIB", "mint": "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump", "sym": "Max", "reason": "vol1h 5323<40k"}
+{"t": "2026-11-23 05:52:33 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 716<40k"}
+{"t": "2026-11-23 05:53:19 WIB", "mint": "GZvsuLA5yw9QbvvCQ58uFyBvmz6D1ht3PmCgNhDKpump", "sym": "Hachi", "reason": "vol1h 86<40k"}
+{"t": "2026-11-23 05:54:06 WIB", "mint": "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump", "sym": "UCASH", "reason": "vol1h 34445<40k"}
+{"t": "2026-11-23 05:54:08 WIB", "mint": "3N6Mp8YQuVDfEtyuyJS72s4MRrgQuKY34gvYZD5Kpump", "sym": "PushCoin", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-23 05:54:09 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 4906<40k"}
+{"t": "2026-11-23 05:54:11 WIB", "mint": "8VNNcni2hjFSEnXWFCcHwCRYRhYjsm8s56dJhR8ipump", "sym": "ZCAT", "reason": "vol1h 0<40k"}
