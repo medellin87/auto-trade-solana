@@ -1,9 +1,3 @@
-{"t": "2026-11-23 01:49:55 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 14893<40k"}
-{"t": "2026-11-23 01:50:41 WIB", "mint": "848TM75nmuyK4hVsthw6qNWd5iVkY2nHJi3M1Trfbonk", "sym": "Inu", "reason": "liq 6250<20k"}
-{"t": "2026-11-23 01:52:13 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 1223<40k"}
-{"t": "2026-11-23 01:53:00 WIB", "mint": "ACHRgAkH9qoRXhi7grXLDoJN3QjwR3Kp1UnJN7uwEwFa", "sym": "ANCHOR", "reason": "vol1h 7<40k"}
-{"t": "2026-11-23 01:53:46 WIB", "mint": "GCZ2wKbAC9CwSvmSNnxCJjWu26PoGtaAit32QCUniSon", "sym": "UNISON", "reason": "vol1h 26092<40k"}
-{"t": "2026-11-23 01:53:48 WIB", "mint": "2eStC4PwJqfp2wLT2FbRjvwmU8SQkPoWqA6HFx1gpump", "sym": "Lucky", "reason": "liq 1906<20k"}
 {"t": "2026-11-23 01:54:34 WIB", "mint": "F1KTnYvvoo1hoqYi8SGBfiM6rSqtJ38SwYtuiiYwpump", "sym": "jeremy", "reason": "vol1h 16530<40k"}
 {"t": "2026-11-23 01:55:22 WIB", "mint": "v4GK8f24ZJJa5qLoTJ4mJ5d6jsNUXHScwGaRHdfpump", "sym": "MCAT", "reason": "score 0.54<0.6"}
 {"t": "2026-11-23 01:56:09 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "score 0.33<0.6"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-23 02:11:39 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 1669<40k"}
 {"t": "2026-11-23 02:11:41 WIB", "mint": "7zeVHs7n7TFQf9X86MZNzBcEEVTnyyECeNbAghL3pump", "sym": "GTGOAT", "reason": "vol1h 0<40k"}
 {"t": "2026-11-23 02:13:58 WIB", "mint": "6EiCk8WmoLai1ziCHa8D2aujGdB7rYr3xGs3x2avpump", "sym": "casual", "reason": "vol1h 11912<40k"}
+{"t": "2026-11-23 02:14:44 WIB", "mint": "2ShsPccWG7P4qBCynx6EQkEB9ga2GWgemZnTEn86pump", "sym": "Zalora", "reason": "vol1h 3<40k"}
+{"t": "2026-11-23 02:14:46 WIB", "mint": "cpdTa5F3Trz2h5vvFfHT7jSM7F5CGvzxfQQRnaQpump", "sym": "DOCTORDOOM", "reason": "vol1h 570<40k"}
+{"t": "2026-11-23 02:15:32 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 1390<40k"}
+{"t": "2026-11-23 02:15:34 WIB", "mint": "DMTYjnstLyY55z4T658ABQmw2JGP3fEMTYQdntDHpump", "sym": "swen", "reason": "vol1h 1<40k"}
+{"t": "2026-11-23 02:15:35 WIB", "mint": "BcRsL1rWC4FTovmdnu9AQFb8q8XCoqHAkrD5wwm55yfF", "sym": "PushCoin", "reason": "vol1h 2<40k"}
+{"t": "2026-11-23 02:16:23 WIB", "mint": "3hi7qBus11Xg9Pmj7xuuK9pjmKF7UUhT5uh7SXQbhsQt", "sym": "IF", "reason": "score 0.559<0.6"}
