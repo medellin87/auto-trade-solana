@@ -17606,3 +17606,8 @@
 {"t": "2026-11-22 23:59:35 WIB", "mint": "GhEgybDFGFU4oEouFZWYSiaxsLiepSGbvR6XLJLnpump", "sym": "$BRUNO", "reason": "vol1h 32298<40k"}
 {"t": "2026-11-23 00:01:07 WIB", "mint": "8ooT17cWPRGfXr9DDPyBQHaqLz2GnAm3jkaR6MGYfz3c", "sym": "Betty", "reason": "vol1h 0<40k"}
 {"t": "2026-11-23 00:01:53 WIB", "mint": "47YCrfUmSQUF9vnPsPGSzrmTcxttdRAWejCMkhrrpump", "sym": "KYC", "reason": "vol1h 8855<40k"}
+{"t": "2026-11-23 00:01:55 WIB", "mint": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-23 00:03:26 WIB", "mint": "Hgz8vhRHf1epTfB17NPRXjhcp1RfqWRAtDvSgVRRpump", "sym": "ZKRINGS", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 00:03:28 WIB", "mint": "3b7WvfRxRaoMuq4j6JWJzrL5mym3Km3QzfX5dqCopump", "sym": "Bigfoot", "reason": "vol1h 6087<40k"}
+{"t": "2026-11-23 00:04:17 WIB", "mint": "2MdCPWNFufmJSZhajSvi1yqBFTB24GQ4ipjNcB8Vpump", "sym": "FOAM", "reason": "liq 17055<20k"}
+{"t": "2026-11-23 00:04:18 WIB", "mint": "B5PD4d1YXJXJGBQyh5b7Y4eGe6SR4gqG1JZ6hwtfpump", "sym": "TOOLS", "reason": "vol1h 25156<40k"}
