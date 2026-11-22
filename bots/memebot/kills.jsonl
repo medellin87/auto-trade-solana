@@ -18027,3 +18027,5 @@
 {"t": "2026-11-23 04:42:43 WIB", "mint": "32MHyMJFtHn8kVmruiTAuFPjgm8pBPzYBGegdyimpump", "sym": "Inumas", "reason": "liq 0<20k"}
 {"t": "2026-11-23 04:43:30 WIB", "mint": "GMGpmQBZf43nHVqaKezZKBxEFQzc5rtrMUFWuZRxpump", "sym": "LIQUID", "reason": "liq 2103<20k"}
 {"t": "2026-11-23 04:43:31 WIB", "mint": "BW2pMhQQSwGui8bW1iW1AJUUhYtEAYMDhBAkVHDmSrcX", "sym": "TARE", "reason": "vol1h 22951<40k"}
+{"t": "2026-11-23 04:45:03 WIB", "mint": "7zeVHs7n7TFQf9X86MZNzBcEEVTnyyECeNbAghL3pump", "sym": "GTGOAT", "reason": "vol1h 200<40k"}
+{"t": "2026-11-23 04:45:04 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 187<40k"}
