@@ -19843,3 +19843,6 @@
 {"t": "2026-11-24 01:55:22 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 10226<40k"}
 {"t": "2026-11-24 01:56:54 WIB", "mint": "HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump", "sym": "JENSEN", "reason": "top10 29.2%>25"}
 {"t": "2026-11-24 01:56:56 WIB", "mint": "4kFR6GDuAJRaqimh21uJhhfwPrGbFW34J6UXEWUhpump", "sym": "HUANG", "reason": "score 0.526<0.6"}
+{"t": "2026-11-24 01:58:28 WIB", "mint": "D6bNWKeGdQbNMYcM5ohjJ98ZqmphCCQfi41J4BVGpump", "sym": "CAT", "reason": "liq 0<20k"}
+{"t": "2026-11-24 01:58:30 WIB", "mint": "HQSdUqaChwhvurp9kxdFLvXARRzWKV97GAsznt7vpump", "sym": "Chip", "reason": "vol1h 248<40k"}
+{"t": "2026-11-24 02:00:01 WIB", "mint": "7WUEEa2yEa1tbfhN3nDPhfuY31ZR4xyiZLng9DMFpump", "sym": "JENSENBACK", "reason": "vol1h 11519<40k"}
