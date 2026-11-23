@@ -19102,3 +19102,6 @@
 {"t": "2026-11-23 17:08:34 WIB", "mint": "3MaVaeLjrtWKWLDASSs27sP3bgvBLYqqbzQjYnbepump", "sym": "shrex", "reason": "liq 0<20k"}
 {"t": "2026-11-23 17:09:20 WIB", "mint": "8wn4Ly4PVMeJPw3pxNxecVEZX69xjySt2RsDgyFmpump", "sym": "\u24d7", "reason": "vol1h 1120<40k"}
 {"t": "2026-11-23 17:12:24 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 5573<40k"}
+{"t": "2026-11-23 17:13:11 WIB", "mint": "3ggEYfkWC8Yzii8imDKJw2rB1FyMWgGhTr6ZDs8Tpump", "sym": "WINU", "reason": "vol1h 5<40k"}
+{"t": "2026-11-23 17:13:12 WIB", "mint": "HSCin3B2j4ZSpypVqWB2sWJffVrrJZumfRRvrNTQpump", "sym": "Shit", "reason": "liq 10111<20k"}
+{"t": "2026-11-23 17:15:29 WIB", "mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump", "sym": "NOHR", "reason": "score 0.493<0.6"}
