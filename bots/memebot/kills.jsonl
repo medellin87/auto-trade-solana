@@ -19501,3 +19501,6 @@
 {"t": "2026-11-23 22:14:44 WIB", "mint": "995VKLLQgZdAqBpcBAWFUGMEhNuivuoMAfpqVwUDpump", "sym": "KINGVIDIA", "reason": "liq 1766<20k"}
 {"t": "2026-11-23 22:14:46 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "MM", "reason": "risk:Large Amount of LP Unlocked"}
 {"t": "2026-11-23 22:14:48 WIB", "mint": "2hcF8YFZtZNozT8zZCvd9H3NYyyx4peBz8b1hS2Hpump", "sym": "Jacket", "reason": "vol1h 21311<40k"}
+{"t": "2026-11-23 22:15:34 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 14942<40k"}
+{"t": "2026-11-23 22:17:08 WIB", "mint": "6um137LYBYGmEk6iy22NxZvRVUxsgeSBLxfYJQUfpump", "sym": "HUANG", "reason": "liq 0<20k"}
+{"t": "2026-11-23 22:17:10 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 7001<40k"}

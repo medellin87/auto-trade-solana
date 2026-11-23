@@ -1,6 +1,3 @@
-{"t": "2026-11-23 22:00:24 WIB", "mint": "CJzgSZSSf2zsYfSHCQnMw8PE66KZjzgyCeM6BGeEpump", "sym": "JENSEN", "reason": "liq 0<20k"}
-{"t": "2026-11-23 22:01:11 WIB", "mint": "9scVbbC7HUwXaBmo8bnYfm2Pa5oouZpjy2NvrvwLpump", "sym": "JENSEN", "reason": "score 0.546<0.6"}
-{"t": "2026-11-23 22:01:13 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "score 0.56<0.6"}
 {"t": "2026-11-23 22:02:00 WIB", "mint": "A2jLaCC7v3VjXP8gEgCQNbTWEvizYuQ82jFEYfzipump", "sym": "Holdsgiving", "reason": "vol1h 43<40k"}
 {"t": "2026-11-23 22:02:46 WIB", "mint": "q4GNX1sK86V3GXR8r8xrfWV1JXserMD5ERz4NHbQ5gY", "sym": "Penguin", "reason": "vol1h 4755<40k"}
 {"t": "2026-11-23 22:02:48 WIB", "mint": "Czbd4FtkLf4ELCPNuawbGxcivuCpcLWFFTD4oqWkpump", "sym": "TORQUE", "reason": "vol1h 31298<40k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-23 22:14:44 WIB", "mint": "995VKLLQgZdAqBpcBAWFUGMEhNuivuoMAfpqVwUDpump", "sym": "KINGVIDIA", "reason": "liq 1766<20k"}
 {"t": "2026-11-23 22:14:46 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "MM", "reason": "risk:Large Amount of LP Unlocked"}
 {"t": "2026-11-23 22:14:48 WIB", "mint": "2hcF8YFZtZNozT8zZCvd9H3NYyyx4peBz8b1hS2Hpump", "sym": "Jacket", "reason": "vol1h 21311<40k"}
+{"t": "2026-11-23 22:15:34 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 14942<40k"}
+{"t": "2026-11-23 22:17:08 WIB", "mint": "6um137LYBYGmEk6iy22NxZvRVUxsgeSBLxfYJQUfpump", "sym": "HUANG", "reason": "liq 0<20k"}
+{"t": "2026-11-23 22:17:10 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 7001<40k"}
