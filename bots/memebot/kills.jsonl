@@ -19685,3 +19685,6 @@
 {"t": "2026-11-24 00:10:38 WIB", "mint": "8vKDFAY9iGguv64dPj85Y4aQkkszKkTB3vD9kWBXpump", "sym": "NC", "reason": "vol1h 14683<40k"}
 {"t": "2026-11-24 00:10:40 WIB", "mint": "AijP5ndF9HNdjrCXHvqGHGwqqsefST69JGM6PcbMvXYe", "sym": "BRA", "reason": "liq 0<20k"}
 {"t": "2026-11-24 00:12:12 WIB", "mint": "93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump", "sym": "PumpMeme", "reason": "score 0.539<0.6"}
+{"t": "2026-11-24 00:12:59 WIB", "mint": "4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu", "sym": "SBS", "reason": "vol1h 708<40k"}
+{"t": "2026-11-24 00:14:31 WIB", "mint": "Fe2zhsqDSLPXe1kxaw1zNMa479vZKuF1D8iZXgYopump", "sym": "Hash", "reason": "vol1h 23622<40k"}
+{"t": "2026-11-24 00:15:17 WIB", "mint": "DhLqheMQTimWUHdiQ2NR4jdLuhnrxHmFJ2ofMpdipump", "sym": "STKFST", "reason": "vol1h 11630<40k"}
