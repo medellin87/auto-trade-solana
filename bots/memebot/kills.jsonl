@@ -18323,3 +18323,9 @@
 {"t": "2026-11-23 08:06:30 WIB", "mint": "12eSnci2Ac1P1jxf8ZHQpXjVAx6FWushLLDfeGTjdoor", "sym": "RECEIPTS", "reason": "liq 17812<20k"}
 {"t": "2026-11-23 08:07:16 WIB", "mint": "8nq3Jmgd1tpbroiuVMehQyC266ZUZJU2BTad8Nigpump", "sym": "STANK", "reason": "vol1h 1847<40k"}
 {"t": "2026-11-23 08:09:33 WIB", "mint": "5eiLc9r79PkJquiFvYWdXJYtGNRjTpzot8MR7Z4Ppump", "sym": "Wojak", "reason": "vol1h 1092<40k"}
+{"t": "2026-11-23 08:11:05 WIB", "mint": "89DKn95R7QvjAcGSeqHvmj3pq7TJFbJcckURqjvuHsHp", "sym": "PRIVI", "reason": "liq 12648<20k"}
+{"t": "2026-11-23 08:11:51 WIB", "mint": "55A36YmuSSvbPkfxS33WQt4h2ydzo2WZERERK3Vfpump", "sym": "MAKE", "reason": "vol1h 11405<40k"}
+{"t": "2026-11-23 08:12:40 WIB", "mint": "7aLPouDWahHXdfjwRikuGrTtJZXEa7hL5kyPgLDVe23", "sym": "highcap", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 08:13:29 WIB", "mint": "6aiyJ9uwGYRE3tM6rk7oeqLwpdDcdtVgU7aW2mFFpump", "sym": "cCAT", "reason": "score 0.394<0.6"}
+{"t": "2026-11-23 08:13:30 WIB", "mint": "8J69rbLTzWWgUJziFY8jeu5tDwEPBwUz4pKBMr5rpump", "sym": "WOJAK", "reason": "vol1h 2029<40k"}
+{"t": "2026-11-23 08:13:32 WIB", "mint": "3kFnvwHQcdxsiDHJi5fen5Z67gv3qny8LVCmZVXJpump", "sym": "ZOL", "reason": "vol1h 14985<40k"}
