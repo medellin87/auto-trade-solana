@@ -1,8 +1,3 @@
-{"t": "2026-11-24 03:08:31 WIB", "mint": "Gb5PN7CtQ4AhmLAdnpPNTVHDZJrRmGqRsGbEEsqMpump", "sym": "psst", "reason": "liq 0<20k"}
-{"t": "2026-11-24 03:09:18 WIB", "mint": "B82PFKmT4aM38EUUqVoZs6sZdAfxDHHrB6DSXxCKpump", "sym": "WSB", "reason": "vol1h 150<40k"}
-{"t": "2026-11-24 03:09:19 WIB", "mint": "2hwErXcDcarGZbBVkNUtdFrMbqjS34Lr6s29RjSUisNS", "sym": "PIXARGATTO", "reason": "vol1h 0<40k"}
-{"t": "2026-11-24 03:10:51 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 21585<40k"}
-{"t": "2026-11-24 03:10:52 WIB", "mint": "EiQ1JvEUZCXN5kQi2UdS4CdQapidqC7MCXd5sRTPpump", "sym": "Doomcat", "reason": "vol1h 26488<40k"}
 {"t": "2026-11-24 03:11:39 WIB", "mint": "4L6qXvQ681mVU2vjXcDDU9FxiP5SmBDYMVfGHBv5pump", "sym": "NIVI", "reason": "vol1h 9276<40k"}
 {"t": "2026-11-24 03:11:41 WIB", "mint": "7ACq9bgHPCT33TWC6yaxLX5CfNQBbFachy9xKD7Spump", "sym": "$XMAS", "reason": "vol1h 678<40k"}
 {"t": "2026-11-24 03:12:27 WIB", "mint": "6jrb9NxTa7PHv6PWHaF5mo3ETgeFNJj7oLKzA4jFpump", "sym": "SANTACAT", "reason": "vol1h 4742<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-24 03:28:49 WIB", "mint": "HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump", "sym": "JENSEN", "reason": "top10 27.0%>25"}
 {"t": "2026-11-24 03:29:37 WIB", "mint": "ToDWKzWCNCECx3ukahtwUXVqFbHyKRNag7RJrDbpump", "sym": "BTC", "reason": "liq 1455<20k"}
 {"t": "2026-11-24 03:29:39 WIB", "mint": "CXF1uotUszBzAy5WTqKssVCsCN19NGSstHXsDWuALray", "sym": "OPAQ", "reason": "vol1h 28321<40k"}
+{"t": "2026-11-24 03:31:10 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1352<40k"}
+{"t": "2026-11-24 03:31:12 WIB", "mint": "Bk1kfYeoS9arD5Cq6WtNCGSHqVkk9ZhDA7kUVARSpump", "sym": "tap", "reason": "liq 7150<20k"}
+{"t": "2026-11-24 03:31:59 WIB", "mint": "7WUEEa2yEa1tbfhN3nDPhfuY31ZR4xyiZLng9DMFpump", "sym": "JENSENBACK", "reason": "vol1h 2268<40k"}
+{"t": "2026-11-24 03:32:00 WIB", "mint": "DsuztYTs2PnXRy4NrcVRzQRK1jbvvntPGSjCbdpMpump", "sym": "PEPE", "reason": "liq 10359<20k"}
+{"t": "2026-11-24 03:32:47 WIB", "mint": "HGHJCdysTaaYDJKwwQ3UmcodCw9xjpfFDvcShVVBpump", "sym": "sexcoin", "reason": "vol1h 136<40k"}
