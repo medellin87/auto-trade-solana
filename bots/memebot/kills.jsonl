@@ -18627,3 +18627,8 @@
 {"t": "2026-11-23 11:39:07 WIB", "mint": "F9vgq6YB9sKJHPNS9BLnA4yJ4hFe1zrf8jf9Y4Dapump", "sym": "Trilaygo", "reason": "liq 0<20k"}
 {"t": "2026-11-23 11:39:08 WIB", "mint": "E2Zxu2JkJjRxGhHPvNWQXxnKWVsg1d4SYKDuKRFnpump", "sym": "PAY", "reason": "vol1h 0<40k"}
 {"t": "2026-11-23 11:39:56 WIB", "mint": "84tAcSK5L9kuQEVM8C8vMHXnfdA83nGBT2nYfSbPUcAc", "sym": "Fly", "reason": "score 0.544<0.6"}
+{"t": "2026-11-23 11:40:43 WIB", "mint": "2FYs4vApfj4ErsggpFDfzMv1WvxnyiLtzNEj84mS6TLh", "sym": "hCAT", "reason": "score 0.329<0.6"}
+{"t": "2026-11-23 11:40:44 WIB", "mint": "7xvfAa92qJqMqACP1q93aDafJpbCtbAKZJnuQnuXpump", "sym": "CHICKEN", "reason": "vol1h 17660<40k"}
+{"t": "2026-11-23 11:40:46 WIB", "mint": "GeuDpZy158dZmqYDySBKrvGQwPdG8uP738Fy8XXHpump", "sym": "INDEX", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 11:41:33 WIB", "mint": "ABz86QSUSY7U9Z9xepaaGCUg4zG8bSDzfFznRMocpump", "sym": "OTR", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 11:42:19 WIB", "mint": "E2XCAc12j7Eb6NhXKYMmTcGBAryZ1WPuY1fwSbp4pump", "sym": "FOXE", "reason": "vol1h 13189<40k"}
