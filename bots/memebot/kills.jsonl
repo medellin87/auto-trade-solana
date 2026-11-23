@@ -19508,3 +19508,7 @@
 {"t": "2026-11-23 22:20:14 WIB", "mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump", "sym": "NOHR", "reason": "score 0.575<0.6"}
 {"t": "2026-11-23 22:20:15 WIB", "mint": "AZMPBC2dmnocxCeUrSUarFR5rLPNEV2vztFZJ93TDEEP", "sym": "DEEP", "reason": "vol1h 45<40k"}
 {"t": "2026-11-23 22:21:02 WIB", "mint": "9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump", "sym": "SOLBRO", "reason": "vol1h 24<40k"}
+{"t": "2026-11-23 22:21:49 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.525<0.6"}
+{"t": "2026-11-23 22:21:51 WIB", "mint": "C6YGSfH2rKdFhv1R7a1MTeK8xXawbsPxKfpzeGsdpump", "sym": "NWIDIA", "reason": "vol1h 8281<40k"}
+{"t": "2026-11-23 22:22:37 WIB", "mint": "FryQiSLqU7NfPvpQJRiYrVuvRRW66uB4FLorrKmjpump", "sym": "earball", "reason": "liq 11107<20k"}
+{"t": "2026-11-23 22:23:24 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2589<40k"}
