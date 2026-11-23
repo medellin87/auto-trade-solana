@@ -18669,3 +18669,6 @@
 {"t": "2026-11-23 12:05:05 WIB", "mint": "61yuZf1JyTKqoCfS784SusFGVekA6YUsGTfDg3o6pump", "sym": "PEACH", "reason": "liq 1445<20k"}
 {"t": "2026-11-23 12:06:39 WIB", "mint": "ConJgJsxKRE2XgW6jDQzdUTKvVymygoAJtK69AYFpump", "sym": "DPRK", "reason": "liq 0<20k"}
 {"t": "2026-11-23 12:07:26 WIB", "mint": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump", "sym": "GATO", "reason": "vol1h 1822<40k"}
+{"t": "2026-11-23 12:08:58 WIB", "mint": "6aZ8h9su1ta8bBFCJNuzQVAkcxPHEDy3nevZtgCCpump", "sym": "$TURBO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 12:09:44 WIB", "mint": "F9vgq6YB9sKJHPNS9BLnA4yJ4hFe1zrf8jf9Y4Dapump", "sym": "Trilaygo", "reason": "liq 0<20k"}
+{"t": "2026-11-23 12:10:31 WIB", "mint": "84tAcSK5L9kuQEVM8C8vMHXnfdA83nGBT2nYfSbPUcAc", "sym": "Fly", "reason": "score 0.501<0.6"}
