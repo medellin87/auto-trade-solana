@@ -19375,3 +19375,5 @@
 {"t": "2026-11-23 20:37:46 WIB", "mint": "7kctwFbSdLfpi6RuN9cjpVpYVHKPUr8PtG1meH35AEky", "sym": "AGI", "reason": "liq 10309<20k"}
 {"t": "2026-11-23 20:37:48 WIB", "mint": "4dAVohqConTz7sFPNURgQ4JiX7xCPBaSFHQkPdfNpump", "sym": "HUMAN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-23 20:38:34 WIB", "mint": "AJguyBeAqmxvtfQfreR5f9izeWhrv7d4fv6D74eYpump", "sym": "RAN", "reason": "vol1h 4751<40k"}
+{"t": "2026-11-23 20:39:23 WIB", "mint": "3ed2mfy668wn2R6NumGaUgx26Hb4KYeDi5rzTB2ypump", "sym": "CURIO", "reason": "vol1h 664<40k"}
+{"t": "2026-11-23 20:39:25 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "score 0.525<0.6"}
