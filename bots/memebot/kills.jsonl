@@ -19070,3 +19070,7 @@
 {"t": "2026-11-23 16:49:39 WIB", "mint": "FHiMLpA7qSfAa1QWT9QEAe1SondRwgpmR2skjMAfpump", "sym": "Loafing", "reason": "liq 13079<20k"}
 {"t": "2026-11-23 16:49:41 WIB", "mint": "x2gx8geqcSNvFrM4UY1h4jbWKFZ5RvVXQpJuF9ktTaW", "sym": "1984", "reason": "vol1h 2350<40k"}
 {"t": "2026-11-23 16:50:27 WIB", "mint": "A9HEXT7dAaky5TUKErNKK4f1TLauhWg3JFNXkZWTpump", "sym": "PumpGiving", "reason": "vol1h 876<40k"}
+{"t": "2026-11-23 16:52:44 WIB", "mint": "8J69rbLTzWWgUJziFY8jeu5tDwEPBwUz4pKBMr5rpump", "sym": "WOJAK", "reason": "vol1h 1235<40k"}
+{"t": "2026-11-23 16:52:45 WIB", "mint": "2DQbV7hsqxKVWmFakXGGhBbNyY28tDJ9YuJkojYrpump", "sym": "WALLSTFLY", "reason": "vol1h 7<40k"}
+{"t": "2026-11-23 16:53:33 WIB", "mint": "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump", "sym": "MINELIUS", "reason": "rugcheck data unavailable"}
+{"t": "2026-11-23 16:53:34 WIB", "mint": "3umHFkiMHyphCkLxtbf8Aabie8r5hxn86QeBAovTpump", "sym": "HUSS", "reason": "vol1h 2580<40k"}
