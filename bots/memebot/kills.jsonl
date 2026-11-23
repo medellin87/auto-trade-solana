@@ -15280,3 +15280,7 @@
 {"t": "2026-11-24 06:15:45 WIB", "mint": "GMLSyjZCKGtFwztp2mtT8PDeNUA6WEk7oQoe3QkFpump", "sym": "Phil", "reason": "liq 13720<20k"}
 {"t": "2026-11-24 06:15:47 WIB", "mint": "Az4nYa5D1jzsghV5UnPFyYteBmKsXeg21k5ufRNTSTND", "sym": "STAND", "reason": "liq 0<20k"}
 {"t": "2026-11-24 06:16:33 WIB", "mint": "4Uv7H7jY2UADoTb9W4m4ra7f8kTKoNyBRkYkmpahnAUF", "sym": "greg", "reason": "vol1h 22995<40k"}
+{"t": "2026-11-24 06:18:05 WIB", "mint": "4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu", "sym": "SBS", "reason": "vol1h 194<40k"}
+{"t": "2026-11-24 06:18:07 WIB", "mint": "AwfDQhouNUnu8WRTQcATQsn5HLW2aEF4CugZk81xpump", "sym": "SOLARSYS", "reason": "liq 9852<20k"}
+{"t": "2026-11-24 06:19:39 WIB", "mint": "7Sme8LigKwVFkoBPnjaPLeVPDFRAGjwGJ4TVptHRpump", "sym": "VEXDIAL", "reason": "vol1h 10082<40k"}
+{"t": "2026-11-24 06:19:40 WIB", "mint": "E95f6TRF7Rw2GAXuzCahrz2LEhsMzrYHcHiV3N1Ppump", "sym": "DIBS", "reason": "vol1h 18029<40k"}
