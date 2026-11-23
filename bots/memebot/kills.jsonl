@@ -19539,3 +19539,9 @@
 {"t": "2026-11-23 22:40:40 WIB", "mint": "7ciKDR6Qo3qXLQjZhW2oDuniKEhoPaMmTHMDNxyUpump", "sym": ".fun", "reason": "liq 0<20k"}
 {"t": "2026-11-23 22:41:29 WIB", "mint": "CUg54H8mxSxZVURE4bN6bUScw2NSdQhYM5MV8pQopump", "sym": "CEO", "reason": "vol1h 36565<40k"}
 {"t": "2026-11-23 22:42:15 WIB", "mint": "4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu", "sym": "SBS", "reason": "vol1h 1148<40k"}
+{"t": "2026-11-23 22:43:47 WIB", "mint": "DJVZ9hKSLsDAPjdq73nX5bYPnjvfntUN87RRxdN2pump", "sym": "JACKET", "reason": "liq 19758<20k"}
+{"t": "2026-11-23 22:43:49 WIB", "mint": "BAmpbrPDVL4ki76nhJVq8Bd18L9Q72xqf7d9L1i3FgYC", "sym": "MESA", "reason": "vol1h 123<40k"}
+{"t": "2026-11-23 22:44:35 WIB", "mint": "8WhiGDVYPMNFcnDKwjRa1oRiCTHBtPiTEd9K6mvYpump", "sym": "BSKT", "reason": "vol1h 21660<40k"}
+{"t": "2026-11-23 22:44:37 WIB", "mint": "J65BGspA6QTkJcc1rcgN4ePL1TiQExs9MFf4yeLTpump", "sym": "INUVIDIA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 22:45:24 WIB", "mint": "995VKLLQgZdAqBpcBAWFUGMEhNuivuoMAfpqVwUDpump", "sym": "KINGVIDIA", "reason": "liq 1722<20k"}
+{"t": "2026-11-23 22:45:25 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "MM", "reason": "vol1h 2460<40k"}
