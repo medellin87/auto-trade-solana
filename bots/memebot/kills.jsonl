@@ -19113,3 +19113,7 @@
 {"t": "2026-11-23 17:20:09 WIB", "mint": "FHiMLpA7qSfAa1QWT9QEAe1SondRwgpmR2skjMAfpump", "sym": "Loafing", "reason": "liq 5960<20k"}
 {"t": "2026-11-23 17:20:10 WIB", "mint": "x2gx8geqcSNvFrM4UY1h4jbWKFZ5RvVXQpJuF9ktTaW", "sym": "1984", "reason": "vol1h 1565<40k"}
 {"t": "2026-11-23 17:20:57 WIB", "mint": "A9HEXT7dAaky5TUKErNKK4f1TLauhWg3JFNXkZWTpump", "sym": "PumpGiving", "reason": "vol1h 404<40k"}
+{"t": "2026-11-23 17:23:14 WIB", "mint": "2DQbV7hsqxKVWmFakXGGhBbNyY28tDJ9YuJkojYrpump", "sym": "WALLSTFLY", "reason": "vol1h 8<40k"}
+{"t": "2026-11-23 17:24:01 WIB", "mint": "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump", "sym": "MINELIUS", "reason": "score 0.46<0.6"}
+{"t": "2026-11-23 17:24:02 WIB", "mint": "3umHFkiMHyphCkLxtbf8Aabie8r5hxn86QeBAovTpump", "sym": "HUSS", "reason": "vol1h 3087<40k"}
+{"t": "2026-11-23 17:24:49 WIB", "mint": "9AiHB952pXVrHuct9m3RKWoWv4LG52p58FYjMvUkpump", "sym": "HOLD", "reason": "liq 19610<20k"}
