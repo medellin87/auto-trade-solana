@@ -19529,3 +19529,9 @@
 {"t": "2026-11-23 22:35:53 WIB", "mint": "Ef8E4LJZtQCo82bTr2v17736ctqWa3A8PzjcxZiipump", "sym": "LCPT", "reason": "liq 0<20k"}
 {"t": "2026-11-23 22:35:54 WIB", "mint": "HqhBJYFEuXrGyWjjLFughGK4cYNm5H1hVFfvWDrRpump", "sym": "milky", "reason": "vol1h 264<40k"}
 {"t": "2026-11-23 22:35:56 WIB", "mint": "nNske7YBu4R29HcifzAmDqzgh3oetzqX3QAPSEQpump", "sym": "JACKET", "reason": "liq 19728<20k"}
+{"t": "2026-11-23 22:36:42 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 30129<40k"}
+{"t": "2026-11-23 22:37:29 WIB", "mint": "7gXsAF5qwrhLAK1SyA9b44dcGfqawhKfadRSAmqoJTcS", "sym": "JENSEN", "reason": "vol1h 1<40k"}
+{"t": "2026-11-23 22:38:16 WIB", "mint": "6jrb9NxTa7PHv6PWHaF5mo3ETgeFNJj7oLKzA4jFpump", "sym": "SANTACAT", "reason": "vol1h 30096<40k"}
+{"t": "2026-11-23 22:38:17 WIB", "mint": "43G9chsoZ9CbFNYt4tW8cLUjGUkGhNnFDkgVtL7ipump", "sym": "SPCat", "reason": "vol1h 7164<40k"}
+{"t": "2026-11-23 22:39:05 WIB", "mint": "3BcJ4SSCfbxDMrWcUDucyCWxMjmy4M2ECCtvxu86pump", "sym": "FSDV15", "reason": "score 0.579<0.6"}
+{"t": "2026-11-23 22:39:07 WIB", "mint": "CjPoozfB2Vub8pHFvdKuKUGJDLWuYC2U32yRTxMhpump", "sym": "JENSEN", "reason": "top10 30.5%>25"}
