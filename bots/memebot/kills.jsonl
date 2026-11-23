@@ -19878,3 +19878,6 @@
 {"t": "2026-11-24 02:13:35 WIB", "mint": "pHicNjX5U2Aq9E2BEnW56VLtNyv6NTXWZ485KJgDW9C", "sym": "hINU", "reason": "liq 11596<20k"}
 {"t": "2026-11-24 02:13:37 WIB", "mint": "HPrtvSXbb2cAM48kU4q7NAT75qwr1RrwzBs9UsCgpump", "sym": "BERTCOIN", "reason": "liq 0<20k"}
 {"t": "2026-11-24 02:15:09 WIB", "mint": "4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu", "sym": "SBS", "reason": "vol1h 86<40k"}
+{"t": "2026-11-24 02:15:55 WIB", "mint": "C56bqSxEDTyAgZmL9tcA6j3nYvFMP1wvyTsVghBBpump", "sym": "Lioness", "reason": "liq 0<20k"}
+{"t": "2026-11-24 02:16:42 WIB", "mint": "Az8dbnssLen5iHTfLui6QVw2wKkKx6ZY7XjL5Hzcpump", "sym": "NIVI", "reason": "vol1h 27071<40k"}
+{"t": "2026-11-24 02:17:29 WIB", "mint": "DhLqheMQTimWUHdiQ2NR4jdLuhnrxHmFJ2ofMpdipump", "sym": "STKFST", "reason": "vol1h 1777<40k"}
