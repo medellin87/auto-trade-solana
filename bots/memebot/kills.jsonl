@@ -19688,3 +19688,7 @@
 {"t": "2026-11-24 00:12:59 WIB", "mint": "4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu", "sym": "SBS", "reason": "vol1h 708<40k"}
 {"t": "2026-11-24 00:14:31 WIB", "mint": "Fe2zhsqDSLPXe1kxaw1zNMa479vZKuF1D8iZXgYopump", "sym": "Hash", "reason": "vol1h 23622<40k"}
 {"t": "2026-11-24 00:15:17 WIB", "mint": "DhLqheMQTimWUHdiQ2NR4jdLuhnrxHmFJ2ofMpdipump", "sym": "STKFST", "reason": "vol1h 11630<40k"}
+{"t": "2026-11-24 00:16:50 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "score 0.357<0.6"}
+{"t": "2026-11-24 00:17:36 WIB", "mint": "Ddnd1DGVjtE2DT3ZjDXZsNzu6oHbe3GEj5VE9x6avYsA", "sym": "TUGI", "reason": "liq 12363<20k"}
+{"t": "2026-11-24 00:17:38 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 10691<40k"}
+{"t": "2026-11-24 00:17:39 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 5355<40k"}
