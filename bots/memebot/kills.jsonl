@@ -19933,3 +19933,8 @@
 {"t": "2026-11-24 02:54:15 WIB", "mint": "Gs47zYREZtmsVmow5HFZPscCH5b8byghhQaD1qdxpump", "sym": "tur", "reason": "liq 0<20k"}
 {"t": "2026-11-24 02:55:47 WIB", "mint": "9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump", "sym": "SOLBRO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-24 02:55:48 WIB", "mint": "FKExXiBXL3K5Z1MhkVoE3hJsEJQkGp1gEc1MxUhdKCMS", "sym": "FRIES", "reason": "vol1h 405<40k"}
+{"t": "2026-11-24 02:56:35 WIB", "mint": "9Ma5dCc3q3LvrgDPnLHmqxGxzz6ekMwsyYFSu18o2DXL", "sym": "zPUSSY", "reason": "liq 0<20k"}
+{"t": "2026-11-24 02:56:37 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 10609<40k"}
+{"t": "2026-11-24 02:57:23 WIB", "mint": "7pe4uf8wyrUdajMiNGtkaQV7g3ChnnWiiF75VG1Wpump", "sym": "BRA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 02:58:10 WIB", "mint": "HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump", "sym": "JENSEN", "reason": "top10 27.7%>25"}
+{"t": "2026-11-24 02:58:59 WIB", "mint": "CXF1uotUszBzAy5WTqKssVCsCN19NGSstHXsDWuALray", "sym": "?", "reason": "no solana pair"}
