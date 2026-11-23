@@ -18984,3 +18984,6 @@
 {"t": "2026-11-23 15:47:59 WIB", "mint": "CE2Zuoxqmbz3enq5LBWbpcL5Nc7rzt8YUqK2zuMwpump", "sym": "panel", "reason": "vol1h 1209<40k"}
 {"t": "2026-11-23 15:48:01 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 143<40k"}
 {"t": "2026-11-23 15:48:02 WIB", "mint": "BJeEE9WCP1HZqT1D3heD9Do96D4dnEcNoDHspvQapump", "sym": "task", "reason": "vol1h 7506<40k"}
+{"t": "2026-11-23 15:49:34 WIB", "mint": "A9HEXT7dAaky5TUKErNKK4f1TLauhWg3JFNXkZWTpump", "sym": "PumpGiving", "reason": "liq 0<20k"}
+{"t": "2026-11-23 15:51:50 WIB", "mint": "8J69rbLTzWWgUJziFY8jeu5tDwEPBwUz4pKBMr5rpump", "sym": "WOJAK", "reason": "vol1h 24<40k"}
+{"t": "2026-11-23 15:51:52 WIB", "mint": "2DQbV7hsqxKVWmFakXGGhBbNyY28tDJ9YuJkojYrpump", "sym": "WALLSTFLY", "reason": "liq 1498<20k"}
