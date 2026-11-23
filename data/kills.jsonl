@@ -1,9 +1,3 @@
-{"t": "2026-11-23 16:29:29 WIB", "mint": "AC2S3n2SPzZ97i757ds6yfAuVoKKqzqR7dwv21BAwHDg", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-23 16:30:16 WIB", "mint": "HqhBJYFEuXrGyWjjLFughGK4cYNm5H1hVFfvWDrRpump", "sym": "milky", "reason": "vol1h 1604<40k"}
-{"t": "2026-11-23 16:31:02 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 4379<40k"}
-{"t": "2026-11-23 16:31:04 WIB", "mint": "34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump", "sym": "BIG", "reason": "vol1h 1<40k"}
-{"t": "2026-11-23 16:31:51 WIB", "mint": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump", "sym": "cateball", "reason": "vol1h 19331<40k"}
-{"t": "2026-11-23 16:33:23 WIB", "mint": "3BcJ4SSCfbxDMrWcUDucyCWxMjmy4M2ECCtvxu86pump", "sym": "FSDV15", "reason": "score 0.566<0.6"}
 {"t": "2026-11-23 16:33:24 WIB", "mint": "DAsTfxWswYnYj2e4qDxoXATZ6yhK1AnwdR9RVKwJpump", "sym": "suscat", "reason": "vol1h 0<40k"}
 {"t": "2026-11-23 16:34:56 WIB", "mint": "Cz1bmoA8PW2p8iS5ugxYzhAM1QQg6bRyNp6CmrKui2hL", "sym": "Milo", "reason": "vol1h 9406<40k"}
 {"t": "2026-11-23 16:35:43 WIB", "mint": "93uamrbDerKbUh8MSjNF1wDtxYvEUD1CS9BcHn1apump", "sym": "PumpMeme", "reason": "score 0.575<0.6"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-23 16:52:45 WIB", "mint": "2DQbV7hsqxKVWmFakXGGhBbNyY28tDJ9YuJkojYrpump", "sym": "WALLSTFLY", "reason": "vol1h 7<40k"}
 {"t": "2026-11-23 16:53:33 WIB", "mint": "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump", "sym": "MINELIUS", "reason": "rugcheck data unavailable"}
 {"t": "2026-11-23 16:53:34 WIB", "mint": "3umHFkiMHyphCkLxtbf8Aabie8r5hxn86QeBAovTpump", "sym": "HUSS", "reason": "vol1h 2580<40k"}
+{"t": "2026-11-23 16:54:21 WIB", "mint": "9AiHB952pXVrHuct9m3RKWoWv4LG52p58FYjMvUkpump", "sym": "HOLD", "reason": "vol1h 34163<40k"}
+{"t": "2026-11-23 16:54:22 WIB", "mint": "DQMN4tYYwajKebQ6EKCWJpjhiN9Uby6wXF6vyMDkpump", "sym": "MEO", "reason": "vol1h 37871<40k"}
+{"t": "2026-11-23 16:54:24 WIB", "mint": "E2hYmgX5hst6V1KmGBtz46gQ33UtUarmiEMc6QRCpump", "sym": "Trench", "reason": "liq 0<20k"}
+{"t": "2026-11-23 16:55:10 WIB", "mint": "GsmBPpmc1C42uu22iKqUPqdUTmHzPbsWzNU93thwpump", "sym": "Huang", "reason": "vol1h 0<40k"}
+{"t": "2026-11-23 16:55:12 WIB", "mint": "FQMPPXWqSbBtcssZBaUSJRAsJX6M7ghmHv34LQ3Vpump", "sym": "Flywheel", "reason": "vol1h 205<40k"}
+{"t": "2026-11-23 16:55:58 WIB", "mint": "6RE3WnDYmkKquontjFXD2me6vuqjan45EHVCtL3kpump", "sym": "MIKEDYSON", "reason": "vol1h 93<40k"}
