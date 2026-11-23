@@ -19336,3 +19336,5 @@
 {"t": "2026-11-23 20:07:19 WIB", "mint": "7kctwFbSdLfpi6RuN9cjpVpYVHKPUr8PtG1meH35AEky", "sym": "AGI", "reason": "liq 0<20k"}
 {"t": "2026-11-23 20:07:21 WIB", "mint": "4dAVohqConTz7sFPNURgQ4JiX7xCPBaSFHQkPdfNpump", "sym": "HUMAN", "reason": "liq 1481<20k"}
 {"t": "2026-11-23 20:08:07 WIB", "mint": "AJguyBeAqmxvtfQfreR5f9izeWhrv7d4fv6D74eYpump", "sym": "RAN", "reason": "vol1h 8201<40k"}
+{"t": "2026-11-23 20:08:56 WIB", "mint": "3ed2mfy668wn2R6NumGaUgx26Hb4KYeDi5rzTB2ypump", "sym": "CURIO", "reason": "vol1h 1424<40k"}
+{"t": "2026-11-23 20:08:57 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 18561<40k"}
