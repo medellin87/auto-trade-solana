@@ -1,8 +1,3 @@
-{"t": "2026-11-24 03:35:15 WIB", "mint": "FQh5bmwPqAV5ZhrDhNay8uwXcod36yo2tTLivfbApump", "sym": "BTC", "reason": "liq 0<20k"}
-{"t": "2026-11-24 03:35:16 WIB", "mint": "3umHFkiMHyphCkLxtbf8Aabie8r5hxn86QeBAovTpump", "sym": "HUSS", "reason": "vol1h 3629<40k"}
-{"t": "2026-11-24 03:36:03 WIB", "mint": "26P9wkcmvvkDQT9zkQ5v9KxNpornnZcF2muwjuf3pump", "sym": "pepe", "reason": "vol1h 2123<40k"}
-{"t": "2026-11-24 03:36:04 WIB", "mint": "8nq3Jmgd1tpbroiuVMehQyC266ZUZJU2BTad8Nigpump", "sym": "STANK", "reason": "vol1h 1807<40k"}
-{"t": "2026-11-24 03:36:06 WIB", "mint": "HELioDordz3CPpi7zdM5xLioKdw4BaZnppJbWGDWRbvK", "sym": "heliodor", "reason": "vol1h 0<40k"}
 {"t": "2026-11-24 03:36:53 WIB", "mint": "CiZbjDmkr4Q9EwoTAjPfj7hYRqTrReqFG9shqMeFpump", "sym": "Dogbert ", "reason": "vol1h 331<40k"}
 {"t": "2026-11-24 03:36:54 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "vol1h 4564<40k"}
 {"t": "2026-11-24 03:38:26 WIB", "mint": "ELb8ujvhCimMkadiC8Zib987oFUCEgNt3EsKgcLTpump", "sym": "trenchy-bot", "reason": "vol1h 103<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-24 03:51:01 WIB", "mint": "6QNxWALwXWdCtbBHFQthmzrz5zZnYBsPo4YS5SVCpump", "sym": "Misif\u00fa", "reason": "vol1h 8610<40k"}
 {"t": "2026-11-24 03:51:48 WIB", "mint": "GejbZVwcf9yAKeUzBcJYzDUuZN3WRtdV5aTW5BZzpump", "sym": "NIVI", "reason": "liq 1390<20k"}
 {"t": "2026-11-24 03:51:49 WIB", "mint": "2rLApcMZYTpPib7gi3manuL9oEpHbuBm5GDdmVeCpump", "sym": "ZOLNET", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 03:52:36 WIB", "mint": "FaYCmGHKMdk6i5boMozr81kr658sUJHnzedzaMPjpump", "sym": "FIRM", "reason": "vol1h 26841<40k"}
+{"t": "2026-11-24 03:54:08 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 756<40k"}
+{"t": "2026-11-24 03:54:09 WIB", "mint": "nVs4Ec4nCVdCQk1xKSZ8YWMUYDUAfCdZkNRPM6fTsNH", "sym": "CHARLESTONAI", "reason": "vol1h 20511<40k"}
+{"t": "2026-11-24 03:54:56 WIB", "mint": "Gs47zYREZtmsVmow5HFZPscCH5b8byghhQaD1qdxpump", "sym": "tur", "reason": "vol1h 5558<40k"}
+{"t": "2026-11-24 03:54:58 WIB", "mint": "4fvx4so9U7fT7bS6sdmkC2GzVaq4gdTAjdEW27SJpump", "sym": "WhalesMas", "reason": "vol1h 7900<40k"}
