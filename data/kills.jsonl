@@ -1,4 +1,3 @@
-{"t": "2026-11-25 01:34:14 WIB", "mint": "DQcz9eLREX92gVkAyTswyYfpUUQ73AgsgXwV4c7K4bQS", "sym": "wif", "reason": "vol1h 0<40k"}
 {"t": "2026-11-25 01:36:31 WIB", "mint": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump", "sym": "NOHR", "reason": "vol1h 4529<40k"}
 {"t": "2026-11-25 01:37:18 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 3509<40k"}
 {"t": "2026-11-25 01:37:19 WIB", "mint": "5St93zSNQvWxK22Cj5mJBXcjUNNB452h5uNmrttSpump", "sym": "POPSTAR", "reason": "vol1h 0<40k"}
@@ -28,3 +27,4 @@
 {"t": "2026-11-25 01:51:30 WIB", "mint": "EgzwjmwXJ3P2rp1WrcgpST57A8cmui96DyKaDb7Xpump", "sym": "SESAME", "reason": "liq 0<20k"}
 {"t": "2026-11-25 01:51:31 WIB", "mint": "ANvsL4A6tJKAXJsPg7XVSHQA7KYmFcpW42jPuhVtpump", "sym": "Slingoor", "reason": "liq 16256<20k"}
 {"t": "2026-11-25 01:52:18 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 2048<40k"}
+{"t": "2026-11-25 01:52:20 WIB", "mint": "6GLetugFEmy7P7SmLtg3zyZdz6rWCQ8gHPbPYZs9pump", "sym": "Slingoor", "reason": "top10 26.0%>25"}

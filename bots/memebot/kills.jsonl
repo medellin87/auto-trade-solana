@@ -16901,3 +16901,4 @@
 {"t": "2026-11-25 01:51:30 WIB", "mint": "EgzwjmwXJ3P2rp1WrcgpST57A8cmui96DyKaDb7Xpump", "sym": "SESAME", "reason": "liq 0<20k"}
 {"t": "2026-11-25 01:51:31 WIB", "mint": "ANvsL4A6tJKAXJsPg7XVSHQA7KYmFcpW42jPuhVtpump", "sym": "Slingoor", "reason": "liq 16256<20k"}
 {"t": "2026-11-25 01:52:18 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 2048<40k"}
+{"t": "2026-11-25 01:52:20 WIB", "mint": "6GLetugFEmy7P7SmLtg3zyZdz6rWCQ8gHPbPYZs9pump", "sym": "Slingoor", "reason": "top10 26.0%>25"}
