@@ -1,8 +1,3 @@
-{"t": "2026-11-24 10:19:40 WIB", "mint": "D67RnEuhQut5PSkiyAvu8NFQZzFmSNjBQaiHRKnppump", "sym": "TIMOTHY", "reason": "vol1h 7402<40k"}
-{"t": "2026-11-24 10:20:27 WIB", "mint": "2TxPh38YzN1Hn9F2vigaKDyPrcMJmt5aFMyvxTYFUF2u", "sym": "JORHUANG", "reason": "vol1h 0<40k"}
-{"t": "2026-11-24 10:20:28 WIB", "mint": "7wknwoAiitNduRmLWoRrr4k4ftirjBXbuVE5ei7Bpump", "sym": "DMIND", "reason": "vol1h 2050<40k"}
-{"t": "2026-11-24 10:22:00 WIB", "mint": "gzYHA8qjtFd76w58fEyn7knMdhedzdQuzmmAruwpump", "sym": "STACK", "reason": "liq 15319<20k"}
-{"t": "2026-11-24 10:22:46 WIB", "mint": "3mEP7FrY1uxTS5ysSAdEEkMxc2eGMCjE4wMWdQQLvdaK", "sym": "CHIBI", "reason": "liq 0<20k"}
 {"t": "2026-11-24 10:23:33 WIB", "mint": "4R5rnh1KFL33ZnDoADAdLMXgQbKQm2X9R7rZT1Kcpump", "sym": "GTS1", "reason": "vol1h 39277<40k"}
 {"t": "2026-11-24 10:23:35 WIB", "mint": "EugsQhveCEQGoapBEUrMQxJxWNdshJrSmaLtN4ArRMM1", "sym": "Mikan", "reason": "vol1h 19332<40k"}
 {"t": "2026-11-24 10:24:21 WIB", "mint": "4n7rKycAxGqtifiaKm9A3vhPJKkpvSiUDM3ZjGPopump", "sym": "catalyst", "reason": "liq 0<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-24 10:40:42 WIB", "mint": "MAXXib7SQAQn4ymrwhhR9qMRUcYv8BNhbQxizJn5CCk", "sym": "Maxxmas", "reason": "vol1h 531<40k"}
 {"t": "2026-11-24 10:41:29 WIB", "mint": "3umHFkiMHyphCkLxtbf8Aabie8r5hxn86QeBAovTpump", "sym": "HUSS", "reason": "vol1h 6393<40k"}
 {"t": "2026-11-24 10:41:30 WIB", "mint": "4yuKoVGh8jTpzJxuwVJQbvonBoybxcY3gD4fXrihpump", "sym": "GOAT", "reason": "vol1h 5<40k"}
+{"t": "2026-11-24 10:42:17 WIB", "mint": "8nq3Jmgd1tpbroiuVMehQyC266ZUZJU2BTad8Nigpump", "sym": "STANK", "reason": "vol1h 1063<40k"}
+{"t": "2026-11-24 10:43:48 WIB", "mint": "7B72JE9fgEiwGfpj3BuAMCC8NhtuyFbi7d9E8mWWpump", "sym": "GOOBIE", "reason": "liq 10041<20k"}
+{"t": "2026-11-24 10:43:50 WIB", "mint": "Gq2AuvpacDeruqVRCqyZqZJJbDgYDXYDGxWQgWXhpump", "sym": "Flatulence", "reason": "score 0.551<0.6"}
+{"t": "2026-11-24 10:43:52 WIB", "mint": "4ZgqnNi53sRKKegFpYefFjsFE6zQ3T64Xkavcoh7pump", "sym": "CHIBI", "reason": "score 0.404<0.6"}
+{"t": "2026-11-24 10:44:39 WIB", "mint": "3reEjCbDFht7LnNdKncQ3vohYDbAMJWXkbzWLSNhpump", "sym": "FATU", "reason": "liq 16398<20k"}
