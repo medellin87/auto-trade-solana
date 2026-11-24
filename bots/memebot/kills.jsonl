@@ -15886,3 +15886,5 @@
 {"t": "2026-11-24 13:00:45 WIB", "mint": "CmjYpgu6rSqRYLBubMAoNstTgU918rFfQs3UoGk5pump", "sym": "Europa", "reason": "liq 0<20k"}
 {"t": "2026-11-24 13:00:47 WIB", "mint": "5j9iYrc1aVSpaaYKP1pfDyaJ6CTU5fmc83ckSYWPpump", "sym": "Europa", "reason": "vol1h 29051<40k"}
 {"t": "2026-11-24 13:03:04 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 88<40k"}
+{"t": "2026-11-24 13:03:50 WIB", "mint": "4fvx4so9U7fT7bS6sdmkC2GzVaq4gdTAjdEW27SJpump", "sym": "WhalesMas", "reason": "vol1h 664<40k"}
+{"t": "2026-11-24 13:03:52 WIB", "mint": "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump", "sym": "UCASH", "reason": "score 0.469<0.6"}
