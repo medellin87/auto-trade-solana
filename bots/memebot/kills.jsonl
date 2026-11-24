@@ -15713,3 +15713,8 @@
 {"t": "2026-11-24 11:02:00 WIB", "mint": "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump", "sym": "UCASH", "reason": "score 0.593<0.6"}
 {"t": "2026-11-24 11:05:47 WIB", "mint": "6kdrep4bs5HjY7uGQ4cSnNAdAxspTBivQVm2ZueZpump", "sym": "NAJIN", "reason": "liq 0<20k"}
 {"t": "2026-11-24 11:05:48 WIB", "mint": "HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump", "sym": "JENSEN", "reason": "top10 25.6%>25"}
+{"t": "2026-11-24 11:06:35 WIB", "mint": "57HARmTz2B7XbovZNRqdC1V2MSLMDBsfnPGUBtQc1oak", "sym": "CLOAK", "reason": "vol1h 265<40k"}
+{"t": "2026-11-24 11:07:22 WIB", "mint": "EXGpusNEBYFFyDCTdDmCp6VJjE4b1LFcU7MymSv6pump", "sym": "BABYPUMP", "reason": "vol1h 31<40k"}
+{"t": "2026-11-24 11:08:08 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 294<40k"}
+{"t": "2026-11-24 11:08:10 WIB", "mint": "315SYL4SHt97oKWBTeBbH74cE62ZEn8bw1FjkKaBRs4m", "sym": "WASB", "reason": "vol1h 274<40k"}
+{"t": "2026-11-24 11:08:56 WIB", "mint": "7WUEEa2yEa1tbfhN3nDPhfuY31ZR4xyiZLng9DMFpump", "sym": "JENSENBACK", "reason": "vol1h 73<40k"}
