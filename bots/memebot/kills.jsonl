@@ -16714,3 +16714,7 @@
 {"t": "2026-11-24 23:53:35 WIB", "mint": "DiaLLB3UDAH7M3qEgCkAzSMc1k5Gt8ccPTYVLoErnqRZ", "sym": "DIALED", "reason": "liq 0<20k"}
 {"t": "2026-11-24 23:54:22 WIB", "mint": "2M3CsCP97Le187KQC5jhZG3c6bFzCZ51NP8bscrupump", "sym": "Wanted", "reason": "top10 25.3%>25"}
 {"t": "2026-11-24 23:54:24 WIB", "mint": "ArTHx2XxPadBjkJw9WacfwPTEoaeG5jMakX26tzEpump", "sym": "WORTHLESS", "reason": "liq 10222<20k"}
+{"t": "2026-11-24 23:55:10 WIB", "mint": "33xKs5zTHW4pppqvUKjvHuC8cHjSUb1JzVbzxYFHpump", "sym": "Valueless", "reason": "vol1h 1<40k"}
+{"t": "2026-11-24 23:55:57 WIB", "mint": "AmUp9MSpJoBRywE2kkbWHKFSkQ8JaXQToLpdvV1ipump", "sym": "MANDY", "reason": "vol1h 27779<40k"}
+{"t": "2026-11-24 23:56:43 WIB", "mint": "6sbUBNuXyVQVHsoaUGYAiL3Pyntpyjm3yHZP1YfHYMzH", "sym": "wif", "reason": "liq 12308<20k"}
+{"t": "2026-11-24 23:57:30 WIB", "mint": "GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump", "sym": "JENSEN", "reason": "vol1h 15<40k"}
