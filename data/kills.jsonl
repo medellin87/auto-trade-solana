@@ -1,7 +1,3 @@
-{"t": "2026-11-24 17:53:48 WIB", "mint": "GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump", "sym": "JENSEN", "reason": "vol1h 1<40k"}
-{"t": "2026-11-24 17:55:19 WIB", "mint": "H5PF6hXxBwNzhWpgZx2y8YcG47naV5vHVS8gLnbUpump", "sym": "4CHAN", "reason": "vol1h 80<40k"}
-{"t": "2026-11-24 17:55:22 WIB", "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "sym": "DONJENSEN", "reason": "score 0.389<0.6"}
-{"t": "2026-11-24 17:56:08 WIB", "mint": "4VXzZBmMgzaxmfaFbadhZU4zvNF3L3eAXVpRdZ64pump", "sym": "SOLA", "reason": "vol1h 17<40k"}
 {"t": "2026-11-24 17:56:10 WIB", "mint": "5JWeGmA9z6yHd5F9P6B23A8wthho8BpZuDmQv5DfLoat", "sym": "Scamsem", "reason": "score 0.596<0.6"}
 {"t": "2026-11-24 17:56:57 WIB", "mint": "9cDnmLRDWeJzcpyw8tSFAT7HS4Aunx6MmZWjMfrzpump", "sym": "RUGSEM", "reason": "liq 10608<20k"}
 {"t": "2026-11-24 17:57:43 WIB", "mint": "2d1rMKdT4dH4beVbtqUp6PxsoLVdY83JN5UYpionpump", "sym": "eCAT", "reason": "vol1h 0<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-24 18:15:33 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 565<40k"}
 {"t": "2026-11-24 18:16:20 WIB", "mint": "GHWEB3FsfqDbNBt9QxVU7kXkUh1cX7kFk5NVDkgApump", "sym": "SCINU", "reason": "vol1h 17169<40k"}
 {"t": "2026-11-24 18:16:22 WIB", "mint": "91pHdwzELA8e6ZhLgX7Bbxy8ocqTaixRriyoa3DXpump", "sym": "CPR", "reason": "vol1h 39<40k"}
+{"t": "2026-11-24 18:19:24 WIB", "mint": "CALLY1eAdyfn33E6g3dBhdT7MUBEckLCMdNBX3QvMAPS", "sym": "callmaps", "reason": "vol1h 15868<40k"}
+{"t": "2026-11-24 18:20:10 WIB", "mint": "8hm69JeiHeJcHQhoPDZcRv6h9dVhQFnLdiFT39Wspump", "sym": "Bull", "reason": "vol1h 307<40k"}
+{"t": "2026-11-24 18:20:12 WIB", "mint": "GbppuBLBwNeRdqxeNHZW1iuf6ZJHn8EH1ZxXqWa8pump", "sym": "MONETA", "reason": "vol1h 2222<40k"}
+{"t": "2026-11-24 18:20:58 WIB", "mint": "DXkCsXhXeh2xTfQ8Um8dicQcwseTfuHvDwriTcJLpump", "sym": "Satoshi", "reason": "vol1h 6241<40k"}
