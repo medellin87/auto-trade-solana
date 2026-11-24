@@ -15875,3 +15875,7 @@
 {"t": "2026-11-24 12:52:11 WIB", "mint": "9SzSjbqTRb8f6vVeL5tUBwpppJFwLf1BfYkUwFeEpump", "sym": "SUMMITPRO", "reason": "liq 1756<20k"}
 {"t": "2026-11-24 12:53:43 WIB", "mint": "8T3FnLVt2fxYyVMb77K1TVNShjRboorGBw7e7NNupump", "sym": "UNDERDOG", "reason": "liq 0<20k"}
 {"t": "2026-11-24 12:54:29 WIB", "mint": "5KDyvAjSU8HWofZfVnpkdY2N4UM1R2jxUkLupYmgpump", "sym": "ORBLUX", "reason": "liq 17328<20k"}
+{"t": "2026-11-24 12:55:16 WIB", "mint": "3mEP7FrY1uxTS5ysSAdEEkMxc2eGMCjE4wMWdQQLvdaK", "sym": "CHIBI", "reason": "vol1h 49<40k"}
+{"t": "2026-11-24 12:55:18 WIB", "mint": "8ijfaD31UNbhtucEXMjZu5vsdG7DSSEQYDZJQDGNpump", "sym": "BTCow", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 12:56:04 WIB", "mint": "EugsQhveCEQGoapBEUrMQxJxWNdshJrSmaLtN4ArRMM1", "sym": "Mikan", "reason": "vol1h 1048<40k"}
+{"t": "2026-11-24 12:56:51 WIB", "mint": "4n7rKycAxGqtifiaKm9A3vhPJKkpvSiUDM3ZjGPopump", "sym": "catalyst", "reason": "vol1h 1<40k"}
