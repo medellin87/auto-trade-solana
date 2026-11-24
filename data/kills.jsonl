@@ -1,9 +1,3 @@
-{"t": "2026-11-24 23:53:35 WIB", "mint": "DiaLLB3UDAH7M3qEgCkAzSMc1k5Gt8ccPTYVLoErnqRZ", "sym": "DIALED", "reason": "liq 0<20k"}
-{"t": "2026-11-24 23:54:22 WIB", "mint": "2M3CsCP97Le187KQC5jhZG3c6bFzCZ51NP8bscrupump", "sym": "Wanted", "reason": "top10 25.3%>25"}
-{"t": "2026-11-24 23:54:24 WIB", "mint": "ArTHx2XxPadBjkJw9WacfwPTEoaeG5jMakX26tzEpump", "sym": "WORTHLESS", "reason": "liq 10222<20k"}
-{"t": "2026-11-24 23:55:10 WIB", "mint": "33xKs5zTHW4pppqvUKjvHuC8cHjSUb1JzVbzxYFHpump", "sym": "Valueless", "reason": "vol1h 1<40k"}
-{"t": "2026-11-24 23:55:57 WIB", "mint": "AmUp9MSpJoBRywE2kkbWHKFSkQ8JaXQToLpdvV1ipump", "sym": "MANDY", "reason": "vol1h 27779<40k"}
-{"t": "2026-11-24 23:56:43 WIB", "mint": "6sbUBNuXyVQVHsoaUGYAiL3Pyntpyjm3yHZP1YfHYMzH", "sym": "wif", "reason": "liq 12308<20k"}
 {"t": "2026-11-24 23:57:30 WIB", "mint": "GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump", "sym": "JENSEN", "reason": "vol1h 15<40k"}
 {"t": "2026-11-24 23:59:02 WIB", "mint": "G9mReuKyjGvb6Y3eVhHBcAhwHQPAcVYXMHmVjAQkpump", "sym": "MakeCrypto", "reason": "vol1h 18121<40k"}
 {"t": "2026-11-24 23:59:04 WIB", "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "sym": "DONJENSEN", "reason": "score 0.513<0.6"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-25 00:12:20 WIB", "mint": "DerEwFpXm6J39QCB3312fQ3b6fE3PDCWpnnEV5dwpump", "sym": "chuchu", "reason": "vol1h 995<40k"}
 {"t": "2026-11-25 00:12:21 WIB", "mint": "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump", "sym": "UCASH", "reason": "vol1h 80<40k"}
 {"t": "2026-11-25 00:13:08 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 6918<40k"}
+{"t": "2026-11-25 00:13:55 WIB", "mint": "4pf9HEnkdN3ihjVbfZg2NwbZkCJyUk4na44oysuWpump", "sym": "scamsem", "reason": "vol1h 1219<40k"}
+{"t": "2026-11-25 00:13:56 WIB", "mint": "7Kn92xBncvzp8FUrmZKFnEDd7wS3iLAugr5A8vWBpump", "sym": "P", "reason": "vol1h 27600<40k"}
+{"t": "2026-11-25 00:13:58 WIB", "mint": "FzjDzFNwCHW9nnQymbfqYpxVYGCeBdo91ra7UcEXpump", "sym": "RWASH", "reason": "vol1h 6111<40k"}
+{"t": "2026-11-25 00:14:44 WIB", "mint": "6nQCcuXypcAjncXK7gzvJcdwvqitgJRdG3k1no4Jpump", "sym": "CHUCHU", "reason": "vol1h 8806<40k"}
+{"t": "2026-11-25 00:15:31 WIB", "mint": "HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump", "sym": "JENSEN", "reason": "vol1h 23878<40k"}
+{"t": "2026-11-25 00:16:18 WIB", "mint": "CAmAVvh3QxsXLuhU6KUYC3cVsN5rqCsxB5CT7LtZrket", "sym": "CAMKT", "reason": "vol1h 18047<40k"}
