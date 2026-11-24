@@ -17022,3 +17022,7 @@
 {"t": "2026-11-25 03:09:53 WIB", "mint": "5KXKkamdMBeypb5BUqDaP3AQ7HEQ4LWRiDFSeH78pump", "sym": "Jack", "reason": "liq 0<20k"}
 {"t": "2026-11-25 03:10:40 WIB", "mint": "38RQ96p1g4BsVrExKmu5fFoCZRWWyS1HXLAtDwg3pump", "sym": "Spark", "reason": "vol1h 18040<40k"}
 {"t": "2026-11-25 03:12:11 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 8156<40k"}
+{"t": "2026-11-25 03:12:58 WIB", "mint": "ErSUCQz65MA3mPyzmJ82s4RR7uN6vQmVJnYuofDbpump", "sym": "M1S", "reason": "vol1h 1<40k"}
+{"t": "2026-11-25 03:13:00 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1255<40k"}
+{"t": "2026-11-25 03:13:01 WIB", "mint": "GzDqH7FnMqtuMupdc2ZQF6KX2yk9A4CbUBzs2Kaspump", "sym": "PumpBull", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-25 03:14:33 WIB", "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump", "sym": "xmascoin", "reason": "vol1h 2239<40k"}
