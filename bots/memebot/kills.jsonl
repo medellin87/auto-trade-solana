@@ -16175,3 +16175,7 @@
 {"t": "2026-11-24 16:49:15 WIB", "mint": "GbppuBLBwNeRdqxeNHZW1iuf6ZJHn8EH1ZxXqWa8pump", "sym": "MONETA", "reason": "vol1h 31233<40k"}
 {"t": "2026-11-24 16:50:02 WIB", "mint": "DXkCsXhXeh2xTfQ8Um8dicQcwseTfuHvDwriTcJLpump", "sym": "Satoshi", "reason": "liq 7827<20k"}
 {"t": "2026-11-24 16:50:03 WIB", "mint": "HADu1KBKhLhzmqyrdbF96F73XP892DTq3MC2dztApump", "sym": "ACHI", "reason": "vol1h 3<40k"}
+{"t": "2026-11-24 16:53:05 WIB", "mint": "GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump", "sym": "JENSEN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 16:53:52 WIB", "mint": "7ACq9bgHPCT33TWC6yaxLX5CfNQBbFachy9xKD7Spump", "sym": "$XMAS", "reason": "vol1h 1403<40k"}
+{"t": "2026-11-24 16:54:38 WIB", "mint": "H5PF6hXxBwNzhWpgZx2y8YcG47naV5vHVS8gLnbUpump", "sym": "4CHAN", "reason": "vol1h 6240<40k"}
+{"t": "2026-11-24 16:54:41 WIB", "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "sym": "DONJENSEN", "reason": "score 0.364<0.6"}
