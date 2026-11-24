@@ -16757,3 +16757,5 @@
 {"t": "2026-11-25 00:21:01 WIB", "mint": "GHWEB3FsfqDbNBt9QxVU7kXkUh1cX7kFk5NVDkgApump", "sym": "SCINU", "reason": "vol1h 645<40k"}
 {"t": "2026-11-25 00:21:02 WIB", "mint": "FFXtjuyoeMhKT8yCpXdDwee9yftW9u71zggWxQgBpump", "sym": "LFG", "reason": "vol1h 19744<40k"}
 {"t": "2026-11-25 00:21:49 WIB", "mint": "EafxhJfvmkfZ6W6BKE6CoahSz7hQzgchRp1jZ3Zrpump", "sym": "MECH", "reason": "vol1h 8501<40k"}
+{"t": "2026-11-25 00:24:06 WIB", "mint": "DiaLLB3UDAH7M3qEgCkAzSMc1k5Gt8ccPTYVLoErnqRZ", "sym": "DIALED", "reason": "liq 0<20k"}
+{"t": "2026-11-25 00:24:52 WIB", "mint": "8AkB2jWAc59Hvo5F861rvVp6WxypVtaf9yj9qpDtpump", "sym": "pill", "reason": "vol1h 39948<40k"}
