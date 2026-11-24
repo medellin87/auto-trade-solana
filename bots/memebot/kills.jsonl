@@ -17286,3 +17286,7 @@
 {"t": "2026-11-25 05:46:17 WIB", "mint": "ErSUCQz65MA3mPyzmJ82s4RR7uN6vQmVJnYuofDbpump", "sym": "M1S", "reason": "vol1h 167<40k"}
 {"t": "2026-11-25 05:46:19 WIB", "mint": "GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump", "sym": "JENSEN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-25 05:46:20 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 505<40k"}
+{"t": "2026-11-25 05:47:52 WIB", "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump", "sym": "xmascoin", "reason": "vol1h 1750<40k"}
+{"t": "2026-11-25 05:48:39 WIB", "mint": "w4Lvmpe5Cpi3n7bwpTCQRTgKT74YFVyRqBVxXnCZBLK", "sym": "BLOCK", "reason": "liq 0<20k"}
+{"t": "2026-11-25 05:49:25 WIB", "mint": "CR4Tks2HjJkKVQQVDmKU41qW7iEaEBh1RRExdTRMpump", "sym": "JOEY", "reason": "liq 13433<20k"}
+{"t": "2026-11-25 05:49:27 WIB", "mint": "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump", "sym": "Noiz ", "reason": "vol1h 0<40k"}
