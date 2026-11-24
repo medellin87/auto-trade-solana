@@ -1,8 +1,3 @@
-{"t": "2026-11-24 23:23:06 WIB", "mint": "DiaLLB3UDAH7M3qEgCkAzSMc1k5Gt8ccPTYVLoErnqRZ", "sym": "DIALED", "reason": "liq 0<20k"}
-{"t": "2026-11-24 23:23:08 WIB", "mint": "fiixPXZmvzFefzHmCXQG9jri2JyH8ichA3tgWENpump", "sym": "SCAMSEM", "reason": "vol1h 11340<40k"}
-{"t": "2026-11-24 23:23:55 WIB", "mint": "2M3CsCP97Le187KQC5jhZG3c6bFzCZ51NP8bscrupump", "sym": "Wanted", "reason": "top10 39.1%>25"}
-{"t": "2026-11-24 23:23:56 WIB", "mint": "ArTHx2XxPadBjkJw9WacfwPTEoaeG5jMakX26tzEpump", "sym": "WORTHLESS", "reason": "liq 19365<20k"}
-{"t": "2026-11-24 23:24:43 WIB", "mint": "33xKs5zTHW4pppqvUKjvHuC8cHjSUb1JzVbzxYFHpump", "sym": "Valueless", "reason": "liq 1264<20k"}
 {"t": "2026-11-24 23:26:15 WIB", "mint": "6sbUBNuXyVQVHsoaUGYAiL3Pyntpyjm3yHZP1YfHYMzH", "sym": "wif", "reason": "liq 15317<20k"}
 {"t": "2026-11-24 23:27:02 WIB", "mint": "GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump", "sym": "JENSEN", "reason": "vol1h 15<40k"}
 {"t": "2026-11-24 23:27:03 WIB", "mint": "3QUrDTez1H6UyhLS5tMHBZgS79j9fJvwm7EPG2Fbpump", "sym": "Munch", "reason": "vol1h 4906<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-24 23:41:07 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 49<40k"}
 {"t": "2026-11-24 23:41:53 WIB", "mint": "DerEwFpXm6J39QCB3312fQ3b6fE3PDCWpnnEV5dwpump", "sym": "chuchu", "reason": "vol1h 1003<40k"}
 {"t": "2026-11-24 23:41:55 WIB", "mint": "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump", "sym": "UCASH", "reason": "vol1h 62<40k"}
+{"t": "2026-11-24 23:42:41 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 3056<40k"}
+{"t": "2026-11-24 23:43:28 WIB", "mint": "4pf9HEnkdN3ihjVbfZg2NwbZkCJyUk4na44oysuWpump", "sym": "scamsem", "reason": "vol1h 2094<40k"}
+{"t": "2026-11-24 23:43:30 WIB", "mint": "FzjDzFNwCHW9nnQymbfqYpxVYGCeBdo91ra7UcEXpump", "sym": "RWASH", "reason": "vol1h 16818<40k"}
+{"t": "2026-11-24 23:44:16 WIB", "mint": "6nQCcuXypcAjncXK7gzvJcdwvqitgJRdG3k1no4Jpump", "sym": "CHUCHU", "reason": "vol1h 19336<40k"}
+{"t": "2026-11-24 23:45:03 WIB", "mint": "HKiMA2mKQHU2cjfZ4Kbmru5GBGCauSNqPtpu8cfmpump", "sym": "JENSEN", "reason": "vol1h 19638<40k"}
