@@ -1,8 +1,3 @@
-{"t": "2026-11-24 22:26:09 WIB", "mint": "GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump", "sym": "JENSEN", "reason": "vol1h 0<40k"}
-{"t": "2026-11-24 22:26:10 WIB", "mint": "3QUrDTez1H6UyhLS5tMHBZgS79j9fJvwm7EPG2Fbpump", "sym": "Munch", "reason": "liq 0<20k"}
-{"t": "2026-11-24 22:27:42 WIB", "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "sym": "DONJENSEN", "reason": "score 0.591<0.6"}
-{"t": "2026-11-24 22:28:29 WIB", "mint": "GRVQD8EA6gUwovaHFdG2Gss7UeiNyPXE868GnKAtpump", "sym": "OATH", "reason": "vol1h 35988<40k"}
-{"t": "2026-11-24 22:28:31 WIB", "mint": "GtDfJKk62DKwdBmmHh7s3fMmzvwirdgjtLg2PVHq43bt", "sym": "SIMPS", "reason": "vol1h 224<40k"}
 {"t": "2026-11-24 22:29:18 WIB", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "sym": "GTA6", "reason": "vol1h 175<40k"}
 {"t": "2026-11-24 22:30:50 WIB", "mint": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump", "sym": "cateball", "reason": "score 0.481<0.6"}
 {"t": "2026-11-24 22:30:51 WIB", "mint": "D2AK5DvBj8AxN5VX1t6bjv7muJVPUx4hFPowVRWYpump", "sym": "PI", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-24 22:45:40 WIB", "mint": "7k83dNQKMknKRXuAX4nT6JDNReNywUUP5LqpggyQpump", "sym": "newtek", "reason": "vol1h 16889<40k"}
 {"t": "2026-11-24 22:45:41 WIB", "mint": "7BHyvkwpRXFms5zKkn15oYz35Gky2Rv9Q86ivQd7WzR3", "sym": "RingsPerps", "reason": "vol1h 0<40k"}
 {"t": "2026-11-24 22:46:28 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 22:48:00 WIB", "mint": "7zeVHs7n7TFQf9X86MZNzBcEEVTnyyECeNbAghL3pump", "sym": "GTGOAT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 22:48:46 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 260<40k"}
+{"t": "2026-11-24 22:48:48 WIB", "mint": "Hb4kF1LyTxFD3nRCVbgegQv2oo2jAfK4CpTho8a9pump", "sym": "poor dog", "reason": "vol1h 26253<40k"}
+{"t": "2026-11-24 22:49:35 WIB", "mint": "91pHdwzELA8e6ZhLgX7Bbxy8ocqTaixRriyoa3DXpump", "sym": "CPR", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 22:49:36 WIB", "mint": "GHWEB3FsfqDbNBt9QxVU7kXkUh1cX7kFk5NVDkgApump", "sym": "SCINU", "reason": "vol1h 2804<40k"}
