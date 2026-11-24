@@ -1,7 +1,3 @@
-{"t": "2026-11-24 22:59:47 WIB", "mint": "AQsH4RUQreNQ59ZDGFgCDxaENL9y2jhHkd4CPtC1pump", "sym": "Mill", "reason": "liq 0<20k"}
-{"t": "2026-11-24 22:59:49 WIB", "mint": "DRv6ZqSDCSdr9LNhNEPkhTqsQ3ipZ5QUHDEBRyTBpump", "sym": "$BOMBO", "reason": "vol1h 8213<40k"}
-{"t": "2026-11-24 22:59:50 WIB", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "sym": "GTA6", "reason": "vol1h 855<40k"}
-{"t": "2026-11-24 23:01:22 WIB", "mint": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump", "sym": "cateball", "reason": "vol1h 21878<40k"}
 {"t": "2026-11-24 23:02:54 WIB", "mint": "J6UxTYCafujhtsZFDVFMJmVBHozqDzKMWwpQxjwtpump", "sym": "TARIFFMAN", "reason": "vol1h 5590<40k"}
 {"t": "2026-11-24 23:02:55 WIB", "mint": "DE6jZSwe422PWGWWU5hNCUrUmPDHHhF5aVXpjFbFpump", "sym": "POORGOAT", "reason": "vol1h 14336<40k"}
 {"t": "2026-11-24 23:02:57 WIB", "mint": "DU9Q7K3TqLTW1xS36S45TPj3FVwym2F5wAbF5tHkpump", "sym": "POORGOAT", "reason": "vol1h 0<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-24 23:19:16 WIB", "mint": "Hb4kF1LyTxFD3nRCVbgegQv2oo2jAfK4CpTho8a9pump", "sym": "poor dog", "reason": "liq 11810<20k"}
 {"t": "2026-11-24 23:20:03 WIB", "mint": "91pHdwzELA8e6ZhLgX7Bbxy8ocqTaixRriyoa3DXpump", "sym": "CPR", "reason": "vol1h 93<40k"}
 {"t": "2026-11-24 23:20:04 WIB", "mint": "GHWEB3FsfqDbNBt9QxVU7kXkUh1cX7kFk5NVDkgApump", "sym": "SCINU", "reason": "vol1h 2429<40k"}
+{"t": "2026-11-24 23:23:06 WIB", "mint": "DiaLLB3UDAH7M3qEgCkAzSMc1k5Gt8ccPTYVLoErnqRZ", "sym": "DIALED", "reason": "liq 0<20k"}
+{"t": "2026-11-24 23:23:08 WIB", "mint": "fiixPXZmvzFefzHmCXQG9jri2JyH8ichA3tgWENpump", "sym": "SCAMSEM", "reason": "vol1h 11340<40k"}
+{"t": "2026-11-24 23:23:55 WIB", "mint": "2M3CsCP97Le187KQC5jhZG3c6bFzCZ51NP8bscrupump", "sym": "Wanted", "reason": "top10 39.1%>25"}
+{"t": "2026-11-24 23:23:56 WIB", "mint": "ArTHx2XxPadBjkJw9WacfwPTEoaeG5jMakX26tzEpump", "sym": "WORTHLESS", "reason": "liq 19365<20k"}
