@@ -16211,3 +16211,6 @@
 {"t": "2026-11-24 17:15:47 WIB", "mint": "91pHdwzELA8e6ZhLgX7Bbxy8ocqTaixRriyoa3DXpump", "sym": "CPR", "reason": "vol1h 1162<40k"}
 {"t": "2026-11-24 17:19:34 WIB", "mint": "8hm69JeiHeJcHQhoPDZcRv6h9dVhQFnLdiFT39Wspump", "sym": "Bull", "reason": "liq 0<20k"}
 {"t": "2026-11-24 17:19:35 WIB", "mint": "GbppuBLBwNeRdqxeNHZW1iuf6ZJHn8EH1ZxXqWa8pump", "sym": "MONETA", "reason": "vol1h 24256<40k"}
+{"t": "2026-11-24 17:20:22 WIB", "mint": "DXkCsXhXeh2xTfQ8Um8dicQcwseTfuHvDwriTcJLpump", "sym": "Satoshi", "reason": "vol1h 17590<40k"}
+{"t": "2026-11-24 17:21:09 WIB", "mint": "AZNUcRSpGMTpGCh35ApPntVBuUQJ95saGwv6DKojUuSC", "sym": "NIO", "reason": "liq 6920<20k"}
+{"t": "2026-11-24 17:21:10 WIB", "mint": "6AqxUg7adxVrs1p3ugiZ2a8hyRtsmgayRSKjrojLpump", "sym": "HACKINU", "reason": "liq 0<20k"}
