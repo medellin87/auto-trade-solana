@@ -1,9 +1,3 @@
-{"t": "2026-11-25 06:36:36 WIB", "mint": "7eaPrRzR1i3akX7a7jodh7eSgYSfcC3xnzqWd9hNpump", "sym": "trilly", "reason": "liq 2172<20k"}
-{"t": "2026-11-25 06:38:10 WIB", "mint": "GYW5LKz3wK9EAoC62FVocPkbCrSpaXMcyfJSTJmbpump", "sym": "Votr", "reason": "liq 0<20k"}
-{"t": "2026-11-25 06:38:11 WIB", "mint": "BMqyT3n9kXYhBjWKFdgGmPzbNbqcXs8sNgXWhw7tpump", "sym": "Smoove", "reason": "liq 7018<20k"}
-{"t": "2026-11-25 06:38:13 WIB", "mint": "GtDfJKk62DKwdBmmHh7s3fMmzvwirdgjtLg2PVHq43bt", "sym": "SIMPS", "reason": "vol1h 533<40k"}
-{"t": "2026-11-25 06:38:14 WIB", "mint": "GRVQD8EA6gUwovaHFdG2Gss7UeiNyPXE868GnKAtpump", "sym": "OATH", "reason": "vol1h 1<40k"}
-{"t": "2026-11-25 06:39:01 WIB", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "sym": "GTA6", "reason": "vol1h 1657<40k"}
 {"t": "2026-11-25 06:39:47 WIB", "mint": "6SKYN3EYaCGrNQqStXqQo5gtvDAxvjW4xCPLgWPgpump", "sym": "BFI", "reason": "vol1h 1994<40k"}
 {"t": "2026-11-25 06:40:34 WIB", "mint": "ES7EGhS29PebFyTTf2PYdnJNPvcF9yzoSeZrMT5xpump", "sym": "goldinu", "reason": "vol1h 21<40k"}
 {"t": "2026-11-25 06:40:36 WIB", "mint": "4npJ3avxnGhCzKbWQpLrQXAHsjWzKr4JqBsbu5Fspump", "sym": "cateball", "reason": "vol1h 20856<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-25 06:51:40 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 4830<40k"}
 {"t": "2026-11-25 06:52:27 WIB", "mint": "6nQCcuXypcAjncXK7gzvJcdwvqitgJRdG3k1no4Jpump", "sym": "CHUCHU", "reason": "vol1h 240<40k"}
 {"t": "2026-11-25 06:53:58 WIB", "mint": "2SheVTv9MeyWhau6sKfLvSyWhsGJ44Wc5MD7SWAppump", "sym": "Firefly", "reason": "vol1h 2415<40k"}
+{"t": "2026-11-25 06:55:32 WIB", "mint": "96srDoCkWosrFHQpR8YnukVqWkWb9eLRQAef14mNpump", "sym": "BOWIE", "reason": "vol1h 753<40k"}
+{"t": "2026-11-25 06:55:34 WIB", "mint": "DUZrwdjEthcJ99ZiRXr31UuqTohoTg7VjTEyfGdBpump", "sym": "jingyu", "reason": "vol1h 18359<40k"}
+{"t": "2026-11-25 06:56:20 WIB", "mint": "ANDLpP3C7tFXEpqRBmmnbS4usmQthHfs93N5oHGpump", "sym": "BOUNCER", "reason": "vol1h 8282<40k"}
+{"t": "2026-11-25 06:56:22 WIB", "mint": "GkSZVKcXcgodewdZd5CbGxFJoUUcazrf1GayrNv3pump", "sym": "BTC", "reason": "score 0.582<0.6"}
+{"t": "2026-11-25 06:56:24 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 06:57:10 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 6168<40k"}
