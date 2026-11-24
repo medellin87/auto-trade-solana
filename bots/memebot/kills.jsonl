@@ -16248,3 +16248,7 @@
 {"t": "2026-11-24 17:46:06 WIB", "mint": "91pHdwzELA8e6ZhLgX7Bbxy8ocqTaixRriyoa3DXpump", "sym": "CPR", "reason": "vol1h 624<40k"}
 {"t": "2026-11-24 17:49:53 WIB", "mint": "8hm69JeiHeJcHQhoPDZcRv6h9dVhQFnLdiFT39Wspump", "sym": "Bull", "reason": "vol1h 15025<40k"}
 {"t": "2026-11-24 17:49:55 WIB", "mint": "GbppuBLBwNeRdqxeNHZW1iuf6ZJHn8EH1ZxXqWa8pump", "sym": "MONETA", "reason": "vol1h 5693<40k"}
+{"t": "2026-11-24 17:50:41 WIB", "mint": "DXkCsXhXeh2xTfQ8Um8dicQcwseTfuHvDwriTcJLpump", "sym": "Satoshi", "reason": "vol1h 8683<40k"}
+{"t": "2026-11-24 17:51:28 WIB", "mint": "BWtNaVHGyQRv8s358qWWn2qGmuavR9vn8upFnTKoBwtc", "sym": "Trenchers", "reason": "liq 0<20k"}
+{"t": "2026-11-24 17:51:29 WIB", "mint": "AZNUcRSpGMTpGCh35ApPntVBuUQJ95saGwv6DKojUuSC", "sym": "NIO", "reason": "vol1h 32040<40k"}
+{"t": "2026-11-24 17:51:31 WIB", "mint": "6AqxUg7adxVrs1p3ugiZ2a8hyRtsmgayRSKjrojLpump", "sym": "HACKINU", "reason": "vol1h 15593<40k"}
