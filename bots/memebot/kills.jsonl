@@ -16093,3 +16093,6 @@
 {"t": "2026-11-24 15:44:42 WIB", "mint": "GHWEB3FsfqDbNBt9QxVU7kXkUh1cX7kFk5NVDkgApump", "sym": "SCINU", "reason": "vol1h 2066<40k"}
 {"t": "2026-11-24 15:46:14 WIB", "mint": "GoUMWxBvgnSD8tGSzSSjqXi1RR252dPYiwzXdxdvpump", "sym": "JOEY", "reason": "vol1h 225<40k"}
 {"t": "2026-11-24 15:46:16 WIB", "mint": "7sCw9NvfSxgMaj4Q7gGWBZWkXPtmaoji82Zr61UTpump", "sym": "OPUS", "reason": "vol1h 283<40k"}
+{"t": "2026-11-24 15:47:47 WIB", "mint": "EaiNiPA791st8dtYYuRKqU4M2wetyRdRzk5K2VT1pump", "sym": "survive", "reason": "vol1h 11794<40k"}
+{"t": "2026-11-24 15:49:19 WIB", "mint": "DXkCsXhXeh2xTfQ8Um8dicQcwseTfuHvDwriTcJLpump", "sym": "Satoshi", "reason": "liq 18034<20k"}
+{"t": "2026-11-24 15:49:20 WIB", "mint": "HADu1KBKhLhzmqyrdbF96F73XP892DTq3MC2dztApump", "sym": "ACHI", "reason": "vol1h 65<40k"}
