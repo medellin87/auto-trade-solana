@@ -15979,3 +15979,7 @@
 {"t": "2026-11-24 14:15:15 WIB", "mint": "GoUMWxBvgnSD8tGSzSSjqXi1RR252dPYiwzXdxdvpump", "sym": "JOEY", "reason": "vol1h 6867<40k"}
 {"t": "2026-11-24 14:15:16 WIB", "mint": "7sCw9NvfSxgMaj4Q7gGWBZWkXPtmaoji82Zr61UTpump", "sym": "OPUS", "reason": "vol1h 276<40k"}
 {"t": "2026-11-24 14:16:48 WIB", "mint": "EaiNiPA791st8dtYYuRKqU4M2wetyRdRzk5K2VT1pump", "sym": "survive", "reason": "vol1h 14156<40k"}
+{"t": "2026-11-24 14:18:19 WIB", "mint": "DXkCsXhXeh2xTfQ8Um8dicQcwseTfuHvDwriTcJLpump", "sym": "Satoshi", "reason": "liq 0<20k"}
+{"t": "2026-11-24 14:18:21 WIB", "mint": "HADu1KBKhLhzmqyrdbF96F73XP892DTq3MC2dztApump", "sym": "ACHI", "reason": "vol1h 30<40k"}
+{"t": "2026-11-24 14:19:08 WIB", "mint": "9oxUBRyk9EXfQHMchya45p3xsF2fbNzzDUNKzEfKpump", "sym": "Spidercow", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 14:19:09 WIB", "mint": "RZv3jrN6u1e2vCwTiJgRJwfnmyJaZqq48qkPz1xpump", "sym": "NOCAP", "reason": "vol1h 184<40k"}
