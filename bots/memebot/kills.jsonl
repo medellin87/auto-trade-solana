@@ -16588,3 +16588,6 @@
 {"t": "2026-11-24 22:23:03 WIB", "mint": "ArTHx2XxPadBjkJw9WacfwPTEoaeG5jMakX26tzEpump", "sym": "WORTHLESS", "reason": "vol1h 0<40k"}
 {"t": "2026-11-24 22:24:35 WIB", "mint": "MX8yBPVGKEFhhJ2jZRKEWxXgWHq7ScQ9cwqQjVHmake", "sym": "\u3014 \u3015", "reason": "vol1h 0<40k"}
 {"t": "2026-11-24 22:25:22 WIB", "mint": "2BZQURdxckva3QqzX47RbrRCkrfnv8dSrRm6BD1RigYH", "sym": "Wolf", "reason": "liq 5693<20k"}
+{"t": "2026-11-24 22:26:09 WIB", "mint": "GaNJeASYBM9k3TvEeUC2Pdyu1TjcpzTmPpoom92fpump", "sym": "JENSEN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 22:26:10 WIB", "mint": "3QUrDTez1H6UyhLS5tMHBZgS79j9fJvwm7EPG2Fbpump", "sym": "Munch", "reason": "liq 0<20k"}
+{"t": "2026-11-24 22:27:42 WIB", "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "sym": "DONJENSEN", "reason": "score 0.591<0.6"}
