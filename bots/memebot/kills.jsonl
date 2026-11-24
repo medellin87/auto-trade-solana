@@ -16230,3 +16230,8 @@
 {"t": "2026-11-24 17:30:36 WIB", "mint": "9Fu2BFSu97a3dRcrQuWuJnF2h91XiZXqUsy3kntS3XLu", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-24 17:30:37 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 3126<40k"}
 {"t": "2026-11-24 17:31:24 WIB", "mint": "4gboevpfN1dEzjzDzFKinndqY5zYdCqenTyvStbnpump", "sym": "O2", "reason": "vol1h 2194<40k"}
+{"t": "2026-11-24 17:32:11 WIB", "mint": "FWrPH2QxU2o1X5VZv19zamQsyUVKUb3h1Bx5qtqopump", "sym": "Pingu", "reason": "vol1h 5523<40k"}
+{"t": "2026-11-24 17:32:12 WIB", "mint": "4f6p8KCFqjScDQomx924prco6F2ypzu3dkqj1fef7WTX", "sym": "FED", "reason": "vol1h 17<40k"}
+{"t": "2026-11-24 17:32:14 WIB", "mint": "3gCSVzfyBYrHBHniGCrgsP7GkfgXBTdbgPT6pojmpump", "sym": "SUPER", "reason": "vol1h 24237<40k"}
+{"t": "2026-11-24 17:33:00 WIB", "mint": "MphvzZcbmuRcq3Q99io5LzmatrqTDUL5N58am3npump", "sym": "SON", "reason": "vol1h 0<40k"}
+{"t": "2026-11-24 17:34:32 WIB", "mint": "ETK8NSdg4Va29Roj1UcChqwCVSarq2CZSPbgeTKCpump", "sym": "black", "reason": "liq 0<20k"}
