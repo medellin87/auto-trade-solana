@@ -1,8 +1,3 @@
-{"t": "2026-11-24 12:59:12 WIB", "mint": "GVzahMEr1XjpE3aoRQvPViuVKWHSXASpdDAh7xJypump", "sym": "THEO", "reason": "vol1h 0<40k"}
-{"t": "2026-11-24 12:59:59 WIB", "mint": "AQknP6fEGQe6GUYn8V7ToHj9jo6Cc4A1tJ7XJk2fpump", "sym": "Fiona", "reason": "liq 5905<20k"}
-{"t": "2026-11-24 13:00:45 WIB", "mint": "CmjYpgu6rSqRYLBubMAoNstTgU918rFfQs3UoGk5pump", "sym": "Europa", "reason": "liq 0<20k"}
-{"t": "2026-11-24 13:00:47 WIB", "mint": "5j9iYrc1aVSpaaYKP1pfDyaJ6CTU5fmc83ckSYWPpump", "sym": "Europa", "reason": "vol1h 29051<40k"}
-{"t": "2026-11-24 13:03:04 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 88<40k"}
 {"t": "2026-11-24 13:03:50 WIB", "mint": "4fvx4so9U7fT7bS6sdmkC2GzVaq4gdTAjdEW27SJpump", "sym": "WhalesMas", "reason": "vol1h 664<40k"}
 {"t": "2026-11-24 13:03:52 WIB", "mint": "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump", "sym": "UCASH", "reason": "score 0.469<0.6"}
 {"t": "2026-11-24 13:07:39 WIB", "mint": "6kdrep4bs5HjY7uGQ4cSnNAdAxspTBivQVm2ZueZpump", "sym": "NAJIN", "reason": "vol1h 26468<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-24 13:21:40 WIB", "mint": "7ACq9bgHPCT33TWC6yaxLX5CfNQBbFachy9xKD7Spump", "sym": "$XMAS", "reason": "vol1h 125<40k"}
 {"t": "2026-11-24 13:21:42 WIB", "mint": "GpzEWYo4bRV2cPPaT6kMuvesbs5mvjk2Z8eNQv7Hpump", "sym": "GR00T", "reason": "vol1h 1193<40k"}
 {"t": "2026-11-24 13:21:43 WIB", "mint": "3mTQnHtok9wnT7yDA1G9BfMh5xNbyQerYkpfTDyKpump", "sym": "yippee", "reason": "vol1h 19963<40k"}
+{"t": "2026-11-24 13:22:30 WIB", "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "sym": "DONJENSEN", "reason": "score 0.355<0.6"}
+{"t": "2026-11-24 13:22:32 WIB", "mint": "D67RnEuhQut5PSkiyAvu8NFQZzFmSNjBQaiHRKnppump", "sym": "TIMOTHY", "reason": "vol1h 7922<40k"}
+{"t": "2026-11-24 13:22:33 WIB", "mint": "9SzSjbqTRb8f6vVeL5tUBwpppJFwLf1BfYkUwFeEpump", "sym": "SUMMITPRO", "reason": "vol1h 12276<40k"}
+{"t": "2026-11-24 13:24:05 WIB", "mint": "8T3FnLVt2fxYyVMb77K1TVNShjRboorGBw7e7NNupump", "sym": "UNDERDOG", "reason": "vol1h 34046<40k"}
+{"t": "2026-11-24 13:24:52 WIB", "mint": "5KDyvAjSU8HWofZfVnpkdY2N4UM1R2jxUkLupYmgpump", "sym": "ORBLUX", "reason": "liq 15079<20k"}
