@@ -15883,3 +15883,6 @@
 {"t": "2026-11-24 12:57:41 WIB", "mint": "8EakoV8ox4RMK9R8r59X74iiK5bHLmYmgVyBeK29pump", "sym": "Spidercow", "reason": "vol1h 1325<40k"}
 {"t": "2026-11-24 12:59:12 WIB", "mint": "GVzahMEr1XjpE3aoRQvPViuVKWHSXASpdDAh7xJypump", "sym": "THEO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-24 12:59:59 WIB", "mint": "AQknP6fEGQe6GUYn8V7ToHj9jo6Cc4A1tJ7XJk2fpump", "sym": "Fiona", "reason": "liq 5905<20k"}
+{"t": "2026-11-24 13:00:45 WIB", "mint": "CmjYpgu6rSqRYLBubMAoNstTgU918rFfQs3UoGk5pump", "sym": "Europa", "reason": "liq 0<20k"}
+{"t": "2026-11-24 13:00:47 WIB", "mint": "5j9iYrc1aVSpaaYKP1pfDyaJ6CTU5fmc83ckSYWPpump", "sym": "Europa", "reason": "vol1h 29051<40k"}
+{"t": "2026-11-24 13:03:04 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 88<40k"}
