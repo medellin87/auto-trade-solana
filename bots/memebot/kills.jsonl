@@ -17290,3 +17290,8 @@
 {"t": "2026-11-25 05:48:39 WIB", "mint": "w4Lvmpe5Cpi3n7bwpTCQRTgKT74YFVyRqBVxXnCZBLK", "sym": "BLOCK", "reason": "liq 0<20k"}
 {"t": "2026-11-25 05:49:25 WIB", "mint": "CR4Tks2HjJkKVQQVDmKU41qW7iEaEBh1RRExdTRMpump", "sym": "JOEY", "reason": "liq 13433<20k"}
 {"t": "2026-11-25 05:49:27 WIB", "mint": "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump", "sym": "Noiz ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 05:50:14 WIB", "mint": "GNZW429V3HJNX7CMdHjkGTnaAbQHwMaxk93gBTSKpump", "sym": "CLAIMER", "reason": "vol1h 4104<40k"}
+{"t": "2026-11-25 05:50:15 WIB", "mint": "GpCiqGaWm9Lk98r8iFr5W32dkFMVq8suBRDdkfqbpump", "sym": "TENEX", "reason": "vol1h 1267<40k"}
+{"t": "2026-11-25 05:51:47 WIB", "mint": "6nQCcuXypcAjncXK7gzvJcdwvqitgJRdG3k1no4Jpump", "sym": "CHUCHU", "reason": "vol1h 459<40k"}
+{"t": "2026-11-25 05:51:48 WIB", "mint": "FB5eSv7CAMWJnrH5GvHLivx9y8Qgoo8vpPV3EX5Npump", "sym": "PoorBull", "reason": "vol1h 16<40k"}
+{"t": "2026-11-25 05:52:35 WIB", "mint": "2SheVTv9MeyWhau6sKfLvSyWhsGJ44Wc5MD7SWAppump", "sym": "Firefly", "reason": "liq 4077<20k"}
