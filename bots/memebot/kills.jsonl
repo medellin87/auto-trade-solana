@@ -18759,3 +18759,7 @@
 {"t": "2026-11-25 22:39:30 WIB", "mint": "9xrUixuzMCCeEr5uC9Ro5S7n6XLN6jwcDbSjnmZzmkbm", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-25 22:39:32 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.363<0.6"}
 {"t": "2026-11-25 22:41:04 WIB", "mint": "As3XtYSstuVdrVyb6sJZZ77Tu8JvjTBg6S6hgPv4pump", "sym": "BIAO", "reason": "LP locked 0%<90"}
+{"t": "2026-11-25 22:41:51 WIB", "mint": "BQYzmKyoSzdgeaeRiRwKJdWVaiLjpngUH6YT49PNNhsS", "sym": "TANGENT", "reason": "vol1h 2435<40k"}
+{"t": "2026-11-25 22:41:52 WIB", "mint": "2QuSWcXus1Nmbgz8CiYE26dfbtmBLjAHDBvJ1bXcpump", "sym": "Tariff", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 22:42:39 WIB", "mint": "B3T7zZk5RkTkWAfQNJv6XRsFeNFjhA8QiYv2ij6y1uD8", "sym": "HOPE", "reason": "vol1h 2893<40k"}
+{"t": "2026-11-25 22:43:25 WIB", "mint": "HuSWFV6k9i9FwScAtwuYEyMU6iWNrTVzu1rdzRTZpump", "sym": "Solchan", "reason": "vol1h 1118<40k"}
