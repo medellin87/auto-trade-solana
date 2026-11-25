@@ -18337,3 +18337,7 @@
 {"t": "2026-11-25 17:49:12 WIB", "mint": "GtDfJKk62DKwdBmmHh7s3fMmzvwirdgjtLg2PVHq43bt", "sym": "SIMPS", "reason": "vol1h 22<40k"}
 {"t": "2026-11-25 17:49:13 WIB", "mint": "2rhoUVCygC2LyQWNMXsofKXo1rcbZFJnSTpDbU9Ppump", "sym": "Memecoin", "reason": "liq 0<20k"}
 {"t": "2026-11-25 17:50:00 WIB", "mint": "8LPJzr3SfD8Ehv13jjNj6LAUsxbaPeRsLemFdV8Wpump", "sym": "Bernard", "reason": "liq 0<20k"}
+{"t": "2026-11-25 17:52:17 WIB", "mint": "8MU9UNSTvFxfxttvmaQoVR2DDs9F9kKNbdXMd6hQRGTA", "sym": "GTAFUN", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 17:53:03 WIB", "mint": "7faVrLg77wq7JqFPAqYuKx4GmWPShWZHrTk3rPvAsp7n", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-25 17:53:05 WIB", "mint": "2UyrvgCRXiEwiKRVk96gs6B4myrBHZAfcLyMVLE8vSCy", "sym": "JaoJiu", "reason": "score 0.485<0.6"}
+{"t": "2026-11-25 17:53:52 WIB", "mint": "5GfgQ79T5P8hSmyKhvRWZvNehgV8gJ3JNTsUvjegbYze", "sym": "SOLCHAN", "reason": "liq 5979<20k"}
