@@ -19240,3 +19240,6 @@
 {"t": "2026-11-26 03:52:21 WIB", "mint": "hCM8Mga76sK983j3Gvui427SakSGYnG1tDi4Tsipump", "sym": "UBI", "reason": "liq 19395<20k"}
 {"t": "2026-11-26 03:52:22 WIB", "mint": "FeBG8AEG4j7LT7xQF38gPXQFBRBtXBTNzhZjSa3bpump", "sym": "Nala", "reason": "liq 0<20k"}
 {"t": "2026-11-26 03:52:24 WIB", "mint": "4Y3tVKemkjV89y9HCrPBd955jDqwbVYb5Y3GnTECMFXC", "sym": "BASKET", "reason": "vol1h 9994<40k"}
+{"t": "2026-11-26 03:55:29 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 657<40k"}
+{"t": "2026-11-26 03:56:16 WIB", "mint": "CKWk8T9stykpugEPkgQMvdfYaH76WFwjL4mZWasfpump", "sym": "Pnut", "reason": "liq 16310<20k"}
+{"t": "2026-11-26 03:56:18 WIB", "mint": "5y8hmaoVEsYJP97VFQc5qWaK2XXqxxqJ6JoiA9v7pump", "sym": "401jk", "reason": "vol1h 0<40k"}
