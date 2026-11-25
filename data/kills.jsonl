@@ -1,10 +1,3 @@
-{"t": "2026-11-25 07:58:21 WIB", "mint": "BtP3Jx22dTs6xcp6e3zDy5p1yHPfSDUML1cj4rn8pump", "sym": "ARCHIVE", "reason": "liq 0<20k"}
-{"t": "2026-11-25 07:58:23 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 7443<40k"}
-{"t": "2026-11-25 07:58:24 WIB", "mint": "36PY9D9KpTqvMz5F54oQ1KZpdBcjfFnvjDMDSvgQSZRP", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-25 07:58:26 WIB", "mint": "CYZJwxMPp3FtAMLRwT7x56D86gCCdoJ4WpH21SXjYbcA", "sym": "Amend", "reason": "vol1h 16048<40k"}
-{"t": "2026-11-25 07:59:12 WIB", "mint": "2CJqEecyJebkMUu61opTF9VgTsAPLexV8NphFpQjpump", "sym": "\ud835\udd4f", "reason": "liq 0<20k"}
-{"t": "2026-11-25 07:59:59 WIB", "mint": "FDv89drtnpyApMMLqy6D2PiDSxnGUs7jeHBF26ebpump", "sym": "Town", "reason": "vol1h 0<40k"}
-{"t": "2026-11-25 08:00:01 WIB", "mint": "G2YWYVbmgm7JZzFhXKSoE2nxZh8wwwRGWSyrBGqApump", "sym": "RAGE", "reason": "vol1h 4027<40k"}
 {"t": "2026-11-25 08:00:02 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 13043<40k"}
 {"t": "2026-11-25 08:01:34 WIB", "mint": "AuPon7CveYeRk3E7YdUt9QMGu5hEGkqSxzo9NiZdpump", "sym": "Sisyphus", "reason": "vol1h 12083<40k"}
 {"t": "2026-11-25 08:04:36 WIB", "mint": "C1iV5tmB3Qh9Aod89MW33rYmVAZR9oKy9mSJtWxjogog", "sym": "OG", "reason": "vol1h 13074<40k"}
@@ -28,3 +21,10 @@
 {"t": "2026-11-25 08:16:26 WIB", "mint": "ESzQdyodjDp6XoXcizp1LrGpJ9hTP2pwHJX5MNbUpump", "sym": "lore", "reason": "liq 2709<20k"}
 {"t": "2026-11-25 08:16:28 WIB", "mint": "3QReTqbzQKSJkqW5RQATegkFxAqDhmvutBnBeFScpump", "sym": "HUSH", "reason": "vol1h 24806<40k"}
 {"t": "2026-11-25 08:17:14 WIB", "mint": "9guNcpbsmqcKJikLNBcn8g5AoG3v9k98zK51KcoXpump", "sym": "MEMESTONK", "reason": "vol1h 13<40k"}
+{"t": "2026-11-25 08:18:01 WIB", "mint": "4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn", "sym": "Memeployed", "reason": "vol1h 10057<40k"}
+{"t": "2026-11-25 08:18:03 WIB", "mint": "FvktmXnnZnoVuLYgdo1FSXeydthfhFC7P8orYCEmpump", "sym": "3sat", "reason": "vol1h 1288<40k"}
+{"t": "2026-11-25 08:18:49 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 942<40k"}
+{"t": "2026-11-25 08:18:51 WIB", "mint": "816BuXnCFQqt6KXbBTcFgHWD29Ckpaqt8HMKSN4Vpump", "sym": "MARS", "reason": "vol1h 91<40k"}
+{"t": "2026-11-25 08:18:52 WIB", "mint": "8wunMxtK7iVN4ki84y24LmJ5Xk5HnsAbkFHYaCuopump", "sym": "SOCIAL", "reason": "liq 0<20k"}
+{"t": "2026-11-25 08:19:41 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 236<40k"}
+{"t": "2026-11-25 08:19:43 WIB", "mint": "ErSUCQz65MA3mPyzmJ82s4RR7uN6vQmVJnYuofDbpump", "sym": "M1S", "reason": "vol1h 191<40k"}
