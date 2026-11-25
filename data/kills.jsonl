@@ -1,5 +1,3 @@
-{"t": "2026-11-26 00:21:42 WIB", "mint": "FrkmQGuoeZecEv5QxQV1zAHJwVJbGChPsC5GeLiqpump", "sym": "CI", "reason": "liq 19107<20k"}
-{"t": "2026-11-26 00:23:59 WIB", "mint": "6S6oBHETSaAcH2XVxAciSnhawtZzfq6VVP6PZ6RFpump", "sym": "COAL", "reason": "vol1h 0<40k"}
 {"t": "2026-11-26 00:24:46 WIB", "mint": "9rrvHRGgvzAx2MjNpcpSWk6cLED25sNXfmykyq7tpump", "sym": "SHEEPCOIN", "reason": "vol1h 3884<40k"}
 {"t": "2026-11-26 00:24:47 WIB", "mint": "2hsmC7864Ve1giwLygu7bJjZU1R4JZKX9kCxWmD9yP6o", "sym": "STARMIND", "reason": "liq 8224<20k"}
 {"t": "2026-11-26 00:27:49 WIB", "mint": "Cx3onEtJqfzfqbVG1mnveskpvA7uMWpq31hhZx2jpump", "sym": "Butny", "reason": "vol1h 1<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-26 00:40:04 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 2423<40k"}
 {"t": "2026-11-26 00:40:51 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "vol1h 31877<40k"}
 {"t": "2026-11-26 00:41:37 WIB", "mint": "Bg74niwsyZFFxPhY8J47crDtDSUctKZEb1AuZL93pump", "sym": "MONEY", "reason": "liq 16108<20k"}
+{"t": "2026-11-26 00:44:39 WIB", "mint": "BvnzzK6CBRkUz1EwhxVU1nSNYyNRmVovcz2jRg9Rpump", "sym": "MIM", "reason": "top10 52.0%>25"}
+{"t": "2026-11-26 00:45:27 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "score 0.422<0.6"}
