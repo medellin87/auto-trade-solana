@@ -19394,3 +19394,13 @@
 {"t": "2026-11-26 05:19:07 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "score 0.5<0.6"}
 {"t": "2026-11-26 05:19:54 WIB", "mint": "3ed2mfy668wn2R6NumGaUgx26Hb4KYeDi5rzTB2ypump", "sym": "CURIO", "reason": "vol1h 264<40k"}
 {"t": "2026-11-26 05:20:40 WIB", "mint": "91SRgG84XsmTKj5mHZiLGgx88DCvgqw46owfv36xpump", "sym": "Lore", "reason": "vol1h 177<40k"}
+{"t": "2026-11-26 05:22:57 WIB", "mint": "hCM8Mga76sK983j3Gvui427SakSGYnG1tDi4Tsipump", "sym": "UBI", "reason": "liq 16274<20k"}
+{"t": "2026-11-26 05:22:59 WIB", "mint": "9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump", "sym": "enu", "reason": "vol1h 9440<40k"}
+{"t": "2026-11-26 05:23:00 WIB", "mint": "FeBG8AEG4j7LT7xQF38gPXQFBRBtXBTNzhZjSa3bpump", "sym": "Nala", "reason": "vol1h 24560<40k"}
+{"t": "2026-11-26 05:23:02 WIB", "mint": "4Y3tVKemkjV89y9HCrPBd955jDqwbVYb5Y3GnTECMFXC", "sym": "BASKET", "reason": "vol1h 7909<40k"}
+{"t": "2026-11-26 05:23:48 WIB", "mint": "58Xf9N3n1p5Fw6Etxu5L9YrSkFvGaqLCyU4qri1Wpump", "sym": "OTC", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 05:23:50 WIB", "mint": "6sA2MQ16pug6gUo78UXBiJjqWWpwejRKk6s4BNdEpump", "sym": "MONEY", "reason": "top10 32.9%>25"}
+{"t": "2026-11-26 05:23:52 WIB", "mint": "2teHT8jiwSLBw5MGmLe3JAoGMbkGGMQACq8VgjUSYete", "sym": "N1", "reason": "vol1h 2<40k"}
+{"t": "2026-11-26 05:24:38 WIB", "mint": "E3jahqz3Gk3Tc5wzwjzNxGUw2Rs3ZyVkXLwaCtsepump", "sym": "STUCK", "reason": "vol1h 20837<40k"}
+{"t": "2026-11-26 05:24:40 WIB", "mint": "9YUVArgU8oJEkabSHYSMdejdFAmaLubEEzqfKQZdLy3Y", "sym": "hedged", "reason": "vol1h 34511<40k"}
+{"t": "2026-11-26 05:24:43 WIB", "mint": "3Usy1ZyqiacJfvBU1DDJEkhFRYJhFFYpmCXX8ptqpump", "sym": "RedditPump", "reason": "vol1h 22470<40k"}
