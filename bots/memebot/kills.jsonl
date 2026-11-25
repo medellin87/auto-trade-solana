@@ -18792,3 +18792,12 @@
 {"t": "2026-11-25 23:05:13 WIB", "mint": "77Bd8Si4YR4wnjnBEZRoyn9qGf1QXgWXDqMUSLXf3THE", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-25 23:06:00 WIB", "mint": "FMMRv2doNMperPCSANuSWXcMCSs2YkxTTosN7TEypump", "sym": "McCat", "reason": "vol1h 32482<40k"}
 {"t": "2026-11-25 23:06:01 WIB", "mint": "5Go8ByHzd9vvdBHhqFnxxgU2SRDfTv5XXMLjBnvrpump", "sym": "MONEYGO", "reason": "liq 1324<20k"}
+{"t": "2026-11-25 23:08:18 WIB", "mint": "EFXC6P572dNJgN8heXwd2uDcF5wn2fgA124jLhVspump", "sym": "$Fusion", "reason": "vol1h 10<40k"}
+{"t": "2026-11-25 23:08:20 WIB", "mint": "91SRgG84XsmTKj5mHZiLGgx88DCvgqw46owfv36xpump", "sym": "Lore", "reason": "vol1h 6166<40k"}
+{"t": "2026-11-25 23:08:21 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 12091<40k"}
+{"t": "2026-11-25 23:08:23 WIB", "mint": "8VWH6ntFczuCzTgGeNVarnRDfi6utetSBn3JfTLxpump", "sym": "pode", "reason": "vol1h 369<40k"}
+{"t": "2026-11-25 23:09:09 WIB", "mint": "CuQUeUa6YbSSK52PTaL8eok8c1hrG6qyuyJyovmapump", "sym": "LEMON", "reason": "liq 17229<20k"}
+{"t": "2026-11-25 23:09:11 WIB", "mint": "2dVHJL9KcrwaBEeNTs4bYVNgLjLvE29GLtWCfL92pump", "sym": "fries", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 23:09:13 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 14712<40k"}
+{"t": "2026-11-25 23:09:59 WIB", "mint": "9xrUixuzMCCeEr5uC9Ro5S7n6XLN6jwcDbSjnmZzmkbm", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-25 23:10:01 WIB", "mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump", "sym": "DESSA", "reason": "score 0.373<0.6"}
