@@ -19039,3 +19039,8 @@
 {"t": "2026-11-26 01:58:39 WIB", "mint": "HRSyQZY1op5wt6nBenqP9gBgTx7nYE43qGb5dtugYMAK", "sym": "HOURS", "reason": "liq 0<20k"}
 {"t": "2026-11-26 01:59:27 WIB", "mint": "8MU9UNSTvFxfxttvmaQoVR2DDs9F9kKNbdXMd6hQRGTA", "sym": "GTAFUN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-26 01:59:29 WIB", "mint": "8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump", "sym": "WEALTH", "reason": "vol1h 97<40k"}
+{"t": "2026-11-26 02:00:17 WIB", "mint": "HDGHdVUHfbHdqiEeWqV9hPXN1d2un13E9EpJFwdLpump", "sym": "Pcat", "reason": "liq 0<20k"}
+{"t": "2026-11-26 02:00:19 WIB", "mint": "DNJboJENzKp5LvYfTuqJ4i7gQq8JK7ZnRCfvhJYepump", "sym": "Giving", "reason": "liq 0<20k"}
+{"t": "2026-11-26 02:01:06 WIB", "mint": "5EmvWDizkpjAXbcfCcVq69w1id8GaLzi4LLwtuSgpump", "sym": "Pompom", "reason": "score 0.345<0.6"}
+{"t": "2026-11-26 02:01:08 WIB", "mint": "FujCqe2JFQXPm2A1auAFTENkpzZyTYDwXqxBr76Mpump", "sym": "PippTop", "reason": "vol1h 592<40k"}
+{"t": "2026-11-26 02:02:39 WIB", "mint": "EirDhxizoj2ZkExNNogCj8veFX4WCShkY9aHigVHpump", "sym": "3sat", "reason": "liq 0<20k"}
