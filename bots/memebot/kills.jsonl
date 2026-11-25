@@ -18962,3 +18962,6 @@
 {"t": "2026-11-26 01:11:22 WIB", "mint": "67eH4F62kKZ45wfgWMRuu8GNCFP9kN6uFcNvJWBgpump", "sym": "RECORDEGG", "reason": "liq 18297<20k"}
 {"t": "2026-11-26 01:12:08 WIB", "mint": "Bg74niwsyZFFxPhY8J47crDtDSUctKZEb1AuZL93pump", "sym": "MONEY", "reason": "liq 14210<20k"}
 {"t": "2026-11-26 01:13:40 WIB", "mint": "HDcF2kBhCpKy5QgwRqSoY32aCCPxKjMsSrhQmNDypump", "sym": "INU", "reason": "vol1h 2720<40k"}
+{"t": "2026-11-26 01:15:14 WIB", "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump", "sym": "xmascoin", "reason": "vol1h 1700<40k"}
+{"t": "2026-11-26 01:15:16 WIB", "mint": "437T35ficBfJK9N8GH4gWbiHb86AsRJRkQjARd7Ppump", "sym": "4CHAN", "reason": "top10 40.3%>25"}
+{"t": "2026-11-26 01:16:03 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "score 0.417<0.6"}
