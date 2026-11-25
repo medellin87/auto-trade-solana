@@ -18377,3 +18377,6 @@
 {"t": "2026-11-25 18:18:03 WIB", "mint": "8wacdzPkcfSGq99YpbWnfikeV8sBfqZBwCvYjPUxtpMW", "sym": "4", "reason": "vol1h 25048<40k"}
 {"t": "2026-11-25 18:18:49 WIB", "mint": "8ypx9tHqwLjJk51tqrm1iCrhTQ1PKshnw1FfpQjWpump", "sym": "4PUMP", "reason": "vol1h 7273<40k"}
 {"t": "2026-11-25 18:18:51 WIB", "mint": "DMFzUvtfEmE697ZfEDqAXErd9MrBDEs66V5WiRvApump", "sym": "DongCoin", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 18:19:37 WIB", "mint": "GtDfJKk62DKwdBmmHh7s3fMmzvwirdgjtLg2PVHq43bt", "sym": "SIMPS", "reason": "vol1h 235<40k"}
+{"t": "2026-11-25 18:19:39 WIB", "mint": "2rhoUVCygC2LyQWNMXsofKXo1rcbZFJnSTpDbU9Ppump", "sym": "Memecoin", "reason": "liq 0<20k"}
+{"t": "2026-11-25 18:20:26 WIB", "mint": "8LPJzr3SfD8Ehv13jjNj6LAUsxbaPeRsLemFdV8Wpump", "sym": "Bernard", "reason": "vol1h 29824<40k"}
