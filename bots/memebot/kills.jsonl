@@ -18435,3 +18435,5 @@
 {"t": "2026-11-25 19:01:43 WIB", "mint": "FMS1KXoLPrbYXEDgpRfDgYwPtwJ7JV5ZXduX2SUFpump", "sym": "bon", "reason": "liq 0<20k"}
 {"t": "2026-11-25 19:04:00 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 2916<40k"}
 {"t": "2026-11-25 19:04:02 WIB", "mint": "8VWH6ntFczuCzTgGeNVarnRDfi6utetSBn3JfTLxpump", "sym": "pode", "reason": "vol1h 497<40k"}
+{"t": "2026-11-25 19:07:49 WIB", "mint": "GHFpSSw2ZMjmKCyc1wrHUjJiqnJeP18mekY9GL1Xpump", "sym": "Boor", "reason": "vol1h 14678<40k"}
+{"t": "2026-11-25 19:07:50 WIB", "mint": "2Rw6rLRRZXQLNreForjeVvDjnpYUaW6rmMFXmRP9pump", "sym": "SWARM", "reason": "liq 0<20k"}
