@@ -1,8 +1,3 @@
-{"t": "2026-11-25 20:26:05 WIB", "mint": "FK7bc3fR8UL8uogN2u8J9yEpEbQJKR7yKsp3G8rvpump", "sym": "hacked", "reason": "liq 0<20k"}
-{"t": "2026-11-25 20:26:54 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 353<40k"}
-{"t": "2026-11-25 20:27:41 WIB", "mint": "GV7iihnQgrRrZt1npPu774CPNiv6PJe8SMMHLsTjpump", "sym": "PFP", "reason": "liq 1753<20k"}
-{"t": "2026-11-25 20:27:42 WIB", "mint": "87hFHbdBUCReA8youYc5KMcUeeqFzFMYPMRtqCFZoCCq", "sym": "pompom", "reason": "vol1h 18093<40k"}
-{"t": "2026-11-25 20:28:29 WIB", "mint": "Bu7FHCUZAJw5p94Y28v9LfGjcHv8M2HaJcqptX4FuQPV", "sym": "\u72ac", "reason": "liq 0<20k"}
 {"t": "2026-11-25 20:28:31 WIB", "mint": "7gNZaWDS4p6FNDykMU1Cf13BE1qMSJLhep34nunEpump", "sym": "HashRings", "reason": "vol1h 0<40k"}
 {"t": "2026-11-25 20:30:02 WIB", "mint": "3ptBnACeZ2dvwpL6jBbbmLvbhckJgrtqCUuyXdtgpump", "sym": "CRANJIS", "reason": "vol1h 5219<40k"}
 {"t": "2026-11-25 20:30:49 WIB", "mint": "5PiugAAPsRxmatFE6uJ7jrtJ817TNKpypSa1JoZspump", "sym": "PFP", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-25 20:44:07 WIB", "mint": "4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn", "sym": "Memeployed", "reason": "vol1h 9247<40k"}
 {"t": "2026-11-25 20:46:24 WIB", "mint": "9EuxZ4oKk7axaXTbiJPk8RJ2Q9fBshH3UtuUWExQpump", "sym": "kol", "reason": "liq 0<20k"}
 {"t": "2026-11-25 20:46:26 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 16427<40k"}
+{"t": "2026-11-25 20:47:12 WIB", "mint": "GisWWjhwrSud4aFGSHvTMt85Ky14sY7LeBFCpfoFpump", "sym": "Jimmies", "reason": "vol1h 10343<40k"}
+{"t": "2026-11-25 20:48:44 WIB", "mint": "9ev61SzHeHrFtDYiykMjyKHUDiB7PK3rwCeCkiDFpump", "sym": "FREYJA", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 20:48:46 WIB", "mint": "E6YDeFJy4HUhas8fSMxNzRS7R3vwff6tinSEDW5U89Yx", "sym": "wCAT", "reason": "vol1h 7113<40k"}
+{"t": "2026-11-25 20:48:47 WIB", "mint": "Gnxm7YRnhFD9nGLfMLM89pZe5PWCBCohiEcvXsLppump", "sym": "AMUR", "reason": "vol1h 559<40k"}
+{"t": "2026-11-25 20:49:34 WIB", "mint": "3wrZTXRbMk3pCXmmNDWqkaowSsxGzhTnmhPTSXYApump", "sym": "GEMIDIA", "reason": "top10 60.9%>25"}
