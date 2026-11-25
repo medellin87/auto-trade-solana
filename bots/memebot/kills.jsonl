@@ -18065,3 +18065,7 @@
 {"t": "2026-11-25 14:20:39 WIB", "mint": "AMYpNGi5aGrKr1ZDsotUdWh7k1mMi569ygtaHJmErGEd", "sym": "Merged", "reason": "liq 0<20k"}
 {"t": "2026-11-25 14:20:41 WIB", "mint": "6p5wPmprdM2gATReh9j5JvxJs8U1PcyWD3neuLvr8sGq", "sym": "POOSTANK", "reason": "vol1h 0<40k"}
 {"t": "2026-11-25 14:21:27 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 167<40k"}
+{"t": "2026-11-25 14:22:59 WIB", "mint": "6MsaWYaAQ3vPKpQMi9ptiX4yhLv1EEt7NYcX5DH6pump", "sym": "Reddit", "reason": "vol1h 37<40k"}
+{"t": "2026-11-25 14:24:31 WIB", "mint": "6QtshTWFdGsscfo5cH6D8EUyyFgy7BDfdbMevUvbpump", "sym": "Twitch", "reason": "vol1h 3<40k"}
+{"t": "2026-11-25 14:24:32 WIB", "mint": "4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn", "sym": "Memeployed", "reason": "vol1h 11505<40k"}
+{"t": "2026-11-25 14:24:34 WIB", "mint": "CkwFsrupdFHzo5kYk8b5W47CVx1v5ymzeu6BBoDjpump", "sym": "YUMA", "reason": "liq 1729<20k"}
