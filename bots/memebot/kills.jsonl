@@ -18696,3 +18696,9 @@
 {"t": "2026-11-25 22:00:11 WIB", "mint": "7gNZaWDS4p6FNDykMU1Cf13BE1qMSJLhep34nunEpump", "sym": "HashRings", "reason": "vol1h 0<40k"}
 {"t": "2026-11-25 22:00:13 WIB", "mint": "EYiXPL3LTuXEMb7KjhP6eTETPehJGhhU5H7ZYmWsSipo", "sym": "IPO", "reason": "vol1h 3625<40k"}
 {"t": "2026-11-25 22:01:00 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "vol1h 13669<40k"}
+{"t": "2026-11-25 22:01:46 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 5899<40k"}
+{"t": "2026-11-25 22:01:48 WIB", "mint": "2YCL4VUVbBTZAKPHi9vTW2rmojTm5d79WGShLG6Xpump", "sym": "RW2Cv2", "reason": "vol1h 5299<40k"}
+{"t": "2026-11-25 22:02:34 WIB", "mint": "5PiugAAPsRxmatFE6uJ7jrtJ817TNKpypSa1JoZspump", "sym": "PFP", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 22:02:36 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 3848<40k"}
+{"t": "2026-11-25 22:04:08 WIB", "mint": "Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump", "sym": "KYM", "reason": "liq 5673<20k"}
+{"t": "2026-11-25 22:04:09 WIB", "mint": "77Bd8Si4YR4wnjnBEZRoyn9qGf1QXgWXDqMUSLXf3THE", "sym": "?", "reason": "no solana pair"}

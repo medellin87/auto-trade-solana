@@ -1,9 +1,3 @@
-{"t": "2026-11-25 21:40:40 WIB", "mint": "2QuSWcXus1Nmbgz8CiYE26dfbtmBLjAHDBvJ1bXcpump", "sym": "Tariff", "reason": "liq 1396<20k"}
-{"t": "2026-11-25 21:42:12 WIB", "mint": "FaWEANo8Kz9B415xv3cocE8q5JgghN7CY8FYG4C5pump", "sym": "3sat", "reason": "liq 13572<20k"}
-{"t": "2026-11-25 21:42:14 WIB", "mint": "HuSWFV6k9i9FwScAtwuYEyMU6iWNrTVzu1rdzRTZpump", "sym": "Solchan", "reason": "vol1h 3291<40k"}
-{"t": "2026-11-25 21:42:15 WIB", "mint": "38EDdUxnJvrnDsJyB45E2W3pK26qLEjmWTvsEmMuG9ZR", "sym": "OUROBOROS", "reason": "liq 12759<20k"}
-{"t": "2026-11-25 21:43:47 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 6849<40k"}
-{"t": "2026-11-25 21:43:49 WIB", "mint": "436BcX8hF6ERozLniyL8d75bVJbRvxJJtdroKWC2pump", "sym": "NAUGHTY ", "reason": "vol1h 190<40k"}
 {"t": "2026-11-25 21:45:21 WIB", "mint": "4m2PS6yW2xDk5V9nJgPjnus1eguwCDSWXbA2YQeVkqxn", "sym": "Memeployed", "reason": "vol1h 4991<40k"}
 {"t": "2026-11-25 21:46:52 WIB", "mint": "GbJCuSXQYRXYf8yxVV16yo4PBQ4H3FsT29fqkTSBpump", "sym": "FRANK", "reason": "liq 16263<20k"}
 {"t": "2026-11-25 21:47:39 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 17600<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-25 22:00:11 WIB", "mint": "7gNZaWDS4p6FNDykMU1Cf13BE1qMSJLhep34nunEpump", "sym": "HashRings", "reason": "vol1h 0<40k"}
 {"t": "2026-11-25 22:00:13 WIB", "mint": "EYiXPL3LTuXEMb7KjhP6eTETPehJGhhU5H7ZYmWsSipo", "sym": "IPO", "reason": "vol1h 3625<40k"}
 {"t": "2026-11-25 22:01:00 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "vol1h 13669<40k"}
+{"t": "2026-11-25 22:01:46 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 5899<40k"}
+{"t": "2026-11-25 22:01:48 WIB", "mint": "2YCL4VUVbBTZAKPHi9vTW2rmojTm5d79WGShLG6Xpump", "sym": "RW2Cv2", "reason": "vol1h 5299<40k"}
+{"t": "2026-11-25 22:02:34 WIB", "mint": "5PiugAAPsRxmatFE6uJ7jrtJ817TNKpypSa1JoZspump", "sym": "PFP", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 22:02:36 WIB", "mint": "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump", "sym": "Christmax", "reason": "vol1h 3848<40k"}
+{"t": "2026-11-25 22:04:08 WIB", "mint": "Hvi9xTj6vWCypxEZh3mCbiS9Ywshex8LyYAdBt7Epump", "sym": "KYM", "reason": "liq 5673<20k"}
+{"t": "2026-11-25 22:04:09 WIB", "mint": "77Bd8Si4YR4wnjnBEZRoyn9qGf1QXgWXDqMUSLXf3THE", "sym": "?", "reason": "no solana pair"}
