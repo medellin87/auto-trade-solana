@@ -1,8 +1,3 @@
-{"t": "2026-11-25 08:18:51 WIB", "mint": "816BuXnCFQqt6KXbBTcFgHWD29Ckpaqt8HMKSN4Vpump", "sym": "MARS", "reason": "vol1h 91<40k"}
-{"t": "2026-11-25 08:18:52 WIB", "mint": "8wunMxtK7iVN4ki84y24LmJ5Xk5HnsAbkFHYaCuopump", "sym": "SOCIAL", "reason": "liq 0<20k"}
-{"t": "2026-11-25 08:19:41 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 236<40k"}
-{"t": "2026-11-25 08:19:43 WIB", "mint": "ErSUCQz65MA3mPyzmJ82s4RR7uN6vQmVJnYuofDbpump", "sym": "M1S", "reason": "vol1h 191<40k"}
-{"t": "2026-11-25 08:21:14 WIB", "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump", "sym": "xmascoin", "reason": "vol1h 2622<40k"}
 {"t": "2026-11-25 08:22:46 WIB", "mint": "Adgt7dseCq71eN6GDuoUgpsNQp81ZNhq24nrF7pxpump", "sym": "Noiz ", "reason": "vol1h 1<40k"}
 {"t": "2026-11-25 08:23:33 WIB", "mint": "DE1KN4A5wzxuQXPrBeDSwKRNCKiSPtZNJMto2yMmpump", "sym": "DeathStar", "reason": "vol1h 0<40k"}
 {"t": "2026-11-25 08:23:34 WIB", "mint": "4M1tpKSat8qWnJk6pskUBciw4PBvXt4gNMc36NV8pump", "sym": "Pumpcar", "reason": "liq 14046<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-25 08:35:23 WIB", "mint": "5Xd2vr3oY2YDhBeozvsZQto3rLiMzWDDBLadkgQspump", "sym": "TOUCAN", "reason": "vol1h 25000<40k"}
 {"t": "2026-11-25 08:35:26 WIB", "mint": "FvxdgZ4QzUAdu3Bc78bYPanUxmZNt6shTHKWo8pApump", "sym": "KYM", "reason": "liq 5472<20k"}
 {"t": "2026-11-25 08:36:13 WIB", "mint": "FdKfeV9K5npaRwxgGgBf4k7Hb3gZSnhqX7QPMSNgpump", "sym": "Fsjal", "reason": "liq 0<20k"}
+{"t": "2026-11-25 08:37:00 WIB", "mint": "AnimeXV38KBcwkdf8sQ3XES9pW6BiyCQPLUHvCrpTXgi", "sym": "ANIME", "reason": "vol1h 78<40k"}
+{"t": "2026-11-25 08:38:33 WIB", "mint": "6mGPu7Zemz4vawJ1bm4JkF7BfQqBjzFchznaXtVZpump", "sym": "SNOWCALL", "reason": "liq 0<20k"}
+{"t": "2026-11-25 08:39:21 WIB", "mint": "DMFzUvtfEmE697ZfEDqAXErd9MrBDEs66V5WiRvApump", "sym": "DongCoin", "reason": "top10 48.2%>25"}
+{"t": "2026-11-25 08:39:22 WIB", "mint": "5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump", "sym": "DONJENSEN", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-25 08:39:24 WIB", "mint": "7xsUiTrGXaVpBwqcVUiydHA3XrUMD7K5p3jMhLkFpump", "sym": "motion", "reason": "liq 17590<20k"}
