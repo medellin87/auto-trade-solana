@@ -1,8 +1,3 @@
-{"t": "2026-11-26 02:05:01 WIB", "mint": "2YCL4VUVbBTZAKPHi9vTW2rmojTm5d79WGShLG6Xpump", "sym": "RW2Cv2", "reason": "vol1h 253<40k"}
-{"t": "2026-11-26 02:05:02 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 9011<40k"}
-{"t": "2026-11-26 02:05:04 WIB", "mint": "93UA32Baowc1gbAoM35CG9Lj5Cw2Pz6T3VfhK63Kpump", "sym": "SI", "reason": "liq 14481<20k"}
-{"t": "2026-11-26 02:07:20 WIB", "mint": "JgGbp5wxqa4ZLxVtQankZqkUhDjMSbaKYYysxUrpump", "sym": "INU", "reason": "liq 3536<20k"}
-{"t": "2026-11-26 02:09:37 WIB", "mint": "3oGd3qtgYHN1zqVGWhRSC7Gvqd1z6WbJpujQaB21pump", "sym": "UNI", "reason": "liq 1517<20k"}
 {"t": "2026-11-26 02:10:24 WIB", "mint": "8VWH6ntFczuCzTgGeNVarnRDfi6utetSBn3JfTLxpump", "sym": "pode", "reason": "vol1h 937<40k"}
 {"t": "2026-11-26 02:10:25 WIB", "mint": "EFXC6P572dNJgN8heXwd2uDcF5wn2fgA124jLhVspump", "sym": "$Fusion", "reason": "vol1h 14<40k"}
 {"t": "2026-11-26 02:10:27 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 9941<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-26 02:19:16 WIB", "mint": "rpoEbSB9JesYwxxYepKbDVzus1pymZGXdAs8uqjpump", "sym": "HUSSPAD", "reason": "vol1h 34480<40k"}
 {"t": "2026-11-26 02:19:17 WIB", "mint": "44oWeXhPGhG4e3Y7FHg9XEaGKj92uoCYc4EURzNwpump", "sym": "Snowfall", "reason": "vol1h 30633<40k"}
 {"t": "2026-11-26 02:19:19 WIB", "mint": "5RBADXvDkgz22wF9gzS7BMEFNyvCYqbkomXWjy4pump", "sym": "RECORDEGG", "reason": "liq 1730<20k"}
+{"t": "2026-11-26 02:21:36 WIB", "mint": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump", "sym": "WASTED", "reason": "vol1h 7800<40k"}
+{"t": "2026-11-26 02:22:22 WIB", "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump", "sym": "Snowball", "reason": "liq 9663<20k"}
+{"t": "2026-11-26 02:23:09 WIB", "mint": "5zT7z5qKLwwwSMyP4HRLpKb7yUAC7cHEFRXPSVH3pump", "sym": " JWIF", "reason": "liq 11931<20k"}
+{"t": "2026-11-26 02:23:10 WIB", "mint": "6TAEsBQuHki4C6ynUmWARpjJ1xmKshrqv7Qh1FHwpump", "sym": "I", "reason": "liq 5291<20k"}
+{"t": "2026-11-26 02:23:57 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1019<40k"}
