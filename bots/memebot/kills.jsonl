@@ -18341,3 +18341,7 @@
 {"t": "2026-11-25 17:53:03 WIB", "mint": "7faVrLg77wq7JqFPAqYuKx4GmWPShWZHrTk3rPvAsp7n", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-25 17:53:05 WIB", "mint": "2UyrvgCRXiEwiKRVk96gs6B4myrBHZAfcLyMVLE8vSCy", "sym": "JaoJiu", "reason": "score 0.485<0.6"}
 {"t": "2026-11-25 17:53:52 WIB", "mint": "5GfgQ79T5P8hSmyKhvRWZvNehgV8gJ3JNTsUvjegbYze", "sym": "SOLCHAN", "reason": "liq 5979<20k"}
+{"t": "2026-11-25 17:54:39 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 150<40k"}
+{"t": "2026-11-25 17:54:40 WIB", "mint": "8KqvrZiSw63fzjkwyzyNqFa4Pcm1hXf5J4Jt3Aw1pump", "sym": "REDACTED", "reason": "vol1h 0<40k"}
+{"t": "2026-11-25 17:54:42 WIB", "mint": "EaWVqkZ1T7h3PnaQBvsEga7WbBLR79gyoV3huTe5pump", "sym": "GTZ", "reason": "vol1h 7312<40k"}
+{"t": "2026-11-25 17:55:28 WIB", "mint": "9Gdhz3WVnTaFcbGPrK2GbBdZpbwAQFfFK42bSgsupump", "sym": "KING", "reason": "liq 0<20k"}
