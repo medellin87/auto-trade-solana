@@ -15845,3 +15845,6 @@
 {"t": "2026-11-26 20:25:19 WIB", "mint": "CSuqK3KiUJJUbSvrxbb97EyENxz4t2hZTrnWYzojpump", "sym": "FLOW", "reason": "liq 0<20k"}
 {"t": "2026-11-26 20:25:23 WIB", "mint": "7juwdhNyZ1YT5hRmF7kSGrxcpAGyFomi5mMbW8uEpump", "sym": "KOMARI", "reason": "top10 33.1%>25"}
 {"t": "2026-11-26 20:26:10 WIB", "mint": "6hnhTWJUYeePGkme2ztvxoFvQopnDeWJep945RpJpump", "sym": "hep", "reason": "vol1h 23482<40k"}
+{"t": "2026-11-26 20:28:27 WIB", "mint": "32rBxcFjCFnyqZ41CEPM5AL67X1dcw8w83vZt6Kxpump", "sym": "PAIR", "reason": "vol1h 24952<40k"}
+{"t": "2026-11-26 20:29:58 WIB", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "sym": "GTA6", "reason": "vol1h 2246<40k"}
+{"t": "2026-11-26 20:30:00 WIB", "mint": "4MskcLzjReeRkiLhLrQHBfKkNBK3VrRBbSSNHJiU9XQE", "sym": "AMAZONCAT", "reason": "vol1h 331<40k"}
