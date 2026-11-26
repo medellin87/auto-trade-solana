@@ -16136,3 +16136,7 @@
 {"t": "2026-11-26 23:59:32 WIB", "mint": "CZt7wX37NiJQnDvwdd6JsrDLeX1XDDe7JBZEX296pump", "sym": "TURKEY", "reason": "liq 1457<20k"}
 {"t": "2026-11-27 00:00:18 WIB", "mint": "7HgfXftRBBqsYtAEYcqjGLQrNJLL6Tww9ek4rE3Apump", "sym": "RKC", "reason": "vol1h 1573<40k"}
 {"t": "2026-11-27 00:00:22 WIB", "mint": "8XefdyFEBBLwvEWpGZqLmBDR9TmDeon1aLy16x2ipump", "sym": "MDAQ", "reason": "vol1h 13662<40k"}
+{"t": "2026-11-27 00:02:38 WIB", "mint": "HnbAKrRF9SM4QNb5o7nGJNcpjdkTyCR2M6pWgjiqpump", "sym": "Simyo", "reason": "vol1h 16<40k"}
+{"t": "2026-11-27 00:03:25 WIB", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "sym": "GTA6", "reason": "vol1h 6180<40k"}
+{"t": "2026-11-27 00:03:27 WIB", "mint": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump", "sym": "JIMMY", "reason": "score 0.423<0.6"}
+{"t": "2026-11-27 00:03:31 WIB", "mint": "7sxuap7Q4uoAJFBW3ensq6QTa2KwgGosfFwoeXtJpump", "sym": "Kuro", "reason": "top10 48.7%>25"}
