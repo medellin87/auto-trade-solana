@@ -15868,3 +15868,7 @@
 {"t": "2026-11-26 20:41:46 WIB", "mint": "AbWPbp81iJHvBTYyWx8wwpMmV8WTKEP24b1JKdBcpump", "sym": "DOMO", "reason": "liq 0<20k"}
 {"t": "2026-11-26 20:41:48 WIB", "mint": "AC6jhfpFFFYUciEX563ouCiMCZTxvDi1mr6zXhAMogog", "sym": "OG", "reason": "vol1h 89<40k"}
 {"t": "2026-11-26 20:43:20 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 165<40k"}
+{"t": "2026-11-26 20:44:07 WIB", "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump", "sym": "Grodia", "reason": "score 0.399<0.6"}
+{"t": "2026-11-26 20:44:09 WIB", "mint": "HkPSDYRcw4uqgRzZMDd5sRnMpE4ungR1K8MRNXnBVtQ2", "sym": "Legatum", "reason": "vol1h 19305<40k"}
+{"t": "2026-11-26 20:44:10 WIB", "mint": "EWCfhnj8YjPEbvQXEtwkxMT54WhBpZBLQDFncRoypump", "sym": "Pair", "reason": "liq 6905<20k"}
+{"t": "2026-11-26 20:46:29 WIB", "mint": "ANtygea2vBVsffJpDQDX2KHQnmwiZLcKExzHgF9npump", "sym": "SPACE", "reason": "vol1h 14339<40k"}
