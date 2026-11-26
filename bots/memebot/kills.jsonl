@@ -16724,3 +16724,7 @@
 {"t": "2026-11-27 06:20:18 WIB", "mint": "Bs65KuvSxcXd9eSKVLXJxyY1amzGn6k77T4U2B6k6CBP", "sym": "CALL", "reason": "vol1h 0<40k"}
 {"t": "2026-11-27 06:21:05 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "vol1h 28125<40k"}
 {"t": "2026-11-27 06:22:37 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 243<40k"}
+{"t": "2026-11-27 06:23:23 WIB", "mint": "FRkDqw9RBbFLGZDZ4z8D8yszkqA49Mejpzy9vqWtpump", "sym": "FINANCIAL", "reason": "vol1h 8<40k"}
+{"t": "2026-11-27 06:24:55 WIB", "mint": "Bb38n8AVLMh9amo8qtjLvqE8nPtfs8GEsyzg1pC6pump", "sym": "Cateball", "reason": "liq 1436<20k"}
+{"t": "2026-11-27 06:24:57 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 878<40k"}
+{"t": "2026-11-27 06:24:58 WIB", "mint": "6Sm9SMP11iFuL7AqFCJeyQc23WF4s1ZGxS7JXveQJRW", "sym": "Goon", "reason": "vol1h 957<40k"}
