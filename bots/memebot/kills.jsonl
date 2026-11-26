@@ -19796,3 +19796,8 @@
 {"t": "2026-11-26 09:16:46 WIB", "mint": "jjw6p8XwSXDqf9Ebze4vrkiaY89mhGsdB92KY4Lpump", "sym": "COIN", "reason": "liq 4256<20k"}
 {"t": "2026-11-26 09:17:33 WIB", "mint": "GkL4cJLAL3354wLgS6mZJKKUBVzvUY1FUN47zZNgGWEq", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-26 09:17:34 WIB", "mint": "67eH4F62kKZ45wfgWMRuu8GNCFP9kN6uFcNvJWBgpump", "sym": "RECORDEGG", "reason": "vol1h 8<40k"}
+{"t": "2026-11-26 09:19:06 WIB", "mint": "GMwcx6HoqezPLgrCB1f7QLjHuVmBUAd8R1hqkh9gpump", "sym": "TWURKEY", "reason": "vol1h 6362<40k"}
+{"t": "2026-11-26 09:19:53 WIB", "mint": "BpJ15iciSMREMaFzmTbytZuKh6J9PTwD3mgkYV3pump", "sym": "TI", "reason": "vol1h 21<40k"}
+{"t": "2026-11-26 09:20:40 WIB", "mint": "CnozX9VZrfTSCzssxicM4ee86GTuf497G5t94rUvpump", "sym": "SKINPUSS", "reason": "liq 5917<20k"}
+{"t": "2026-11-26 09:20:41 WIB", "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump", "sym": "xmascoin", "reason": "vol1h 2773<40k"}
+{"t": "2026-11-26 09:20:43 WIB", "mint": "EDA6AEGdtQg3sT5DQuDbhf4KxoFxG8CuUsrPqAuPpump", "sym": "WORTHY", "reason": "vol1h 7<40k"}
