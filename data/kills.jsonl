@@ -1,9 +1,3 @@
-{"t": "2026-11-26 08:55:21 WIB", "mint": "8VWH6ntFczuCzTgGeNVarnRDfi6utetSBn3JfTLxpump", "sym": "pode", "reason": "vol1h 418<40k"}
-{"t": "2026-11-26 08:55:23 WIB", "mint": "FeBG8AEG4j7LT7xQF38gPXQFBRBtXBTNzhZjSa3bpump", "sym": "Nala", "reason": "vol1h 15<40k"}
-{"t": "2026-11-26 08:55:24 WIB", "mint": "9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump", "sym": "enu", "reason": "vol1h 1749<40k"}
-{"t": "2026-11-26 08:56:11 WIB", "mint": "BAijHvUiHCoCxApyYAUnz5g6LnizZXVYoHwdMarqTWtw", "sym": "TAXMAN", "reason": "liq 17084<20k"}
-{"t": "2026-11-26 08:56:13 WIB", "mint": "2teHT8jiwSLBw5MGmLe3JAoGMbkGGMQACq8VgjUSYete", "sym": "N1", "reason": "vol1h 0<40k"}
-{"t": "2026-11-26 08:56:59 WIB", "mint": "E3jahqz3Gk3Tc5wzwjzNxGUw2Rs3ZyVkXLwaCtsepump", "sym": "STUCK", "reason": "vol1h 441<40k"}
 {"t": "2026-11-26 08:57:01 WIB", "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump", "sym": "NORFEATH", "reason": "score 0.521<0.6"}
 {"t": "2026-11-26 08:57:03 WIB", "mint": "4rsKXnDbZ4iusgSC1DZKTRTHbCZsuYbBkowNicM1LGND", "sym": "URANUS", "reason": "vol1h 2746<40k"}
 {"t": "2026-11-26 08:57:49 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1215<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-26 09:06:40 WIB", "mint": "BWf4eXFYSj3eFMdQn7nDfAmnVMWVHygyu3rEN6Bcpump", "sym": "Togi", "reason": "vol1h 243<40k"}
 {"t": "2026-11-26 09:06:41 WIB", "mint": "FujCqe2JFQXPm2A1auAFTENkpzZyTYDwXqxBr76Mpump", "sym": "PippTop", "reason": "vol1h 20<40k"}
 {"t": "2026-11-26 09:08:58 WIB", "mint": "AuGHNhb2ZFz62CHpkzmTutqrh75dUVGN91yFEU3fpump", "sym": "THANKS", "reason": "vol1h 5655<40k"}
+{"t": "2026-11-26 09:12:02 WIB", "mint": "AqNAfcg8AkidVLLE7Tszh2PjUGzgaKvJskDXQXRHpump", "sym": "Slapcat", "reason": "vol1h 1388<40k"}
+{"t": "2026-11-26 09:12:04 WIB", "mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump", "sym": "PUMPCHAN", "reason": "top10 40.4%>25"}
+{"t": "2026-11-26 09:12:51 WIB", "mint": "HRJCkCjkS7nJL1fGwfUZbfDAV2LTM5H5vVnMuw3EVZoF", "sym": "SAYLAR", "reason": "vol1h 2<40k"}
+{"t": "2026-11-26 09:13:38 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 2860<40k"}
+{"t": "2026-11-26 09:14:24 WIB", "mint": "G8q8PCEvzTmnrWgLovHSGMvGsFoqZiaQ2yyzmp7NxJBF", "sym": "BLOCK0", "reason": "vol1h 3043<40k"}
+{"t": "2026-11-26 09:14:26 WIB", "mint": "5CPiu3nmhYWWnj6BfebvMzqqwPUBm8UzBtNGW4cEpump", "sym": "Pumpcat", "reason": "score 0.463<0.6"}
