@@ -15541,3 +15541,5 @@
 {"t": "2026-11-26 16:45:28 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "vol1h 15836<40k"}
 {"t": "2026-11-26 16:45:30 WIB", "mint": "EGiRRwVAKQrD8gk7e4hNyPCRormANKiNo5uKtY46pump", "sym": "IShowSpace", "reason": "liq 5292<20k"}
 {"t": "2026-11-26 16:45:31 WIB", "mint": "GseubmYS1ARwxkMwgyYns1wQjuXba1gSJWpJDsNDpump", "sym": "ANON", "reason": "liq 0<20k"}
+{"t": "2026-11-26 16:47:48 WIB", "mint": "ZP4J8fNk7FC3iDUPAWd8TX6q8CkVVuSeJgnHCvpPSae", "sym": "Sae", "reason": "vol1h 8381<40k"}
+{"t": "2026-11-26 16:48:35 WIB", "mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump", "sym": "PUMPCHAN", "reason": "top10 27.2%>25"}
