@@ -15052,3 +15052,12 @@
 {"t": "2026-11-26 11:55:49 WIB", "mint": "GHcow7qoqNrkwbfVEsySwZR98kbyPrehit8E1u6vpump", "sym": "coin", "reason": "liq 0<20k"}
 {"t": "2026-11-26 11:56:36 WIB", "mint": "4VMwK3shXxsaMbiJ4qtBMMEgi63riezBSWFHfA6Vpump", "sym": "FRITZ", "reason": "liq 19275<20k"}
 {"t": "2026-11-26 11:58:07 WIB", "mint": "7ACq9bgHPCT33TWC6yaxLX5CfNQBbFachy9xKD7Spump", "sym": "$XMAS", "reason": "vol1h 1535<40k"}
+{"t": "2026-11-26 11:58:54 WIB", "mint": "8VWH6ntFczuCzTgGeNVarnRDfi6utetSBn3JfTLxpump", "sym": "pode", "reason": "vol1h 302<40k"}
+{"t": "2026-11-26 11:58:55 WIB", "mint": "FeBG8AEG4j7LT7xQF38gPXQFBRBtXBTNzhZjSa3bpump", "sym": "Nala", "reason": "vol1h 1<40k"}
+{"t": "2026-11-26 11:58:57 WIB", "mint": "9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump", "sym": "enu", "reason": "vol1h 7548<40k"}
+{"t": "2026-11-26 11:59:44 WIB", "mint": "2teHT8jiwSLBw5MGmLe3JAoGMbkGGMQACq8VgjUSYete", "sym": "N1", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 12:00:30 WIB", "mint": "E3jahqz3Gk3Tc5wzwjzNxGUw2Rs3ZyVkXLwaCtsepump", "sym": "STUCK", "reason": "vol1h 87<40k"}
+{"t": "2026-11-26 12:00:32 WIB", "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump", "sym": "NORFEATH", "reason": "score 0.493<0.6"}
+{"t": "2026-11-26 12:00:34 WIB", "mint": "6mctjLR559n8vWzmcm2Wj72xYSvcm8og3cFGy3RXpump", "sym": "wocket", "reason": "liq 0<20k"}
+{"t": "2026-11-26 12:01:20 WIB", "mint": "BbC8hVHJ2bo6xFcGh2X6zcMiv1T1rznQd3qWoxXApump", "sym": "TEEETHY", "reason": "liq 18701<20k"}
+{"t": "2026-11-26 12:01:22 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1010<40k"}
