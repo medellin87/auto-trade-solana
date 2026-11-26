@@ -16209,3 +16209,6 @@
 {"t": "2026-11-27 00:47:29 WIB", "mint": "FRkDqw9RBbFLGZDZ4z8D8yszkqA49Mejpzy9vqWtpump", "sym": "FINANCIAL", "reason": "vol1h 3155<40k"}
 {"t": "2026-11-27 00:48:15 WIB", "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump", "sym": "Grodia", "reason": "vol1h 7<40k"}
 {"t": "2026-11-27 00:49:02 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 4505<40k"}
+{"t": "2026-11-27 00:52:03 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 37955<40k"}
+{"t": "2026-11-27 00:52:50 WIB", "mint": "JwTzPo7DYeyyfPT1MNZnEuyn69F3gT69uL3FvR3FPBG", "sym": "OROS", "reason": "vol1h 5328<40k"}
+{"t": "2026-11-27 00:52:52 WIB", "mint": "FLkBshUoapVVxZTvn9R4TLRCE5bS3Jk7GMRFoATGpump", "sym": "PVE", "reason": "liq 0<20k"}
