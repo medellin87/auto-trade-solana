@@ -15908,3 +15908,5 @@
 {"t": "2026-11-26 21:12:13 WIB", "mint": "AbWPbp81iJHvBTYyWx8wwpMmV8WTKEP24b1JKdBcpump", "sym": "DOMO", "reason": "liq 0<20k"}
 {"t": "2026-11-26 21:12:15 WIB", "mint": "9uEQhrKhf9WqJwvW4sZeSQPGgzGhnTEri9ZNeYaURbid", "sym": "NOR", "reason": "vol1h 13420<40k"}
 {"t": "2026-11-26 21:12:16 WIB", "mint": "AC6jhfpFFFYUciEX563ouCiMCZTxvDi1mr6zXhAMogog", "sym": "OG", "reason": "vol1h 88<40k"}
+{"t": "2026-11-26 21:14:34 WIB", "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump", "sym": "Grodia", "reason": "score 0.328<0.6"}
+{"t": "2026-11-26 21:14:35 WIB", "mint": "HkPSDYRcw4uqgRzZMDd5sRnMpE4ungR1K8MRNXnBVtQ2", "sym": "Legatum", "reason": "liq 13182<20k"}
