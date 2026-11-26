@@ -16002,3 +16002,9 @@
 {"t": "2026-11-26 22:22:33 WIB", "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump", "sym": "MONA", "reason": "liq 0<20k"}
 {"t": "2026-11-26 22:24:04 WIB", "mint": "GPiHbgbvWbZHKQiVf1v8AupAuST3mqSv3zb2SBJULGND", "sym": "LGND", "reason": "vol1h 753<40k"}
 {"t": "2026-11-26 22:26:21 WIB", "mint": "8yYpzQRLQ1T9t8sXj2FaKtoL2QSh2NCahnZdmxbNpump", "sym": "YARL", "reason": "vol1h 39313<40k"}
+{"t": "2026-11-26 22:28:38 WIB", "mint": "EMd4HYWqkQvnmSAor4H44VM4D8ARzcTxsXsYTKazpump", "sym": "KOMARI", "reason": "vol1h 27<40k"}
+{"t": "2026-11-26 22:28:42 WIB", "mint": "FLxvrdAbtd5FZz4Z72oVpQw1AL5DQ2QXTTNQqwEFpump", "sym": "MONA", "reason": "vol1h 2213<40k"}
+{"t": "2026-11-26 22:29:28 WIB", "mint": "pErp4F6HFJkZeEBq23DY8LKv2zcQLuR3SEd21cSFt7F", "sym": "PERPS", "reason": "vol1h 33020<40k"}
+{"t": "2026-11-26 22:29:30 WIB", "mint": "HBtEuBpSuFbLLwdjv4iDQurFFrJJ3Vn655LgkTgTpump", "sym": "Weila", "reason": "vol1h 23937<40k"}
+{"t": "2026-11-26 22:31:02 WIB", "mint": "HnbAKrRF9SM4QNb5o7nGJNcpjdkTyCR2M6pWgjiqpump", "sym": "Simyo", "reason": "liq 17353<20k"}
+{"t": "2026-11-26 22:31:03 WIB", "mint": "BSMz6chW26adx25hkfRZvmTSu6q4d3ieixPx73hQpump", "sym": "Irochan", "reason": "liq 1620<20k"}
