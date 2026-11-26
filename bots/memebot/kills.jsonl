@@ -15842,3 +15842,6 @@
 {"t": "2026-11-26 20:22:14 WIB", "mint": "GPiHbgbvWbZHKQiVf1v8AupAuST3mqSv3zb2SBJULGND", "sym": "LGND", "reason": "vol1h 1359<40k"}
 {"t": "2026-11-26 20:24:31 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 3284<40k"}
 {"t": "2026-11-26 20:24:33 WIB", "mint": "EwG6wyBjGwyaignVPF41HMV4FDQBXqubWT5Afkzmera", "sym": "MERA", "reason": "vol1h 801<40k"}
+{"t": "2026-11-26 20:25:19 WIB", "mint": "CSuqK3KiUJJUbSvrxbb97EyENxz4t2hZTrnWYzojpump", "sym": "FLOW", "reason": "liq 0<20k"}
+{"t": "2026-11-26 20:25:23 WIB", "mint": "7juwdhNyZ1YT5hRmF7kSGrxcpAGyFomi5mMbW8uEpump", "sym": "KOMARI", "reason": "top10 33.1%>25"}
+{"t": "2026-11-26 20:26:10 WIB", "mint": "6hnhTWJUYeePGkme2ztvxoFvQopnDeWJep945RpJpump", "sym": "hep", "reason": "vol1h 23482<40k"}
