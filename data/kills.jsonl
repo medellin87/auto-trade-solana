@@ -1,7 +1,3 @@
-{"t": "2026-11-26 08:26:56 WIB", "mint": "7DaaJcGafFTbxsGFZWhzq4MSJhuhhK2FLcu3oUAvpump", "sym": "TAX", "reason": "vol1h 393<40k"}
-{"t": "2026-11-26 08:26:58 WIB", "mint": "3r8aZCBKrj2XxfiF2GeYmNkuE6JxPE1zJ62XDFDGpump", "sym": "NAOMI", "reason": "vol1h 798<40k"}
-{"t": "2026-11-26 08:27:44 WIB", "mint": "GRXSoGBqmTkS78Rrvm8QyBJH9XMe8562eZojzHj2pump", "sym": "Copyinu", "reason": "vol1h 908<40k"}
-{"t": "2026-11-26 08:27:46 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 756<40k"}
 {"t": "2026-11-26 08:28:32 WIB", "mint": "FVWXgqKp1sD5YtNL2LtYEyN52tPX1RrYSsNugvvfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-26 08:28:34 WIB", "mint": "9joQquDaC6Wr17hbUWHaoeC3sz2GnBkVGiFJaerVpump", "sym": "TSI", "reason": "vol1h 0<40k"}
 {"t": "2026-11-26 08:30:06 WIB", "mint": "4UMErmfmKzDCVmHrwBUbnDnbQnVKVYAcT7X5AdTkpump", "sym": "FUCKCANCER", "reason": "vol1h 438<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-26 08:42:02 WIB", "mint": "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump", "sym": "PUMPCHAN", "reason": "top10 60.0%>25"}
 {"t": "2026-11-26 08:42:48 WIB", "mint": "HRJCkCjkS7nJL1fGwfUZbfDAV2LTM5H5vVnMuw3EVZoF", "sym": "SAYLAR", "reason": "vol1h 19<40k"}
 {"t": "2026-11-26 08:43:35 WIB", "mint": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump", "sym": "HOGE", "reason": "vol1h 3260<40k"}
+{"t": "2026-11-26 08:44:22 WIB", "mint": "G8q8PCEvzTmnrWgLovHSGMvGsFoqZiaQ2yyzmp7NxJBF", "sym": "BLOCK0", "reason": "vol1h 5946<40k"}
+{"t": "2026-11-26 08:44:24 WIB", "mint": "5CPiu3nmhYWWnj6BfebvMzqqwPUBm8UzBtNGW4cEpump", "sym": "Pumpcat", "reason": "score 0.486<0.6"}
+{"t": "2026-11-26 08:46:41 WIB", "mint": "4EDZqQePCopYQDGBvyB4dk8E7KxpytZUyun2JqJHgF2n", "sym": "Inu", "reason": "liq 18762<20k"}
+{"t": "2026-11-26 08:46:42 WIB", "mint": "jjw6p8XwSXDqf9Ebze4vrkiaY89mhGsdB92KY4Lpump", "sym": "COIN", "reason": "vol1h 38629<40k"}
