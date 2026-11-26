@@ -19760,3 +19760,8 @@
 {"t": "2026-11-26 08:55:24 WIB", "mint": "9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump", "sym": "enu", "reason": "vol1h 1749<40k"}
 {"t": "2026-11-26 08:56:11 WIB", "mint": "BAijHvUiHCoCxApyYAUnz5g6LnizZXVYoHwdMarqTWtw", "sym": "TAXMAN", "reason": "liq 17084<20k"}
 {"t": "2026-11-26 08:56:13 WIB", "mint": "2teHT8jiwSLBw5MGmLe3JAoGMbkGGMQACq8VgjUSYete", "sym": "N1", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 08:56:59 WIB", "mint": "E3jahqz3Gk3Tc5wzwjzNxGUw2Rs3ZyVkXLwaCtsepump", "sym": "STUCK", "reason": "vol1h 441<40k"}
+{"t": "2026-11-26 08:57:01 WIB", "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump", "sym": "NORFEATH", "reason": "score 0.521<0.6"}
+{"t": "2026-11-26 08:57:03 WIB", "mint": "4rsKXnDbZ4iusgSC1DZKTRTHbCZsuYbBkowNicM1LGND", "sym": "URANUS", "reason": "vol1h 2746<40k"}
+{"t": "2026-11-26 08:57:49 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1215<40k"}
+{"t": "2026-11-26 08:58:36 WIB", "mint": "FVWXgqKp1sD5YtNL2LtYEyN52tPX1RrYSsNugvvfLoat", "sym": "?", "reason": "no solana pair"}
