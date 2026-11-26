@@ -15040,3 +15040,6 @@
 {"t": "2026-11-26 11:47:59 WIB", "mint": "4HS4oza8YdXCHTWP3ToCrPkYUm9Afv7aV3y6up5Upump", "sym": "KEKW", "reason": "vol1h 19479<40k"}
 {"t": "2026-11-26 11:48:01 WIB", "mint": "GGofisgFCBVnd9WGzx69C9KCzCTh7VJ5CLwKtUDtpump", "sym": "LOKI", "reason": "vol1h 7111<40k"}
 {"t": "2026-11-26 11:48:47 WIB", "mint": "BrL3NiwGELqWNsU8e3xUzeYtyk9sJXuzd79ViQcapump", "sym": "Jamtis", "reason": "vol1h 15573<40k"}
+{"t": "2026-11-26 11:51:04 WIB", "mint": "HkywsKMf5FDj7QpgRE3BoE2nJqJauxEVbGjpnYe6pump", "sym": "2", "reason": "liq 5235<20k"}
+{"t": "2026-11-26 11:51:06 WIB", "mint": "CMmfK9KFjFRPgAEkixMpchNnA5zTz7xYdQkSSc8Upump", "sym": "coin", "reason": "liq 2071<20k"}
+{"t": "2026-11-26 11:51:07 WIB", "mint": "67eH4F62kKZ45wfgWMRuu8GNCFP9kN6uFcNvJWBgpump", "sym": "RECORDEGG", "reason": "vol1h 30<40k"}
