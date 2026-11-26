@@ -1,7 +1,3 @@
-{"t": "2026-11-26 18:16:22 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "vol1h 10496<40k"}
-{"t": "2026-11-26 18:16:23 WIB", "mint": "HN9jRRCKuLNL3oSgNV1MBvd3Krg6TingFntJp1PSpump", "sym": "STRUCK", "reason": "liq 2279<20k"}
-{"t": "2026-11-26 18:18:40 WIB", "mint": "ZP4J8fNk7FC3iDUPAWd8TX6q8CkVVuSeJgnHCvpPSae", "sym": "Sae", "reason": "vol1h 3313<40k"}
-{"t": "2026-11-26 18:18:41 WIB", "mint": "Hnv5e4c8amHREbBDgzxGtaYPVSt7nhrW5AUNS6Q7pump", "sym": "CGBJ", "reason": "vol1h 3023<40k"}
 {"t": "2026-11-26 18:20:15 WIB", "mint": "8V76kWnur1i5qLpUVBWfhwT3cyxSoW9eA6MnR9Hppump", "sym": "TheLore", "reason": "vol1h 12063<40k"}
 {"t": "2026-11-26 18:20:17 WIB", "mint": "GPiHbgbvWbZHKQiVf1v8AupAuST3mqSv3zb2SBJULGND", "sym": "LGND", "reason": "vol1h 0<40k"}
 {"t": "2026-11-26 18:22:37 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 2075<40k"}
@@ -28,3 +24,7 @@
 {"t": "2026-11-26 18:38:57 WIB", "mint": "9baGGPuKCZNMP8iKPgkvGjt4j67U6gkSmzwPgETRpump", "sym": "ARTEX", "reason": "vol1h 163<40k"}
 {"t": "2026-11-26 18:38:58 WIB", "mint": "BKGidSAf6RkUUymQYYoN8ifm3VMsLkeFTocvza3Spump", "sym": "YEE", "reason": "vol1h 11<40k"}
 {"t": "2026-11-26 18:39:45 WIB", "mint": "AC6jhfpFFFYUciEX563ouCiMCZTxvDi1mr6zXhAMogog", "sym": "OG", "reason": "vol1h 6<40k"}
+{"t": "2026-11-26 18:41:16 WIB", "mint": "AfJBDMQ9NYtDssHK22xZ9v3SubrrR1kczzaQA1sQb5rB", "sym": "pnp-lean", "reason": "vol1h 2<40k"}
+{"t": "2026-11-26 18:41:18 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 10<40k"}
+{"t": "2026-11-26 18:42:05 WIB", "mint": "6HS1aeSk7osT5B1CzLp1HTRTAweFr5wurfMHS4vppump", "sym": "Grodia", "reason": "score 0.482<0.6"}
+{"t": "2026-11-26 18:42:52 WIB", "mint": "F4JRm4qE6UJesCPc4NPwJwosYqNGsFWoFGfZJe6zpump", "sym": "Saxon", "reason": "vol1h 74<40k"}
