@@ -15223,3 +15223,11 @@
 {"t": "2026-11-26 13:30:22 WIB", "mint": "FeBG8AEG4j7LT7xQF38gPXQFBRBtXBTNzhZjSa3bpump", "sym": "Nala", "reason": "vol1h 0<40k"}
 {"t": "2026-11-26 13:30:23 WIB", "mint": "9msLfYfXBrSbrApCZAPuPMCNmPqNtEL1VPKh1AEYpump", "sym": "enu", "reason": "vol1h 1963<40k"}
 {"t": "2026-11-26 13:31:10 WIB", "mint": "2teHT8jiwSLBw5MGmLe3JAoGMbkGGMQACq8VgjUSYete", "sym": "N1", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 13:31:56 WIB", "mint": "3EoToNPW4mifRCZrNFkk7pLe86vmeBqdqbW1TLPoqst5", "sym": "BLOCK0", "reason": "liq 10599<20k"}
+{"t": "2026-11-26 13:31:58 WIB", "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump", "sym": "NORFEATH", "reason": "score 0.445<0.6"}
+{"t": "2026-11-26 13:32:02 WIB", "mint": "3QVBSB2kuJiQ75Po8qq4eV7msNFo7jMn22wfKuCTpump", "sym": "Fug", "reason": "liq 0<20k"}
+{"t": "2026-11-26 13:32:03 WIB", "mint": "6mctjLR559n8vWzmcm2Wj72xYSvcm8og3cFGy3RXpump", "sym": "wocket", "reason": "vol1h 147<40k"}
+{"t": "2026-11-26 13:32:05 WIB", "mint": "E3jahqz3Gk3Tc5wzwjzNxGUw2Rs3ZyVkXLwaCtsepump", "sym": "STUCK", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 13:32:51 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 334<40k"}
+{"t": "2026-11-26 13:32:53 WIB", "mint": "BbC8hVHJ2bo6xFcGh2X6zcMiv1T1rznQd3qWoxXApump", "sym": "TEEETHY", "reason": "liq 15482<20k"}
+{"t": "2026-11-26 13:33:40 WIB", "mint": "9tVxVhKDmWLsG29CcfsAhLfgcZEkvemjB8TUDb4Wpump", "sym": "486", "reason": "vol1h 3451<40k"}
