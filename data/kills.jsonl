@@ -1,9 +1,3 @@
-{"t": "2026-11-26 18:34:10 WIB", "mint": "BKnuZTG1YVPi5DC9tUk5TH1mEgwAZgunnvrAx4Ycpump", "sym": "FUND", "reason": "vol1h 4750<40k"}
-{"t": "2026-11-26 18:34:57 WIB", "mint": "9zgrwK3S9Dv2gzsRJpM5cicFapKvsZ7n1425hYqspump", "sym": "PELAGO", "reason": "vol1h 2303<40k"}
-{"t": "2026-11-26 18:34:58 WIB", "mint": "55NtwqCTbV8T1uiAtVkvjyfG3aGxigBbqs7z8g9Apump", "sym": "BLOCKSIDE", "reason": "vol1h 8<40k"}
-{"t": "2026-11-26 18:35:00 WIB", "mint": "Gngq4r84xEJe5EssETLu9s9dhamSGTAWsmPbq7x2zjrt", "sym": "NUBU", "reason": "liq 15284<20k"}
-{"t": "2026-11-26 18:36:32 WIB", "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump", "sym": "NORFEATH", "reason": "score 0.508<0.6"}
-{"t": "2026-11-26 18:37:19 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 25355<40k"}
 {"t": "2026-11-26 18:37:20 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 11<40k"}
 {"t": "2026-11-26 18:38:07 WIB", "mint": "DG2EJSEtPBge5F7zBCTZG78p27LTCiq8tUkJ39qupump", "sym": "duk", "reason": "vol1h 18341<40k"}
 {"t": "2026-11-26 18:38:08 WIB", "mint": "9tVxVhKDmWLsG29CcfsAhLfgcZEkvemjB8TUDb4Wpump", "sym": "486", "reason": "vol1h 5649<40k"}
@@ -28,3 +22,9 @@
 {"t": "2026-11-26 18:50:43 WIB", "mint": "8V76kWnur1i5qLpUVBWfhwT3cyxSoW9eA6MnR9Hppump", "sym": "TheLore", "reason": "vol1h 16298<40k"}
 {"t": "2026-11-26 18:50:44 WIB", "mint": "GPiHbgbvWbZHKQiVf1v8AupAuST3mqSv3zb2SBJULGND", "sym": "LGND", "reason": "vol1h 0<40k"}
 {"t": "2026-11-26 18:52:16 WIB", "mint": "HdRPR3nqkNCt98DWQqDdfkRHDc1NFsgCJVbfXRnppump", "sym": "konnichiwa", "reason": "liq 13583<20k"}
+{"t": "2026-11-26 18:53:03 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 2768<40k"}
+{"t": "2026-11-26 18:53:49 WIB", "mint": "E6gZFbJ8cmz7bD7djSc1mAJk23Akq69H1H4WJZaopump", "sym": "Riku", "reason": "liq 0<20k"}
+{"t": "2026-11-26 18:54:36 WIB", "mint": "HaQsAL1wUyKGpPPnxs69gs4862japa4gTUiwiLhApump", "sym": "Yaranaika", "reason": "liq 0<20k"}
+{"t": "2026-11-26 18:55:22 WIB", "mint": "3C1f335V1FoPwL8ti8D7FU2X77MCDDQw181hizbDpump", "sym": "fair", "reason": "vol1h 1<40k"}
+{"t": "2026-11-26 18:55:24 WIB", "mint": "8Ad3aqTGrtudBTyXbdiVp3oq8sxYee1NKJqeKd3AKJ9M", "sym": "crack", "reason": "liq 0<20k"}
+{"t": "2026-11-26 18:55:26 WIB", "mint": "9bj8yMQ3gZ36cd2d4efU49dqZsaw3gA6CCaWrbKmpump", "sym": "Oro", "reason": "vol1h 6911<40k"}
