@@ -15926,3 +15926,8 @@
 {"t": "2026-11-26 21:27:46 WIB", "mint": "FLxvrdAbtd5FZz4Z72oVpQw1AL5DQ2QXTTNQqwEFpump", "sym": "MONA", "reason": "liq 0<20k"}
 {"t": "2026-11-26 21:28:32 WIB", "mint": "pErp4F6HFJkZeEBq23DY8LKv2zcQLuR3SEd21cSFt7F", "sym": "PERPS", "reason": "vol1h 22577<40k"}
 {"t": "2026-11-26 21:28:34 WIB", "mint": "HBtEuBpSuFbLLwdjv4iDQurFFrJJ3Vn655LgkTgTpump", "sym": "Weila", "reason": "vol1h 19565<40k"}
+{"t": "2026-11-26 21:30:08 WIB", "mint": "BSMz6chW26adx25hkfRZvmTSu6q4d3ieixPx73hQpump", "sym": "Irochan", "reason": "liq 14990<20k"}
+{"t": "2026-11-26 21:30:54 WIB", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "sym": "GTA6", "reason": "vol1h 3459<40k"}
+{"t": "2026-11-26 21:30:56 WIB", "mint": "4vbuokfGdjPdbs2sNZLyR375L9qeMghwjsEEtXfEpump", "sym": "PI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 21:30:57 WIB", "mint": "B5aqaiWPaFyQWMg3p3mB6aAfakEW2RMD42VyXFi1ppXp", "sym": "pairless", "reason": "liq 0<20k"}
+{"t": "2026-11-26 21:32:29 WIB", "mint": "5pswAegKUrQF3yLfBAm35p7xHnBU8vtvi262mWtupump", "sym": "FIRE", "reason": "vol1h 39846<40k"}
