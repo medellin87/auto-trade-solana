@@ -15023,3 +15023,6 @@
 {"t": "2026-11-26 11:39:16 WIB", "mint": "BWf4eXFYSj3eFMdQn7nDfAmnVMWVHygyu3rEN6Bcpump", "sym": "Togi", "reason": "vol1h 1<40k"}
 {"t": "2026-11-26 11:39:18 WIB", "mint": "XY5WnBs9GBN51ayWbiaSKmiwk5ZqKoFh9enHXuPpump", "sym": "MEMO", "reason": "liq 1529<20k"}
 {"t": "2026-11-26 11:39:19 WIB", "mint": "FujCqe2JFQXPm2A1auAFTENkpzZyTYDwXqxBr76Mpump", "sym": "PippTop", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 11:41:36 WIB", "mint": "CK5VrtRsBXjjGnr5RbdxPXaDixim5s6XMEWN29rXdLiQ", "sym": "LIQ", "reason": "vol1h 7768<40k"}
+{"t": "2026-11-26 11:43:08 WIB", "mint": "2xoJEBPrfhNm6DbrUHj4EvMyZKEEZgXHxEK9DNXxpump", "sym": "Bull", "reason": "liq 0<20k"}
+{"t": "2026-11-26 11:43:09 WIB", "mint": "34J9VrBeJ2dWActyAMpoNBKvoxZCqQz3SivmnnmSTUds", "sym": "STUDS", "reason": "vol1h 2500<40k"}
