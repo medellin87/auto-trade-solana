@@ -1,6 +1,3 @@
-{"t": "2026-11-27 06:33:31 WIB", "mint": "8m8bBvWiHi7VDP36bjQ8cdhMnnQUJTAhp3QxEYBApump", "sym": "GIB", "reason": "vol1h 0<40k"}
-{"t": "2026-11-27 06:34:18 WIB", "mint": "DxyHxFJ8McXaTha1Go5raWDVEP4fSWhtqxPJesNKjsXt", "sym": "PB", "reason": "vol1h 3459<40k"}
-{"t": "2026-11-27 06:34:20 WIB", "mint": "E4ZnLtSmEjUvnWCL56fRHK4SHxYVZndB9Y3242DRpump", "sym": "CHAIN95", "reason": "vol1h 867<40k"}
 {"t": "2026-11-27 06:35:06 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 327<40k"}
 {"t": "2026-11-27 06:35:53 WIB", "mint": "A28uKeoB79ksfCarcDuJzaqE4LqJenPHxxPRR2nApump", "sym": "COOLS", "reason": "vol1h 2539<40k"}
 {"t": "2026-11-27 06:35:54 WIB", "mint": "FxWDDcxosMaRnFRzzDQisFjN4a5Gip5ECs7MtsQYFLoW", "sym": "FLOW", "reason": "liq 12835<20k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-27 06:50:01 WIB", "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump", "sym": "CINU", "reason": "score 0.45<0.6"}
 {"t": "2026-11-27 06:50:02 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1177<40k"}
 {"t": "2026-11-27 06:50:04 WIB", "mint": "B41wDynVRaPDrQjTMCospcAdd4mUkx9i7Btgacppump", "sym": "CREDITS", "reason": "vol1h 4588<40k"}
+{"t": "2026-11-27 06:50:50 WIB", "mint": "6ppi7LfHkAhHkQwS3kT1zjCsGYQyK4uvpp3pE6Xmpump", "sym": "CRAB", "reason": "vol1h 3<40k"}
+{"t": "2026-11-27 06:51:37 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "vol1h 30946<40k"}
+{"t": "2026-11-27 06:53:09 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 1031<40k"}
