@@ -15883,3 +15883,6 @@
 {"t": "2026-11-26 20:54:59 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 4547<40k"}
 {"t": "2026-11-26 20:55:01 WIB", "mint": "8yYpzQRLQ1T9t8sXj2FaKtoL2QSh2NCahnZdmxbNpump", "sym": "YARL", "reason": "vol1h 27670<40k"}
 {"t": "2026-11-26 20:55:48 WIB", "mint": "7juwdhNyZ1YT5hRmF7kSGrxcpAGyFomi5mMbW8uEpump", "sym": "KOMARI", "reason": "liq 1420<20k"}
+{"t": "2026-11-26 20:56:34 WIB", "mint": "6hnhTWJUYeePGkme2ztvxoFvQopnDeWJep945RpJpump", "sym": "hep", "reason": "liq 2944<20k"}
+{"t": "2026-11-26 20:57:21 WIB", "mint": "EMd4HYWqkQvnmSAor4H44VM4D8ARzcTxsXsYTKazpump", "sym": "KOMARI", "reason": "top10 27.9%>25"}
+{"t": "2026-11-26 20:57:23 WIB", "mint": "FLxvrdAbtd5FZz4Z72oVpQw1AL5DQ2QXTTNQqwEFpump", "sym": "MONA", "reason": "vol1h 36602<40k"}
