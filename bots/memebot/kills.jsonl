@@ -16230,3 +16230,6 @@
 {"t": "2026-11-27 01:00:49 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 1<40k"}
 {"t": "2026-11-27 01:01:36 WIB", "mint": "7HgfXftRBBqsYtAEYcqjGLQrNJLL6Tww9ek4rE3Apump", "sym": "RKC", "reason": "vol1h 400<40k"}
 {"t": "2026-11-27 01:01:37 WIB", "mint": "8LbBWesEQ5myfamxhxHtZ295RbvDigqSj2iCYex5pump", "sym": "Kuro", "reason": "liq 9914<20k"}
+{"t": "2026-11-27 01:04:39 WIB", "mint": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz", "sym": "GTA6", "reason": "vol1h 3628<40k"}
+{"t": "2026-11-27 01:04:41 WIB", "mint": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump", "sym": "JIMMY", "reason": "score 0.447<0.6"}
+{"t": "2026-11-27 01:04:42 WIB", "mint": "7sxuap7Q4uoAJFBW3ensq6QTa2KwgGosfFwoeXtJpump", "sym": "Kuro", "reason": "liq 1359<20k"}
