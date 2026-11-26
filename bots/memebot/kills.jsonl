@@ -15724,3 +15724,9 @@
 {"t": "2026-11-26 19:02:21 WIB", "mint": "FokVFH6mDsazoKbtnUaA2FRMsRbDSwZhNfn17Fdvpump", "sym": "Maru", "reason": "liq 12534<20k"}
 {"t": "2026-11-26 19:03:07 WIB", "mint": "AzdGMaqnwsTPUTKVn8w5gh9BTX9AcNYio3LXiSM1pump", "sym": "DUE", "reason": "vol1h 11320<40k"}
 {"t": "2026-11-26 19:04:39 WIB", "mint": "BKnuZTG1YVPi5DC9tUk5TH1mEgwAZgunnvrAx4Ycpump", "sym": "FUND", "reason": "vol1h 2772<40k"}
+{"t": "2026-11-26 19:05:26 WIB", "mint": "9zgrwK3S9Dv2gzsRJpM5cicFapKvsZ7n1425hYqspump", "sym": "PELAGO", "reason": "vol1h 105<40k"}
+{"t": "2026-11-26 19:05:27 WIB", "mint": "Gngq4r84xEJe5EssETLu9s9dhamSGTAWsmPbq7x2zjrt", "sym": "NUBU", "reason": "liq 2048<20k"}
+{"t": "2026-11-26 19:06:59 WIB", "mint": "AQersggvEZo11i1yWPfBGkBguEY8iwvN5NgavorGpump", "sym": "ASCEND", "reason": "liq 0<20k"}
+{"t": "2026-11-26 19:07:01 WIB", "mint": "3gmFG4sFDJErDV8pacFrL2uUPXeGJTYLjfRy4hFypump", "sym": "NORFEATH", "reason": "score 0.519<0.6"}
+{"t": "2026-11-26 19:07:47 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 12124<40k"}
+{"t": "2026-11-26 19:07:49 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 44<40k"}
