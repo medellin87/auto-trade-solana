@@ -16394,3 +16394,7 @@
 {"t": "2026-11-27 02:46:29 WIB", "mint": "F7dG1t56z9oJpyM3eVs4PgTUDgU2KHcCumABWUxpump", "sym": "SUNDANCE", "reason": "liq 0<20k"}
 {"t": "2026-11-27 02:46:31 WIB", "mint": "6ppi7LfHkAhHkQwS3kT1zjCsGYQyK4uvpp3pE6Xmpump", "sym": "CRAB", "reason": "vol1h 2<40k"}
 {"t": "2026-11-27 02:46:32 WIB", "mint": "ADh8QVLjJzDYVcrE2tZjogozLfz9tCDYsroSaGr5tvRX", "sym": "Snowball", "reason": "vol1h 442<40k"}
+{"t": "2026-11-27 02:47:19 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "vol1h 10612<40k"}
+{"t": "2026-11-27 02:48:05 WIB", "mint": "ygyU5YDcRBWPDScQ96cSh6toTxmeqLXrxLY3hXopump", "sym": "zBRA", "reason": "liq 2458<20k"}
+{"t": "2026-11-27 02:48:52 WIB", "mint": "BJvb2NzHwTbTK64qvarRutp48qicwEWUCHmnpidJYBMb", "sym": "bbtc", "reason": "vol1h 44<40k"}
+{"t": "2026-11-27 02:49:39 WIB", "mint": "FRkDqw9RBbFLGZDZ4z8D8yszkqA49Mejpzy9vqWtpump", "sym": "FINANCIAL", "reason": "vol1h 223<40k"}
