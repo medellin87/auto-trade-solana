@@ -16099,3 +16099,10 @@
 {"t": "2026-11-26 23:39:01 WIB", "mint": "97NbNmNBgSxbPy5jdSSBRr4xhGuenatoZqNkoTyvpump", "sym": "call.fun", "reason": "liq 0<20k"}
 {"t": "2026-11-26 23:39:02 WIB", "mint": "BKnuZTG1YVPi5DC9tUk5TH1mEgwAZgunnvrAx4Ycpump", "sym": "FUND", "reason": "vol1h 102<40k"}
 {"t": "2026-11-26 23:39:04 WIB", "mint": "8avMqRAbCYQbsenPZHdaA8yzWtFDJX3uk6A8fsZmpump", "sym": "TURKE", "reason": "vol1h 935<40k"}
+{"t": "2026-11-26 23:39:50 WIB", "mint": "DTLJXMxGdD1tMhKXurxbS7aqX3j79YkCkGQsQu5Zpump", "sym": "xmascoin", "reason": "vol1h 5897<40k"}
+{"t": "2026-11-26 23:39:52 WIB", "mint": "5CkhT7QXcXLQWGKh5h7CcQMv6a4nkfiYTqotnsHTpump", "sym": "KROSHIK", "reason": "vol1h 5320<40k"}
+{"t": "2026-11-26 23:39:53 WIB", "mint": "BPezJKhz5aTPmP267kpNJFjnjsCYL3N8qZgEpDJSpump", "sym": "PP", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 23:41:25 WIB", "mint": "ASQAXq3M6N7WKJHdKNFUJMPfRcBCfpjR6qXFRnNjHPAY", "sym": "HPAY", "reason": "vol1h 1848<40k"}
+{"t": "2026-11-26 23:42:12 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 3604<40k"}
+{"t": "2026-11-26 23:42:13 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2884<40k"}
+{"t": "2026-11-26 23:42:15 WIB", "mint": "5k3dzHrSYuNtPQozWanmvYb6HGG9qxma1pkY4iGzpump", "sym": "hodl", "reason": "vol1h 37503<40k"}
