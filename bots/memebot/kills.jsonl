@@ -15620,3 +15620,9 @@
 {"t": "2026-11-26 17:43:09 WIB", "mint": "8BDkDfj3ZUvcG9caGzF2XnHfwg7K6fjfKKDvX6SCpump", "sym": "WIENER", "reason": "vol1h 3<40k"}
 {"t": "2026-11-26 17:43:10 WIB", "mint": "8sKGQVyg653njPq21kQBzcsfLwbm6bQceQfpzAcWpump", "sym": "SI", "reason": "vol1h 27<40k"}
 {"t": "2026-11-26 17:43:12 WIB", "mint": "3wYjTDMrX6Q8z9SRtaJNhgXh21DbRJt1iYaQ8LQ3pump", "sym": "Ponzi", "reason": "vol1h 28404<40k"}
+{"t": "2026-11-26 17:45:28 WIB", "mint": "4gBTV6zoyY7JkFtCqa6dyRhURxQc95okLVCrAvQo7EDJ", "sym": "RSA", "reason": "liq 0<20k"}
+{"t": "2026-11-26 17:45:30 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 36901<40k"}
+{"t": "2026-11-26 17:46:16 WIB", "mint": "DfkdLPWfGUbCmdPPPtir7ZzyW1pEfTPFbBdecL5hpump", "sym": "DUNESDAY", "reason": "vol1h 174<40k"}
+{"t": "2026-11-26 17:46:18 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "vol1h 10831<40k"}
+{"t": "2026-11-26 17:46:19 WIB", "mint": "EGiRRwVAKQrD8gk7e4hNyPCRormANKiNo5uKtY46pump", "sym": "IShowSpace", "reason": "vol1h 6837<40k"}
+{"t": "2026-11-26 17:46:21 WIB", "mint": "HN9jRRCKuLNL3oSgNV1MBvd3Krg6TingFntJp1PSpump", "sym": "STRUCK", "reason": "liq 2099<20k"}
