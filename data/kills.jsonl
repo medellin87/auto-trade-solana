@@ -1,8 +1,3 @@
-{"t": "2026-11-26 17:48:17 WIB", "mint": "ZP4J8fNk7FC3iDUPAWd8TX6q8CkVVuSeJgnHCvpPSae", "sym": "Sae", "reason": "vol1h 5644<40k"}
-{"t": "2026-11-26 17:48:18 WIB", "mint": "Hnv5e4c8amHREbBDgzxGtaYPVSt7nhrW5AUNS6Q7pump", "sym": "CGBJ", "reason": "vol1h 8981<40k"}
-{"t": "2026-11-26 17:49:52 WIB", "mint": "GPiHbgbvWbZHKQiVf1v8AupAuST3mqSv3zb2SBJULGND", "sym": "LGND", "reason": "vol1h 34<40k"}
-{"t": "2026-11-26 17:51:24 WIB", "mint": "HdRPR3nqkNCt98DWQqDdfkRHDc1NFsgCJVbfXRnppump", "sym": "konnichiwa", "reason": "liq 17919<20k"}
-{"t": "2026-11-26 17:52:10 WIB", "mint": "CcpN5RXTEjbRqbtuHoxyiMZorzsghbfpeyYQjSvTgS27", "sym": "Santa", "reason": "vol1h 3573<40k"}
 {"t": "2026-11-26 17:54:27 WIB", "mint": "3C1f335V1FoPwL8ti8D7FU2X77MCDDQw181hizbDpump", "sym": "fair", "reason": "vol1h 0<40k"}
 {"t": "2026-11-26 17:54:29 WIB", "mint": "8Ad3aqTGrtudBTyXbdiVp3oq8sxYee1NKJqeKd3AKJ9M", "sym": "crack", "reason": "vol1h 19567<40k"}
 {"t": "2026-11-26 17:54:30 WIB", "mint": "9bj8yMQ3gZ36cd2d4efU49dqZsaw3gA6CCaWrbKmpump", "sym": "Oro", "reason": "liq 1819<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-26 18:10:48 WIB", "mint": "AfJBDMQ9NYtDssHK22xZ9v3SubrrR1kczzaQA1sQb5rB", "sym": "pnp-lean", "reason": "vol1h 17<40k"}
 {"t": "2026-11-26 18:10:50 WIB", "mint": "9Eu7WS2WqzQ4jvW4zXH7PaxDH8rpNDUrLuHKrUbbpump", "sym": "VIOLA", "reason": "vol1h 102<40k"}
 {"t": "2026-11-26 18:12:23 WIB", "mint": "F4JRm4qE6UJesCPc4NPwJwosYqNGsFWoFGfZJe6zpump", "sym": "Saxon", "reason": "vol1h 32333<40k"}
+{"t": "2026-11-26 18:13:10 WIB", "mint": "Bnw5JRPek5JvJhzUiB9yrs2cmzt4bLeFqSRzDzSppump", "sym": "UHI", "reason": "score 0.404<0.6"}
+{"t": "2026-11-26 18:13:12 WIB", "mint": "8BDkDfj3ZUvcG9caGzF2XnHfwg7K6fjfKKDvX6SCpump", "sym": "WIENER", "reason": "vol1h 0<40k"}
+{"t": "2026-11-26 18:13:14 WIB", "mint": "3wYjTDMrX6Q8z9SRtaJNhgXh21DbRJt1iYaQ8LQ3pump", "sym": "Ponzi", "reason": "vol1h 21<40k"}
+{"t": "2026-11-26 18:15:30 WIB", "mint": "4gBTV6zoyY7JkFtCqa6dyRhURxQc95okLVCrAvQo7EDJ", "sym": "RSA", "reason": "liq 0<20k"}
+{"t": "2026-11-26 18:15:32 WIB", "mint": "9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump", "sym": "DIGS", "reason": "vol1h 36267<40k"}
