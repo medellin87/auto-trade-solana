@@ -15998,3 +15998,6 @@
 {"t": "2026-11-26 22:20:11 WIB", "mint": "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump", "sym": "FIONA", "reason": "score 0.503<0.6"}
 {"t": "2026-11-26 22:21:43 WIB", "mint": "2rRPzRejo3z8mEopq6Pm5VbTZCQCCNKiRZeKtcfLpump", "sym": "GROKIRA", "reason": "vol1h 979<40k"}
 {"t": "2026-11-26 22:21:44 WIB", "mint": "28CHojUCrapfuLZZAvuNUVmJfmHrTQcnuz596X1Epump", "sym": "sel", "reason": "vol1h 10171<40k"}
+{"t": "2026-11-26 22:22:31 WIB", "mint": "FKExXiBXL3K5Z1MhkVoE3hJsEJQkGp1gEc1MxUhdKCMS", "sym": "FRIES", "reason": "vol1h 235<40k"}
+{"t": "2026-11-26 22:22:33 WIB", "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump", "sym": "MONA", "reason": "liq 0<20k"}
+{"t": "2026-11-26 22:24:04 WIB", "mint": "GPiHbgbvWbZHKQiVf1v8AupAuST3mqSv3zb2SBJULGND", "sym": "LGND", "reason": "vol1h 753<40k"}
