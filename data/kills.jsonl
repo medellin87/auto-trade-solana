@@ -1,10 +1,3 @@
-{"t": "2026-11-27 10:49:57 WIB", "mint": "EFXC6P572dNJgN8heXwd2uDcF5wn2fgA124jLhVspump", "sym": "$Fusion", "reason": "vol1h 0<40k"}
-{"t": "2026-11-27 10:50:43 WIB", "mint": "FDJfGGPSw9jJ8JRnQW62GLGekjUHKDxdeA9kh27Tpump", "sym": "fomoDay", "reason": "liq 1737<20k"}
-{"t": "2026-11-27 10:53:45 WIB", "mint": "25m4Lkct8nsYyqAMeE8rvjM3y5Zrrax46TLqNJjbpump", "sym": "urcoin", "reason": "vol1h 1411<40k"}
-{"t": "2026-11-27 10:54:11 WIB", "mint": "77iw79xUzrzzvsc4Tt52EEZz6V1dqxaSGh3pqj7Vpump", "sym": "PLAYGROUND", "reason": "liq 5734<20k"}
-{"t": "2026-11-27 10:54:13 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 529<40k"}
-{"t": "2026-11-27 10:54:14 WIB", "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump", "sym": "CINU", "reason": "vol1h 6651<40k"}
-{"t": "2026-11-27 10:54:16 WIB", "mint": "B41wDynVRaPDrQjTMCospcAdd4mUkx9i7Btgacppump", "sym": "CREDITS", "reason": "vol1h 8053<40k"}
 {"t": "2026-11-27 10:55:02 WIB", "mint": "6ppi7LfHkAhHkQwS3kT1zjCsGYQyK4uvpp3pE6Xmpump", "sym": "CRAB", "reason": "vol1h 0<40k"}
 {"t": "2026-11-27 10:55:49 WIB", "mint": "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump", "sym": "MOSTO", "reason": "vol1h 7922<40k"}
 {"t": "2026-11-27 10:55:51 WIB", "mint": "D3PSUeS11AQNgpfX8GRFdXfVzZwmNanPX9MdGKyHpump", "sym": "WAHA", "reason": "vol1h 77<40k"}
@@ -28,3 +21,10 @@
 {"t": "2026-11-27 11:11:29 WIB", "mint": "D4Yzbzb2McHfYYwCe3hsFtEXdZ2eXemyQjfGdmmwpump", "sym": "ZeroFee", "reason": "liq 0<20k"}
 {"t": "2026-11-27 11:12:16 WIB", "mint": "7HgfXftRBBqsYtAEYcqjGLQrNJLL6Tww9ek4rE3Apump", "sym": "RKC", "reason": "vol1h 21<40k"}
 {"t": "2026-11-27 11:12:17 WIB", "mint": "5NawJgPe9yoyDYijrdwC3Lg94MJaZ9LaoJP1T6hKBrBL", "sym": "PENGUIN", "reason": "vol1h 32769<40k"}
+{"t": "2026-11-27 11:13:04 WIB", "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump", "sym": "MONA", "reason": "vol1h 7434<40k"}
+{"t": "2026-11-27 11:13:06 WIB", "mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh", "sym": "DragonRiders", "reason": "score 0.549<0.6"}
+{"t": "2026-11-27 11:13:08 WIB", "mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump", "sym": "LUMINARE", "reason": "score 0.572<0.6"}
+{"t": "2026-11-27 11:13:55 WIB", "mint": "CErq2oGNSJWVovVMjx8k1wuL6qR75q1teSxJNqrCpump", "sym": "JAZZ", "reason": "vol1h 0<40k"}
+{"t": "2026-11-27 11:14:42 WIB", "mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump", "sym": "530A", "reason": "vol1h 15<40k"}
+{"t": "2026-11-27 11:14:43 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 140<40k"}
+{"t": "2026-11-27 11:14:45 WIB", "mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump", "sym": "steppa", "reason": "vol1h 13527<40k"}
