@@ -1,8 +1,3 @@
-{"t": "2026-11-28 03:38:18 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 51<40k"}
-{"t": "2026-11-28 03:38:20 WIB", "mint": "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump", "sym": "Fireball", "reason": "vol1h 38096<40k"}
-{"t": "2026-11-28 03:39:07 WIB", "mint": "AMHeQVxjXz4ARVGRT6cQqc8zt7yxShx5wqXHFhbhpump", "sym": "BANNER", "reason": "liq 0<20k"}
-{"t": "2026-11-28 03:39:08 WIB", "mint": "2dynAjPBnkqzjUwozgn8pDRkCf7k7CDJkLfcf4rupump", "sym": "FARM", "reason": "vol1h 660<40k"}
-{"t": "2026-11-28 03:39:55 WIB", "mint": "HWScgMvRvEnXYpteuGzp1z1EEZ3BedtFfoUuMBoLpump", "sym": "REINDEER", "reason": "vol1h 28<40k"}
 {"t": "2026-11-28 03:39:56 WIB", "mint": "AEDu1VnpNa6xPcWg6ZEqomA45nWzUBdo7VDqTpCPpump", "sym": "boco", "reason": "vol1h 224<40k"}
 {"t": "2026-11-28 03:40:43 WIB", "mint": "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump", "sym": "Slingoor", "reason": "vol1h 2<40k"}
 {"t": "2026-11-28 03:41:30 WIB", "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "sym": "Rizzmas", "reason": "vol1h 2867<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-28 03:54:49 WIB", "mint": "DUhp54J54sXV4BGKfneZWUik1C1LaAkaueBGQCQ2pump", "sym": "nip", "reason": "vol1h 11084<40k"}
 {"t": "2026-11-28 03:54:51 WIB", "mint": "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump", "sym": "MOSTO", "reason": "vol1h 2612<40k"}
 {"t": "2026-11-28 03:54:52 WIB", "mint": "F5P3jfyLPxAmbWtaxt5wnP8bHCjBZq6W5WrsY6aApump", "sym": "LOWCAP", "reason": "vol1h 10628<40k"}
+{"t": "2026-11-28 03:57:54 WIB", "mint": "7Cb74hHCc9Fipk4CdnCjsMoUBLduXR6jg69JfgzKpump", "sym": "Wibbit", "reason": "vol1h 6996<40k"}
+{"t": "2026-11-28 03:58:41 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.486<0.6"}
+{"t": "2026-11-28 03:58:43 WIB", "mint": "4wZaSLtmUGcRkUdVz46hnRT8HwNhWRihfdY9iWxTiLLY", "sym": "TILLY", "reason": "vol1h 30137<40k"}
+{"t": "2026-11-28 03:58:44 WIB", "mint": "2va3NUJtEcPemDYg2N1RgA79rPKGTGGJKo3gTY5zpump", "sym": "WOOPY", "reason": "vol1h 12<40k"}
+{"t": "2026-11-28 03:59:31 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 64<40k"}
