@@ -16780,3 +16780,7 @@
 {"t": "2026-11-27 06:59:20 WIB", "mint": "8n7mSQ8KUqP17AQii1bmWR1wdRhtKe5fDW7yiuLqpump", "sym": "COIN", "reason": "liq 9717<20k"}
 {"t": "2026-11-27 06:59:22 WIB", "mint": "2GKLwk39FgPMvTdogfFCmDRQq7xTcBj4ArStLYXHwT7Y", "sym": "JENZ", "reason": "vol1h 104<40k"}
 {"t": "2026-11-27 06:59:23 WIB", "mint": "amC5BWY6RCtoGCgHu3jYAPyX2K824642J1aJu4fEEhq", "sym": "MM", "reason": "vol1h 38<40k"}
+{"t": "2026-11-27 07:00:10 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 26126<40k"}
+{"t": "2026-11-27 07:00:56 WIB", "mint": "2rRPzRejo3z8mEopq6Pm5VbTZCQCCNKiRZeKtcfLpump", "sym": "GROKIRA", "reason": "vol1h 572<40k"}
+{"t": "2026-11-27 07:00:58 WIB", "mint": "28CHojUCrapfuLZZAvuNUVmJfmHrTQcnuz596X1Epump", "sym": "sel", "reason": "vol1h 0<40k"}
+{"t": "2026-11-27 07:01:44 WIB", "mint": "FKExXiBXL3K5Z1MhkVoE3hJsEJQkGp1gEc1MxUhdKCMS", "sym": "FRIES", "reason": "vol1h 301<40k"}
