@@ -1,8 +1,3 @@
-{"t": "2026-11-27 13:43:21 WIB", "mint": "6H7rdkUPTRFbS22qXmqMEWVpfp3F4JqXUJPvbFWLpump", "sym": "Bitcoin", "reason": "vol1h 38332<40k"}
-{"t": "2026-11-27 13:44:53 WIB", "mint": "9hX4qRvHVnmjDgSkoAjXPi7SejNZGndarL9TV13orLVB", "sym": "Zero", "reason": "vol1h 3<40k"}
-{"t": "2026-11-27 13:45:40 WIB", "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump", "sym": "MONA", "reason": "vol1h 5723<40k"}
-{"t": "2026-11-27 13:45:41 WIB", "mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump", "sym": "LUMINARE", "reason": "vol1h 6<40k"}
-{"t": "2026-11-27 13:47:13 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 882<40k"}
 {"t": "2026-11-27 13:48:45 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 10246<40k"}
 {"t": "2026-11-27 13:48:46 WIB", "mint": "5hkBYuFQDpAAqemCiVqXCuU6Ya5dqKhtRobzJsg6pump", "sym": "Christmas", "reason": "vol1h 113<40k"}
 {"t": "2026-11-27 13:48:48 WIB", "mint": "52a6B3qpwGN9daQBTu8kvbXQVgThuiGMJE1mmCEgpump", "sym": "LEVER", "reason": "vol1h 8184<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-27 14:00:36 WIB", "mint": "8EFHM7U4yFAoVy3fE96qDikANCqbDY7agvByCb2Apump", "sym": "GADI", "reason": "vol1h 0<40k"}
 {"t": "2026-11-27 14:00:38 WIB", "mint": "AgBxPNBFmBks58rtVnp2ZW5WHtE2968qTPWgDEvbpump", "sym": "Christmas", "reason": "vol1h 63<40k"}
 {"t": "2026-11-27 14:01:25 WIB", "mint": "DVnbvxCH2BEdLjPCCZ5R6wQ6223WvDunCnVmfhhTRdno", "sym": "POWERBALL", "reason": "vol1h 8568<40k"}
+{"t": "2026-11-27 14:02:11 WIB", "mint": "4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump", "sym": "Santaball", "reason": "vol1h 244<40k"}
+{"t": "2026-11-27 14:02:58 WIB", "mint": "7EWDjow5wZk3wDthsV4x8dWstZMvXJ37yJTftiNhpump", "sym": "GIGACATE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-27 14:02:59 WIB", "mint": "7pPHLjByynPdPJ75Yozw1ACLaPsb9qHajQ64WbLvpump", "sym": "Upline", "reason": "liq 0<20k"}
+{"t": "2026-11-27 14:03:01 WIB", "mint": "7XSYaJygcuNe6Q3kPvwsJpg4ZrFL1AEUFb8kCuzppump", "sym": "Kibo", "reason": "liq 18356<20k"}
+{"t": "2026-11-27 14:03:48 WIB", "mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump", "sym": "VOLALITY", "reason": "vol1h 38699<40k"}
