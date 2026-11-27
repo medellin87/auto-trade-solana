@@ -18214,3 +18214,9 @@
 {"t": "2026-11-28 01:03:15 WIB", "mint": "HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump", "sym": "Split", "reason": "liq 18919<20k"}
 {"t": "2026-11-28 01:06:17 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 01:07:50 WIB", "mint": "39nuVgw8RCVC8PgGuuuaa8WoAERA61cTw85oUvBLT2va", "sym": "COMPUTE", "reason": "vol1h 14760<40k"}
+{"t": "2026-11-28 01:07:52 WIB", "mint": "5eMdZTBAT2ejKvccat5bD6v4i1njm7ZsGHiBxi5ppump", "sym": "spaz", "reason": "liq 0<20k"}
+{"t": "2026-11-28 01:07:53 WIB", "mint": "AEDu1VnpNa6xPcWg6ZEqomA45nWzUBdo7VDqTpCPpump", "sym": "boco", "reason": "vol1h 1251<40k"}
+{"t": "2026-11-28 01:07:55 WIB", "mint": "H4iEkJ89kEtbUATAPR1sWUvX9p9qDxsZeh5HrvF6pump", "sym": "KOL", "reason": "vol1h 3246<40k"}
+{"t": "2026-11-28 01:08:41 WIB", "mint": "FtDDZgWbKVXRDwu4hpjueLxE6cbLZRzsYecvFSTjpump", "sym": "SCR", "reason": "vol1h 23192<40k"}
+{"t": "2026-11-28 01:08:43 WIB", "mint": "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump", "sym": "Slingoor", "reason": "vol1h 1<40k"}
+{"t": "2026-11-28 01:09:30 WIB", "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "sym": "Rizzmas", "reason": "vol1h 12451<40k"}
