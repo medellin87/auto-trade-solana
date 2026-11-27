@@ -18143,3 +18143,7 @@
 {"t": "2026-11-28 00:09:18 WIB", "mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump", "sym": "VOLALITY", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 00:10:50 WIB", "mint": "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump", "sym": "TWORBIT", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 00:10:52 WIB", "mint": "6J3m4E2AvckGpMypHoBmT9JdPA6QZJ66X9AfzYwWZttc", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-28 00:12:25 WIB", "mint": "FHNU6gV6iaAn3ueb6dyhLXtcBZKok3UenaeGERiQpump", "sym": "Ashes", "reason": "liq 0<20k"}
+{"t": "2026-11-28 00:13:57 WIB", "mint": "FjfhXHU7f4ZY1u8G2MUvYJZCoNBEXarAK8mJhHx5pump", "sym": "FULLPORT", "reason": "vol1h 6474<40k"}
+{"t": "2026-11-28 00:13:58 WIB", "mint": "6p5wPmprdM2gATReh9j5JvxJs8U1PcyWD3neuLvr8sGq", "sym": "POOSTANK", "reason": "vol1h 639<40k"}
+{"t": "2026-11-28 00:14:45 WIB", "mint": "F5LxbqJxAMrvfxLbqPckErmqNyiPzDJMUXnX8vrhpump", "sym": "KITT", "reason": "liq 17387<20k"}
