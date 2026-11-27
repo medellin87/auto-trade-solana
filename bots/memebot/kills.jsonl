@@ -18212,3 +18212,5 @@
 {"t": "2026-11-28 01:02:27 WIB", "mint": "7ACq9bgHPCT33TWC6yaxLX5CfNQBbFachy9xKD7Spump", "sym": "$XMAS", "reason": "vol1h 785<40k"}
 {"t": "2026-11-28 01:02:28 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2425<40k"}
 {"t": "2026-11-28 01:03:15 WIB", "mint": "HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump", "sym": "Split", "reason": "liq 18919<20k"}
+{"t": "2026-11-28 01:06:17 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 01:07:50 WIB", "mint": "39nuVgw8RCVC8PgGuuuaa8WoAERA61cTw85oUvBLT2va", "sym": "COMPUTE", "reason": "vol1h 14760<40k"}
