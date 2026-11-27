@@ -17862,3 +17862,7 @@
 {"t": "2026-11-27 19:56:34 WIB", "mint": "26qFFJBo4F7EjtzCuCbJEdW4v233mY1aMRaw8Y2kpump", "sym": "ChokeCat", "reason": "liq 0<20k"}
 {"t": "2026-11-27 19:56:36 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 11804<40k"}
 {"t": "2026-11-27 19:58:08 WIB", "mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump", "sym": "WW", "reason": "vol1h 2350<40k"}
+{"t": "2026-11-27 20:00:24 WIB", "mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump", "sym": "Salecat", "reason": "liq 2230<20k"}
+{"t": "2026-11-27 20:01:11 WIB", "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump", "sym": "CINU", "reason": "vol1h 3701<40k"}
+{"t": "2026-11-27 20:01:12 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 571<40k"}
+{"t": "2026-11-27 20:01:59 WIB", "mint": "6ppi7LfHkAhHkQwS3kT1zjCsGYQyK4uvpp3pE6Xmpump", "sym": "CRAB", "reason": "vol1h 0<40k"}
