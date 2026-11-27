@@ -17724,3 +17724,7 @@
 {"t": "2026-11-27 17:53:26 WIB", "mint": "Au2nGUXZ8q7CJVSr9Gvdroxg7HeBiBGbYxbLDAdapump", "sym": "Basket", "reason": "liq 0<20k"}
 {"t": "2026-11-27 17:53:28 WIB", "mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump", "sym": "monky", "reason": "risk:Low Liquidity"}
 {"t": "2026-11-27 17:53:29 WIB", "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump", "sym": "Snowball", "reason": "vol1h 33203<40k"}
+{"t": "2026-11-27 17:55:01 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 885<40k"}
+{"t": "2026-11-27 17:55:48 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 19925<40k"}
+{"t": "2026-11-27 17:56:34 WIB", "mint": "CBkQxn7beaPnR4UcL289WAH8yd4kmEJrHK9rLmr1pump", "sym": "Pobby", "reason": "vol1h 26985<40k"}
+{"t": "2026-11-27 17:56:36 WIB", "mint": "H8cim5HL7iSqTKhb47TLzwC54Ag7si1V3nob8rwWpump", "sym": "Stickman", "reason": "vol1h 36<40k"}
