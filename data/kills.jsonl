@@ -1,8 +1,3 @@
-{"t": "2026-11-27 22:17:20 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "vol1h 36792<40k"}
-{"t": "2026-11-27 22:18:06 WIB", "mint": "C8CZZnPJzPaWhB82EmpKMZc5PEqNnQ46n43j5Fj9pump", "sym": "Gemma", "reason": "vol1h 8075<40k"}
-{"t": "2026-11-27 22:20:13 WIB", "mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump", "sym": "Suki", "reason": "vol1h 5577<40k"}
-{"t": "2026-11-27 22:20:14 WIB", "mint": "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump", "sym": "MOSTO", "reason": "vol1h 5675<40k"}
-{"t": "2026-11-27 22:24:01 WIB", "mint": "FffpauKdYCWrWv3Jfrtq5EXoZMaWSH5JnHArad2qGhXk", "sym": "RingPay", "reason": "vol1h 5428<40k"}
 {"t": "2026-11-27 22:24:05 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 1320<40k"}
 {"t": "2026-11-27 22:24:06 WIB", "mint": "2va3NUJtEcPemDYg2N1RgA79rPKGTGGJKo3gTY5zpump", "sym": "WOOPY", "reason": "liq 3493<20k"}
 {"t": "2026-11-27 22:24:08 WIB", "mint": "7B4wbDfartViuEBPYkWLWif6JdG6VzwBjvEPf6ivZKJt", "sym": "QCAT", "reason": "liq 0<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-27 22:43:26 WIB", "mint": "CoKsSiUErE1bdU27mJN8Y7LBw4cNuCWohweZMxPkpump", "sym": "Coal", "reason": "liq 0<20k"}
 {"t": "2026-11-27 22:44:12 WIB", "mint": "AqzTV57EYu38fdrprcsjzUm6CFBgnfejFM3xVQpSpump", "sym": "URQT", "reason": "vol1h 904<40k"}
 {"t": "2026-11-27 22:44:59 WIB", "mint": "CGEYuiXo5BHZRr9QNmdGz4DqXJ7UvWCP5jRCuFNgpump", "sym": "Winston", "reason": "vol1h 2926<40k"}
+{"t": "2026-11-27 22:46:31 WIB", "mint": "54jKBorvDP4eB7vZnWy1HJfhm4X17pSJCE6o2Lshpump", "sym": "COMPUTE", "reason": "liq 18521<20k"}
+{"t": "2026-11-27 22:46:32 WIB", "mint": "6W3H5nEzuLUpTbcMrhRfMiDPCZ4QuBmZPBkeAMzypump", "sym": "wizardcat", "reason": "vol1h 3833<40k"}
+{"t": "2026-11-27 22:47:19 WIB", "mint": "H3AXQ5iCN4AEr96AD6k4DJ7mdKwUJFSJMPM6b8Fkpump", "sym": "sale", "reason": "liq 0<20k"}
+{"t": "2026-11-27 22:47:20 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 2979<40k"}
+{"t": "2026-11-27 22:48:07 WIB", "mint": "C8CZZnPJzPaWhB82EmpKMZc5PEqNnQ46n43j5Fj9pump", "sym": "Gemma", "reason": "vol1h 6284<40k"}
