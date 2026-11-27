@@ -1,8 +1,3 @@
-{"t": "2026-11-27 17:26:19 WIB", "mint": "CBkQxn7beaPnR4UcL289WAH8yd4kmEJrHK9rLmr1pump", "sym": "Pobby", "reason": "liq 0<20k"}
-{"t": "2026-11-27 17:26:20 WIB", "mint": "H8cim5HL7iSqTKhb47TLzwC54Ag7si1V3nob8rwWpump", "sym": "Stickman", "reason": "vol1h 2<40k"}
-{"t": "2026-11-27 17:27:07 WIB", "mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump", "sym": "WW", "reason": "vol1h 6448<40k"}
-{"t": "2026-11-27 17:27:54 WIB", "mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump", "sym": "Muffin", "reason": "liq 15436<20k"}
-{"t": "2026-11-27 17:29:25 WIB", "mint": "9PBVXxx7Hn72EJttB8X2besqJtbUvE4iN3Cc3ubUpump", "sym": "NOTHING", "reason": "vol1h 7<40k"}
 {"t": "2026-11-27 17:29:27 WIB", "mint": "4tqzkSWA9tiWYhzYpSt81We3cVNkrEbkD1tzjFDZpump", "sym": "VAULT", "reason": "vol1h 17236<40k"}
 {"t": "2026-11-27 17:29:28 WIB", "mint": "ARuqsdqbzzAeZwHufEerMWyWEuiTPXE2ogMs32m8pump", "sym": "ZERO", "reason": "vol1h 7927<40k"}
 {"t": "2026-11-27 17:29:30 WIB", "mint": "aSRNrUQqrWqvV1Yf25exdxVa3bWk63K7tvzTnNytoLL", "sym": "Atoll", "reason": "vol1h 2985<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-27 17:45:47 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "vol1h 11429<40k"}
 {"t": "2026-11-27 17:46:34 WIB", "mint": "Fr2nmNWyYiVDSSXirw1wKSHj4dE2BvvGnN4gfAHcpump", "sym": "SWIPE", "reason": "vol1h 7018<40k"}
 {"t": "2026-11-27 17:48:06 WIB", "mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump", "sym": "Suki", "reason": "liq 9955<20k"}
+{"t": "2026-11-27 17:51:53 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 18145<40k"}
+{"t": "2026-11-27 17:52:39 WIB", "mint": "CVcVTN9yFswizy3DYdPKJJtYup3hpgC9U7FX1yzUpump", "sym": "NIW", "reason": "vol1h 1114<40k"}
+{"t": "2026-11-27 17:53:26 WIB", "mint": "Au2nGUXZ8q7CJVSr9Gvdroxg7HeBiBGbYxbLDAdapump", "sym": "Basket", "reason": "liq 0<20k"}
+{"t": "2026-11-27 17:53:28 WIB", "mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump", "sym": "monky", "reason": "risk:Low Liquidity"}
+{"t": "2026-11-27 17:53:29 WIB", "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump", "sym": "Snowball", "reason": "vol1h 33203<40k"}
