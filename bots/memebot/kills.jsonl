@@ -18074,3 +18074,7 @@
 {"t": "2026-11-27 23:19:12 WIB", "mint": "BL16wBrbYcWNL8ycQ5qBWyuRR7HAZxLk2xtgvLLgfxt6", "sym": "MOTION", "reason": "liq 0<20k"}
 {"t": "2026-11-27 23:20:43 WIB", "mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump", "sym": "Suki", "reason": "vol1h 2900<40k"}
 {"t": "2026-11-27 23:20:45 WIB", "mint": "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump", "sym": "MOSTO", "reason": "vol1h 9176<40k"}
+{"t": "2026-11-27 23:23:47 WIB", "mint": "F5DxJtHaFNnxdjBXounqM3xXMSqSSLgJ5u8yt5m5pump", "sym": "ASCEND", "reason": "vol1h 0<40k"}
+{"t": "2026-11-27 23:24:33 WIB", "mint": "FffpauKdYCWrWv3Jfrtq5EXoZMaWSH5JnHArad2qGhXk", "sym": "RingPay", "reason": "vol1h 9775<40k"}
+{"t": "2026-11-27 23:24:35 WIB", "mint": "2va3NUJtEcPemDYg2N1RgA79rPKGTGGJKo3gTY5zpump", "sym": "WOOPY", "reason": "vol1h 682<40k"}
+{"t": "2026-11-27 23:25:22 WIB", "mint": "7j1a6959WYMBwUNVV64NtzwAKfKU8hXC5auJdFHbpump", "sym": "REVINU", "reason": "top10 51.6%>25"}
