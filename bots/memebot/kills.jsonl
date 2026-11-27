@@ -17435,3 +17435,8 @@
 {"t": "2026-11-27 14:13:53 WIB", "mint": "6H7rdkUPTRFbS22qXmqMEWVpfp3F4JqXUJPvbFWLpump", "sym": "Bitcoin", "reason": "liq 0<20k"}
 {"t": "2026-11-27 14:15:25 WIB", "mint": "9hX4qRvHVnmjDgSkoAjXPi7SejNZGndarL9TV13orLVB", "sym": "Zero", "reason": "vol1h 5<40k"}
 {"t": "2026-11-27 14:16:11 WIB", "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump", "sym": "MONA", "reason": "vol1h 4180<40k"}
+{"t": "2026-11-27 14:17:43 WIB", "mint": "6jS9L2H6XaSbVaB7jZn86uHZoPGxSUbuKKNNoBAEpump", "sym": "LOOM", "reason": "vol1h 24808<40k"}
+{"t": "2026-11-27 14:17:45 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 1451<40k"}
+{"t": "2026-11-27 14:19:17 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 16616<40k"}
+{"t": "2026-11-27 14:19:18 WIB", "mint": "52a6B3qpwGN9daQBTu8kvbXQVgThuiGMJE1mmCEgpump", "sym": "LEVER", "reason": "vol1h 6024<40k"}
+{"t": "2026-11-27 14:20:05 WIB", "mint": "CVcVTN9yFswizy3DYdPKJJtYup3hpgC9U7FX1yzUpump", "sym": "NIW", "reason": "vol1h 1070<40k"}
