@@ -17117,3 +17117,6 @@
 {"t": "2026-11-27 10:44:25 WIB", "mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump", "sym": "steppa", "reason": "vol1h 32252<40k"}
 {"t": "2026-11-27 10:44:27 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 141<40k"}
 {"t": "2026-11-27 10:44:28 WIB", "mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump", "sym": "530A", "reason": "liq 1740<20k"}
+{"t": "2026-11-27 10:45:15 WIB", "mint": "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump", "sym": "JIMMY", "reason": "vol1h 22443<40k"}
+{"t": "2026-11-27 10:46:01 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 29606<40k"}
+{"t": "2026-11-27 10:46:49 WIB", "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump", "sym": "Snowball", "reason": "score 0.457<0.6"}
