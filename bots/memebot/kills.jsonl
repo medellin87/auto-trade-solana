@@ -18025,3 +18025,6 @@
 {"t": "2026-11-27 22:38:01 WIB", "mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump", "sym": "VOLALITY", "reason": "vol1h 52<40k"}
 {"t": "2026-11-27 22:38:47 WIB", "mint": "DwQgXTe98WQHkM6n7htVLYdk2pBpE5amPF1cBNbE3yhh", "sym": "Joe", "reason": "vol1h 262<40k"}
 {"t": "2026-11-27 22:39:34 WIB", "mint": "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump", "sym": "TWORBIT", "reason": "liq 1524<20k"}
+{"t": "2026-11-27 22:40:21 WIB", "mint": "GuqwZm4HJzVfJpb4QebarNg689K7vvcuMwHTeYFq8khY", "sym": "DUSTER", "reason": "vol1h 4363<40k"}
+{"t": "2026-11-27 22:42:37 WIB", "mint": "FjfhXHU7f4ZY1u8G2MUvYJZCoNBEXarAK8mJhHx5pump", "sym": "FULLPORT", "reason": "liq 10640<20k"}
+{"t": "2026-11-27 22:42:39 WIB", "mint": "6p5wPmprdM2gATReh9j5JvxJs8U1PcyWD3neuLvr8sGq", "sym": "POOSTANK", "reason": "vol1h 85<40k"}
