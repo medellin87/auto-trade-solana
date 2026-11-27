@@ -1,8 +1,3 @@
-{"t": "2026-11-27 22:34:08 WIB", "mint": "6fJPx1nWz6PvMifsee6AtTi4H3srtis5rHAUs3HYpump", "sym": "JASON", "reason": "vol1h 20<40k"}
-{"t": "2026-11-27 22:35:39 WIB", "mint": "5rRxk9FC3ma11neg8BGLwTWxt4PokH19Y92sERwa2PJ3", "sym": "Sheeb", "reason": "liq 17294<20k"}
-{"t": "2026-11-27 22:36:26 WIB", "mint": "4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump", "sym": "Santaball", "reason": "vol1h 0<40k"}
-{"t": "2026-11-27 22:36:28 WIB", "mint": "TELLbUhH3mroXH5xtgGorT7eeFaVfzAiJkwQTbMvuWc", "sym": "?", "reason": "no solana pair"}
-{"t": "2026-11-27 22:36:29 WIB", "mint": "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump", "sym": "Slingoor", "reason": "vol1h 155<40k"}
 {"t": "2026-11-27 22:38:01 WIB", "mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump", "sym": "VOLALITY", "reason": "vol1h 52<40k"}
 {"t": "2026-11-27 22:38:47 WIB", "mint": "DwQgXTe98WQHkM6n7htVLYdk2pBpE5amPF1cBNbE3yhh", "sym": "Joe", "reason": "vol1h 262<40k"}
 {"t": "2026-11-27 22:39:34 WIB", "mint": "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump", "sym": "TWORBIT", "reason": "liq 1524<20k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-27 22:58:56 WIB", "mint": "AqmdZvNtiDbMq5SifeZGNc8ydDidp1sLr6AtbqqCs5S2", "sym": "RUGR", "reason": "vol1h 2303<40k"}
 {"t": "2026-11-27 23:00:27 WIB", "mint": "28EqQfoXVquQjuJvbXuZuTonkhCL6yTmC5XQf96Spump", "sym": "gDOG", "reason": "vol1h 21108<40k"}
 {"t": "2026-11-27 23:00:29 WIB", "mint": "Bwwc9n2mPn1k5rGv6UjAudiPPYmQpSzYevddjdmHpump", "sym": "MEOWI", "reason": "vol1h 5511<40k"}
+{"t": "2026-11-27 23:02:00 WIB", "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump", "sym": "CINU", "reason": "vol1h 1202<40k"}
+{"t": "2026-11-27 23:02:47 WIB", "mint": "EVASJxNTfg5P8qrj3crg11pQNDva6fqzfHavZ9NLpump", "sym": "Egg", "reason": "liq 0<20k"}
+{"t": "2026-11-27 23:03:34 WIB", "mint": "E2fzuiP8cp4TgzgQiN3g6CCMD6Kh6wUxfgWKbiN8uwa9", "sym": "Banc", "reason": "vol1h 0<40k"}
+{"t": "2026-11-27 23:04:20 WIB", "mint": "6fJPx1nWz6PvMifsee6AtTi4H3srtis5rHAUs3HYpump", "sym": "JASON", "reason": "vol1h 20<40k"}
+{"t": "2026-11-27 23:04:22 WIB", "mint": "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump", "sym": "Fireball", "reason": "score 0.453<0.6"}
