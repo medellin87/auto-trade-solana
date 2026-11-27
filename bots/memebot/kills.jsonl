@@ -18678,3 +18678,7 @@
 {"t": "2026-11-28 06:30:13 WIB", "mint": "5TkyHpVZCnuW6w21q6mvFQ2Fgyvq3KySHJqfuki9pump", "sym": "Hyperball", "reason": "liq 10143<20k"}
 {"t": "2026-11-28 06:30:15 WIB", "mint": "6DmC5KR6DF62Gfz5oe8uVkNFrQb5N3kdXpKswA7pump", "sym": "SPEC", "reason": "liq 4463<20k"}
 {"t": "2026-11-28 06:31:01 WIB", "mint": "81ijK2haeYqqjnoiPTtBMS9CBt2ThCcvdB6N3rQEpump", "sym": "Clout", "reason": "liq 0<20k"}
+{"t": "2026-11-28 06:31:48 WIB", "mint": "6RpnBkEKm7SX3Z9VRqnPoDd7vKZeFJqzsNrfTnD2pump", "sym": "CLIPR", "reason": "vol1h 369<40k"}
+{"t": "2026-11-28 06:31:50 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.504<0.6"}
+{"t": "2026-11-28 06:32:37 WIB", "mint": "659ziXQiNko5cdGzPaBKVu81ahHzZMTFKBcNxe5ALXkG", "sym": "Maebashi", "reason": "liq 11832<20k"}
+{"t": "2026-11-28 06:32:38 WIB", "mint": "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray", "sym": "CHRLE", "reason": "vol1h 13<40k"}
