@@ -1,6 +1,3 @@
-{"t": "2026-11-27 14:13:53 WIB", "mint": "6H7rdkUPTRFbS22qXmqMEWVpfp3F4JqXUJPvbFWLpump", "sym": "Bitcoin", "reason": "liq 0<20k"}
-{"t": "2026-11-27 14:15:25 WIB", "mint": "9hX4qRvHVnmjDgSkoAjXPi7SejNZGndarL9TV13orLVB", "sym": "Zero", "reason": "vol1h 5<40k"}
-{"t": "2026-11-27 14:16:11 WIB", "mint": "6is11V1KgpybgPdMkYGBacbiT62kqunsvnLDNzDfpump", "sym": "MONA", "reason": "vol1h 4180<40k"}
 {"t": "2026-11-27 14:17:43 WIB", "mint": "6jS9L2H6XaSbVaB7jZn86uHZoPGxSUbuKKNNoBAEpump", "sym": "LOOM", "reason": "vol1h 24808<40k"}
 {"t": "2026-11-27 14:17:45 WIB", "mint": "8THZ69JP2ErZuHVj4G5rcwkFfsQafp5mQsaoQReApump", "sym": "NETWORK", "reason": "vol1h 1451<40k"}
 {"t": "2026-11-27 14:19:17 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "vol1h 16616<40k"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-27 14:28:07 WIB", "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump", "sym": "CINU", "reason": "vol1h 16516<40k"}
 {"t": "2026-11-27 14:28:54 WIB", "mint": "6ppi7LfHkAhHkQwS3kT1zjCsGYQyK4uvpp3pE6Xmpump", "sym": "CRAB", "reason": "vol1h 20<40k"}
 {"t": "2026-11-27 14:29:41 WIB", "mint": "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump", "sym": "MOSTO", "reason": "vol1h 4956<40k"}
+{"t": "2026-11-27 14:30:27 WIB", "mint": "4xLiuSTr6CnXzPDT1Bzs3KHqqhgqSE2n1zmPeBqopump", "sym": "ballsackdorkl", "reason": "vol1h 18304<40k"}
+{"t": "2026-11-27 14:31:59 WIB", "mint": "DVnbvxCH2BEdLjPCCZ5R6wQ6223WvDunCnVmfhhTRdno", "sym": "POWERBALL", "reason": "vol1h 7485<40k"}
+{"t": "2026-11-27 14:32:46 WIB", "mint": "4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump", "sym": "Santaball", "reason": "vol1h 8<40k"}
