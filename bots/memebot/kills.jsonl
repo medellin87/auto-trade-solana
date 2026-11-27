@@ -17734,3 +17734,7 @@
 {"t": "2026-11-27 17:59:42 WIB", "mint": "4tqzkSWA9tiWYhzYpSt81We3cVNkrEbkD1tzjFDZpump", "sym": "VAULT", "reason": "liq 0<20k"}
 {"t": "2026-11-27 17:59:44 WIB", "mint": "ARuqsdqbzzAeZwHufEerMWyWEuiTPXE2ogMs32m8pump", "sym": "ZERO", "reason": "vol1h 21451<40k"}
 {"t": "2026-11-27 17:59:45 WIB", "mint": "aSRNrUQqrWqvV1Yf25exdxVa3bWk63K7tvzTnNytoLL", "sym": "Atoll", "reason": "vol1h 471<40k"}
+{"t": "2026-11-27 18:00:32 WIB", "mint": "CvXQ9qEriGgTbMWyF8L1U7oqn9ev8A49N1dzNE8cpump", "sym": "CINU", "reason": "vol1h 9409<40k"}
+{"t": "2026-11-27 18:00:34 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1092<40k"}
+{"t": "2026-11-27 18:01:20 WIB", "mint": "6ppi7LfHkAhHkQwS3kT1zjCsGYQyK4uvpp3pE6Xmpump", "sym": "CRAB", "reason": "vol1h 0<40k"}
+{"t": "2026-11-27 18:02:07 WIB", "mint": "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump", "sym": "MOSTO", "reason": "vol1h 1317<40k"}
