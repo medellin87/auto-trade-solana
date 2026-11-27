@@ -18255,3 +18255,6 @@
 {"t": "2026-11-28 01:38:59 WIB", "mint": "CyrgrZVubmhyr13eQNiSi1WBwSGidLmvVoHA91phpump", "sym": "Oscar", "reason": "liq 0<20k"}
 {"t": "2026-11-28 01:39:45 WIB", "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "sym": "Rizzmas", "reason": "vol1h 9427<40k"}
 {"t": "2026-11-28 01:41:17 WIB", "mint": "88z51Jjs8mSszFQt8tXQms7t9Fv3xuamzSt3Jp4zpump", "sym": "NOTHING", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 01:42:04 WIB", "mint": "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump", "sym": "TWORBIT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 01:42:50 WIB", "mint": "8LX2fFyENqu1R6bmzk461BH3ZPVbmpCpppe1K7Zcpump", "sym": "TOGO", "reason": "liq 16662<20k"}
+{"t": "2026-11-28 01:44:22 WIB", "mint": "B3XLnSfVQVyUiEmreYbdKAH9ozEJjan8BmRbxwCHpump", "sym": "CUBE", "reason": "vol1h 1056<40k"}
