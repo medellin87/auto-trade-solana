@@ -19085,3 +19085,6 @@
 {"t": "2026-11-28 10:49:54 WIB", "mint": "5tAyKnambUpmv7gYPwwBLmjPPdtS2ogrWvmJCntSSpCX", "sym": "SpaceXCoin", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 10:49:56 WIB", "mint": "3WsqUNArNSh5pYt6eTKbQ7uUJDgkPtFEA2XFvdEWpump", "sym": "ZERO", "reason": "vol1h 25<40k"}
 {"t": "2026-11-28 10:49:57 WIB", "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "sym": "Rizzmas", "reason": "vol1h 1237<40k"}
+{"t": "2026-11-28 10:50:44 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 611<40k"}
+{"t": "2026-11-28 10:50:45 WIB", "mint": "4un1KFw4bJm9FwVcPN3Hc5AGXYwVgN2tEnK2M4nj8BbV", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-28 10:52:17 WIB", "mint": "8dUqZ1dwPZUF2eGAUN4UotMnnrxrxRoS7gCyctFLpump", "sym": "paired", "reason": "liq 2931<20k"}
