@@ -19449,3 +19449,5 @@
 {"t": "2026-11-28 15:01:50 WIB", "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "sym": "Rizzmas", "reason": "vol1h 985<40k"}
 {"t": "2026-11-28 15:02:36 WIB", "mint": "FK7bc3fR8UL8uogN2u8J9yEpEbQJKR7yKsp3G8rvpump", "sym": "hacked", "reason": "vol1h 2684<40k"}
 {"t": "2026-11-28 15:02:38 WIB", "mint": "GGatn9GfrvRgFMFZy9ZSaTsKmpwnzCTogmocLHCjpump", "sym": "Frogger", "reason": "vol1h 55<40k"}
+{"t": "2026-11-28 15:04:10 WIB", "mint": "DXLE6M12GsJW23aTU2VpZeJcgQ8rwTwQbzmDKvMSpump", "sym": "USD2", "reason": "liq 0<20k"}
+{"t": "2026-11-28 15:04:56 WIB", "mint": "28FHuD54DEmcVkrUCLZZLqKPUAFZ5TrCuH8d2gfopump", "sym": "bob", "reason": "vol1h 12<40k"}
