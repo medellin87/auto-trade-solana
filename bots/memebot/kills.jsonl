@@ -19221,3 +19221,6 @@
 {"t": "2026-11-28 12:23:45 WIB", "mint": "8dUqZ1dwPZUF2eGAUN4UotMnnrxrxRoS7gCyctFLpump", "sym": "paired", "reason": "vol1h 94<40k"}
 {"t": "2026-11-28 12:23:46 WIB", "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "sym": "Rizzmas", "reason": "vol1h 1336<40k"}
 {"t": "2026-11-28 12:25:18 WIB", "mint": "66WtdGBwzHL1kJodjvhWUj1Uo3UycFVRhLWQ96uwpump", "sym": "COMMODITY", "reason": "liq 0<20k"}
+{"t": "2026-11-28 12:26:50 WIB", "mint": "CnBnq2K5PYGoV22AWQ7KKyDZT9qKLbPFzpMGRTLfpump", "sym": "GIANT", "reason": "vol1h 70<40k"}
+{"t": "2026-11-28 12:27:37 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "top10 27.0%>25"}
+{"t": "2026-11-28 12:27:38 WIB", "mint": "MAXXib7SQAQn4ymrwhhR9qMRUcYv8BNhbQxizJn5CCk", "sym": "Maxxmas", "reason": "vol1h 268<40k"}
