@@ -19673,3 +19673,13 @@
 {"t": "2026-11-28 17:27:00 WIB", "mint": "B29od4bd54VAVAqJFToRKkKJadUGK5v8pkAVb5uvpump", "sym": "USD1", "reason": "vol1h 5203<40k"}
 {"t": "2026-11-28 17:28:32 WIB", "mint": "Ab4YRbH4bPwsi4EykXZL2nzo4SiZXtgpPDdDVcPLpump", "sym": "twin", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 17:30:03 WIB", "mint": "9sogyryhrdDKjZvizHPsevJ4GEGzN76Y2bGpF5WEpump", "sym": "online", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 17:31:35 WIB", "mint": "8Y24KBnY9gaNWDaxohxtEU1gxESvfwdYeGFuHJKpump", "sym": "USD1", "reason": "liq 1638<20k"}
+{"t": "2026-11-28 17:32:21 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 1236<40k"}
+{"t": "2026-11-28 17:32:23 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "vol1h 10185<40k"}
+{"t": "2026-11-28 17:32:24 WIB", "mint": "A7xhY12G388pXGsBuweS6NkyZyv53ogH1dNfEkCMpump", "sym": "ascend", "reason": "vol1h 543<40k"}
+{"t": "2026-11-28 17:32:26 WIB", "mint": "ArrsHWAybe2qPLwMFpmcxf5GaT19ZQJ7bnPSyKhJFsEt", "sym": "gondola", "reason": "vol1h 13<40k"}
+{"t": "2026-11-28 17:32:28 WIB", "mint": "EqaMtkdjUAHubn2Xn3vMrCCtjz8XQZ5xVDHPn4phpump", "sym": "REP", "reason": "vol1h 10<40k"}
+{"t": "2026-11-28 17:32:29 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "score 0.478<0.6"}
+{"t": "2026-11-28 17:33:16 WIB", "mint": "57uooyjwYX2kpSGN3QnBLWAwk4KMZYbkp5e8f7i7pump", "sym": "EDITOR", "reason": "liq 0<20k"}
+{"t": "2026-11-28 17:33:18 WIB", "mint": "4HEfa8ytHJk75E4qdThEbtNdyGRg2qfQHMo8nu2Cpump", "sym": "WLFI", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 17:33:19 WIB", "mint": "GggaHk9atb7LYq16S2X6FwjQdZT8D8YQ6vydeosgFGtg", "sym": "CI", "reason": "vol1h 3050<40k"}
