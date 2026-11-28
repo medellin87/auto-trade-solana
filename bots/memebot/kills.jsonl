@@ -19090,3 +19090,6 @@
 {"t": "2026-11-28 10:52:17 WIB", "mint": "8dUqZ1dwPZUF2eGAUN4UotMnnrxrxRoS7gCyctFLpump", "sym": "paired", "reason": "liq 2931<20k"}
 {"t": "2026-11-28 10:55:19 WIB", "mint": "CnBnq2K5PYGoV22AWQ7KKyDZT9qKLbPFzpMGRTLfpump", "sym": "GIANT", "reason": "vol1h 5<40k"}
 {"t": "2026-11-28 10:56:06 WIB", "mint": "MAXXib7SQAQn4ymrwhhR9qMRUcYv8BNhbQxizJn5CCk", "sym": "Maxxmas", "reason": "vol1h 21<40k"}
+{"t": "2026-11-28 10:58:22 WIB", "mint": "FK7bc3fR8UL8uogN2u8J9yEpEbQJKR7yKsp3G8rvpump", "sym": "hacked", "reason": "vol1h 4634<40k"}
+{"t": "2026-11-28 10:58:24 WIB", "mint": "CVcVTN9yFswizy3DYdPKJJtYup3hpgC9U7FX1yzUpump", "sym": "NIW", "reason": "vol1h 294<40k"}
+{"t": "2026-11-28 10:58:25 WIB", "mint": "ExizLaN54XVXpY1FLH8yXtpbHPawm7UzTcmfJJH5pump", "sym": "MARS", "reason": "vol1h 9<40k"}
