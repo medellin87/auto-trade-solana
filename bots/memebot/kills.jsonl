@@ -19529,3 +19529,6 @@
 {"t": "2026-11-28 15:54:32 WIB", "mint": "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump", "sym": "Fireball", "reason": "score 0.323<0.6"}
 {"t": "2026-11-28 15:55:19 WIB", "mint": "3WsqUNArNSh5pYt6eTKbQ7uUJDgkPtFEA2XFvdEWpump", "sym": "ZERO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 15:55:20 WIB", "mint": "B29od4bd54VAVAqJFToRKkKJadUGK5v8pkAVb5uvpump", "sym": "USD1", "reason": "liq 16700<20k"}
+{"t": "2026-11-28 15:56:52 WIB", "mint": "Ab4YRbH4bPwsi4EykXZL2nzo4SiZXtgpPDdDVcPLpump", "sym": "twin", "reason": "vol1h 5084<40k"}
+{"t": "2026-11-28 15:58:24 WIB", "mint": "9sogyryhrdDKjZvizHPsevJ4GEGzN76Y2bGpF5WEpump", "sym": "online", "reason": "vol1h 85<40k"}
+{"t": "2026-11-28 15:58:25 WIB", "mint": "66WtdGBwzHL1kJodjvhWUj1Uo3UycFVRhLWQ96uwpump", "sym": "COMMODITY", "reason": "vol1h 7<40k"}
