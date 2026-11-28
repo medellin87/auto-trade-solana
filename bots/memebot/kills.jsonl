@@ -18846,3 +18846,9 @@
 {"t": "2026-11-28 08:18:37 WIB", "mint": "FfpFYBVWHHHmAvh67A1xrQxZNGvURSvMzUjyFNPfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-28 08:19:24 WIB", "mint": "8CbCH51PziZKvD1k9M9qy24CqfkmNSiprRjT14xNQTZT", "sym": "ETHEREM", "reason": "liq 9781<20k"}
 {"t": "2026-11-28 08:22:26 WIB", "mint": "CnBnq2K5PYGoV22AWQ7KKyDZT9qKLbPFzpMGRTLfpump", "sym": "GIANT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 08:23:13 WIB", "mint": "MAXXib7SQAQn4ymrwhhR9qMRUcYv8BNhbQxizJn5CCk", "sym": "Maxxmas", "reason": "vol1h 292<40k"}
+{"t": "2026-11-28 08:23:59 WIB", "mint": "CCoeBe5jaPKFNym8cNNdDzPZDYLPDB1p99Hyp2LfM4Sm", "sym": "RIZZMAS3", "reason": "vol1h 14271<40k"}
+{"t": "2026-11-28 08:24:46 WIB", "mint": "31yPP3Wwkm9QfNzQmGWjA4ggCsEWmTazDFv2Bbjfpump", "sym": "CHOMPHU", "reason": "vol1h 17971<40k"}
+{"t": "2026-11-28 08:24:48 WIB", "mint": "9PY2x8zdYDhbVtBEdT35duYY6EzwFXhyov9R5Uazpump", "sym": "chairman", "reason": "vol1h 26573<40k"}
+{"t": "2026-11-28 08:25:34 WIB", "mint": "CVcVTN9yFswizy3DYdPKJJtYup3hpgC9U7FX1yzUpump", "sym": "NIW", "reason": "vol1h 74<40k"}
+{"t": "2026-11-28 08:25:36 WIB", "mint": "6XGHv8KvqJg5Kekr8zydwmpHrJhWSARJZKJNTHJ97UyQ", "sym": "BITGOIN", "reason": "LP locked 23%<90"}
