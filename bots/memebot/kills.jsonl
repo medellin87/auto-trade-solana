@@ -15479,3 +15479,6 @@
 {"t": "2026-11-29 02:26:01 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 2070<40k"}
 {"t": "2026-11-29 02:27:01 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "rugcheck data unavailable"}
 {"t": "2026-11-29 02:28:32 WIB", "mint": "7ACq9bgHPCT33TWC6yaxLX5CfNQBbFachy9xKD7Spump", "sym": "$XMAS", "reason": "vol1h 2980<40k"}
+{"t": "2026-11-29 02:30:04 WIB", "mint": "6RYvBPsLQt8Jos6mmPbBeFx692yq5pPfSoJmHTBtpump", "sym": "Bagwork", "reason": "vol1h 33563<40k"}
+{"t": "2026-11-29 02:30:51 WIB", "mint": "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump", "sym": "Zhaki", "reason": "vol1h 11085<40k"}
+{"t": "2026-11-29 02:31:38 WIB", "mint": "CnBnq2K5PYGoV22AWQ7KKyDZT9qKLbPFzpMGRTLfpump", "sym": "GIANT", "reason": "vol1h 201<40k"}
