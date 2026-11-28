@@ -15144,3 +15144,7 @@
 {"t": "2026-11-28 22:31:23 WIB", "mint": "GDUL9Nor761zu3m6azcUiaLruwReAYG7jTppgGiWpump", "sym": "FIX6900", "reason": "vol1h 8690<40k"}
 {"t": "2026-11-28 22:33:40 WIB", "mint": "Cfmo6asAsZFx6GGQvAt4Ajxn8hN6vgWGpaSrjQKRpump", "sym": "MARS", "reason": "vol1h 32834<40k"}
 {"t": "2026-11-28 22:33:42 WIB", "mint": "5qDeCs9MkTAhk6q76XvKrZgimoQdJowuSWbjSZKvpump", "sym": "Bagwork", "reason": "vol1h 2156<40k"}
+{"t": "2026-11-28 22:35:59 WIB", "mint": "6sZYmvbTzXyLe7jr2om3Vmo6UPryLmQUko1Hgj89pump", "sym": "Bedlington", "reason": "risk:Creator history of rugged tokens"}
+{"t": "2026-11-28 22:36:46 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "vol1h 4<40k"}
+{"t": "2026-11-28 22:36:48 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "score 0.436<0.6"}
+{"t": "2026-11-28 22:36:49 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 5841<40k"}
