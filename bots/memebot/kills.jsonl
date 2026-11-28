@@ -19989,3 +19989,6 @@
 {"t": "2026-11-28 20:53:15 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "rugcheck data unavailable"}
 {"t": "2026-11-28 20:53:16 WIB", "mint": "DT5hmUppUXvcziVxoAkLk6sjNJU8G9fqyXmGPx75pump", "sym": "GPU", "reason": "vol1h 4779<40k"}
 {"t": "2026-11-28 20:53:18 WIB", "mint": "2GqU5XmeXxkkAUWNFYGJSsj9vWup3bybVmRCNz13pump", "sym": "KTYPRN", "reason": "vol1h 8<40k"}
+{"t": "2026-11-28 20:54:04 WIB", "mint": "3V8dPY9yH4TSHm11fx6Po7XJ8xPzSjcf8W9Q3QhXpump", "sym": "BNB", "reason": "liq 2242<20k"}
+{"t": "2026-11-28 20:55:36 WIB", "mint": "ASQAXq3M6N7WKJHdKNFUJMPfRcBCfpjR6qXFRnNjHPAY", "sym": "HPAY", "reason": "vol1h 29<40k"}
+{"t": "2026-11-28 20:55:38 WIB", "mint": "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump", "sym": "Zhaki", "reason": "vol1h 20338<40k"}
