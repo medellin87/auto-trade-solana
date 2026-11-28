@@ -19486,3 +19486,11 @@
 {"t": "2026-11-28 15:24:47 WIB", "mint": "B29od4bd54VAVAqJFToRKkKJadUGK5v8pkAVb5uvpump", "sym": "USD1", "reason": "score 0.5<0.6"}
 {"t": "2026-11-28 15:25:34 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 387<40k"}
 {"t": "2026-11-28 15:26:20 WIB", "mint": "Ab4YRbH4bPwsi4EykXZL2nzo4SiZXtgpPDdDVcPLpump", "sym": "twin", "reason": "vol1h 2546<40k"}
+{"t": "2026-11-28 15:27:52 WIB", "mint": "9sogyryhrdDKjZvizHPsevJ4GEGzN76Y2bGpF5WEpump", "sym": "online", "reason": "vol1h 12474<40k"}
+{"t": "2026-11-28 15:27:54 WIB", "mint": "66WtdGBwzHL1kJodjvhWUj1Uo3UycFVRhLWQ96uwpump", "sym": "COMMODITY", "reason": "vol1h 75<40k"}
+{"t": "2026-11-28 15:29:27 WIB", "mint": "CnBnq2K5PYGoV22AWQ7KKyDZT9qKLbPFzpMGRTLfpump", "sym": "GIANT", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 15:30:14 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 788<40k"}
+{"t": "2026-11-28 15:30:16 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "score 0.537<0.6"}
+{"t": "2026-11-28 15:30:17 WIB", "mint": "A7xhY12G388pXGsBuweS6NkyZyv53ogH1dNfEkCMpump", "sym": "ascend", "reason": "vol1h 17272<40k"}
+{"t": "2026-11-28 15:30:19 WIB", "mint": "ArrsHWAybe2qPLwMFpmcxf5GaT19ZQJ7bnPSyKhJFsEt", "sym": "gondola", "reason": "vol1h 1317<40k"}
+{"t": "2026-11-28 15:30:20 WIB", "mint": "EqaMtkdjUAHubn2Xn3vMrCCtjz8XQZ5xVDHPn4phpump", "sym": "REP", "reason": "vol1h 715<40k"}
