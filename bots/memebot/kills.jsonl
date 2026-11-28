@@ -15102,3 +15102,6 @@
 {"t": "2026-11-28 22:06:43 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "score 0.442<0.6"}
 {"t": "2026-11-28 22:06:45 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 1698<40k"}
 {"t": "2026-11-28 22:09:02 WIB", "mint": "FK7bc3fR8UL8uogN2u8J9yEpEbQJKR7yKsp3G8rvpump", "sym": "hacked", "reason": "vol1h 4556<40k"}
+{"t": "2026-11-28 22:11:19 WIB", "mint": "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump", "sym": "WINSTON", "reason": "vol1h 11597<40k"}
+{"t": "2026-11-28 22:11:20 WIB", "mint": "28FHuD54DEmcVkrUCLZZLqKPUAFZ5TrCuH8d2gfopump", "sym": "bob", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 22:11:22 WIB", "mint": "ErMz6VH75F8jHGddJTiZHwimKWQLHr3ioFJfhkGApump", "sym": "burni", "reason": "vol1h 16587<40k"}
