@@ -15190,3 +15190,9 @@
 {"t": "2026-11-28 23:02:00 WIB", "mint": "GDUL9Nor761zu3m6azcUiaLruwReAYG7jTppgGiWpump", "sym": "FIX6900", "reason": "vol1h 1962<40k"}
 {"t": "2026-11-28 23:02:47 WIB", "mint": "EFXC6P572dNJgN8heXwd2uDcF5wn2fgA124jLhVspump", "sym": "$Fusion", "reason": "vol1h 234<40k"}
 {"t": "2026-11-28 23:04:19 WIB", "mint": "Cfmo6asAsZFx6GGQvAt4Ajxn8hN6vgWGpaSrjQKRpump", "sym": "MARS", "reason": "vol1h 31437<40k"}
+{"t": "2026-11-28 23:06:36 WIB", "mint": "6sZYmvbTzXyLe7jr2om3Vmo6UPryLmQUko1Hgj89pump", "sym": "Bedlington", "reason": "liq 2448<20k"}
+{"t": "2026-11-28 23:06:37 WIB", "mint": "GfCYBjm53ccUbyyDUqWTQc2idTsjM1EQCPPYUiR3pump", "sym": "Cooke", "reason": "vol1h 4783<40k"}
+{"t": "2026-11-28 23:06:39 WIB", "mint": "3E1RL9HZhhqLKo56aQT4PKvVBmy52zzDM8m4zZoPeoJ6", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-28 23:07:26 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 23:07:27 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 5672<40k"}
+{"t": "2026-11-28 23:07:29 WIB", "mint": "856eo2Q9FRC5Wb9GxAFpUR4SdaHiod3bP6Z6bGbopump", "sym": "SANTA", "reason": "vol1h 3767<40k"}
