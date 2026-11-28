@@ -15097,3 +15097,7 @@
 {"t": "2026-11-28 22:00:59 WIB", "mint": "GDUL9Nor761zu3m6azcUiaLruwReAYG7jTppgGiWpump", "sym": "FIX6900", "reason": "vol1h 34963<40k"}
 {"t": "2026-11-28 22:02:31 WIB", "mint": "Cek7GapLWHSraLUd3wXdoGmX1mkYpVf3vPeREcTipump", "sym": "SLAPCAT", "reason": "vol1h 1769<40k"}
 {"t": "2026-11-28 22:03:17 WIB", "mint": "5qDeCs9MkTAhk6q76XvKrZgimoQdJowuSWbjSZKvpump", "sym": "Bagwork", "reason": "vol1h 5695<40k"}
+{"t": "2026-11-28 22:05:54 WIB", "mint": "6sZYmvbTzXyLe7jr2om3Vmo6UPryLmQUko1Hgj89pump", "sym": "Bedlington", "reason": "rugcheck data unavailable"}
+{"t": "2026-11-28 22:06:41 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "vol1h 4<40k"}
+{"t": "2026-11-28 22:06:43 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "score 0.442<0.6"}
+{"t": "2026-11-28 22:06:45 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 1698<40k"}
