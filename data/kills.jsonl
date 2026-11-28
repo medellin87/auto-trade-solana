@@ -1,5 +1,3 @@
-{"t": "2026-11-28 17:01:50 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "liq 2045<20k"}
-{"t": "2026-11-28 17:01:52 WIB", "mint": "A7xhY12G388pXGsBuweS6NkyZyv53ogH1dNfEkCMpump", "sym": "ascend", "reason": "vol1h 2016<40k"}
 {"t": "2026-11-28 17:01:53 WIB", "mint": "ArrsHWAybe2qPLwMFpmcxf5GaT19ZQJ7bnPSyKhJFsEt", "sym": "gondola", "reason": "vol1h 8<40k"}
 {"t": "2026-11-28 17:01:55 WIB", "mint": "EqaMtkdjUAHubn2Xn3vMrCCtjz8XQZ5xVDHPn4phpump", "sym": "REP", "reason": "vol1h 543<40k"}
 {"t": "2026-11-28 17:01:57 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "score 0.495<0.6"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-28 17:18:19 WIB", "mint": "EjdrRG2si1FQ3Bme5g6WSYNHJDrsKUrbGB4Z5xaopump", "sym": "SPSC", "reason": "score 0.268<0.6"}
 {"t": "2026-11-28 17:18:20 WIB", "mint": "FUBkCysQKpguKCdLVeMmubFh8fuLi5qKKiJYpqDcpump", "sym": "PIDGECOIN", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 17:18:22 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 3756<40k"}
+{"t": "2026-11-28 17:19:08 WIB", "mint": "E8UGPD9dx8Ezzt83Xi37Eh4HHzPWn2WPqfbg21NNpump", "sym": "MACH", "reason": "vol1h 669<40k"}
+{"t": "2026-11-28 17:19:10 WIB", "mint": "2GqU5XmeXxkkAUWNFYGJSsj9vWup3bybVmRCNz13pump", "sym": "KTYPRN", "reason": "vol1h 164<40k"}
