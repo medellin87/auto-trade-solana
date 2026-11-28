@@ -1,5 +1,3 @@
-{"t": "2026-11-28 15:55:19 WIB", "mint": "3WsqUNArNSh5pYt6eTKbQ7uUJDgkPtFEA2XFvdEWpump", "sym": "ZERO", "reason": "vol1h 0<40k"}
-{"t": "2026-11-28 15:55:20 WIB", "mint": "B29od4bd54VAVAqJFToRKkKJadUGK5v8pkAVb5uvpump", "sym": "USD1", "reason": "liq 16700<20k"}
 {"t": "2026-11-28 15:56:52 WIB", "mint": "Ab4YRbH4bPwsi4EykXZL2nzo4SiZXtgpPDdDVcPLpump", "sym": "twin", "reason": "vol1h 5084<40k"}
 {"t": "2026-11-28 15:58:24 WIB", "mint": "9sogyryhrdDKjZvizHPsevJ4GEGzN76Y2bGpF5WEpump", "sym": "online", "reason": "vol1h 85<40k"}
 {"t": "2026-11-28 15:58:25 WIB", "mint": "66WtdGBwzHL1kJodjvhWUj1Uo3UycFVRhLWQ96uwpump", "sym": "COMMODITY", "reason": "vol1h 7<40k"}
@@ -28,3 +26,5 @@
 {"t": "2026-11-28 16:11:07 WIB", "mint": "BukpdtkjwyEZSyVaXZoPyv7qKLKuybkZDt5AFJpipump", "sym": "conjectures", "reason": "vol1h 1<40k"}
 {"t": "2026-11-28 16:11:53 WIB", "mint": "6C9r2gzu8Pr54hTevHo3x5gSj9JqtpApj7obJnrtpump", "sym": "ROCKET", "reason": "vol1h 705<40k"}
 {"t": "2026-11-28 16:13:25 WIB", "mint": "F82MdJHkpFYW9kbokK9wq2xXYnB4BTkCYaWEi3WTpump", "sym": "vice", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 16:14:12 WIB", "mint": "HmGQsYJyeiWrV6jABUY2Cb3bEmVxwk6LzVxCchsCpump", "sym": "WLFI", "reason": "score 0.542<0.6"}
+{"t": "2026-11-28 16:15:44 WIB", "mint": "9QWaXqTJ8VxKwbxP3T36vdpXDv1SPEEEUCzxhm8Mpump", "sym": "Groo", "reason": "vol1h 0<40k"}
