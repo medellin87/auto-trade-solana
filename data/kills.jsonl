@@ -1,8 +1,3 @@
-{"t": "2026-11-28 15:31:09 WIB", "mint": "4HEfa8ytHJk75E4qdThEbtNdyGRg2qfQHMo8nu2Cpump", "sym": "WLFI", "reason": "vol1h 0<40k"}
-{"t": "2026-11-28 15:31:10 WIB", "mint": "GggaHk9atb7LYq16S2X6FwjQdZT8D8YQ6vydeosgFGtg", "sym": "CI", "reason": "vol1h 14447<40k"}
-{"t": "2026-11-28 15:31:57 WIB", "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "sym": "Rizzmas", "reason": "vol1h 588<40k"}
-{"t": "2026-11-28 15:32:43 WIB", "mint": "FK7bc3fR8UL8uogN2u8J9yEpEbQJKR7yKsp3G8rvpump", "sym": "hacked", "reason": "vol1h 1148<40k"}
-{"t": "2026-11-28 15:34:15 WIB", "mint": "DXLE6M12GsJW23aTU2VpZeJcgQ8rwTwQbzmDKvMSpump", "sym": "USD2", "reason": "vol1h 27039<40k"}
 {"t": "2026-11-28 15:35:02 WIB", "mint": "28FHuD54DEmcVkrUCLZZLqKPUAFZ5TrCuH8d2gfopump", "sym": "bob", "reason": "vol1h 15<40k"}
 {"t": "2026-11-28 15:37:18 WIB", "mint": "FgGYazS7QTmuQYK8M4k2EC1xfsD62aJweKHvcYPBpump", "sym": "BFC", "reason": "vol1h 11032<40k"}
 {"t": "2026-11-28 15:37:20 WIB", "mint": "2g3NFpebwCV6Abz7AhmVC4xmsaczQXbqxHV4Khy4pump", "sym": "SHELF", "reason": "vol1h 0<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-28 15:51:24 WIB", "mint": "F3HApvwPahFZmmAMQ8Vp4yqzFs2bihT9mjm2NwGKpump", "sym": "1", "reason": "vol1h 4<40k"}
 {"t": "2026-11-28 15:52:10 WIB", "mint": "3TVLUzjnS9gyf4pdoUweexbaGpfLuakA4goEygznpump", "sym": "GBl", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 15:52:12 WIB", "mint": "7XSYaJygcuNe6Q3kPvwsJpg4ZrFL1AEUFb8kCuzppump", "sym": "Kibo", "reason": "vol1h 6088<40k"}
+{"t": "2026-11-28 15:52:58 WIB", "mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump", "sym": "CBUCKS", "reason": "vol1h 2054<40k"}
+{"t": "2026-11-28 15:54:30 WIB", "mint": "8N6WF11pLUUeUu8b1HbnDJHTzyL4bbr8YRdPS6Znpump", "sym": "PRISMEICE", "reason": "vol1h 2<40k"}
+{"t": "2026-11-28 15:54:32 WIB", "mint": "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump", "sym": "Fireball", "reason": "score 0.323<0.6"}
+{"t": "2026-11-28 15:55:19 WIB", "mint": "3WsqUNArNSh5pYt6eTKbQ7uUJDgkPtFEA2XFvdEWpump", "sym": "ZERO", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 15:55:20 WIB", "mint": "B29od4bd54VAVAqJFToRKkKJadUGK5v8pkAVb5uvpump", "sym": "USD1", "reason": "liq 16700<20k"}
