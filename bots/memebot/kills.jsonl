@@ -19832,3 +19832,9 @@
 {"t": "2026-11-28 19:07:47 WIB", "mint": "DXLE6M12GsJW23aTU2VpZeJcgQ8rwTwQbzmDKvMSpump", "sym": "USD2", "reason": "vol1h 576<40k"}
 {"t": "2026-11-28 19:07:49 WIB", "mint": "ANxUJcRwevw9xcWMQNrwgpzcdeSgXzNq6hLUxGG3pump", "sym": "OKOWARE", "reason": "liq 12246<20k"}
 {"t": "2026-11-28 19:08:35 WIB", "mint": "28FHuD54DEmcVkrUCLZZLqKPUAFZ5TrCuH8d2gfopump", "sym": "bob", "reason": "vol1h 6<40k"}
+{"t": "2026-11-28 19:10:52 WIB", "mint": "2g3NFpebwCV6Abz7AhmVC4xmsaczQXbqxHV4Khy4pump", "sym": "SHELF", "reason": "vol1h 177<40k"}
+{"t": "2026-11-28 19:10:54 WIB", "mint": "GhgALX7p6wNbxBsyrWiyN4UEw4mddux85fSzLdpJpump", "sym": "RECRUIT", "reason": "vol1h 863<40k"}
+{"t": "2026-11-28 19:11:40 WIB", "mint": "856eo2Q9FRC5Wb9GxAFpUR4SdaHiod3bP6Z6bGbopump", "sym": "SANTA", "reason": "vol1h 2250<40k"}
+{"t": "2026-11-28 19:11:42 WIB", "mint": "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump", "sym": "Fireball", "reason": "score 0.418<0.6"}
+{"t": "2026-11-28 19:11:44 WIB", "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump", "sym": "Snowball", "reason": "vol1h 15093<40k"}
+{"t": "2026-11-28 19:11:45 WIB", "mint": "8i2ssMZBaS3HShu5hoDEV4tVLf5RGXeNJnK3LNTHTH9e", "sym": "COMM", "reason": "vol1h 14976<40k"}
