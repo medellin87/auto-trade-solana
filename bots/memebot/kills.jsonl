@@ -18844,3 +18844,5 @@
 {"t": "2026-11-28 08:17:49 WIB", "mint": "CLcFahnBEHLhpMKhTore2mcMrzqssMRQdT5LGAkGU2sE", "sym": "POWERBALL", "reason": "liq 0<20k"}
 {"t": "2026-11-28 08:17:51 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 8741<40k"}
 {"t": "2026-11-28 08:18:37 WIB", "mint": "FfpFYBVWHHHmAvh67A1xrQxZNGvURSvMzUjyFNPfLoat", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-28 08:19:24 WIB", "mint": "8CbCH51PziZKvD1k9M9qy24CqfkmNSiprRjT14xNQTZT", "sym": "ETHEREM", "reason": "liq 9781<20k"}
+{"t": "2026-11-28 08:22:26 WIB", "mint": "CnBnq2K5PYGoV22AWQ7KKyDZT9qKLbPFzpMGRTLfpump", "sym": "GIANT", "reason": "vol1h 0<40k"}
