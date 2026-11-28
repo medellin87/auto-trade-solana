@@ -15328,3 +15328,10 @@
 {"t": "2026-11-29 00:41:50 WIB", "mint": "D93retv2ARUMciip7EA4rUWtu653QhjQKCkni1FPpump", "sym": "ATTN", "reason": "liq 7074<20k"}
 {"t": "2026-11-29 00:43:22 WIB", "mint": "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump", "sym": "WINSTON", "reason": "vol1h 2688<40k"}
 {"t": "2026-11-29 00:43:23 WIB", "mint": "EF7iP69oAhncuRYB2zEXLqN7dymM566XvZm85pjBtJWB", "sym": "Ray", "reason": "vol1h 0<40k"}
+{"t": "2026-11-29 00:44:55 WIB", "mint": "CzG2i96mBNQxb8RpayfcuhPAXnaNy5dEtiemJaeKpump", "sym": "P=NP", "reason": "liq 13631<20k"}
+{"t": "2026-11-29 00:44:57 WIB", "mint": "GiUpEeH93E5J5gQvgjB8v6rKx1guaPR7ZU2eaSppTx9Q", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-29 00:45:43 WIB", "mint": "GPqw7AfgGhJ7X3ETz4P6mWDKG7eed4pjeQYVb5Nshidd", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-29 00:46:30 WIB", "mint": "F1aGWw6nDzqVYig3zpkALMgwX6PpoDRjfjoyShYdpump", "sym": "MoonGirl", "reason": "vol1h 22559<40k"}
+{"t": "2026-11-29 00:46:31 WIB", "mint": "AvvXpCVph4PtJ5urfhetPkdZYh8o4uW7CawUA2MK8hFT", "sym": "STEADY", "reason": "vol1h 37417<40k"}
+{"t": "2026-11-29 00:47:33 WIB", "mint": "6yiZmaeQSW3FUHYjqtzZFNSM6Xy4zJ89XeQRcg6mpump", "sym": "TIMMY", "reason": "rugcheck data unavailable"}
+{"t": "2026-11-29 00:47:35 WIB", "mint": "A6tuVRQaWWkXoPzE7SQry3YK995tJVt4NdgduQuBpump", "sym": "SANTA", "reason": "vol1h 306<40k"}
