@@ -1,6 +1,3 @@
-{"t": "2026-11-28 21:19:56 WIB", "mint": "3JfzkFiB95EY8ZvE3TtsKQcQ4Sf2M1SMzZKu1JNwkoqw", "sym": "Hachiware", "reason": "vol1h 1074<40k"}
-{"t": "2026-11-28 21:21:28 WIB", "mint": "4qnvryLCPUQ1kLZMsK44Ra2H19tRGzijbbhfDmSLpump", "sym": "hold", "reason": "liq 1476<20k"}
-{"t": "2026-11-28 21:22:15 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1186<40k"}
 {"t": "2026-11-28 21:22:16 WIB", "mint": "5jjJWZfTTaZtG74zSpiEZbMBHNM2jieHEXM2UZvapump", "sym": "GROKSIE", "reason": "liq 0<20k"}
 {"t": "2026-11-28 21:22:18 WIB", "mint": "6W3H5nEzuLUpTbcMrhRfMiDPCZ4QuBmZPBkeAMzypump", "sym": "wizardcat", "reason": "vol1h 1540<40k"}
 {"t": "2026-11-28 21:23:25 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "rugcheck data unavailable"}
@@ -28,3 +25,6 @@
 {"t": "2026-11-28 21:36:01 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "vol1h 11<40k"}
 {"t": "2026-11-28 21:36:12 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "rugcheck data unavailable"}
 {"t": "2026-11-28 21:36:14 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 1712<40k"}
+{"t": "2026-11-28 21:38:31 WIB", "mint": "Crx6zQNJhkN4wJpUsUTnTKyYXEP5ChcSeoULzfQiMz3q", "sym": "smol", "reason": "vol1h 9525<40k"}
+{"t": "2026-11-28 21:38:32 WIB", "mint": "FK7bc3fR8UL8uogN2u8J9yEpEbQJKR7yKsp3G8rvpump", "sym": "hacked", "reason": "vol1h 2071<40k"}
+{"t": "2026-11-28 21:40:04 WIB", "mint": "ANxUJcRwevw9xcWMQNrwgpzcdeSgXzNq6hLUxGG3pump", "sym": "OKOWARE", "reason": "vol1h 18757<40k"}
