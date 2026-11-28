@@ -15416,3 +15416,12 @@
 {"t": "2026-11-29 01:45:12 WIB", "mint": "CQpb2WSz3GiS3geRyxukRrE1DyxxV8XBFwCaWuNwpump", "sym": "ZK6900", "reason": "rugcheck data unavailable"}
 {"t": "2026-11-29 01:45:59 WIB", "mint": "CzG2i96mBNQxb8RpayfcuhPAXnaNy5dEtiemJaeKpump", "sym": "P=NP", "reason": "vol1h 29105<40k"}
 {"t": "2026-11-29 01:46:00 WIB", "mint": "GiUpEeH93E5J5gQvgjB8v6rKx1guaPR7ZU2eaSppTx9Q", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-29 01:46:47 WIB", "mint": "GPqw7AfgGhJ7X3ETz4P6mWDKG7eed4pjeQYVb5Nshidd", "sym": "HIDD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-29 01:47:34 WIB", "mint": "F1aGWw6nDzqVYig3zpkALMgwX6PpoDRjfjoyShYdpump", "sym": "MoonGirl", "reason": "vol1h 3988<40k"}
+{"t": "2026-11-29 01:47:35 WIB", "mint": "AvvXpCVph4PtJ5urfhetPkdZYh8o4uW7CawUA2MK8hFT", "sym": "STEADY", "reason": "vol1h 28573<40k"}
+{"t": "2026-11-29 01:48:22 WIB", "mint": "6yiZmaeQSW3FUHYjqtzZFNSM6Xy4zJ89XeQRcg6mpump", "sym": "TIMMY", "reason": "vol1h 35891<40k"}
+{"t": "2026-11-29 01:48:24 WIB", "mint": "A6tuVRQaWWkXoPzE7SQry3YK995tJVt4NdgduQuBpump", "sym": "SANTA", "reason": "vol1h 561<40k"}
+{"t": "2026-11-29 01:49:10 WIB", "mint": "HLBmCeQtLXomAzb8FXF4s2hKqNN39Rj5dA7TLfLLpump", "sym": "SLAB", "reason": "liq 0<20k"}
+{"t": "2026-11-29 01:49:12 WIB", "mint": "8GtGDshohaYFsUaZGeVAS2i7Zgm3W537DrGtoVAbVM6u", "sym": "NYX", "reason": "vol1h 0<40k"}
+{"t": "2026-11-29 01:49:13 WIB", "mint": "3rVr2RBzEXXKf1cVvZ6HBvFg2XmBK4iMgZv9q9q4pump", "sym": "RICE", "reason": "vol1h 1146<40k"}
+{"t": "2026-11-29 01:49:15 WIB", "mint": "J1Fcxcd7zC272nDxLtD5Ta5iFAM2dDhXaA8GFFFzqzyD", "sym": "PAIRLESS", "reason": "liq 0<20k"}
