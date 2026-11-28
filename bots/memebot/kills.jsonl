@@ -19212,3 +19212,9 @@
 {"t": "2026-11-28 12:16:00 WIB", "mint": "8vRpccP2dRn8mpwCQGJTsmDPxbroxXHdsvXzoQ8Hpump", "sym": "Scheme", "reason": "liq 0<20k"}
 {"t": "2026-11-28 12:18:16 WIB", "mint": "3TVLUzjnS9gyf4pdoUweexbaGpfLuakA4goEygznpump", "sym": "GBl", "reason": "vol1h 145<40k"}
 {"t": "2026-11-28 12:18:18 WIB", "mint": "64MWN63e19qaw2HEecX6btUJSSbWwZgrw74bjFVVpump", "sym": "LLD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 12:19:49 WIB", "mint": "AEDu1VnpNa6xPcWg6ZEqomA45nWzUBdo7VDqTpCPpump", "sym": "boco", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 12:20:36 WIB", "mint": "8N6WF11pLUUeUu8b1HbnDJHTzyL4bbr8YRdPS6Znpump", "sym": "PRISMEICE", "reason": "liq 1927<20k"}
+{"t": "2026-11-28 12:20:38 WIB", "mint": "B9wbjDJ4FbHMsZmoXAkJSTAwuePaJUKbySvnK5zApump", "sym": "Fireball", "reason": "score 0.393<0.6"}
+{"t": "2026-11-28 12:20:40 WIB", "mint": "BRRktKPa8m4dMrQ1fT6fLJABQjYUqLaEhPuMHxUvpump", "sym": "JEFFLE", "reason": "vol1h 33163<40k"}
+{"t": "2026-11-28 12:21:26 WIB", "mint": "3WsqUNArNSh5pYt6eTKbQ7uUJDgkPtFEA2XFvdEWpump", "sym": "ZERO", "reason": "vol1h 17<40k"}
+{"t": "2026-11-28 12:22:13 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 1317<40k"}
