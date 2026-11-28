@@ -19634,3 +19634,6 @@
 {"t": "2026-11-28 17:01:57 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "score 0.495<0.6"}
 {"t": "2026-11-28 17:02:43 WIB", "mint": "4HEfa8ytHJk75E4qdThEbtNdyGRg2qfQHMo8nu2Cpump", "sym": "WLFI", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 17:02:45 WIB", "mint": "GggaHk9atb7LYq16S2X6FwjQdZT8D8YQ6vydeosgFGtg", "sym": "CI", "reason": "vol1h 3993<40k"}
+{"t": "2026-11-28 17:03:31 WIB", "mint": "85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg", "sym": "Rizzmas", "reason": "vol1h 1602<40k"}
+{"t": "2026-11-28 17:04:18 WIB", "mint": "FK7bc3fR8UL8uogN2u8J9yEpEbQJKR7yKsp3G8rvpump", "sym": "hacked", "reason": "vol1h 1720<40k"}
+{"t": "2026-11-28 17:05:50 WIB", "mint": "DXLE6M12GsJW23aTU2VpZeJcgQ8rwTwQbzmDKvMSpump", "sym": "USD2", "reason": "vol1h 3790<40k"}
