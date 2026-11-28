@@ -18768,3 +18768,8 @@
 {"t": "2026-11-28 07:29:48 WIB", "mint": "14SsX1H9qge5qE3MeQK87hygFkmHBQnHxJEHgXkspump", "sym": "Midcurve", "reason": "vol1h 24816<40k"}
 {"t": "2026-11-28 07:29:50 WIB", "mint": "856eo2Q9FRC5Wb9GxAFpUR4SdaHiod3bP6Z6bGbopump", "sym": "SANTA", "reason": "vol1h 22066<40k"}
 {"t": "2026-11-28 07:29:51 WIB", "mint": "CLFWsFgDZ4DUcoD7JfkbQSJNaUTrZe5oUw4tTPERpump", "sym": "BABYCATE", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 07:30:38 WIB", "mint": "DzYW58eZjEjARJ8R9xLT7E7mnnFZC7pztrNpiCbBborn", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-28 07:31:25 WIB", "mint": "5TkyHpVZCnuW6w21q6mvFQ2Fgyvq3KySHJqfuki9pump", "sym": "Hyperball", "reason": "liq 12803<20k"}
+{"t": "2026-11-28 07:31:26 WIB", "mint": "6DmC5KR6DF62Gfz5oe8uVkNFrQb5N3kdXpKswA7pump", "sym": "SPEC", "reason": "vol1h 8183<40k"}
+{"t": "2026-11-28 07:32:13 WIB", "mint": "81ijK2haeYqqjnoiPTtBMS9CBt2ThCcvdB6N3rQEpump", "sym": "Clout", "reason": "liq 0<20k"}
+{"t": "2026-11-28 07:33:00 WIB", "mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump", "sym": "JOB", "reason": "score 0.524<0.6"}
