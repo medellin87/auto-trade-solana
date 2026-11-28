@@ -15142,3 +15142,5 @@
 {"t": "2026-11-28 22:30:35 WIB", "mint": "q9VM1LRTCB7P7TNLRKyZJUPtdoH3e9FRuVFyY9Xpump", "sym": "nothing", "reason": "liq 17258<20k"}
 {"t": "2026-11-28 22:30:37 WIB", "mint": "8N6WF11pLUUeUu8b1HbnDJHTzyL4bbr8YRdPS6Znpump", "sym": "PRISMEICE", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 22:31:23 WIB", "mint": "GDUL9Nor761zu3m6azcUiaLruwReAYG7jTppgGiWpump", "sym": "FIX6900", "reason": "vol1h 8690<40k"}
+{"t": "2026-11-28 22:33:40 WIB", "mint": "Cfmo6asAsZFx6GGQvAt4Ajxn8hN6vgWGpaSrjQKRpump", "sym": "MARS", "reason": "vol1h 32834<40k"}
+{"t": "2026-11-28 22:33:42 WIB", "mint": "5qDeCs9MkTAhk6q76XvKrZgimoQdJowuSWbjSZKvpump", "sym": "Bagwork", "reason": "vol1h 2156<40k"}
