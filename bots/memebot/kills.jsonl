@@ -15461,3 +15461,12 @@
 {"t": "2026-11-29 02:15:44 WIB", "mint": "GsL7U8YEcFJE2NrQ5mAALjuUm3giPk71WraLAuBCpump", "sym": "nelson", "reason": "liq 18260<20k"}
 {"t": "2026-11-29 02:16:33 WIB", "mint": "CzG2i96mBNQxb8RpayfcuhPAXnaNy5dEtiemJaeKpump", "sym": "P=NP", "reason": "vol1h 14146<40k"}
 {"t": "2026-11-29 02:16:34 WIB", "mint": "GiUpEeH93E5J5gQvgjB8v6rKx1guaPR7ZU2eaSppTx9Q", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-29 02:17:21 WIB", "mint": "GPqw7AfgGhJ7X3ETz4P6mWDKG7eed4pjeQYVb5Nshidd", "sym": "HIDD", "reason": "vol1h 0<40k"}
+{"t": "2026-11-29 02:18:08 WIB", "mint": "F1aGWw6nDzqVYig3zpkALMgwX6PpoDRjfjoyShYdpump", "sym": "MoonGirl", "reason": "vol1h 4604<40k"}
+{"t": "2026-11-29 02:18:10 WIB", "mint": "AvvXpCVph4PtJ5urfhetPkdZYh8o4uW7CawUA2MK8hFT", "sym": "STEADY", "reason": "score 0.562<0.6"}
+{"t": "2026-11-29 02:18:11 WIB", "mint": "C6pZVzryX2ryJjBewypsw9dbdmAMJeTLFqDE5HwApump", "sym": "BUZZ", "reason": "liq 0<20k"}
+{"t": "2026-11-29 02:18:58 WIB", "mint": "6yiZmaeQSW3FUHYjqtzZFNSM6Xy4zJ89XeQRcg6mpump", "sym": "TIMMY", "reason": "vol1h 30269<40k"}
+{"t": "2026-11-29 02:19:45 WIB", "mint": "HLBmCeQtLXomAzb8FXF4s2hKqNN39Rj5dA7TLfLLpump", "sym": "SLAB", "reason": "liq 0<20k"}
+{"t": "2026-11-29 02:19:46 WIB", "mint": "8GtGDshohaYFsUaZGeVAS2i7Zgm3W537DrGtoVAbVM6u", "sym": "NYX", "reason": "vol1h 0<40k"}
+{"t": "2026-11-29 02:19:48 WIB", "mint": "3rVr2RBzEXXKf1cVvZ6HBvFg2XmBK4iMgZv9q9q4pump", "sym": "RICE", "reason": "vol1h 1427<40k"}
+{"t": "2026-11-29 02:19:49 WIB", "mint": "J1Fcxcd7zC272nDxLtD5Ta5iFAM2dDhXaA8GFFFzqzyD", "sym": "PAIRLESS", "reason": "liq 0<20k"}
