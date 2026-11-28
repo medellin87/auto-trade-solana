@@ -19438,3 +19438,7 @@
 {"t": "2026-11-28 14:54:00 WIB", "mint": "3WsqUNArNSh5pYt6eTKbQ7uUJDgkPtFEA2XFvdEWpump", "sym": "ZERO", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 14:54:03 WIB", "mint": "B29od4bd54VAVAqJFToRKkKJadUGK5v8pkAVb5uvpump", "sym": "USD1", "reason": "score 0.564<0.6"}
 {"t": "2026-11-28 14:54:49 WIB", "mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump", "sym": "three", "reason": "vol1h 478<40k"}
+{"t": "2026-11-28 14:57:51 WIB", "mint": "9sogyryhrdDKjZvizHPsevJ4GEGzN76Y2bGpF5WEpump", "sym": "online", "reason": "vol1h 28841<40k"}
+{"t": "2026-11-28 14:57:53 WIB", "mint": "66WtdGBwzHL1kJodjvhWUj1Uo3UycFVRhLWQ96uwpump", "sym": "COMMODITY", "reason": "vol1h 75<40k"}
+{"t": "2026-11-28 14:59:24 WIB", "mint": "CnBnq2K5PYGoV22AWQ7KKyDZT9qKLbPFzpMGRTLfpump", "sym": "GIANT", "reason": "vol1h 20<40k"}
+{"t": "2026-11-28 14:59:26 WIB", "mint": "8Y24KBnY9gaNWDaxohxtEU1gxESvfwdYeGFuHJKpump", "sym": "USD1", "reason": "liq 18327<20k"}
