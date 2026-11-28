@@ -1,4 +1,3 @@
-{"t": "2026-11-28 08:31:08 WIB", "mint": "856eo2Q9FRC5Wb9GxAFpUR4SdaHiod3bP6Z6bGbopump", "sym": "SANTA", "reason": "vol1h 6141<40k"}
 {"t": "2026-11-28 08:31:10 WIB", "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump", "sym": "Snowball", "reason": "score 0.375<0.6"}
 {"t": "2026-11-28 08:31:56 WIB", "mint": "DzYW58eZjEjARJ8R9xLT7E7mnnFZC7pztrNpiCbBborn", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-28 08:32:43 WIB", "mint": "5TkyHpVZCnuW6w21q6mvFQ2Fgyvq3KySHJqfuki9pump", "sym": "Hyperball", "reason": "vol1h 10394<40k"}
@@ -28,3 +27,4 @@
 {"t": "2026-11-28 08:48:27 WIB", "mint": "4un1KFw4bJm9FwVcPN3Hc5AGXYwVgN2tEnK2M4nj8BbV", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-28 08:49:14 WIB", "mint": "FfpFYBVWHHHmAvh67A1xrQxZNGvURSvMzUjyFNPfLoat", "sym": "?", "reason": "no solana pair"}
 {"t": "2026-11-28 08:50:00 WIB", "mint": "8CbCH51PziZKvD1k9M9qy24CqfkmNSiprRjT14xNQTZT", "sym": "ETHEREM", "reason": "liq 12814<20k"}
+{"t": "2026-11-28 08:53:02 WIB", "mint": "CnBnq2K5PYGoV22AWQ7KKyDZT9qKLbPFzpMGRTLfpump", "sym": "GIANT", "reason": "vol1h 0<40k"}
