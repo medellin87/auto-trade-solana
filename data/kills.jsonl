@@ -1,8 +1,3 @@
-{"t": "2026-11-28 22:00:59 WIB", "mint": "GDUL9Nor761zu3m6azcUiaLruwReAYG7jTppgGiWpump", "sym": "FIX6900", "reason": "vol1h 34963<40k"}
-{"t": "2026-11-28 22:02:31 WIB", "mint": "Cek7GapLWHSraLUd3wXdoGmX1mkYpVf3vPeREcTipump", "sym": "SLAPCAT", "reason": "vol1h 1769<40k"}
-{"t": "2026-11-28 22:03:17 WIB", "mint": "5qDeCs9MkTAhk6q76XvKrZgimoQdJowuSWbjSZKvpump", "sym": "Bagwork", "reason": "vol1h 5695<40k"}
-{"t": "2026-11-28 22:05:54 WIB", "mint": "6sZYmvbTzXyLe7jr2om3Vmo6UPryLmQUko1Hgj89pump", "sym": "Bedlington", "reason": "rugcheck data unavailable"}
-{"t": "2026-11-28 22:06:41 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "vol1h 4<40k"}
 {"t": "2026-11-28 22:06:43 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "score 0.442<0.6"}
 {"t": "2026-11-28 22:06:45 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 1698<40k"}
 {"t": "2026-11-28 22:09:02 WIB", "mint": "FK7bc3fR8UL8uogN2u8J9yEpEbQJKR7yKsp3G8rvpump", "sym": "hacked", "reason": "vol1h 4556<40k"}
@@ -28,3 +23,8 @@
 {"t": "2026-11-28 22:23:12 WIB", "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump", "sym": "PumpMas", "reason": "vol1h 1099<40k"}
 {"t": "2026-11-28 22:23:13 WIB", "mint": "5jjJWZfTTaZtG74zSpiEZbMBHNM2jieHEXM2UZvapump", "sym": "GROKSIE", "reason": "liq 15923<20k"}
 {"t": "2026-11-28 22:23:15 WIB", "mint": "6W3H5nEzuLUpTbcMrhRfMiDPCZ4QuBmZPBkeAMzypump", "sym": "wizardcat", "reason": "vol1h 2511<40k"}
+{"t": "2026-11-28 22:24:10 WIB", "mint": "PgFtGGquvnv2zEkjG2N2QPvBTBrafuExGYEqahRpump", "sym": "BRUH", "reason": "rugcheck data unavailable"}
+{"t": "2026-11-28 22:24:12 WIB", "mint": "E8UGPD9dx8Ezzt83Xi37Eh4HHzPWn2WPqfbg21NNpump", "sym": "MACH", "reason": "vol1h 749<40k"}
+{"t": "2026-11-28 22:24:13 WIB", "mint": "2GqU5XmeXxkkAUWNFYGJSsj9vWup3bybVmRCNz13pump", "sym": "KTYPRN", "reason": "vol1h 43<40k"}
+{"t": "2026-11-28 22:25:00 WIB", "mint": "3V8dPY9yH4TSHm11fx6Po7XJ8xPzSjcf8W9Q3QhXpump", "sym": "BNB", "reason": "vol1h 1554<40k"}
+{"t": "2026-11-28 22:25:02 WIB", "mint": "7ACq9bgHPCT33TWC6yaxLX5CfNQBbFachy9xKD7Spump", "sym": "$XMAS", "reason": "vol1h 1038<40k"}
