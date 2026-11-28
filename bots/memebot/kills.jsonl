@@ -19772,3 +19772,11 @@
 {"t": "2026-11-28 18:29:10 WIB", "mint": "GHwNfVmhqEYyzumjbJpoh647zb9RNkrFNMkfdsCeS1MG", "sym": "OUTSIDER", "reason": "liq 0<20k"}
 {"t": "2026-11-28 18:30:42 WIB", "mint": "9sogyryhrdDKjZvizHPsevJ4GEGzN76Y2bGpF5WEpump", "sym": "online", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 18:32:14 WIB", "mint": "8Y24KBnY9gaNWDaxohxtEU1gxESvfwdYeGFuHJKpump", "sym": "USD1", "reason": "vol1h 0<40k"}
+{"t": "2026-11-28 18:33:00 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 2097<40k"}
+{"t": "2026-11-28 18:33:02 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "vol1h 31<40k"}
+{"t": "2026-11-28 18:33:03 WIB", "mint": "A7xhY12G388pXGsBuweS6NkyZyv53ogH1dNfEkCMpump", "sym": "ascend", "reason": "vol1h 102<40k"}
+{"t": "2026-11-28 18:33:05 WIB", "mint": "EqaMtkdjUAHubn2Xn3vMrCCtjz8XQZ5xVDHPn4phpump", "sym": "REP", "reason": "vol1h 150<40k"}
+{"t": "2026-11-28 18:33:17 WIB", "mint": "ATbAsdCwrhhVg23DRnWpjqx6kx7ivoK5o8ysNmu1pump", "sym": "BITCOINU", "reason": "rugcheck data unavailable"}
+{"t": "2026-11-28 18:34:48 WIB", "mint": "57uooyjwYX2kpSGN3QnBLWAwk4KMZYbkp5e8f7i7pump", "sym": "EDITOR", "reason": "vol1h 31448<40k"}
+{"t": "2026-11-28 18:34:50 WIB", "mint": "GggaHk9atb7LYq16S2X6FwjQdZT8D8YQ6vydeosgFGtg", "sym": "CI", "reason": "vol1h 1662<40k"}
+{"t": "2026-11-28 18:34:52 WIB", "mint": "5zhdK5tA8Fz4L74YgYeSAVjjZ2NGTfSmWNYAiWN2pump", "sym": "cheng", "reason": "vol1h 13555<40k"}
