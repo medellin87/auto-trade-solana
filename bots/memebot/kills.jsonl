@@ -18856,3 +18856,11 @@
 {"t": "2026-11-28 08:27:10 WIB", "mint": "52gfZmrZVjq6VhS6nNqN8bAsAL2AiY5aYwopc4Yfpump", "sym": "[insert]", "reason": "vol1h 47<40k"}
 {"t": "2026-11-28 08:27:56 WIB", "mint": "28FHuD54DEmcVkrUCLZZLqKPUAFZ5TrCuH8d2gfopump", "sym": "bob", "reason": "vol1h 75<40k"}
 {"t": "2026-11-28 08:28:43 WIB", "mint": "D1PrXpSRW3zXLW1uaak9BuZ4ZpiXKwTYkZHG681xMB5i", "sym": "GRINCH", "reason": "vol1h 1703<40k"}
+{"t": "2026-11-28 08:30:15 WIB", "mint": "2g3NFpebwCV6Abz7AhmVC4xmsaczQXbqxHV4Khy4pump", "sym": "SHELF", "reason": "vol1h 523<40k"}
+{"t": "2026-11-28 08:30:16 WIB", "mint": "7F5Xamqc5eGTfJZE9EyMiPA5QSNziWua6zL1M1kTpump", "sym": "Crema", "reason": "liq 19139<20k"}
+{"t": "2026-11-28 08:30:18 WIB", "mint": "AYGuBsxYTKUSPKf9vwGqCuGDGVpjj4n2EAgDresBpump", "sym": "TOGI", "reason": "liq 1658<20k"}
+{"t": "2026-11-28 08:31:05 WIB", "mint": "viCEWiReoWxwmRRfGmWmpP1FFdB8Jm8PzZChVJ9dvg6", "sym": "Vicewire", "reason": "liq 15433<20k"}
+{"t": "2026-11-28 08:31:06 WIB", "mint": "14SsX1H9qge5qE3MeQK87hygFkmHBQnHxJEHgXkspump", "sym": "Midcurve", "reason": "vol1h 22626<40k"}
+{"t": "2026-11-28 08:31:08 WIB", "mint": "856eo2Q9FRC5Wb9GxAFpUR4SdaHiod3bP6Z6bGbopump", "sym": "SANTA", "reason": "vol1h 6141<40k"}
+{"t": "2026-11-28 08:31:10 WIB", "mint": "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump", "sym": "Snowball", "reason": "score 0.375<0.6"}
+{"t": "2026-11-28 08:31:56 WIB", "mint": "DzYW58eZjEjARJ8R9xLT7E7mnnFZC7pztrNpiCbBborn", "sym": "?", "reason": "no solana pair"}
