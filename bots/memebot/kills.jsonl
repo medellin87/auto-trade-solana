@@ -15196,3 +15196,7 @@
 {"t": "2026-11-28 23:07:26 WIB", "mint": "WZVWLfThgm14NN8HRDoyiEeXVvdUDMzGMHUS3VLpump", "sym": "FINGART", "reason": "vol1h 0<40k"}
 {"t": "2026-11-28 23:07:27 WIB", "mint": "J25aXtTx91Eg3MNe6P2bP4Qyvu7yYDeEFmRyw3UTpump", "sym": "FLOKIMAS", "reason": "vol1h 5672<40k"}
 {"t": "2026-11-28 23:07:29 WIB", "mint": "856eo2Q9FRC5Wb9GxAFpUR4SdaHiod3bP6Z6bGbopump", "sym": "SANTA", "reason": "vol1h 3767<40k"}
+{"t": "2026-11-28 23:11:16 WIB", "mint": "santCwrMkr8b8Zaqy41bKpYkX5CSfXSAK8ACz42r32f", "sym": "SANTA", "reason": "liq 0<20k"}
+{"t": "2026-11-28 23:12:02 WIB", "mint": "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump", "sym": "WINSTON", "reason": "vol1h 3948<40k"}
+{"t": "2026-11-28 23:12:04 WIB", "mint": "EF7iP69oAhncuRYB2zEXLqN7dymM566XvZm85pjBtJWB", "sym": "?", "reason": "no solana pair"}
+{"t": "2026-11-28 23:12:06 WIB", "mint": "ErMz6VH75F8jHGddJTiZHwimKWQLHr3ioFJfhkGApump", "sym": "burni", "reason": "vol1h 2574<40k"}
